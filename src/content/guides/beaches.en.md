@@ -29,7 +29,7 @@ If you only have a few days, the short answer is: **Lopes Mendes** for the iconi
 |---|---|---|
 | **Lopes Mendes** | Trail (T10+T11) or schooner to Pouso + T11 | The iconic beach, light surf |
 | **Lagoa Azul** | Schooner / speedboat tour | Snorkelling, calm water |
-| **Aventureiro** | Boat, or trail (T9) | Wild, rustic, surf |
+| **Aventureiro** | Boat, or trail (T9) | Wild, rustic, remote |
 | **Dois Rios** | Trail (T14) or boat tour | History + scenery |
 | **Lagoa Verde** | Schooner / speedboat tour | Snorkelling, families |
 | **Palmas** | Trail (T10) | A quiet stop before Lopes Mendes |
@@ -44,7 +44,7 @@ Boats can't land at Lopes Mendes itself. The usual way is a **schooner (escuna) 
 
 ### Aventureiro
 
-The island's most famous *wild* beach, on the exposed south-western side inside the **Reserva Biológica da Praia do Sul**. Aventureiro is rustic and remote — a former fishing community known for strong surf and its iconic wind-bent palm tree leaning over the sand. It's reached by **boat** or by trail (T9 from Provetá), and because it's a protected reserve, visitor numbers and camping are regulated. Come for the raw, off-grid feel, not for beach bars.
+The island's most famous *wild* beach, on the exposed south-western side inside the **Reserva Biológica da Praia do Sul**. Aventureiro is rustic and remote — a former fishing community famous for the iconic wind-bent palm tree leaning over the sand and for its big Atlantic swell. Because it sits inside a strict biological reserve, **surfing is not allowed** here and visitor numbers and camping are regulated. It's reached by **boat** or by trail (T9 from Provetá). Come for the raw, off-grid feel, not for beach bars.
 
 ### Dois Rios
 
@@ -72,16 +72,16 @@ A calm, pretty beach on the **T10 trail** between Abraão and Pouso — a natura
 
 ### Caxadaço
 
-A small, beautiful cove on the south-eastern side near Dois Rios, reached by trail (**T15**) or boat — known for clear water and good snorkelling among the rocks.
+A small, beautiful cove near Dois Rios, reached by trail (**T15**) or boat. It's more than a beach: Caxadaço is also a **viewpoint (mirante)** and a well-known **cliff-jumping** spot into deep, clear water — with good snorkelling among the rocks.
 
 ### Parnaioca
 
-One of the most **remote** beaches, on the southern coast — a former fishing village reached by a long trail (**T16** from Dois Rios) or by boat. Big, wild and almost empty; for travellers who want true solitude.
+One of the most **remote** beaches, on the southern coast — a former fishing village reached by a long trail (**T16** from Dois Rios) or by boat. Big, wild and almost empty; for travellers who want true solitude. There's a simple **campsite** here, so you can pitch a tent and stay the night.
 
 ### Meros
 
-A quiet beach on the western side of the island, near the Provetá/Aventureiro area — peaceful and far from the crowds.
+A quiet beach on the western side of the island, near the Provetá/Aventureiro area — peaceful, far from the crowds, and with good **snorkelling**.
 
 ### Gruta do Acaiá
 
-Not a beach but a striking **sea grotto** at the western tip of the island, reached by boat or the longer western trails (around **T7**). A memorable stop if you're exploring the wilder, far end of Ilha Grande.
+Not a beach but a striking **sea cave**, half-submerged and reachable **only by boat**. Its magic is the light: when the sun hits the entrance at the right angle, the water inside glows an electric blue, while the sea echoes off rock walls sculpted over thousands of years. It's usually visited on a day-tour that also stops at the snorkelling lagoons (**Lagoa Azul**, **Lagoa Verde**) and the quiet cove of Grumixama.
