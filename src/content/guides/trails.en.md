@@ -14,12 +14,12 @@ faq:
   - q: "Which is the best trail for a first visit?"
     a: "Lopes Mendes (for the beach payoff) and the Historic Circuit T1 (easy, full of history) are the two best starting points. Pico do Papagaio is only for fit, prepared hikers."
   - q: "How are the trails marked?"
-    a: "Ilha Grande has a network of numbered trails (the 'T' trails, T1 to T19) maintained within the state park. For example the Historic Circuit is T1, Lopes Mendes follows T10 + T11, Pico do Papagaio is T13 and Dois Rios is T14."
+    a: "Ilha Grande has a network of numbered trails (the 'T' trails, T1 to T16) maintained within the state park. For example the Historic Circuit is T1, Lopes Mendes follows T10 + T11, Pico do Papagaio is T13 and Dois Rios is T14."
   - q: "When should I start walking?"
     a: "Early. Start before 8–10am depending on the trail: it's cooler, you avoid afternoon rain, and you have time to return before dark. The forest gets dark and slippery quickly."
 ---
 
-Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, T1 to T19) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
+Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, T1 to T16) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
 
 Below are the **five trails I'd send any guest on**, from an easy family stroll to a serious all-day climb. For most of them you don't need a guide — just water, decent shoes and an early start. The one real exception is Pico do Papagaio, where a local guide is strongly recommended.
 
@@ -90,9 +90,9 @@ Highlights: the 19th-century **aqueduct**, the **Lazareto ruins** (a quarantine 
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
 
-## The trail network (T1–T19)
+## The trail network (T1–T16)
 
-Ilha Grande has **19 marked trails** (T1 to T19). For reference, here are the main segments with their official distance and walking time — the five hikes above are built from these:
+Ilha Grande has **16 marked trails** (T1 to T16). For reference, here are all of them with their official distance and walking time — the five hikes above are built from these:
 
 | # | Trail | Distance | Time |
 |---|---|---|---|
