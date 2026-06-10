@@ -14,12 +14,12 @@ faq:
   - q: "Which is the best trail for a first visit?"
     a: "Lopes Mendes (for the beach payoff) and the Historic Circuit T1 (easy, full of history) are the two best starting points. Pico do Papagaio is only for fit, prepared hikers."
   - q: "How are the trails marked?"
-    a: "Ilha Grande has a network of numbered trails (the 'T' trails, roughly T1 to T17) maintained within the state park. For example the Historic Circuit is T1, and Lopes Mendes follows T10 and T11."
+    a: "Ilha Grande has a network of numbered trails (the 'T' trails, T1 to T16) maintained within the state park. For example the Historic Circuit is T1, Lopes Mendes follows T10 + T11, Pico do Papagaio is T13 and Dois Rios is T14."
   - q: "When should I start walking?"
     a: "Early. Start before 8–10am depending on the trail: it's cooler, you avoid afternoon rain, and you have time to return before dark. The forest gets dark and slippery quickly."
 ---
 
-Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, roughly T1 to T17) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
+Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, T1 to T16) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
 
 Below are the **five trails I'd send any guest on**, from an easy family stroll to a serious all-day climb. For most of them you don't need a guide — just water, decent shoes and an early start. The one real exception is Pico do Papagaio, where a local guide is strongly recommended.
 
@@ -27,11 +27,11 @@ Below are the **five trails I'd send any guest on**, from an easy family stroll 
 
 | Trail | Distance | Time | Difficulty | Why go | Route |
 |---|---|---|---|---|---|
-| **Lopes Mendes** (T10+T11) | ~7.2 km | 3–4 h | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
-| **Dois Rios** | ~7–9 km | 2–3 h | Moderate | History + a wild beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
-| **Feiticeira** | ~6.4 km | 90 min–2 h | Moderate | Ruins, waterfall, beach | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
-| **Pico do Papagaio** | ~12 km round | 6–8 h | Hard (guide!) | The big summit view | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
-| **Historic Circuit** (T1) | ~3 km | ~2 h | Easy–Moderate | History, easy, family | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608) |
+| **Lopes Mendes** (T10 + T11) | ~6.1 km | ~3.5 h | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
+| **Dois Rios** (T14) | ~7 km | ~2.5 h | Moderate | History + a wild beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
+| **Feiticeira** (T1 + T2) | ~6.4 km | 90 min–2 h | Moderate | Ruins, waterfall, beach | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
+| **Pico do Papagaio** (T13) | ~12 km round | 6–8 h | Hard (guide!) | The big summit view | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
+| **Historic Circuit** (T1) | ~1.8–3 km | 1–2 h | Easy–Moderate | History, easy, family | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608) |
 
 ## Before you go: safety & what to bring
 
@@ -48,13 +48,13 @@ The trails are wonderful but it is still real rainforest. A few things that matt
 
 We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* It's the island's most iconic beach — famous across Brazil and known worldwide — and a perfect full-day plan for almost anyone.
 
-The complete walk follows **T10 then T11**, starting in Abraão and passing through **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and roughly **3 hours** of walking, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
+The complete walk follows **T10** (Abraão → Mangués/Pouso, ~5 km) then **T11** (Pouso → Lopes Mendes, ~1.1 km), passing **Praia de Palmas** on the way. It's about **6.1 km** and roughly **3 to 3.5 hours** one way, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
 ## Dois Rios
 
-The walk to **Praia de Dois Rios** mixes history, nature and a little adventure. On foot it follows the road used by the university (UERJ) vehicles — well signed, about **9 km** (or ~7 km if you take the narrower shortcuts), taking **2–3 hours** through beaches, forest and hills.
+The walk to **Praia de Dois Rios** mixes history, nature and a little adventure. On foot it's trail **T14** (Abraão → Praia de Dois Rios), following the road used by the university (UERJ) vehicles — well signed, about **7 km**, taking around **2.5 hours** through beaches, forest and hills.
 
 At the end you reach an almost-abandoned village, the **museum of the old prison** (the façade of one of Brazil's most infamous jails), university buildings slowly being reclaimed by the forest — and a paradisiacal beach framed by the **two freshwater rivers** that give it its name.
 
@@ -74,7 +74,7 @@ Along the way you pass **Praia Preta** (dark-sand beach), the **Lazareto ruins**
 
 The most sought-after trail on Ilha Grande — and the most demanding. Pico do Papagaio is the island's **second-highest point at 982 m**, just below Pico da Pedra d'Água (1,035 m). From the top, on a clear day, you can see much of the island and the mainland — Restinga da Marambaia, Pedra da Gávea in Rio, even Dedo de Deus in the Serra dos Órgãos.
 
-It's a hard climb: roughly **6 km uphill** through dense forest with rocky, root-tangled sections, and a descent that's no easier — about **12 km and 6–8 hours** round trip.
+It's trail **T13** (Abraão → Pico do Papagaio, ~6 km each way): a hard climb, roughly **6 km uphill** through dense forest with rocky, root-tangled sections, and a descent that's no easier — about **12 km and 6–8 hours** round trip.
 
 > **Hire a local guide.** The forest is dense and it is genuinely easy to get lost here — people have been stranded for days and needed rescue by the fire brigade. There is **no drinking water** on the trail, the summit is exposed, you need good fitness, and camping or fires are not allowed.
 
@@ -82,7 +82,7 @@ It's a hard climb: roughly **6 km uphill** through dense forest with rocky, root
 
 ## Historic Circuit of Vila do Abraão (T1)
 
-The easiest and most accessible walk, perfect if you want the island's history without a hard hike. **T1** starts in the centre of Vila do Abraão, near the main pier, and is mostly flat — about **3 km** and **2 hours**, easy to moderate, good for families.
+The easiest and most accessible walk, perfect if you want the island's history without a hard hike. **T1 (Circuito Abraão)** starts in the centre of Vila do Abraão, near the main pier, and is mostly flat. The core loop is about **1.8 km / ~1 hour**; allow **2–3 hours** if you stop to explore the ruins and Praia Preta. Easy to moderate, good for families.
 
 Highlights: the 19th-century **aqueduct**, the **Lazareto ruins** (a quarantine hospital for immigrants, 1884–1913), traces of the island's darker prison history, and several **viewpoints** over the bay of Abraão and the Atlantic. If you still have energy, T1 connects to **T2** towards the Feiticeira waterfall and beach.
 
