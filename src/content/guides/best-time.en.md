@@ -40,7 +40,7 @@ Peak season. The weather is hot and humid, the sea is at its warmest, and Vila d
 
 ## Autumn · April to June
 
-For many, the **sweet spot**. The heavy summer rains ease off, the days are still warm and the water is still pleasant, but the crowds and prices drop sharply once Carnival is over. Great for hiking, beaches and boat tours without the queues. (Watch out for **Easter** and any long weekends, which bring a short spike.)
+For many, the **sweet spot**. The heavy summer rains ease off, the days are still warm and the water is still pleasant, but the crowds and prices drop sharply once Carnival is over. Great for hiking, beaches and boat tours without the queues. **May** also brings the **XTERRA** off-road triathlon, a draw for active travellers. (Watch out for **Easter** and any long weekends, which bring a short spike.)
 
 ## Winter · June to August
 
@@ -64,9 +64,10 @@ In these periods, accommodation and transfers cost more and sell out, and the po
 
 Beyond the holidays, Vila do Abraão has its own calendar worth timing your trip around (or avoiding, if you want quiet):
 
-- **Réveillon (New Year)** — celebrations to see in the new year.
-- **Festa de São Sebastião** — the traditional patron-saint festival.
-- **Music festival** — a lively summer highlight on the island.
+- **Réveillon (New Year)** — beach celebrations to see in the new year.
+- **Festa de São Sebastião** — the traditional patron-saint festival (January).
+- **XTERRA Ilha Grande** — a tough off-road triathlon (open-water swim, mountain-bike and trail run) held around **May**, part of the international [XTERRA](https://xterrabrasil.com.br/) tour with ranking points towards the World Championship. A magnet for adventurous, active travellers — and a great reason to visit in a quiet month.
+- **Music festival** — on the **first weekend of July**, a lively event hugely popular with Brazilian visitors.
 - **Carnaval** — the biggest party of the year, and very busy.
 
 If you'd rather have the trails and beaches to yourself, plan around these dates; if you want the island at its most festive, plan *for* them — but book early.
