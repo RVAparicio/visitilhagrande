@@ -8,6 +8,11 @@ type UIKey =
   | 'nav_trails'
   | 'nav_beaches'
   | 'skip'
+  | 'contact_name'
+  | 'contact_email'
+  | 'contact_message'
+  | 'contact_send'
+  | 'contact_success'
   | 'faq_title'
   | 'author_prefix'
   | 'author_bio'
@@ -20,6 +25,11 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Trails',
     nav_beaches: 'Beaches',
     skip: 'Skip to content',
+    contact_name: 'Your name',
+    contact_email: 'Your email',
+    contact_message: 'Your message',
+    contact_send: 'Send message',
+    contact_success: 'Thank you — your message has been sent. I’ll get back to you soon.',
     faq_title: 'Frequently asked questions',
     author_prefix: 'Written by',
     author_bio: 'Lives on Ilha Grande · runs Pousada CostaVerde · listed in Lonely Planet',
@@ -32,6 +42,11 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Sentiers',
     nav_beaches: 'Plages',
     skip: 'Aller au contenu',
+    contact_name: 'Votre nom',
+    contact_email: 'Votre e-mail',
+    contact_message: 'Votre message',
+    contact_send: 'Envoyer le message',
+    contact_success: 'Merci — votre message a été envoyé. Je vous répondrai bientôt.',
     faq_title: 'Questions fréquentes',
     author_prefix: 'Écrit par',
     author_bio: 'Vit à Ilha Grande · gère la Pousada CostaVerde · cité dans le Lonely Planet',
@@ -44,6 +59,11 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Trilhas',
     nav_beaches: 'Praias',
     skip: 'Ir para o conteúdo',
+    contact_name: 'Seu nome',
+    contact_email: 'Seu e-mail',
+    contact_message: 'Sua mensagem',
+    contact_send: 'Enviar mensagem',
+    contact_success: 'Obrigado — sua mensagem foi enviada. Retornarei em breve.',
     faq_title: 'Perguntas frequentes',
     author_prefix: 'Escrito por',
     author_bio: 'Mora na Ilha Grande · administra a Pousada CostaVerde · citado no Lonely Planet',
@@ -56,6 +76,11 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Senderos',
     nav_beaches: 'Playas',
     skip: 'Ir al contenido',
+    contact_name: 'Tu nombre',
+    contact_email: 'Tu email',
+    contact_message: 'Tu mensaje',
+    contact_send: 'Enviar mensaje',
+    contact_success: 'Gracias — tu mensaje fue enviado. Te responderé pronto.',
     faq_title: 'Preguntas frecuentes',
     author_prefix: 'Escrito por',
     author_bio: 'Vive en Ilha Grande · gestiona la Pousada CostaVerde · citado en Lonely Planet',

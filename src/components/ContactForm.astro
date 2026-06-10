@@ -1,0 +1,42 @@
+---
+// Formulario de contacto. Envía un POST a /api/contact, que en producción
+// resuelve una Cloudflare Pages Function (functions/api/contact.ts).
+// En local (astro dev) la función no corre — se activa al desplegar.
+import { t } from '../i18n/ui';
+import type { Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+---
+<form class="contact-form" method="POST" action="/api/contact">
+  <p class="contact-success" hidden>{t(lang, 'contact_success')}</p>
+
+  <!-- Honeypot anti-spam: invisible para humanos; los bots lo rellenan -->
+  <input type="text" name="company" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+  <input type="hidden" name="lang" value={lang} />
+
+  <label>
+    <span>{t(lang, 'contact_name')}</span>
+    <input type="text" name="name" required />
+  </label>
+  <label>
+    <span>{t(lang, 'contact_email')}</span>
+    <input type="email" name="email" required />
+  </label>
+  <label>
+    <span>{t(lang, 'contact_message')}</span>
+    <textarea name="message" rows="5" required></textarea>
+  </label>
+
+  <button type="submit">{t(lang, 'contact_send')}</button>
+</form>
+
+<script>
+  if (location.search.includes('sent=1')) {
+    document.querySelector('.contact-success')?.removeAttribute('hidden');
+    document.querySelector('.contact-form')?.scrollIntoView({ behavior: 'smooth' });
+  }
+</script>

@@ -190,6 +190,43 @@ main { display: block; }
 .disclosure { color: var(--c-sand); }
 .footer-meta { color: #9fc1bc; margin: 0.5rem 0 0; }
 
+/* --- Formulario de contacto --- */
+.contact-form { margin: 1.5rem 0 0; max-width: 34rem; }
+.contact-form label { display: block; margin-bottom: 1rem; }
+.contact-form label span {
+  display: block;
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--c-ocean);
+  margin-bottom: 0.3rem;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--c-line);
+  border-radius: var(--radius);
+  background: #fff;
+  color: var(--c-ink);
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: 2px solid var(--c-teal);
+  outline-offset: 1px;
+  border-color: var(--c-teal);
+}
+.contact-form .hp { position: absolute; left: -9999px; width: 1px; height: 1px; }
+.contact-success {
+  background: #e1f3ee;
+  border: 1px solid var(--c-teal);
+  color: var(--c-teal-700);
+  padding: 0.8rem 1rem;
+  border-radius: var(--radius);
+  font-weight: 500;
+}
+
 /* --- Accesibilidad --- */
 .skip-link {
   position: absolute; left: -999px; top: 0;
