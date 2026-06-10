@@ -1,8 +1,14 @@
 ---
 // Plantilla base común a TODAS las páginas del sitio.
 // Centraliza <head>, SEO, hreflang y los datos estructurados globales.
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/inter';
+import '../styles/global.css';
 import Hreflang from '../components/Hreflang.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
 import { localizedPath, locales, type Lang } from '../i18n/config';
+import { t } from '../i18n/ui';
 
 interface Props {
   lang: Lang;
@@ -69,6 +75,11 @@ const jsonLd = {
     ))}
   </head>
   <body>
-    <slot />
+    <a class="skip-link" href="#main">{t(lang, 'skip')}</a>
+    <Header lang={lang} alternates={alts} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer lang={lang} />
   </body>
 </html>

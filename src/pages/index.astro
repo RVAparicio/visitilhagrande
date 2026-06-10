@@ -7,8 +7,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   description="A local, independent travel guide to Ilha Grande, Brazil: how to get there, where to stay, beaches and trails."
   path=""
 >
-  <main>
-    <h1>Welcome to Ilha Grande</h1>
-    <p>This is a placeholder home page in English to validate routing, hreflang and the sitemap.</p>
-  </main>
+  <section class="hero">
+    <div class="hero__inner">
+      <h1>Welcome to Ilha Grande</h1>
+      <p>A car-free island of rainforest, empty beaches and quiet trails — written by someone who actually lives here.</p>
+      <a class="btn" href="/how-to-get-to-ilha-grande/">How to get there</a>
+    </div>
+  </section>
+  <div class="prose">
+    <p>This is a placeholder home page in English. The real welcome copy comes in the content phase. For now it shows the “Mar Profundo” design with its header, language switcher and footer disclosure.</p>
+  </div>
 </BaseLayout>

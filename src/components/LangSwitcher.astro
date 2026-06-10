@@ -1,0 +1,29 @@
+---
+// Selector de idioma. Usa los "alternates" (las versiones equivalentes de
+// ESTA página) para que al cambiar de idioma te quedes en la misma página,
+// no te mande a la home. Resuelve el requisito de mantener translationKey.
+import { localizedPath, type Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+  alternates: { lang: Lang; path: string }[];
+}
+
+const { lang, alternates } = Astro.props;
+const order: Lang[] = ['en', 'fr', 'pt', 'es'];
+const items = order
+  .map((l) => alternates.find((a) => a.lang === l))
+  .filter((a): a is { lang: Lang; path: string } => Boolean(a));
+---
+<nav class="lang-switcher" aria-label="Language">
+  {items.map((a) => (
+    <a
+      href={localizedPath(a.lang, a.path)}
+      hreflang={a.lang}
+      class={a.lang === lang ? 'is-active' : ''}
+      aria-current={a.lang === lang ? 'true' : undefined}
+    >
+      {a.lang.toUpperCase()}
+    </a>
+  ))}
+</nav>

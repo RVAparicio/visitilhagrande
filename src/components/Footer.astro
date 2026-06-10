@@ -1,0 +1,19 @@
+---
+// Footer con el DISCLOSURE de autoría (principio innegociable del brief:
+// transparencia total de quién escribe y mantiene la guía).
+import { t } from '../i18n/ui';
+import type { Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="container">
+    <p class="disclosure">{t(lang, 'footer_disclosure')}</p>
+    <p class="footer-meta">© {year} Visit Ilha Grande</p>
+  </div>
+</footer>

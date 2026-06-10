@@ -5,8 +5,10 @@
 //   FR/PT/ES -> /fr/comment-aller-a-ilha-grande/  (con prefijo de idioma)
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import AuthorBox from '../components/AuthorBox.astro';
 import { getAlternates } from '../lib/content';
 import { localizedPath } from '../i18n/config';
+import { t } from '../i18n/ui';
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides', ({ data }) => !data.draft);
@@ -39,7 +41,6 @@ const schemas: object[] = [
   },
 ];
 
-// Si el artículo trae FAQ, generamos el bloque FAQPage automáticamente.
 if (data.faq && data.faq.length > 0) {
   schemas.push({
     '@context': 'https://schema.org',
@@ -60,15 +61,17 @@ if (data.faq && data.faq.length > 0) {
   alternates={alternates}
   extraSchemas={schemas}
 >
-  <main>
+  <div class="prose">
     <article>
       <h1>{data.title}</h1>
       <Content />
     </article>
 
+    <AuthorBox lang={data.lang} author={data.author} />
+
     {data.faq && data.faq.length > 0 && (
-      <section aria-label="FAQ">
-        <h2>FAQ</h2>
+      <section class="faq" aria-label={t(data.lang, 'faq_title')}>
+        <h2>{t(data.lang, 'faq_title')}</h2>
         {data.faq.map((item) => (
           <details>
             <summary>{item.q}</summary>
@@ -77,5 +80,5 @@ if (data.faq && data.faq.length > 0) {
         ))}
       </section>
     )}
-  </main>
+  </div>
 </BaseLayout>
