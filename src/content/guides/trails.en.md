@@ -87,3 +87,26 @@ The easiest and most accessible walk, perfect if you want the island's history w
 Highlights: the 19th-century **aqueduct**, the **Lazareto ruins** (a quarantine hospital for immigrants, 1884–1913), traces of the island's darker prison history, and several **viewpoints** over the bay of Abraão and the Atlantic. If you still have energy, T1 connects to **T2** towards the Feiticeira waterfall and beach.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
+
+## The full trail network (T1–T16)
+
+For reference, here is the island's complete network of marked trails, with the official distance and walking time of each segment. The five hikes above are built from these:
+
+| # | Trail | Distance | Time |
+|---|---|---|---|
+| T1 | Circuito Abraão | 1,800 m | 1 h |
+| T2 | Aqueduto – Saco do Céu | 5,800 m | 3 h |
+| T3 | Saco do Céu – Freguesia de Sant'Anna | 4,000 m | 2 h |
+| T4 | Freguesia de Sant'Anna – Bananal | 3,000 m | 1 h |
+| T5 | Bananal – Sítio Forte | 5,000 m | 3 h 30 |
+| T6 | Sítio Forte – Praia Grande de Araçatiba | 5,000 m | 3 h 30 |
+| T7 | Praia Grande de Araçatiba – Gruta do Acaiá | 5,300 m | 2 h |
+| T8 | Praia Grande de Araçatiba – Provetá | 4,500 m | 2 h 30 |
+| T9 | Provetá – Aventureiro | 3,500 m | 2 h 30 |
+| T10 | Abraão – Mangués – Pouso | 5,000 m | 2 h 30 |
+| T11 | Mangués – Pouso – Lopes Mendes | 1,100 m | 50 min |
+| T12 | Mangués – Pouso – Farol de Castelhanos | 6,000 m | 3 h |
+| T13 | Abraão – Pico do Papagaio | 6,000 m | 3 h 30 |
+| T14 | Abraão – Praia de Dois Rios | 7,000 m | 2 h 30 |
+| T15 | Praia de Dois Rios – Caxadaço | 4,200 m | 2 h 30 |
+| T16 | Praia de Dois Rios – Parnaioca | 7,500 m | 2 h |

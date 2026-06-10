@@ -209,3 +209,24 @@ img { max-width: 100%; height: auto; }
   text-align: center;
   line-height: 1.5;
 }
+
+/* --- Mapa ilustrado de la isla (rompe más ancho que el texto) --- */
+.island-map {
+  width: min(92vw, 62rem);
+  margin: 2.5rem 50%;
+  transform: translateX(-50%);
+}
+.island-map img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--c-line);
+  display: block;
+}
+.island-map figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.82rem;
+  color: var(--c-muted);
+  text-align: center;
+  line-height: 1.5;
+}

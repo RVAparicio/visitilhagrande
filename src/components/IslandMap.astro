@@ -1,0 +1,38 @@
+---
+// Mapa ilustrado de la isla (creado por Richard).
+// Usa <Picture> de astro:assets: genera AVIF/WebP + tamaños responsivos
+// y comprime el PNG original automáticamente. Carga diferida (lazy).
+import { Picture } from 'astro:assets';
+import islandMap from '../assets/ilha-grande-trail-map.png';
+import type { Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+
+const alt: Record<Lang, string> = {
+  en: 'Illustrated map of Ilha Grande, Brazil, showing the T1 to T16 hiking trails, the main beaches, and the boat routes from Angra dos Reis, Conceição de Jacareí and Mangaratiba to Vila do Abraão.',
+  fr: "Carte illustrée d'Ilha Grande, Brésil, montrant les sentiers de randonnée T1 à T16, les principales plages et les liaisons en bateau depuis Angra dos Reis, Conceição de Jacareí et Mangaratiba vers Vila do Abraão.",
+  pt: 'Mapa ilustrado da Ilha Grande, Brasil, mostrando as trilhas T1 a T16, as principais praias e as rotas de barco de Angra dos Reis, Conceição de Jacareí e Mangaratiba até a Vila do Abraão.',
+  es: 'Mapa ilustrado de Ilha Grande, Brasil, con los senderos T1 a T16, las principales playas y las rutas de barco desde Angra dos Reis, Conceição de Jacareí y Mangaratiba hasta Vila do Abraão.',
+};
+
+const caption: Record<Lang, string> = {
+  en: "Ilha Grande's marked trails (T1–T16), beaches and boat access — illustrated map by visitilhagrande.com.",
+  fr: "Les sentiers balisés d'Ilha Grande (T1–T16), les plages et l'accès en bateau — carte illustrée par visitilhagrande.com.",
+  pt: 'As trilhas sinalizadas da Ilha Grande (T1–T16), praias e acesso de barco — mapa ilustrado por visitilhagrande.com.',
+  es: 'Los senderos señalizados de Ilha Grande (T1–T16), playas y acceso en barco — mapa ilustrado por visitilhagrande.com.',
+};
+---
+<figure class="island-map">
+  <Picture
+    src={islandMap}
+    formats={['avif', 'webp']}
+    alt={alt[lang]}
+    widths={[480, 800, 1200, 1600]}
+    sizes="(min-width: 1000px) 60rem, 92vw"
+    loading="lazy"
+  />
+  <figcaption>{caption[lang]}</figcaption>
+</figure>
