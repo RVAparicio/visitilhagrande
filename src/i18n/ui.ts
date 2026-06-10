@@ -5,6 +5,8 @@ import type { Lang } from './config';
 type UIKey =
   | 'nav_home'
   | 'nav_getting_there'
+  | 'nav_trails'
+  | 'nav_beaches'
   | 'skip'
   | 'faq_title'
   | 'author_prefix'
@@ -15,6 +17,8 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
   en: {
     nav_home: 'Home',
     nav_getting_there: 'Getting there',
+    nav_trails: 'Trails',
+    nav_beaches: 'Beaches',
     skip: 'Skip to content',
     faq_title: 'Frequently asked questions',
     author_prefix: 'Written by',
@@ -25,6 +29,8 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
   fr: {
     nav_home: 'Accueil',
     nav_getting_there: 'Comment venir',
+    nav_trails: 'Sentiers',
+    nav_beaches: 'Plages',
     skip: 'Aller au contenu',
     faq_title: 'Questions fréquentes',
     author_prefix: 'Écrit par',
@@ -35,6 +41,8 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
   pt: {
     nav_home: 'Início',
     nav_getting_there: 'Como chegar',
+    nav_trails: 'Trilhas',
+    nav_beaches: 'Praias',
     skip: 'Ir para o conteúdo',
     faq_title: 'Perguntas frequentes',
     author_prefix: 'Escrito por',
@@ -45,6 +53,8 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
   es: {
     nav_home: 'Inicio',
     nav_getting_there: 'Cómo llegar',
+    nav_trails: 'Senderos',
+    nav_beaches: 'Playas',
     skip: 'Ir al contenido',
     faq_title: 'Preguntas frecuentes',
     author_prefix: 'Escrito por',

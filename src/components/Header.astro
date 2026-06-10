@@ -11,12 +11,24 @@ interface Props {
 const { lang, alternates } = Astro.props;
 const home = localizedPath(lang, '');
 
-// Slug de "cómo llegar" por idioma (se ampliará al sumar las 8 pilares).
+// Slugs de los pilares por idioma (se ampliará al sumar más páginas).
 const gettingThere: Record<Lang, string> = {
   en: 'how-to-get-to-ilha-grande',
   fr: 'comment-aller-a-ilha-grande',
   pt: 'como-chegar-na-ilha-grande',
   es: 'como-llegar-a-ilha-grande',
+};
+const trails: Record<Lang, string> = {
+  en: 'ilha-grande-trails',
+  fr: 'sentiers-ilha-grande',
+  pt: 'trilhas-ilha-grande',
+  es: 'senderos-ilha-grande',
+};
+const beaches: Record<Lang, string> = {
+  en: 'ilha-grande-beaches',
+  fr: 'plages-ilha-grande',
+  pt: 'praias-ilha-grande',
+  es: 'playas-ilha-grande',
 };
 ---
 <header class="site-header">
@@ -25,6 +37,8 @@ const gettingThere: Record<Lang, string> = {
     <nav class="nav" aria-label="Main">
       <a href={home}>{t(lang, 'nav_home')}</a>
       <a href={localizedPath(lang, gettingThere[lang])}>{t(lang, 'nav_getting_there')}</a>
+      <a href={localizedPath(lang, beaches[lang])}>{t(lang, 'nav_beaches')}</a>
+      <a href={localizedPath(lang, trails[lang])}>{t(lang, 'nav_trails')}</a>
     </nav>
     <LangSwitcher lang={lang} alternates={alternates} />
   </div>
