@@ -1,6 +1,7 @@
 ---
 import LangSwitcher from './LangSwitcher.astro';
 import { localizedPath, type Lang } from '../i18n/config';
+import { routes } from '../i18n/routes';
 import { t } from '../i18n/ui';
 
 interface Props {
@@ -10,35 +11,15 @@ interface Props {
 
 const { lang, alternates } = Astro.props;
 const home = localizedPath(lang, '');
-
-// Slugs de los pilares por idioma (se ampliará al sumar más páginas).
-const gettingThere: Record<Lang, string> = {
-  en: 'how-to-get-to-ilha-grande',
-  fr: 'comment-aller-a-ilha-grande',
-  pt: 'como-chegar-na-ilha-grande',
-  es: 'como-llegar-a-ilha-grande',
-};
-const trails: Record<Lang, string> = {
-  en: 'ilha-grande-trails',
-  fr: 'sentiers-ilha-grande',
-  pt: 'trilhas-ilha-grande',
-  es: 'senderos-ilha-grande',
-};
-const beaches: Record<Lang, string> = {
-  en: 'ilha-grande-beaches',
-  fr: 'plages-ilha-grande',
-  pt: 'praias-ilha-grande',
-  es: 'playas-ilha-grande',
-};
 ---
 <header class="site-header">
   <div class="site-header__inner">
     <a class="logo" href={home}>Visit Ilha Grande</a>
     <nav class="nav" aria-label="Main">
       <a href={home}>{t(lang, 'nav_home')}</a>
-      <a href={localizedPath(lang, gettingThere[lang])}>{t(lang, 'nav_getting_there')}</a>
-      <a href={localizedPath(lang, beaches[lang])}>{t(lang, 'nav_beaches')}</a>
-      <a href={localizedPath(lang, trails[lang])}>{t(lang, 'nav_trails')}</a>
+      <a href={localizedPath(lang, routes.gettingThere[lang])}>{t(lang, 'nav_getting_there')}</a>
+      <a href={localizedPath(lang, routes.beaches[lang])}>{t(lang, 'nav_beaches')}</a>
+      <a href={localizedPath(lang, routes.trails[lang])}>{t(lang, 'nav_trails')}</a>
     </nav>
     <LangSwitcher lang={lang} alternates={alternates} />
   </div>

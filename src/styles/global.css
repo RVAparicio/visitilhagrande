@@ -152,7 +152,12 @@ main { display: block; }
   font-family: var(--font-head); font-weight: 600; font-size: 1.3rem;
 }
 .author-box__name { margin: 0; font-weight: 500; color: var(--c-ocean); }
+.author-box__name a { color: var(--c-ocean); text-decoration: none; }
+.author-box__name a:hover { text-decoration: underline; }
 .author-box__bio { margin: 0.15rem 0 0; font-size: 0.92rem; color: var(--c-muted); }
+.author-box__link { margin: 0.35rem 0 0; font-size: 0.9rem; }
+.author-box__link a { color: var(--c-teal-700); text-decoration: none; font-weight: 500; }
+.author-box__link a:hover { text-decoration: underline; }
 
 /* --- FAQ --- */
 .faq { margin-top: 3rem; }
@@ -189,6 +194,7 @@ main { display: block; }
 .site-footer .container { max-width: var(--measure); }
 .disclosure { color: var(--c-sand); }
 .footer-meta { color: #9fc1bc; margin: 0.5rem 0 0; }
+.footer-meta a { color: var(--c-sand); }
 
 /* --- Formulario de contacto --- */
 .contact-form { margin: 1.5rem 0 0; max-width: 34rem; }

@@ -7,6 +7,7 @@ type UIKey =
   | 'nav_getting_there'
   | 'nav_trails'
   | 'nav_beaches'
+  | 'nav_about'
   | 'skip'
   | 'contact_name'
   | 'contact_email'
@@ -24,6 +25,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_getting_there: 'Getting there',
     nav_trails: 'Trails',
     nav_beaches: 'Beaches',
+    nav_about: 'About',
     skip: 'Skip to content',
     contact_name: 'Your name',
     contact_email: 'Your email',
@@ -41,6 +43,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_getting_there: 'Comment venir',
     nav_trails: 'Sentiers',
     nav_beaches: 'Plages',
+    nav_about: 'À propos',
     skip: 'Aller au contenu',
     contact_name: 'Votre nom',
     contact_email: 'Votre e-mail',
@@ -58,6 +61,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_getting_there: 'Como chegar',
     nav_trails: 'Trilhas',
     nav_beaches: 'Praias',
+    nav_about: 'Sobre',
     skip: 'Ir para o conteúdo',
     contact_name: 'Seu nome',
     contact_email: 'Seu e-mail',
@@ -75,6 +79,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_getting_there: 'Cómo llegar',
     nav_trails: 'Senderos',
     nav_beaches: 'Playas',
+    nav_about: 'Acerca de',
     skip: 'Ir al contenido',
     contact_name: 'Tu nombre',
     contact_email: 'Tu email',

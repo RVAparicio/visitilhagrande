@@ -2,7 +2,8 @@
 // Footer con el DISCLOSURE de autoría (principio innegociable del brief:
 // transparencia total de quién escribe y mantiene la guía).
 import { t } from '../i18n/ui';
-import type { Lang } from '../i18n/config';
+import { localizedPath, type Lang } from '../i18n/config';
+import { routes } from '../i18n/routes';
 
 interface Props {
   lang: Lang;
@@ -10,10 +11,13 @@ interface Props {
 
 const { lang } = Astro.props;
 const year = new Date().getFullYear();
+const aboutPath = localizedPath(lang, routes.about[lang]);
 ---
 <footer class="site-footer">
   <div class="container">
     <p class="disclosure">{t(lang, 'footer_disclosure')}</p>
-    <p class="footer-meta">© {year} Visit Ilha Grande</p>
+    <p class="footer-meta">
+      © {year} Visit Ilha Grande · <a href={aboutPath}>{t(lang, 'nav_about')}</a>
+    </p>
   </div>
 </footer>
