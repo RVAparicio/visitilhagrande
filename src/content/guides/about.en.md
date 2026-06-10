@@ -25,7 +25,7 @@ I met my wife in Córdoba, where I was living at the time; she's from Buenos Air
 
 From the start it was easier than we expected. The island welcomed us — even through the pandemic — and with every day we've understood it a little better and blended a little more into its nature. Almost seven years on, this is home.
 
-> Ilha Grande is a mirror sculpted by the wisdom of nature — a place where you finally see *yourself*, not just your material reflection. With so much noise, rush, anxiety, endless wanting and over-stimulation, we forget how to see. Here it's easier to find beauty in simplicity, and perfection in what's natural.
+> Ilha Grande is a mirror sculpted by the wisdom of nature, where you come to see *yourself* for the first time — no longer the mere material reflection. Maybe we don't realise it, but so much noise, so much rush, so much anxiety, so much excessive desire, so much over-stimulation keeps us from seeing the beauty in simplicity and the perfection in what is natural.
 
 ## Why I built this guide
 
