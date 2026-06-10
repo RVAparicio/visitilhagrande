@@ -11,13 +11,27 @@ interface Props {
 
 const { lang } = Astro.props;
 const year = new Date().getFullYear();
-const aboutPath = localizedPath(lang, routes.about[lang]);
+
+const links: { key: Parameters<typeof t>[1]; slug: string }[] = [
+  { key: 'nav_getting_there', slug: routes.gettingThere[lang] },
+  { key: 'nav_beaches', slug: routes.beaches[lang] },
+  { key: 'nav_trails', slug: routes.trails[lang] },
+  { key: 'nav_best_time', slug: routes.bestTime[lang] },
+  { key: 'nav_faq', slug: routes.faq[lang] },
+  { key: 'nav_about', slug: routes.about[lang] },
+];
 ---
 <footer class="site-footer">
   <div class="container">
+    <nav class="footer-nav" aria-label={t(lang, 'footer_explore')}>
+      <p class="footer-nav__title">{t(lang, 'footer_explore')}</p>
+      <ul>
+        {links.map((l) => (
+          <li><a href={localizedPath(lang, l.slug)}>{t(lang, l.key)}</a></li>
+        ))}
+      </ul>
+    </nav>
     <p class="disclosure">{t(lang, 'footer_disclosure')}</p>
-    <p class="footer-meta">
-      © {year} Visit Ilha Grande · <a href={aboutPath}>{t(lang, 'nav_about')}</a>
-    </p>
+    <p class="footer-meta">© {year} Visit Ilha Grande</p>
   </div>
 </footer>

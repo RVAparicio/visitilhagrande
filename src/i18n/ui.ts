@@ -8,6 +8,9 @@ type UIKey =
   | 'nav_trails'
   | 'nav_beaches'
   | 'nav_about'
+  | 'nav_best_time'
+  | 'nav_faq'
+  | 'footer_explore'
   | 'skip'
   | 'contact_name'
   | 'contact_email'
@@ -26,6 +29,9 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Trails',
     nav_beaches: 'Beaches',
     nav_about: 'About',
+    nav_best_time: 'Best time to visit',
+    nav_faq: 'Practical FAQ',
+    footer_explore: 'Explore the guide',
     skip: 'Skip to content',
     contact_name: 'Your name',
     contact_email: 'Your email',
@@ -44,6 +50,9 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Sentiers',
     nav_beaches: 'Plages',
     nav_about: 'À propos',
+    nav_best_time: 'Quand venir',
+    nav_faq: 'Infos pratiques',
+    footer_explore: 'Explorer le guide',
     skip: 'Aller au contenu',
     contact_name: 'Votre nom',
     contact_email: 'Votre e-mail',
@@ -62,6 +71,9 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Trilhas',
     nav_beaches: 'Praias',
     nav_about: 'Sobre',
+    nav_best_time: 'Melhor época',
+    nav_faq: 'Dicas práticas',
+    footer_explore: 'Explore o guia',
     skip: 'Ir para o conteúdo',
     contact_name: 'Seu nome',
     contact_email: 'Seu e-mail',
@@ -80,6 +92,9 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_trails: 'Senderos',
     nav_beaches: 'Playas',
     nav_about: 'Acerca de',
+    nav_best_time: 'Cuándo ir',
+    nav_faq: 'Info práctica',
+    footer_explore: 'Explorá la guía',
     skip: 'Ir al contenido',
     contact_name: 'Tu nombre',
     contact_email: 'Tu email',

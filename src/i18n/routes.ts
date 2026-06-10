@@ -27,6 +27,12 @@ export const routes = {
     pt: 'melhor-epoca-ilha-grande',
     es: 'cuando-visitar-ilha-grande',
   },
+  faq: {
+    en: 'ilha-grande-travel-tips',
+    fr: 'infos-pratiques-ilha-grande',
+    pt: 'dicas-praticas-ilha-grande',
+    es: 'info-practica-ilha-grande',
+  },
   about: {
     en: 'about',
     fr: 'a-propos',
