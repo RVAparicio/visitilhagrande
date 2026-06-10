@@ -8,7 +8,7 @@ updatedDate: 2026-06-10
 author: "Richard"
 faq:
   - q: "What is the best month to visit Ilha Grande?"
-    a: "For the best balance of warm weather, calmer crowds and lower prices, aim for the shoulder months — roughly April to June and September to November. Midweek is always quieter than weekends."
+    a: "For the best balance of warm weather, calmer crowds and lower prices, aim for the shoulder months — roughly April to June and September to November. A local favourite is March: still hot and summery, but after Carnival, when the rains ease and prices drop. Midweek is always quieter than weekends."
   - q: "When is the high season on Ilha Grande?"
     a: "The Brazilian summer holidays: from late December (New Year / Réveillon) through Carnival (February or early March), plus the July winter-holiday weeks. These are the busiest and most expensive times, and long weekends (feriados) get crowded too."
   - q: "Does it rain a lot on Ilha Grande?"
@@ -22,6 +22,8 @@ faq:
 The short answer: the **best time to visit Ilha Grande is the shoulder seasons — roughly April to June and September to November**. You get warm, swimmable water, a good chance of clear days, far fewer people and noticeably lower prices than in peak summer.
 
 The island is busiest and most expensive in the **Brazilian summer holidays** (late December to Carnival) and again in **July**. It's a tropical rainforest island, so the summer is the hottest and liveliest time but also the wettest; the winter (June–August) is drier and calmer but a little cooler. Below is the full picture, season by season.
+
+> **The local's pick: March.** It's still hot and the sea is warm, but the heavy summer rains have eased, Carnival is over and prices have come down — while the island still has its summer energy. For me it's the best mix of warm weather, dry days and good value.
 
 ## At a glance
 
@@ -54,9 +56,20 @@ The pattern is driven by Brazilian holidays more than by weather. Expect peaks a
 
 - **New Year / Réveillon** and **Carnival** (the two biggest)
 - **July** (winter school holidays)
-- **Easter** and **long weekends (feriados)** throughout the year
+- **Easter**, **Corpus Christi**, **Dia dos Namorados** (June), the **Festas Juninas** and **Dia das Crianças** (October) — and other long weekends (*feriados*) through the year
 
 In these periods, accommodation and transfers cost more and sell out, and the popular beaches and boats are full. In the shoulder months, the same island feels calm and is markedly cheaper — and midweek is always quieter than weekends.
+
+## Festivals & events
+
+Beyond the holidays, Vila do Abraão has its own calendar worth timing your trip around (or avoiding, if you want quiet):
+
+- **Réveillon (New Year)** — celebrations to see in the new year.
+- **Festa de São Sebastião** — the traditional patron-saint festival.
+- **Music festival** — a lively summer highlight on the island.
+- **Carnaval** — the biggest party of the year, and very busy.
+
+If you'd rather have the trails and beaches to yourself, plan around these dates; if you want the island at its most festive, plan *for* them — but book early.
 
 ## What the weather means for your trip
 
