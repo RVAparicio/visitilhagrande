@@ -14,7 +14,7 @@ faq:
   - q: "What is the Taxa Viva Angra and how much is it?"
     a: "It's an environmental access fee, paid by QR code. It's R$50 if you have a registered, legal accommodation booked, or R$100 otherwise (roughly €10–20). You pay it when you board the boat to the island, or on disembarking the public ferry. Children, over-60s and residents don't pay — only tourists."
   - q: "Is there mobile signal and Wi-Fi?"
-    a: "Mobile works well, and Claro is by far the best network. Village Wi-Fi is patchy — fine for messaging, but not reliable for serious remote work. If you need to work online, choose a place with Starlink (still uncommon in the village)."
+    a: "Near the coast and the village all three networks (Claro, TIM, Vivo) work, but coverage drops as soon as you head inland or to remoter beaches — so Claro is the only one I'd recommend, by far the most reliable. Village Wi-Fi is patchy: fine for messaging, but not for serious remote work. If you need to work online, choose a place with Starlink (still uncommon in the village)."
   - q: "Are mosquitoes a problem on Ilha Grande?"
     a: "Yes — bring repellent and sunblock, both essential. As well as regular mosquitoes there are 'borrachudos', tiny biting midges on the beaches that leave itchy welts. Dengue exists on the island at times, so cover up at dawn and dusk and use repellent."
   - q: "Is Ilha Grande safe?"
@@ -33,7 +33,7 @@ One thing to budget for: the island is **noticeably more expensive than the main
 
 ## Internet & phone signal
 
-- **Mobile signal** is good, and **Claro** is by far the best network — bring a Claro chip if you can.
+- **Mobile signal:** near the coast and the village, all three networks (Claro, TIM, Vivo) work — but coverage drops the moment you head inland or to remoter beaches. **Claro is the only one I'd recommend**: by far the most reliable, while the others are poor away from the coast. Bring a Claro chip if you can.
 - **Wi-Fi** in the village is so-so: it arrives by radio link and is fine for messaging and planning, but not dependable for serious remote work.
 - If you **need to work online**, choose accommodation with **Starlink**. It's still uncommon in the village (our pousada runs two Starlink antennas), so ask before you book.
 
@@ -45,15 +45,16 @@ Angra dos Reis charges an **environmental access fee**, paid by **QR code**:
 - You pay it **when you board the boat** to the island, or **on disembarking** the public ferry (*barca*).
 - **Children, visitors over 60, and residents don't pay** — only tourists.
 
-Keep the payment confirmation on your phone. (Rates and rules can change, so double-check when you book.)
+You're issued a **QR-code ticket — keep it on your phone**, because you'll need it again **when you leave** the island, not just on arrival. Having your booking confirmation saved helps too. (Rates and rules can change, so double-check when you book.)
 
 ## Drinking water: always bottled, skip the ice
 
 The **tap water isn't safe to drink** — as across Brazil. The island's water actually starts as beautiful spring water from the forest, but the storage, filtering and disinfection along the way are precarious, so don't risk it.
 
 - **Drink bottled water**, and **avoid ice** in soft drinks, juices, *vitaminas* and smoothies — the island's ice is made from the same water.
+- **The one phrase to learn:** *sem gelo* (sounds like "seng JEH-loo") means **"no ice"**. When you order any drink, add *"sem gelo, por favor"* — easily your most useful Portuguese on the island.
 - Brushing your teeth and showering are fine.
-- A local joke with a grain of truth: the one cold drink you can always trust is a **caipirinha** — about a quarter pure cachaça. Said with a wink; the real rule is bottled water and no ice.
+- My own running joke: the one cold drink you can always trust is a **caipirinha** — about a quarter pure cachaça. Said with a wink, of course; the real rule is bottled water and no ice.
 
 ## Health & pharmacies
 
@@ -70,14 +71,16 @@ There are **no cars** on Ilha Grande. Streets are a mix of sand, cobblestones an
 - The **west side** of the village is fully cobbled, so suitcases are manageable there (that's where Pousada CostaVerde is).
 - The **central-east side** is unpaved dirt that **floods when it rains**, making it hard to haul luggage — which is partly why accommodation there is cheaper.
 - The best setup is a **carry-on plus a backpack you can carry yourself**. Fast boats have little luggage space.
+- Hiring a cart to move your bags isn't cheap either — around **R$70–100 per trip**. One more reason to pack light.
 
 ## What to pack
 
 - **Insect repellent** and **sunblock** — non-negotiable
 - **Trekking shoes** (or good-quality sandals for dry days)
-- A **light rain layer or poncho** (some pousadas, including ours, lend ponchos and umbrellas)
+- A **light rain layer or poncho** — bring your own; pousadas here generally don't provide umbrellas or rain gear
 - A **power bank**
 - A **card** (and a little cash as backup)
-- A reusable bottle — buy large bottled water on the island
+- A **good reusable water bottle** — a golden tip: boat tours include unlimited mineral water but serve it in tiny disposable cups, so a refillable bottle saves you money (and thirst)
+- Any **toiletries and personal-care items** you'd find pricey — they cost more on the island, so stock up on the mainland first
 
 For the trails, the boats and the best time to come, see our guides on [getting there](/how-to-get-to-ilha-grande/), the [trails](/ilha-grande-trails/) and the [best time to visit](/best-time-to-visit-ilha-grande/).
