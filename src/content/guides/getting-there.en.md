@@ -82,7 +82,11 @@ Many pousadas in Abraão can pre-book this transfer for you. *(Full disclosure: 
 
 ## From São Paulo
 
-There's no direct boat from São Paulo. The usual route is a **long-distance bus to Angra dos Reis** (or to Paraty, then on to Angra), and from Angra you take a boat to the island following the [Angra route](#from-mangaratiba) below. Plan for a long travel day.
+There's no direct boat from São Paulo, and honestly it's the least convenient starting point. Most people who come this way either take a long bus or — better — spend a couple of days in **Paraty** first and cross from there.
+
+- **By bus:** Viação Reunidas Paulista runs direct buses from the **Tietê** terminal (Metro Portuguesa-Tietê, Blue Line 1) to **Angra dos Reis** — around six a day, roughly 7.5 hours, from about R$80. From the Angra bus terminal it's a short hop to the Santa Luzia pier for the speedboat to Abraão.
+- **Time it right:** the last boats from Angra to the island leave around 17:30–18:00. The clever move is the **overnight bus** (leaves São Paulo ~22:00, reaches Angra ~07:00), so you arrive with a full day to make the crossing.
+- **Via Paraty:** many travellers take a direct bus to **Paraty**, enjoy a day or two, then continue to Angra and across — see [From Paraty](#from-paraty).
 
 ## From Paraty
 
