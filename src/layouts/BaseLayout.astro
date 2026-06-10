@@ -1,0 +1,69 @@
+---
+// Plantilla base común a TODAS las páginas del sitio.
+// Centraliza <head>, SEO, hreflang y los datos estructurados globales.
+import Hreflang from '../components/Hreflang.astro';
+import { localizedPath, locales, type Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  description: string;
+  // Slug lógico de la página actual en su idioma (sin prefijo de idioma).
+  // Ej: 'beaches', 'fr/plages' NO -> solo 'plages'. Para la home: ''.
+  path?: string;
+  // Versiones equivalentes en otros idiomas (para el hreflang).
+  // Si no se pasa, asume mismo slug en los 4 idiomas (sirve para la home).
+  alternates?: { lang: Lang; path: string }[];
+}
+
+const { lang, title, description, path = '', alternates } = Astro.props;
+const site = Astro.site!;
+
+const alts =
+  alternates ?? locales.map((l) => ({ lang: l, path }));
+
+const canonical = new URL(localizedPath(lang, path), site).href;
+
+// JSON-LD global: el sitio (WebSite) y la organización que lo mantiene
+// (la guía, NO la posada). Va en todas las páginas.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${site.origin}/#website`,
+      url: `${site.origin}/`,
+      name: 'Visit Ilha Grande',
+      description: 'Local, multilingual travel guide to Ilha Grande, Brazil.',
+      inLanguage: lang,
+      publisher: { '@id': `${site.origin}/#organization` },
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${site.origin}/#organization`,
+      name: 'Visit Ilha Grande',
+      url: `${site.origin}/`,
+    },
+  ],
+};
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    <Hreflang alternates={alts} />
+
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

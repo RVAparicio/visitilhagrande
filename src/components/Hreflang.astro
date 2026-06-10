@@ -1,0 +1,25 @@
+---
+// Emite las etiquetas <link rel="alternate" hreflang> recíprocas:
+// le dice a Google/IA que esta página existe en varios idiomas y
+// cuáles son sus versiones equivalentes. Incluye x-default -> inglés.
+import { localizedPath, locales, defaultLang, type Lang } from '../i18n/config';
+
+interface Props {
+  // Lista de versiones de ESTA página, una por idioma disponible.
+  // Cada item: { lang, path } donde path es el slug lógico de esa versión.
+  alternates: { lang: Lang; path: string }[];
+}
+
+const { alternates } = Astro.props;
+const site = Astro.site!; // definido en astro.config.mjs
+
+const links = alternates.map(({ lang, path }) => ({
+  lang,
+  href: new URL(localizedPath(lang, path), site).href,
+}));
+
+// x-default apunta a la versión en el idioma por defecto (inglés).
+const xDefault = links.find((l) => l.lang === defaultLang) ?? links[0];
+---
+{links.map((l) => <link rel="alternate" hreflang={l.lang} href={l.href} />)}
+<link rel="alternate" hreflang="x-default" href={xDefault.href} />
