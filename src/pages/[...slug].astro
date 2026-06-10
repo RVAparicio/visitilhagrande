@@ -1,0 +1,81 @@
+---
+// Ruta "catch-all": genera UNA página por cada artículo de la colección
+// `guides`, en cualquiera de los 4 idiomas, desde un solo archivo.
+//   EN     -> /how-to-get-to-ilha-grande/
+//   FR/PT/ES -> /fr/comment-aller-a-ilha-grande/  (con prefijo de idioma)
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAlternates } from '../lib/content';
+import { localizedPath } from '../i18n/config';
+
+export async function getStaticPaths() {
+  const guides = await getCollection('guides', ({ data }) => !data.draft);
+  return guides.map((entry) => {
+    const { lang, slug } = entry.data;
+    const path = lang === 'en' ? slug : `${lang}/${slug}`;
+    return { params: { slug: path }, props: { entry, guides } };
+  });
+}
+
+const { entry, guides } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+
+const alternates = getAlternates(guides, data.translationKey);
+const canonical = new URL(localizedPath(data.lang, data.slug), Astro.site!).href;
+
+// --- Datos estructurados de la página ---
+const schemas: object[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: data.title,
+    description: data.description,
+    inLanguage: data.lang,
+    datePublished: data.updatedDate.toISOString(),
+    dateModified: data.updatedDate.toISOString(),
+    author: { '@type': 'Person', name: data.author },
+    mainEntityOfPage: canonical,
+  },
+];
+
+// Si el artículo trae FAQ, generamos el bloque FAQPage automáticamente.
+if (data.faq && data.faq.length > 0) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: data.faq.map((item) => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
+    })),
+  });
+}
+---
+<BaseLayout
+  lang={data.lang}
+  title={data.title}
+  description={data.description}
+  path={data.slug}
+  alternates={alternates}
+  extraSchemas={schemas}
+>
+  <main>
+    <article>
+      <h1>{data.title}</h1>
+      <Content />
+    </article>
+
+    {data.faq && data.faq.length > 0 && (
+      <section aria-label="FAQ">
+        <h2>FAQ</h2>
+        {data.faq.map((item) => (
+          <details>
+            <summary>{item.q}</summary>
+            <p>{item.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+  </main>
+</BaseLayout>

@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import mdx from '@astrojs/mdx';
 
 // https://astro.build/config
 export default defineConfig({
@@ -20,6 +21,7 @@ export default defineConfig({
   },
 
   integrations: [
+    mdx(),
     sitemap({
       // Hace que el sitemap agrupe las versiones por idioma
       // (<xhtml:link rel="alternate" hreflang>), no como URLs sueltas.

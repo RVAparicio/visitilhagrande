@@ -14,9 +14,11 @@ interface Props {
   // Versiones equivalentes en otros idiomas (para el hreflang).
   // Si no se pasa, asume mismo slug en los 4 idiomas (sirve para la home).
   alternates?: { lang: Lang; path: string }[];
+  // Datos estructurados adicionales de la página (Article, FAQPage, etc.).
+  extraSchemas?: object[];
 }
 
-const { lang, title, description, path = '', alternates } = Astro.props;
+const { lang, title, description, path = '', alternates, extraSchemas = [] } = Astro.props;
 const site = Astro.site!;
 
 const alts =
@@ -62,6 +64,9 @@ const jsonLd = {
     <Hreflang alternates={alts} />
 
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    {extraSchemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
   </head>
   <body>
     <slot />
