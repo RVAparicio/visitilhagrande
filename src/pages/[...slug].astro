@@ -6,6 +6,7 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AuthorBox from '../components/AuthorBox.astro';
+import RouteMap from '../components/RouteMap.astro';
 import { getAlternates } from '../lib/content';
 import { localizedPath } from '../i18n/config';
 import { t } from '../i18n/ui';
@@ -64,6 +65,7 @@ if (data.faq && data.faq.length > 0) {
   <div class="prose">
     <article>
       <h1>{data.title}</h1>
+      {entry.data.translationKey === 'getting-there' && <RouteMap lang={data.lang} />}
       <Content />
     </article>
 

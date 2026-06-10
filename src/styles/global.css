@@ -198,3 +198,14 @@ main { display: block; }
 .skip-link:focus { left: 0; }
 
 img { max-width: 100%; height: auto; }
+
+/* --- Mapa-esquema de rutas --- */
+.route-map { margin: 2rem auto; max-width: 26rem; }
+.route-map svg { width: 100%; height: auto; display: block; border-radius: var(--radius); }
+.route-map figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.82rem;
+  color: var(--c-muted);
+  text-align: center;
+  line-height: 1.5;
+}

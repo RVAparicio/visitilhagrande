@@ -1,0 +1,102 @@
+---
+// Mapa-esquema (SVG inline, liviano) de las rutas hacia Vila do Abraão.
+// No es un mapa a escala: es un diagrama claro de puertos + tiempos de
+// travesía. El texto es <text> real -> accesible y legible por las IA.
+import type { Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+
+const S: Record<Lang, {
+  title: string; desc: string; fromRio: string; fromSP: string; caption: string;
+}> = {
+  en: {
+    title: 'Routes to Ilha Grande',
+    desc: 'Schematic of the three mainland ports and their crossing times to Vila do Abraão.',
+    fromRio: 'from Rio',
+    fromSP: 'from SP / Paraty',
+    caption: 'Not to scale. Speedboat (Flex Boat) from Conceição and Angra; public ferry from Mangaratiba and Angra.',
+  },
+  fr: {
+    title: 'Itinéraires vers Ilha Grande',
+    desc: 'Schéma des trois ports du continent et de leurs durées de traversée vers Vila do Abraão.',
+    fromRio: 'depuis Rio',
+    fromSP: 'depuis SP / Paraty',
+    caption: 'Sans échelle. Vedette (Flex Boat) depuis Conceição et Angra ; ferry public depuis Mangaratiba et Angra.',
+  },
+  pt: {
+    title: 'Rotas para a Ilha Grande',
+    desc: 'Esquema dos três portos do continente e seus tempos de travessia até a Vila do Abraão.',
+    fromRio: 'do Rio',
+    fromSP: 'de SP / Paraty',
+    caption: 'Fora de escala. Lancha (Flex Boat) de Conceição e Angra; barca pública de Mangaratiba e Angra.',
+  },
+  es: {
+    title: 'Rutas a Ilha Grande',
+    desc: 'Esquema de los tres puertos del continente y sus tiempos de travesía a Vila do Abraão.',
+    fromRio: 'desde Río',
+    fromSP: 'desde SP / Paraty',
+    caption: 'Sin escala. Lancha (Flex Boat) desde Conceição y Angra; barca pública desde Mangaratiba y Angra.',
+  },
+};
+const t = S[lang];
+---
+<figure class="route-map">
+  <svg viewBox="0 0 400 470" role="img" aria-labelledby="rm-title rm-desc" xmlns="http://www.w3.org/2000/svg">
+    <title id="rm-title">{t.title}</title>
+    <desc id="rm-desc">{t.desc}</desc>
+
+    <defs>
+      <marker id="rm-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#2BB3A3" />
+      </marker>
+    </defs>
+
+    <!-- Mar (fondo) -->
+    <rect x="0" y="0" width="400" height="470" fill="#0E3A4A" />
+
+    <!-- Continente con costa ondulada -->
+    <path d="M0,0 H400 V146 Q300,162 200,148 Q100,136 0,150 Z" fill="#EFE6D6" />
+
+    <!-- Origenes (tierra, flechas de ruta) -->
+    <text x="356" y="34" text-anchor="end" font-size="12" fill="#16323B" font-style="italic">{t.fromRio}</text>
+    <path d="M352,42 Q330,90 312,124" fill="none" stroke="#8A9AA0" stroke-width="1.5" stroke-dasharray="3 3" />
+    <text x="44" y="34" text-anchor="start" font-size="12" fill="#16323B" font-style="italic">{t.fromSP}</text>
+    <path d="M58,42 Q78,90 96,124" fill="none" stroke="#8A9AA0" stroke-width="1.5" stroke-dasharray="3 3" />
+
+    <!-- Puertos (de derecha=cerca de Rio a izquierda) -->
+    <text x="305" y="116" text-anchor="middle" font-size="12" fill="#16323B">Mangaratiba</text>
+    <circle cx="305" cy="140" r="5" fill="#1B9C8F" stroke="#0E3A4A" stroke-width="1.5" />
+
+    <text x="200" y="104" text-anchor="middle" font-size="12" fill="#16323B">Conceição</text>
+    <text x="200" y="118" text-anchor="middle" font-size="12" fill="#16323B">de Jacareí</text>
+    <circle cx="200" cy="142" r="5" fill="#1B9C8F" stroke="#0E3A4A" stroke-width="1.5" />
+
+    <text x="95" y="116" text-anchor="middle" font-size="12" fill="#16323B">Angra dos Reis</text>
+    <circle cx="95" cy="140" r="5" fill="#1B9C8F" stroke="#0E3A4A" stroke-width="1.5" />
+
+    <!-- Rutas por mar hacia Abraão -->
+    <path d="M305,150 Q285,260 218,352" fill="none" stroke="#2BB3A3" stroke-width="2.5" marker-end="url(#rm-arrow)" />
+    <path d="M200,150 L200,352" fill="none" stroke="#2BB3A3" stroke-width="2.5" marker-end="url(#rm-arrow)" />
+    <path d="M95,150 Q120,260 182,352" fill="none" stroke="#2BB3A3" stroke-width="2.5" marker-end="url(#rm-arrow)" />
+
+    <!-- Píldoras de tiempo -->
+    <g font-size="11" fill="#0E3A4A" text-anchor="middle">
+      <rect x="262" y="238" width="70" height="20" rx="9" fill="#EFE6D6" />
+      <text x="297" y="252">~1h10–1h30</text>
+      <rect x="170" y="198" width="60" height="20" rx="9" fill="#EFE6D6" />
+      <text x="200" y="212">~15 min</text>
+      <rect x="74" y="238" width="74" height="20" rx="9" fill="#EFE6D6" />
+      <text x="111" y="252">~20–30 min</text>
+    </g>
+
+    <!-- Isla -->
+    <ellipse cx="200" cy="398" rx="98" ry="44" fill="#2E7D5B" stroke="#245F46" stroke-width="2" />
+    <circle cx="200" cy="362" r="5" fill="#EFE6D6" stroke="#0E3A4A" stroke-width="1.5" />
+    <text x="200" y="392" text-anchor="middle" font-size="12" fill="#EFE6D6">Vila do Abraão</text>
+    <text x="200" y="414" text-anchor="middle" font-size="14" fill="#EFE6D6" font-weight="600">Ilha Grande</text>
+  </svg>
+  <figcaption>{t.caption}</figcaption>
+</figure>
