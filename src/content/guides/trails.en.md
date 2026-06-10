@@ -14,12 +14,12 @@ faq:
   - q: "Which is the best trail for a first visit?"
     a: "Lopes Mendes (for the beach payoff) and the Historic Circuit T1 (easy, full of history) are the two best starting points. Pico do Papagaio is only for fit, prepared hikers."
   - q: "How are the trails marked?"
-    a: "Ilha Grande has a network of numbered trails (the 'T' trails, T1 to T16) maintained within the state park. For example the Historic Circuit is T1, Lopes Mendes follows T10 + T11, Pico do Papagaio is T13 and Dois Rios is T14."
+    a: "Ilha Grande has a network of numbered trails (the 'T' trails, T1 to T19) maintained within the state park. For example the Historic Circuit is T1, Lopes Mendes follows T10 + T11, Pico do Papagaio is T13 and Dois Rios is T14."
   - q: "When should I start walking?"
     a: "Early. Start before 8–10am depending on the trail: it's cooler, you avoid afternoon rain, and you have time to return before dark. The forest gets dark and slippery quickly."
 ---
 
-Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, T1 to T16) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
+Ilha Grande is, before anything else, a hiking island. There are no cars — just a network of **marked forest trails** (the numbered "T" trails, T1 to T19) that link Vila do Abraão to empty beaches, waterfalls, 19th-century ruins and a 982-metre peak. Almost every walk starts a few minutes from the Abraão pier, and they are all **free**.
 
 Below are the **five trails I'd send any guest on**, from an easy family stroll to a serious all-day climb. For most of them you don't need a guide — just water, decent shoes and an early start. The one real exception is Pico do Papagaio, where a local guide is strongly recommended.
 
@@ -27,7 +27,7 @@ Below are the **five trails I'd send any guest on**, from an easy family stroll 
 
 | Trail | Distance | Time | Difficulty | Why go | Route |
 |---|---|---|---|---|---|
-| **Lopes Mendes** (T10 + T11) | ~6.1 km | ~3.5 h | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
+| **Lopes Mendes** (T10 + T11) | ~7.2 km | 3.5–4 h | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
 | **Dois Rios** (T14) | ~7 km | ~2.5 h | Moderate | History + a wild beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
 | **Feiticeira** (T1 + T2) | ~6.4 km | 90 min–2 h | Moderate | Ruins, waterfall, beach | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
 | **Pico do Papagaio** (T13) | ~12 km round | 6–8 h | Hard (guide!) | The big summit view | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
@@ -48,9 +48,11 @@ The trails are wonderful but it is still real rainforest. A few things that matt
 
 We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* It's the island's most iconic beach — famous across Brazil and known worldwide — and a perfect full-day plan for almost anyone.
 
-The complete walk follows **T10** (Abraão → Mangués/Pouso, ~5 km) then **T11** (Pouso → Lopes Mendes, ~1.1 km), passing **Praia de Palmas** on the way. It's about **6.1 km** and roughly **3 to 3.5 hours** one way, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
+The classic walk follows **T10** then **T11**, starting in Abraão and passing **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and roughly **3.5 to 4 hours** one way, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
+
+**Local tip — the deserted end.** Instead of T11, you can combine **T10 + T12** (about 4 km) and come out at the *far end* of Lopes Mendes — a stretch of beach that almost nobody walks to, so you often have it to yourself. To get back, either return towards Pouso along T12, or walk about 2 km along the sand and return on T11.
 
 ## Dois Rios
 
@@ -88,9 +90,9 @@ Highlights: the 19th-century **aqueduct**, the **Lazareto ruins** (a quarantine 
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
 
-## The full trail network (T1–T16)
+## The trail network (T1–T19)
 
-For reference, here is the island's complete network of marked trails, with the official distance and walking time of each segment. The five hikes above are built from these:
+Ilha Grande has **19 marked trails** (T1 to T19). For reference, here are the main segments with their official distance and walking time — the five hikes above are built from these:
 
 | # | Trail | Distance | Time |
 |---|---|---|---|
