@@ -54,6 +54,28 @@ if (data.faq && data.faq.length > 0) {
     })),
   });
 }
+
+// En la página "About" añadimos un Person (E-E-A-T): le dice a Google/IA
+// que detrás de la guía hay una persona real, residente y con credenciales.
+if (data.translationKey === 'about') {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: data.author,
+    description:
+      'Author of the Visit Ilha Grande travel guide; lives on Ilha Grande and runs Pousada CostaVerde in Vila do Abraão.',
+    url: canonical,
+    homeLocation: {
+      '@type': 'Place',
+      name: 'Ilha Grande, Angra dos Reis, Rio de Janeiro, Brazil',
+    },
+    worksFor: {
+      '@type': 'Organization',
+      name: 'Pousada CostaVerde',
+      url: 'https://pousadacostaverde.com',
+    },
+  });
+}
 ---
 <BaseLayout
   lang={data.lang}
