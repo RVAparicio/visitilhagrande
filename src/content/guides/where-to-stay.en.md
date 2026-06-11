@@ -32,13 +32,15 @@ As a rule: the **closer to the pier**, the more convenient and lively; the **fur
 
 A quick, honest word on prices: like everything on the island, accommodation runs **higher than on the mainland**. Here are real options across three budgets.
 
+**One thing guides my picks:** I choose places **run by their owners**, not by staff. I mean no disrespect to anyone — but when the owners are there, the care is simply different: warmer, more human, more attentive. All three below are owner- or family-run, and you feel it.
+
 ### Budget — MPB
 
-On a tighter budget, **MPB** is a well-known hostel choice in Vila do Abraão — sociable and easy on the wallet, the kind of place to sleep simply, meet other travellers and keep costs down.
+On a tighter budget, **MPB** is the hostel I'd point you to. It's run by its owner, **Sol**, who genuinely looks after both the place and her guests — warm and attentive. It sits a little **tucked away from the bustle**, but that's part of the charm, and the **infrastructure is excellent**: sturdy beds, air conditioning, and service that's hard to beat. It's well rated on Booking — and you can feel the owner's care.
 
 ### Mid-range — Pousada CostaVerde *(my own — full disclosure)*
 
-Full disclosure: **this is the pousada I run**, so take my word with the appropriate pinch of salt — but I'd far rather tell you openly than pretend this guide doesn't have an author.
+Full disclosure: **this is the pousada I run**, so take my word with the appropriate pinch of salt — but I'd far rather tell you openly than pretend this guide doesn't have an author. And yes: by the very logic above, CostaVerde is owner-run too — by me.
 
 CostaVerde sits on the **cobbled west side** of Abraão (easy with luggage), runs **Starlink** if you need to work online, and is one of the few places that lends ponchos and umbrellas. It's mentioned in the printed **Lonely Planet**, and rated **9.5 on Booking.com** and **9.8 on Expedia** — you can see it at **[pousadacostaverde.com](https://pousadacostaverde.com)**.
 
@@ -46,7 +48,7 @@ And if it isn't the right fit for you, the options above and below are genuinely
 
 ### Upscale — Pousada Bonito Paraíso
 
-For a higher-comfort, more romantic stay, **Pousada Bonito Paraíso** is the upscale choice — a quieter, scenic setting for travellers who want more comfort and tranquillity and less of the village bustle.
+For a higher-comfort stay, **Pousada Bonito Paraíso** is the upscale, **family-run** choice. It's on a **secluded beach**, so they bring you across by boat — and it has its own **bar and restaurant**, both excellent. It's strongly rated on Booking, and the reviews speak for themselves. This is the one if you want comfort, quiet and a place that feels happily removed from the village.
 
 ## A few booking tips
 
