@@ -36,19 +36,19 @@ A quick, honest word on prices: like everything on the island, accommodation run
 
 ### Budget — MPB
 
-On a tighter budget, **MPB** is the hostel I'd point you to. It's run by its owner, **Sol**, who genuinely looks after both the place and her guests — warm and attentive. It sits a little **tucked away from the bustle**, but that's part of the charm, and the **infrastructure is excellent**: sturdy beds, air conditioning, and service that's hard to beat. It's well rated on Booking — and you can feel the owner's care.
+On a tighter budget, **MPB** is the hostel I'd point you to. It's run by its owner, **Sol**, who genuinely looks after both the place and her guests — warm and attentive. It sits a little **tucked away from the bustle**, but that's part of the charm, and the **infrastructure is excellent**: sturdy beds and service that's hard to beat. It's well rated on Booking — and you can feel the owner's care.
 
 ### Mid-range — Pousada CostaVerde *(my own — full disclosure)*
 
 Full disclosure: **this is the pousada I run**, so take my word with the appropriate pinch of salt — but I'd far rather tell you openly than pretend this guide doesn't have an author. And yes: by the very logic above, CostaVerde is owner-run too — by me.
 
-CostaVerde sits on the **cobbled west side** of Abraão (easy with luggage), runs **Starlink** if you need to work online, and is one of the few places that lends ponchos and umbrellas. It's mentioned in the printed **Lonely Planet**, and rated **9.5 on Booking.com** and **9.8 on Expedia** — you can see it at **[pousadacostaverde.com](https://pousadacostaverde.com)**.
+CostaVerde is a **rustic house** — which is really what a *pousada* is in Brazil: the owner's home, opened to guests. It's on the **cobbled west side** of Abraão (easy with luggage) and is geared to **adults and hikers** — in fact, we **don't take children**. Most of our guests are trekkers, so we've put in **orthopedic mattresses** for tired legs, along with smart TVs, **Starlink** if you need to work online, and the ponchos and umbrellas few places lend. It's mentioned in the printed **Lonely Planet**, and rated **9.5 on Booking.com** and **9.8 on Expedia** — you can see it at **[pousadacostaverde.com](https://pousadacostaverde.com)**.
 
 And if it isn't the right fit for you, the options above and below are genuinely good. The point of this guide is a great trip — not a booking.
 
 ### Upscale — Pousada Bonito Paraíso
 
-For a higher-comfort stay, **Pousada Bonito Paraíso** is the upscale, **family-run** choice. It's on a **secluded beach**, so they bring you across by boat — and it has its own **bar and restaurant**, both excellent. It's strongly rated on Booking, and the reviews speak for themselves. This is the one if you want comfort, quiet and a place that feels happily removed from the village.
+For a higher-comfort stay — and the best pick if you're **travelling with children or as a family** — **Pousada Bonito Paraíso** is the upscale, **family-run** choice, more of a relaxed **lodge** than a boutique hotel. It's on a **secluded beach**, so they bring you across by boat, and it has its own **bar and restaurant**, both excellent. It's strongly rated on Booking, and the reviews speak for themselves. This is the one if you want comfort, quiet and a place that welcomes families away from the village bustle.
 
 ## A few booking tips
 
