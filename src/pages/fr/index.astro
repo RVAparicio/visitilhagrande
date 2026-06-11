@@ -1,19 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { localizedPath } from '../../i18n/config';
-import { routes } from '../../i18n/routes';
-import { t } from '../../i18n/ui';
-
-const lang = 'fr';
-const cards = [
-  { href: localizedPath(lang, routes.gettingThere[lang]), title: t(lang, 'nav_getting_there'), blurb: 'Bateaux et transferts depuis Rio, São Paulo, Paraty et Mangaratiba.' },
-  { href: localizedPath(lang, routes.whereToStay[lang]), title: t(lang, 'nav_stay'), blurb: 'Des options honnêtes par budget — et le meilleur coin d’Abraão où loger.' },
-  { href: localizedPath(lang, routes.beaches[lang]), title: t(lang, 'nav_beaches'), blurb: 'Lopes Mendes, la sauvage Aventureiro et les lagons turquoise.' },
-  { href: localizedPath(lang, routes.trails[lang]), title: t(lang, 'nav_trails'), blurb: 'Les cinq plus belles randonnées et tout le réseau de sentiers T1–T16.' },
-  { href: localizedPath(lang, routes.bestTime[lang]), title: t(lang, 'nav_best_time'), blurb: 'Météo, affluence et prix — et le mois que choisit un local.' },
-  { href: localizedPath(lang, routes.faq[lang]), title: t(lang, 'nav_faq'), blurb: 'Argent, eau, internet, moustiques et quoi emporter.' },
-];
-const aboutHref = localizedPath(lang, routes.about[lang]);
+import HomePage from '../../components/HomePage.astro';
 ---
 <BaseLayout
   lang="fr"
@@ -21,36 +8,5 @@ const aboutHref = localizedPath(lang, routes.about[lang]);
   description="Un guide de voyage local et indépendant pour Ilha Grande, Brésil : comment y aller, où dormir, plages, sentiers, meilleure période et conseils pratiques."
   path=""
 >
-  <section class="hero">
-    <div class="hero__inner">
-      <h1>Bienvenue à Ilha Grande</h1>
-      <p>Une île sans voitures, faite de forêt tropicale, de plages désertes et de sentiers tranquilles au large de Rio de Janeiro — et un guide local et honnête pour en profiter.</p>
-      <a class="btn" href={cards[0].href}>Préparez votre voyage</a>
-    </div>
-  </section>
-
-  <div class="prose">
-    <p>Ilha Grande est une grande île montagneuse dans la baie d’Angra dos Reis, à quelques heures de Rio. Elle n’a <strong>ni voitures ni routes</strong> — seulement de la forêt atlantique, un réseau de sentiers balisés et environ <strong>113 plages</strong> réparties le long de sa côte et dans une baie célèbre pour ses 365 îles.</p>
-    <p>Ce guide est rédigé et tenu à jour par quelqu’un qui vit ici. Pas de blabla, pas de langage de brochure — juste ce qu’il faut pour préparer un beau voyage, dans votre langue.</p>
-  </div>
-
-  <section class="home-section">
-    <div class="container">
-      <h2>Préparez votre voyage</h2>
-      <div class="pillar-grid">
-        {cards.map((c) => (
-          <a class="pillar-card" href={c.href}>
-            <h3>{c.title}</h3>
-            <p>{c.blurb}</p>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <section class="home-author">
-    <div class="container">
-      <p>Ce guide est écrit par <strong>Richard</strong>, qui vit à Ilha Grande et gère une petite pousada à Vila do Abraão. <a href={aboutHref}>Qui écrit ce guide →</a></p>
-    </div>
-  </section>
+  <HomePage lang="fr" />
 </BaseLayout>

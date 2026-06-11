@@ -1,0 +1,296 @@
+---
+// Home "Ficha de campo": un solo componente para los 4 idiomas.
+// Hero dividido (intro + polaroids con parallax | ficha técnica),
+// botonera-pestañas a los 6 pilares, postales rotativas y prosa SEO.
+import { localizedPath, type Lang } from '../i18n/config';
+import { routes } from '../i18n/routes';
+import { t } from '../i18n/ui';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+
+interface HomeCopy {
+  h1a: string;
+  h1b: string;
+  sub: string;
+  start: string;
+  fichaTitle: string;
+  fAccess: string;
+  fAccessV: string;
+  fBeaches: string;
+  fTrails: string;
+  fTrailsV: string;
+  fPeak: string;
+  fMonth: string;
+  fMonthV: string;
+  fLangs: string;
+  cards: { title: string; cap: string }[];
+  p1: string;
+  p2: string;
+  footerLine: string;
+  footerCta: string;
+}
+
+const copy: Record<Lang, HomeCopy> = {
+  en: {
+    h1a: 'Ilha Grande,',
+    h1b: 'the field guide',
+    sub: 'Boats, beaches, trails and timing — the facts first, the stories after. Written on the island, in four languages.',
+    start: 'Start here: how to get to the island →',
+    fichaTitle: 'FIELD CARD · ILHA GRANDE, RJ',
+    fAccess: 'ACCESS',
+    fAccessV: 'boat only · 15–90 min',
+    fBeaches: 'BEACHES',
+    fTrails: 'TRAILS',
+    fTrailsV: '16 marked · T1–T16',
+    fPeak: 'HIGHEST POINT',
+    fMonth: 'BEST MONTH',
+    fMonthV: 'March',
+    fLangs: 'LANGUAGES',
+    cards: [
+      { title: 'Lopes Mendes', cap: '3 km of sand that squeaks underfoot' },
+      { title: 'Pico do Papagaio', cap: '982 m — sunrise above the clouds' },
+      { title: 'Lagoa Azul', cap: 'snorkelling in a natural aquarium' },
+    ],
+    p1: 'Ilha Grande is a large, mountainous island in the bay of Angra dos Reis, a couple of hours from Rio. It has <strong>no cars and no roads</strong> — just Atlantic rainforest, a network of marked trails, and around <strong>113 beaches</strong> scattered along its coast and across a bay famous for its 365 islands.',
+    p2: 'This guide is written and kept up to date by someone who actually lives here. No fluff, no brochure-speak — just what you need to plan a great trip, in your language.',
+    footerLine: 'A field guide kept on the island, updated all year.',
+    footerCta: 'About the author →',
+  },
+  fr: {
+    h1a: 'Ilha Grande,',
+    h1b: 'le guide de terrain',
+    sub: 'Bateaux, plages, sentiers et bonnes dates — les faits d’abord, les histoires ensuite. Écrit sur l’île, en quatre langues.',
+    start: 'Commencez ici : comment venir →',
+    fichaTitle: 'FICHE · ILHA GRANDE, RJ',
+    fAccess: 'ACCÈS',
+    fAccessV: 'bateau uniquement · 15–90 min',
+    fBeaches: 'PLAGES',
+    fTrails: 'SENTIERS',
+    fTrailsV: '16 balisés · T1–T16',
+    fPeak: 'POINT CULMINANT',
+    fMonth: 'MEILLEUR MOIS',
+    fMonthV: 'mars',
+    fLangs: 'LANGUES',
+    cards: [
+      { title: 'Lopes Mendes', cap: '3 km de sable qui crisse sous les pieds' },
+      { title: 'Pico do Papagaio', cap: '982 m — lever de soleil au-dessus des nuages' },
+      { title: 'Lagoa Azul', cap: 'du snorkeling dans un aquarium naturel' },
+    ],
+    p1: 'Ilha Grande est une grande île montagneuse dans la baie d’Angra dos Reis, à quelques heures de Rio. Elle n’a <strong>ni voitures ni routes</strong> — seulement de la forêt atlantique, un réseau de sentiers balisés et environ <strong>113 plages</strong> réparties le long de sa côte et dans une baie célèbre pour ses 365 îles.',
+    p2: 'Ce guide est rédigé et tenu à jour par quelqu’un qui vit ici. Pas de blabla, pas de langage de brochure — juste ce qu’il faut pour préparer un beau voyage, dans votre langue.',
+    footerLine: 'Un guide de terrain tenu sur l’île, mis à jour toute l’année.',
+    footerCta: 'Qui écrit ce guide →',
+  },
+  pt: {
+    h1a: 'Ilha Grande,',
+    h1b: 'o guia de campo',
+    sub: 'Barcos, praias, trilhas e a época certa — os fatos primeiro, as histórias depois. Escrito na ilha, em quatro idiomas.',
+    start: 'Comece aqui: como chegar →',
+    fichaTitle: 'FICHA · ILHA GRANDE, RJ',
+    fAccess: 'ACESSO',
+    fAccessV: 'só de barco · 15–90 min',
+    fBeaches: 'PRAIAS',
+    fTrails: 'TRILHAS',
+    fTrailsV: '16 sinalizadas · T1–T16',
+    fPeak: 'PONTO MAIS ALTO',
+    fMonth: 'MELHOR MÊS',
+    fMonthV: 'março',
+    fLangs: 'IDIOMAS',
+    cards: [
+      { title: 'Lopes Mendes', cap: '3 km de areia que canta sob os pés' },
+      { title: 'Pico do Papagaio', cap: '982 m — amanhecer acima das nuvens' },
+      { title: 'Lagoa Azul', cap: 'snorkel num aquário natural' },
+    ],
+    p1: 'A Ilha Grande é uma ilha grande e montanhosa na baía de Angra dos Reis, a poucas horas do Rio. Não tem <strong>carros nem estradas</strong> — só mata atlântica, uma rede de trilhas sinalizadas e cerca de <strong>113 praias</strong> espalhadas pela costa e por uma baía famosa por suas 365 ilhas.',
+    p2: 'Este guia é escrito e mantido por quem realmente mora aqui. Sem enrolação, sem papo de folheto — só o que você precisa para planejar uma ótima viagem, no seu idioma.',
+    footerLine: 'Um guia de campo mantido na ilha, atualizado o ano todo.',
+    footerCta: 'Quem escreve este guia →',
+  },
+  es: {
+    h1a: 'Ilha Grande,',
+    h1b: 'la guía de campo',
+    sub: 'Barcos, playas, senderos y la época justa — los datos primero, las historias después. Escrita en la isla, en cuatro idiomas.',
+    start: 'Empezá acá: cómo llegar →',
+    fichaTitle: 'FICHA · ILHA GRANDE, RJ',
+    fAccess: 'ACCESO',
+    fAccessV: 'solo en barco · 15–90 min',
+    fBeaches: 'PLAYAS',
+    fTrails: 'SENDEROS',
+    fTrailsV: '16 señalizados · T1–T16',
+    fPeak: 'PUNTO MÁS ALTO',
+    fMonth: 'MEJOR MES',
+    fMonthV: 'marzo',
+    fLangs: 'IDIOMAS',
+    cards: [
+      { title: 'Lopes Mendes', cap: '3 km de arena que canta bajo los pies' },
+      { title: 'Pico do Papagaio', cap: '982 m — amanecer sobre las nubes' },
+      { title: 'Lagoa Azul', cap: 'snorkel en un acuario natural' },
+    ],
+    p1: 'Ilha Grande es una isla grande y montañosa en la bahía de Angra dos Reis, a un par de horas de Río. No tiene <strong>autos ni rutas</strong> — solo selva atlántica, una red de senderos señalizados y unas <strong>113 playas</strong> repartidas por su costa y por una bahía famosa por sus 365 islas.',
+    p2: 'Esta guía la escribe y mantiene alguien que vive acá de verdad. Sin relleno, sin lenguaje de folleto — solo lo que necesitás para planear un gran viaje, en tu idioma.',
+    footerLine: 'Una guía de campo mantenida en la isla, actualizada todo el año.',
+    footerCta: 'Quién escribe esto →',
+  },
+};
+const c = copy[lang];
+
+const tabs = [
+  { n: '①', label: t(lang, 'nav_getting_there'), slug: routes.gettingThere[lang], bg: '#0E3A4A', fg: '#EFE6D6' },
+  { n: '②', label: t(lang, 'nav_stay'), slug: routes.whereToStay[lang], bg: '#1B9C8F', fg: '#06302B' },
+  { n: '③', label: t(lang, 'nav_beaches'), slug: routes.beaches[lang], bg: '#2E7D5B', fg: '#EFE6D6' },
+  { n: '④', label: t(lang, 'nav_trails'), slug: routes.trails[lang], bg: '#E8A14C', fg: '#3A2306' },
+  { n: '⑤', label: t(lang, 'nav_best_time'), slug: routes.bestTime[lang], bg: '#145062', fg: '#EFE6D6' },
+  { n: '⑥', label: t(lang, 'nav_faq'), slug: routes.faq[lang], bg: '#4F6168', fg: '#EFE6D6' },
+];
+
+const ficha: { label: string; value: string; slug?: string; accent?: boolean }[] = [
+  { label: c.fAccess, value: c.fAccessV, slug: routes.gettingThere[lang] },
+  { label: c.fBeaches, value: '113', slug: routes.beaches[lang] },
+  { label: c.fTrails, value: c.fTrailsV, slug: routes.trails[lang] },
+  { label: c.fPeak, value: 'Pico do Papagaio · 982 m', slug: routes.trails[lang] },
+  { label: c.fMonth, value: c.fMonthV, slug: routes.bestTime[lang], accent: true },
+  { label: c.fLangs, value: 'EN · FR · PT · ES' },
+];
+
+const cardHrefs = [
+  localizedPath(lang, routes.beaches[lang]),
+  localizedPath(lang, routes.trails[lang]),
+  localizedPath(lang, routes.beaches[lang]),
+];
+---
+<section class="hero2">
+  <div class="hero2__grid">
+    <div class="hero2__intro">
+      <span class="hero2__stamp">23°09′S · 44°14′W</span>
+      <h1>{c.h1a}<br />{c.h1b}</h1>
+      <p class="hero2__sub">{c.sub}</p>
+      <a class="hero2__start" href={localizedPath(lang, routes.gettingThere[lang])}>{c.start}</a>
+
+      <div class="hero2__shots" aria-hidden="true">
+        <div class="shot-wrap shot-wrap--a" data-parallax="-0.07">
+          <div class="shot shot--a">
+            <svg viewBox="0 0 200 110" xmlns="http://www.w3.org/2000/svg">
+              <rect width="200" height="110" fill="#2BB3A3" />
+              <path d="M0,66 Q55,54 100,62 Q150,70 200,58 V110 H0 Z" fill="#EFE6D6" />
+              <circle cx="160" cy="24" r="13" fill="#FBF8F1" />
+              <path d="M48,64 v-26 M48,38 q12,-10 20,2 M48,38 q-12,-10 -20,2 M48,38 q2,-14 14,-16" stroke="#245F46" stroke-width="4" fill="none" stroke-linecap="round" />
+            </svg>
+          </div>
+        </div>
+        <div class="shot-wrap shot-wrap--b" data-parallax="-0.04">
+          <div class="shot shot--b">
+            <svg viewBox="0 0 200 110" xmlns="http://www.w3.org/2000/svg">
+              <rect width="200" height="110" fill="#A8CFC9" />
+              <path d="M0,110 L72,30 L140,110 Z" fill="#245F46" />
+              <path d="M96,110 L156,48 L200,110 Z" fill="#2E7D5B" />
+              <circle cx="34" cy="26" r="11" fill="#EFE6D6" />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <aside class="hero2__ficha">
+      <p class="ficha__title">{c.fichaTitle}</p>
+      <table class="ficha__table">
+        <tbody>
+          {ficha.map((row) => (
+            <tr>
+              <td class="lab">{row.label}</td>
+              <td class={`val${row.accent ? ' val--accent' : ''}`}>
+                {row.slug ? <a href={localizedPath(lang, row.slug)}>{row.value}</a> : row.value}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </aside>
+  </div>
+</section>
+
+<nav class="tabs2" aria-label={t(lang, 'footer_explore')}>
+  {tabs.map((tab) => (
+    <a class="tab2" href={localizedPath(lang, tab.slug)} style={`background:${tab.bg};color:${tab.fg}`}>
+      {tab.n} {tab.label}
+    </a>
+  ))}
+</nav>
+
+<div class="postcards">
+  {c.cards.map((card, i) => (
+    <a class={`postcard${i === 0 ? ' is-active' : ''}`} href={cardHrefs[i]}>
+      {i === 0 && (
+        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="200" height="80" fill="#2BB3A3" />
+          <path d="M0,52 Q55,42 100,50 Q150,56 200,48 V80 H0 Z" fill="#EFE6D6" />
+          <circle cx="162" cy="19" r="10" fill="#FBF8F1" />
+        </svg>
+      )}
+      {i === 1 && (
+        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="200" height="80" fill="#A8CFC9" />
+          <path d="M0,80 L70,20 L140,80 Z" fill="#245F46" />
+          <path d="M100,80 L160,34 L200,80 Z" fill="#2E7D5B" />
+          <circle cx="34" cy="19" r="9" fill="#EFE6D6" />
+        </svg>
+      )}
+      {i === 2 && (
+        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="200" height="80" fill="#145062" />
+          <ellipse cx="100" cy="54" rx="68" ry="18" fill="#2BB3A3" />
+          <path d="M56,54 q22,10 44,4 q24,-7 44,3" stroke="#EFE6D6" stroke-width="2.5" fill="none" />
+        </svg>
+      )}
+      <span class="postcard__body">
+        <span class="postcard__title">{card.title}</span>
+        <span class="postcard__cap">{card.cap}</span>
+      </span>
+    </a>
+  ))}
+</div>
+
+<div class="prose home-prose">
+  <p set:html={c.p1} />
+  <p set:html={c.p2} />
+</div>
+
+<div class="field-footer">
+  <div class="field-footer__inner">
+    <span>{c.footerLine}</span>
+    <a href={localizedPath(lang, routes.about[lang])}>{c.footerCta}</a>
+  </div>
+</div>
+
+<script>
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!reduce) {
+    const cards = Array.from(document.querySelectorAll('.postcard'));
+    if (cards.length) {
+      let i = 0;
+      let paused = false;
+      const strip = document.querySelector('.postcards');
+      strip?.addEventListener('mouseenter', () => (paused = true));
+      strip?.addEventListener('mouseleave', () => (paused = false));
+      setInterval(() => {
+        if (paused) return;
+        cards[i]?.classList.remove('is-active');
+        i = (i + 1) % cards.length;
+        cards[i]?.classList.add('is-active');
+      }, 3500);
+    }
+    const shots = Array.from(document.querySelectorAll<HTMLElement>('[data-parallax]'));
+    if (shots.length) {
+      const onScroll = () => {
+        const y = window.scrollY;
+        for (const el of shots) {
+          const f = parseFloat(el.dataset.parallax || '0');
+          el.style.transform = `translateY(${y * f}px)`;
+        }
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+    }
+  }
+</script>

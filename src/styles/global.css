@@ -316,3 +316,145 @@ img { max-width: 100%; height: auto; }
   text-align: center;
   line-height: 1.5;
 }
+
+/* ===========================================================
+   Home v2 — "Ficha de campo"
+   =========================================================== */
+:root { --font-mono: ui-monospace, 'Cascadia Code', Consolas, 'Liberation Mono', monospace; }
+
+.hero2 { background: var(--c-sand); border-bottom: 1px solid var(--c-line); }
+.hero2__grid {
+  max-width: var(--wide);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  align-items: stretch;
+}
+.hero2__intro { padding: 3rem 2rem 2.4rem 1.25rem; }
+.hero2__stamp {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  color: var(--c-teal-700);
+  border: 1.5px solid var(--c-teal-700);
+  padding: 0.2rem 0.55rem;
+  transform: rotate(-1.5deg);
+}
+.hero2__intro h1 { margin: 0.9rem 0 0; font-size: clamp(2rem, 4.5vw, 2.7rem); }
+.hero2__sub { color: var(--c-muted); max-width: 28rem; margin: 0.8rem 0 0; }
+.hero2__start { display: inline-block; margin-top: 0.9rem; font-weight: 500; }
+
+.hero2__shots { position: relative; height: 12rem; margin-top: 1.7rem; max-width: 23rem; }
+.shot-wrap { position: absolute; will-change: transform; }
+.shot-wrap--a { left: 0; top: 0; z-index: 2; }
+.shot-wrap--b { left: 44%; top: 16%; }
+.shot {
+  background: #fff;
+  border: 1px solid #d9cfbc;
+  padding: 0.4rem 0.4rem 1.1rem;
+  width: 11.5rem;
+}
+.shot svg { display: block; width: 100%; height: auto; }
+.shot--a { transform: rotate(-3deg); }
+.shot--b { transform: rotate(4deg); }
+
+.hero2__ficha {
+  background: var(--c-ocean);
+  padding: 2.2rem 1.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.ficha__title {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.16em;
+  color: #e8a14c;
+  border-bottom: 1px solid var(--c-ocean-700);
+  padding-bottom: 0.6rem;
+  margin: 0;
+}
+.ficha__table { width: 100%; border-collapse: collapse; font-family: var(--font-mono); }
+.ficha__table td { padding: 0.55rem 0; font-size: 0.8rem; border-bottom: 1px solid var(--c-ocean-700); }
+.ficha__table tr:last-child td { border-bottom: none; }
+.ficha__table .lab { color: #9fc1bc; }
+.ficha__table .val { text-align: right; color: var(--c-sand); }
+.ficha__table .val a { color: inherit; text-decoration: none; border-bottom: 1px dotted #9fc1bc; }
+.ficha__table .val a:hover { color: #2bb3a3; border-bottom-color: #2bb3a3; }
+.ficha__table .val--accent, .ficha__table .val--accent a { color: #2bb3a3; }
+
+.tabs2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  max-width: var(--wide);
+  margin: 2.2rem auto 0;
+  padding: 0 1.25rem;
+}
+.tab2 {
+  font-size: 0.92rem;
+  font-weight: 500;
+  padding: 0.55rem 0.95rem;
+  border-radius: 10px 10px 0 10px;
+  text-decoration: none;
+  transition: transform 0.15s ease, filter 0.15s ease;
+}
+.tab2:hover { transform: translateY(-2px); filter: brightness(1.08); }
+
+.postcards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.9rem;
+  max-width: var(--wide);
+  margin: 1.4rem auto 0;
+  padding: 0 1.25rem;
+}
+.postcard {
+  display: block;
+  background: #fff;
+  border: 1px solid var(--c-line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.35s ease, border-color 0.35s ease;
+}
+.postcard svg { display: block; width: 100%; height: auto; }
+.postcard__body { display: block; padding: 0.7rem 0.9rem 0.8rem; }
+.postcard__title {
+  display: block;
+  font-family: var(--font-head);
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: var(--c-ocean);
+}
+.postcard__cap { display: block; margin-top: 0.15rem; font-size: 0.85rem; color: var(--c-muted); }
+.postcard:hover, .postcard.is-active { border-color: var(--c-teal); transform: translateY(-4px); }
+
+.home-prose { padding-bottom: 0.5rem; }
+
+.field-footer { background: var(--c-sand); border-top: 1px solid var(--c-line); margin-top: 2rem; }
+.field-footer__inner {
+  max-width: var(--wide);
+  margin: 0 auto;
+  padding: 0.9rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 0.92rem;
+  color: var(--c-muted);
+}
+.field-footer a { font-weight: 500; }
+
+@media (max-width: 800px) {
+  .hero2__grid { grid-template-columns: 1fr; }
+  .hero2__intro { padding: 2.2rem 1.25rem 1.6rem; }
+  .hero2__ficha { padding: 1.6rem 1.25rem; }
+  .postcards { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tab2, .postcard { transition: none; }
+}
