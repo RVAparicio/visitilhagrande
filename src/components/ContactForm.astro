@@ -1,7 +1,7 @@
 ---
-// Formulario de contacto. Envía un POST a /api/contact, que en producción
-// resuelve una Cloudflare Pages Function (functions/api/contact.ts).
-// En local (astro dev) la función no corre — se activa al desplegar.
+// Formulario de contacto vía Web3Forms (gratis, sin backend).
+// Los mensajes llegan al email asociado a la "access key".
+// La access key de Web3Forms es PÚBLICA (va en el cliente sin riesgo).
 import { t } from '../i18n/ui';
 import type { Lang } from '../i18n/config';
 
@@ -9,14 +9,20 @@ interface Props {
   lang: Lang;
 }
 const { lang } = Astro.props;
+
+// 👉 Reemplazar por tu clave real de https://web3forms.com (es pública).
+const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
 ---
-<form class="contact-form" method="POST" action="/api/contact">
+<form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
   <p class="contact-success" hidden>{t(lang, 'contact_success')}</p>
 
-  <!-- Honeypot anti-spam: invisible para humanos; los bots lo rellenan -->
-  <input type="text" name="company" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
-
+  <input type="hidden" name="access_key" value={WEB3FORMS_KEY} />
+  <input type="hidden" name="subject" value="Nuevo mensaje desde visitilhagrande.com" />
+  <input type="hidden" name="from_name" value="Visit Ilha Grande" />
   <input type="hidden" name="lang" value={lang} />
+
+  <!-- Honeypot anti-spam de Web3Forms: invisible para humanos -->
+  <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none" />
 
   <label>
     <span>{t(lang, 'contact_name')}</span>
@@ -35,8 +41,27 @@ const { lang } = Astro.props;
 </form>
 
 <script>
-  if (location.search.includes('sent=1')) {
-    document.querySelector('.contact-success')?.removeAttribute('hidden');
-    document.querySelector('.contact-form')?.scrollIntoView({ behavior: 'smooth' });
-  }
+  const form = document.getElementById('contact-form') as HTMLFormElement | null;
+  const success = form?.querySelector('.contact-success');
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const button = form.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+    if (button) button.disabled = true;
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { Accept: 'application/json' },
+      });
+      if (res.ok) {
+        form.reset();
+        success?.removeAttribute('hidden');
+        success?.scrollIntoView({ behavior: 'smooth' });
+      }
+    } catch (_) {
+      /* silencioso */
+    } finally {
+      if (button) button.disabled = false;
+    }
+  });
 </script>
