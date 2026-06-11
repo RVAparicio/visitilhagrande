@@ -9,6 +9,12 @@ export const routes = {
     pt: 'como-chegar-na-ilha-grande',
     es: 'como-llegar-a-ilha-grande',
   },
+  whereToStay: {
+    en: 'where-to-stay-ilha-grande',
+    fr: 'ou-dormir-ilha-grande',
+    pt: 'onde-ficar-ilha-grande',
+    es: 'donde-dormir-ilha-grande',
+  },
   beaches: {
     en: 'ilha-grande-beaches',
     fr: 'plages-ilha-grande',

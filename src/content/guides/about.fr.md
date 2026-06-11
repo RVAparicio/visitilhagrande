@@ -35,7 +35,7 @@ C'est toute l'idée de Visit Ilha Grande : un guide vraiment utile, dans votre l
 
 ## Transparence totale
 
-Je pense que vous méritez de savoir qui vous parle, alors disons-le clairement : **je possède et gère la Pousada CostaVerde.** Ce guide est indépendant de la pousada — il est écrit pour vous aider à passer un beau séjour, que vous logiez chez moi ou non. Sur la page *où dormir*, je mentionne CostaVerde, et quand je le fais, je le dis ouvertement et vous indique aussi d'autres options honnêtes. Rien ici n'est motivé par des commissions ; les recommandations viennent du fait de vivre sur l'île.
+Je pense que vous méritez de savoir qui vous parle, alors disons-le clairement : **je possède et gère la Pousada CostaVerde.** Ce guide est indépendant de la pousada — il est écrit pour vous aider à passer un beau séjour, que vous logiez chez moi ou non. Sur la page [où dormir](/fr/ou-dormir-ilha-grande/), je mentionne CostaVerde, et quand je le fais, je le dis ouvertement et vous indique aussi d'autres options honnêtes. Rien ici n'est motivé par des commissions ; les recommandations viennent du fait de vivre sur l'île.
 
 ## Pourquoi vous pouvez faire confiance aux informations
 

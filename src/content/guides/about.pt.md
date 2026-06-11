@@ -35,7 +35,7 @@ Quando amigos e hóspedes me perguntavam como planejar a viagem, eu sempre esbar
 
 ## Total transparência
 
-Acho que você merece saber quem está falando com você, então vou dizer claramente: **eu sou dono e administro a Pousada CostaVerde.** Este guia é independente da pousada — ele é escrito para ajudar você a ter uma ótima viagem, hospedando-se comigo ou não. Na página *onde ficar* eu menciono a CostaVerde, e quando o faço, digo isso abertamente e também indico outras opções honestas. Nada aqui é movido por comissões; as recomendações vêm de morar na ilha.
+Acho que você merece saber quem está falando com você, então vou dizer claramente: **eu sou dono e administro a Pousada CostaVerde.** Este guia é independente da pousada — ele é escrito para ajudar você a ter uma ótima viagem, hospedando-se comigo ou não. Na página [onde ficar](/pt/onde-ficar-ilha-grande/) eu menciono a CostaVerde, e quando o faço, digo isso abertamente e também indico outras opções honestas. Nada aqui é movido por comissões; as recomendações vêm de morar na ilha.
 
 ## Por que você pode confiar nas informações
 
