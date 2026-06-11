@@ -1,20 +1,56 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { localizedPath } from '../../i18n/config';
+import { routes } from '../../i18n/routes';
+import { t } from '../../i18n/ui';
+
+const lang = 'pt';
+const cards = [
+  { href: localizedPath(lang, routes.gettingThere[lang]), title: t(lang, 'nav_getting_there'), blurb: 'Barcos e transfers do Rio, São Paulo, Paraty e Mangaratiba.' },
+  { href: localizedPath(lang, routes.whereToStay[lang]), title: t(lang, 'nav_stay'), blurb: 'Opções honestas por orçamento — e a melhor parte do Abraão para ficar.' },
+  { href: localizedPath(lang, routes.beaches[lang]), title: t(lang, 'nav_beaches'), blurb: 'Lopes Mendes, a selvagem Aventureiro e as lagoas turquesa.' },
+  { href: localizedPath(lang, routes.trails[lang]), title: t(lang, 'nav_trails'), blurb: 'As cinco melhores trilhas e toda a rede T1–T16.' },
+  { href: localizedPath(lang, routes.bestTime[lang]), title: t(lang, 'nav_best_time'), blurb: 'Clima, movimento e preços — e o mês que um local escolhe.' },
+  { href: localizedPath(lang, routes.faq[lang]), title: t(lang, 'nav_faq'), blurb: 'Dinheiro, água, internet, mosquitos e o que levar.' },
+];
+const aboutHref = localizedPath(lang, routes.about[lang]);
 ---
 <BaseLayout
   lang="pt"
   title="Visite a Ilha Grande — Guia de viagem local"
-  description="Um guia de viagem local e independente para a Ilha Grande, Brasil: como chegar, onde ficar, praias e trilhas."
+  description="Um guia de viagem local e independente para a Ilha Grande, Brasil: como chegar, onde ficar, praias, trilhas, melhor época e dicas práticas."
   path=""
 >
   <section class="hero">
     <div class="hero__inner">
       <h1>Bem-vindo à Ilha Grande</h1>
-      <p>Uma ilha sem carros, de mata, praias vazias e trilhas tranquilas — escrito por quem mora aqui.</p>
-      <a class="btn" href="/pt/como-chegar-na-ilha-grande/">Como chegar</a>
+      <p>Uma ilha sem carros, de mata atlântica, praias vazias e trilhas tranquilas no litoral do Rio de Janeiro — e um guia local e honesto para aproveitá-la ao máximo.</p>
+      <a class="btn" href={cards[0].href}>Planeje sua viagem</a>
     </div>
   </section>
+
   <div class="prose">
-    <p>Página inicial provisória em português. O texto real vem na fase de conteúdo. Por enquanto, mostra o design “Mar Profundo” com o cabeçalho, o seletor de idioma e a nota de autoria no rodapé.</p>
+    <p>A Ilha Grande é uma ilha grande e montanhosa na baía de Angra dos Reis, a poucas horas do Rio. Não tem <strong>carros nem estradas</strong> — só mata atlântica, uma rede de trilhas sinalizadas e cerca de <strong>113 praias</strong> espalhadas pela costa e por uma baía famosa por suas 365 ilhas.</p>
+    <p>Este guia é escrito e mantido por quem realmente mora aqui. Sem enrolação, sem papo de folheto — só o que você precisa para planejar uma ótima viagem, no seu idioma.</p>
   </div>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>Planeje sua viagem</h2>
+      <div class="pillar-grid">
+        {cards.map((c) => (
+          <a class="pillar-card" href={c.href}>
+            <h3>{c.title}</h3>
+            <p>{c.blurb}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-author">
+    <div class="container">
+      <p>Este guia é escrito pelo <strong>Richard</strong>, que mora na Ilha Grande e administra uma pequena pousada na Vila do Abraão. <a href={aboutHref}>Quem escreve este guia →</a></p>
+    </div>
+  </section>
 </BaseLayout>

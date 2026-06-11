@@ -1,20 +1,56 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { localizedPath } from '../i18n/config';
+import { routes } from '../i18n/routes';
+import { t } from '../i18n/ui';
+
+const lang = 'en';
+const cards = [
+  { href: localizedPath(lang, routes.gettingThere[lang]), title: t(lang, 'nav_getting_there'), blurb: 'Boats and transfers from Rio, São Paulo, Paraty and Mangaratiba.' },
+  { href: localizedPath(lang, routes.whereToStay[lang]), title: t(lang, 'nav_stay'), blurb: 'Honest options by budget — and the easiest part of Abraão to stay in.' },
+  { href: localizedPath(lang, routes.beaches[lang]), title: t(lang, 'nav_beaches'), blurb: 'Lopes Mendes, wild Aventureiro and the turquoise snorkelling lagoons.' },
+  { href: localizedPath(lang, routes.trails[lang]), title: t(lang, 'nav_trails'), blurb: 'The five best hikes and the full T1–T16 trail network.' },
+  { href: localizedPath(lang, routes.bestTime[lang]), title: t(lang, 'nav_best_time'), blurb: 'Weather, crowds and prices — and the month a local picks.' },
+  { href: localizedPath(lang, routes.faq[lang]), title: t(lang, 'nav_faq'), blurb: 'Money, water, internet, mosquitoes and what to pack.' },
+];
+const aboutHref = localizedPath(lang, routes.about[lang]);
 ---
 <BaseLayout
   lang="en"
   title="Visit Ilha Grande — Local travel guide"
-  description="A local, independent travel guide to Ilha Grande, Brazil: how to get there, where to stay, beaches and trails."
+  description="A local, independent travel guide to Ilha Grande, Brazil: how to get there, where to stay, beaches, trails, the best time to visit and practical tips."
   path=""
 >
   <section class="hero">
     <div class="hero__inner">
       <h1>Welcome to Ilha Grande</h1>
-      <p>A car-free island of rainforest, empty beaches and quiet trails — written by someone who actually lives here.</p>
-      <a class="btn" href="/how-to-get-to-ilha-grande/">How to get there</a>
+      <p>A car-free island of rainforest, empty beaches and quiet trails off the coast of Rio de Janeiro — and an honest, local guide to making the most of it.</p>
+      <a class="btn" href={cards[0].href}>Start planning your trip</a>
     </div>
   </section>
+
   <div class="prose">
-    <p>This is a placeholder home page in English. The real welcome copy comes in the content phase. For now it shows the “Mar Profundo” design with its header, language switcher and footer disclosure.</p>
+    <p>Ilha Grande is a large, mountainous island in the bay of Angra dos Reis, a couple of hours from Rio. It has <strong>no cars and no roads</strong> — just Atlantic rainforest, a network of marked trails, and around <strong>113 beaches</strong> scattered along its coast and across a bay famous for its 365 islands.</p>
+    <p>This guide is written and kept up to date by someone who actually lives here. No fluff, no brochure-speak — just what you need to plan a great trip, in your language.</p>
   </div>
+
+  <section class="home-section">
+    <div class="container">
+      <h2>Plan your trip</h2>
+      <div class="pillar-grid">
+        {cards.map((c) => (
+          <a class="pillar-card" href={c.href}>
+            <h3>{c.title}</h3>
+            <p>{c.blurb}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="home-author">
+    <div class="container">
+      <p>This guide is written by <strong>Richard</strong>, who lives on Ilha Grande and runs a small pousada in Vila do Abraão. <a href={aboutHref}>Who writes this →</a></p>
+    </div>
+  </section>
 </BaseLayout>

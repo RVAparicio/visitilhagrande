@@ -131,6 +131,32 @@ main { display: block; }
 .hero p { color: #cfe3df; font-size: 1.2rem; max-width: 48ch; }
 .hero .btn { margin-top: 1rem; }
 
+/* --- Home: secciones y tarjetas de pilares --- */
+.home-section { padding: 1rem 0 1.5rem; }
+.home-section h2 { text-align: center; margin-bottom: 1.5rem; }
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1.1rem;
+}
+.pillar-card {
+  display: block;
+  background: #fff;
+  border: 1px solid var(--c-line);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.4rem;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.pillar-card:hover { border-color: var(--c-teal); transform: translateY(-2px); }
+.pillar-card h3 { margin: 0 0 0.4rem; color: var(--c-ocean); }
+.pillar-card p { margin: 0; color: var(--c-muted); font-size: 0.95rem; line-height: 1.5; }
+
+.home-author { padding: 1.5rem 0 0.5rem; }
+.home-author .container { max-width: var(--measure); text-align: center; }
+.home-author p { color: var(--c-ink); }
+.home-author a { font-weight: 500; white-space: nowrap; }
+
 /* --- Author box --- */
 .author-box {
   display: flex;
