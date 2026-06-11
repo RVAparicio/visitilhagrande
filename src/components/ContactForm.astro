@@ -10,8 +10,8 @@ interface Props {
 }
 const { lang } = Astro.props;
 
-// 👉 Reemplazar por tu clave real de https://web3forms.com (es pública).
-const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+// Clave pública de Web3Forms (los mensajes llegan a rvaparicio@gmail.com).
+const WEB3FORMS_KEY = '66f240ba-c41f-4f37-a2f7-f64054fbfaa0';
 ---
 <form class="contact-form" id="contact-form" action="https://api.web3forms.com/submit" method="POST">
   <p class="contact-success" hidden>{t(lang, 'contact_success')}</p>
