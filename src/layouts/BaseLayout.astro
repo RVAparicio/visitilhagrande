@@ -73,6 +73,14 @@ const jsonLd = {
     {extraSchemas.map((schema) => (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     ))}
+
+    <!-- Cloudflare Web Analytics: sin cookies, sin datos personales (RGPD) -->
+    <script
+      is:inline
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js"
+      data-cf-beacon='{"token": "33761d1a89d6432dafb7c03bd29bcb30"}'
+    />
   </head>
   <body>
     <a class="skip-link" href="#main">{t(lang, 'skip')}</a>
