@@ -4,5 +4,9 @@
   "compatibility_date": "2025-01-01",
   "assets": {
     "directory": "./dist"
-  }
+  },
+  "routes": [
+    { "pattern": "visitilhagrande.com", "custom_domain": true },
+    { "pattern": "www.visitilhagrande.com", "custom_domain": true }
+  ]
 }
