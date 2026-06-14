@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # Lighthouse reports (temporales)
 lh-*.json
+
+# Foto original sin recortar (pesada, solo local)
+src/assets/richard-original.*

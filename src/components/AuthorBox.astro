@@ -1,6 +1,8 @@
 ---
 // Caja de autor visible en cada artículo (E-E-A-T): refuerza que la guía
 // la firma una persona real, residente en la isla.
+import { Image } from 'astro:assets';
+import avatar from '../assets/richard-avatar.jpg';
 import { t } from '../i18n/ui';
 import { localizedPath, type Lang } from '../i18n/config';
 import { routes } from '../i18n/routes';
@@ -12,9 +14,23 @@ interface Props {
 
 const { lang, author = 'Richard' } = Astro.props;
 const aboutPath = localizedPath(lang, routes.about[lang]);
+
+const avatarAlt: Record<Lang, string> = {
+  en: 'Richard, author of the Visit Ilha Grande guide and a resident of the island.',
+  fr: "Richard, auteur du guide Visit Ilha Grande et résident de l'île.",
+  pt: 'Richard, autor do guia Visit Ilha Grande e morador da ilha.',
+  es: 'Richard, autor de la guía Visit Ilha Grande y residente de la isla.',
+};
 ---
 <aside class="author-box">
-  <div class="author-box__avatar" aria-hidden="true">R</div>
+  <Image
+    class="author-box__avatar"
+    src={avatar}
+    alt={avatarAlt[lang]}
+    width={96}
+    height={96}
+    loading="lazy"
+  />
   <div>
     <p class="author-box__name">
       {t(lang, 'author_prefix')} <a href={aboutPath}>{author}</a>

@@ -157,6 +157,29 @@ main { display: block; }
 .home-author p { color: var(--c-ink); }
 .home-author a { font-weight: 500; white-space: nowrap; }
 
+/* --- Author portrait (página About) --- */
+.portrait {
+  margin: 0 0 1.2rem 1.5rem;
+  float: right;
+  width: 18rem;
+  max-width: 45%;
+}
+.portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--c-line);
+}
+@media (max-width: 640px) {
+  .portrait {
+    float: none;
+    margin: 0 auto 1.4rem;
+    width: 100%;
+    max-width: 16rem;
+  }
+}
+
 /* --- Author box --- */
 .author-box {
   display: flex;
@@ -172,10 +195,8 @@ main { display: block; }
   flex: 0 0 auto;
   width: 48px; height: 48px;
   border-radius: 50%;
-  background: var(--c-ocean);
-  color: var(--c-sand);
-  display: flex; align-items: center; justify-content: center;
-  font-family: var(--font-head); font-weight: 600; font-size: 1.3rem;
+  object-fit: cover;
+  object-position: 50% 30%;
 }
 .author-box__name { margin: 0; font-weight: 500; color: var(--c-ocean); }
 .author-box__name a { color: var(--c-ocean); text-decoration: none; }
