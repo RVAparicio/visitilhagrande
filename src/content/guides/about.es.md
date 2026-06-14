@@ -4,7 +4,7 @@ description: "Quién está detrás de Visit Ilha Grande: Richard, que vive en la
 lang: "es"
 slug: "acerca-de"
 translationKey: "about"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-14
 author: "Richard"
 faq:
   - q: "¿Quién escribe esta guía?"
@@ -40,7 +40,7 @@ Creo que merecés saber quién te habla, así que lo digo claro: **soy dueño y 
 ## Por qué podés confiar en la información
 
 - **Vivo en Ilha Grande todo el año desde 2019** — esto no está escrito desde un escritorio en otra parte.
-- La Pousada CostaVerde está mencionada en la guía impresa **Lonely Planet**, y calificada con **9,5 en Booking.com** y **9,8 en Expedia** — señal de que el conocimiento local acá es del de verdad.
+- La Pousada CostaVerde figura entre los **mejores alojamientos de Ilha Grande** en **Lonely Planet Brazil** (edición impresa *50 Years of Travel*), y está calificada con **9,5 en Booking.com** y **9,8 en Expedia** — señal de que el conocimiento local acá es del de verdad.
 
 ## Cómo contactarme
 
