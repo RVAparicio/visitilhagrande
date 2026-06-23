@@ -10,9 +10,13 @@ import RouteMap from '../components/RouteMap.astro';
 import IslandMap from '../components/IslandMap.astro';
 import ContactForm from '../components/ContactForm.astro';
 import Portrait from '../components/Portrait.astro';
+import Gallery from '../components/Gallery.astro';
+import { galleries } from '../i18n/galleries';
 import { getAlternates } from '../lib/content';
 import { localizedPath } from '../i18n/config';
 import { t } from '../i18n/ui';
+
+const galleryTitle: Record<string, string> = { en: 'In pictures', fr: 'En images', pt: 'Em imagens', es: 'En imágenes' };
 
 export async function getStaticPaths() {
   const guides = await getCollection('guides', ({ data }) => !data.draft);
@@ -95,6 +99,9 @@ if (data.translationKey === 'about') {
       {(entry.data.translationKey === 'trails' || entry.data.translationKey === 'beaches') && <IslandMap lang={data.lang} />}
       <Content />
       {entry.data.translationKey === 'about' && <ContactForm lang={data.lang} />}
+      {galleries[data.translationKey] && (
+        <Gallery items={galleries[data.translationKey]} lang={data.lang} title={galleryTitle[data.lang]} />
+      )}
     </article>
 
     <AuthorBox lang={data.lang} author={data.author} />
