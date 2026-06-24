@@ -70,12 +70,6 @@ Not a beach but a **shallow, turquoise lagoon** between islets on the north side
 
 Another sheltered, green-blue snorkelling lagoon, closer to Abraão, with calm water and plenty of fish. Like Lagoa Azul, it's a standard stop on day-tours and an easy, gentle place to get in the water.
 
-### Dentista & Cataguas
-
-![Aerial of the Cataguás islet, Ilha Grande, with its white sandbar and turquoise sea](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
-
-Two small, picture-postcard spots reached **by boat**: tiny beaches and sandbanks with clear, shallow, turquoise water that are popular schooner stops for swimming and snorkelling. Perfect for a short stop on a round-the-island tour.
-
 ## Quieter & remote
 
 ### Palmas

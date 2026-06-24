@@ -50,9 +50,9 @@ const islands = beaches28.filter((b) => b.group === 'islas');
   <h2 id="islas-title">{islandsHeading[lang]}</h2>
   <p class="beaches28__intro">{islandsIntro[lang]}</p>
   <ul class="beaches28__list">
-    {islands.map((b) => (
-      <li class="beach28 beach28--isla" id={`praia-${b.num}`}>
-        <span class="beach28__num">{b.num}</span>
+    {islands.map((b, i) => (
+      <li class="beach28 beach28--isla" id={`isla-${b.num}`}>
+        <span class="beach28__num">{String.fromCharCode(65 + i)}</span>
         <div class="beach28__body">
           <h4 class="beach28__name">{b.name}</h4>
           <p class="beach28__desc">{b.desc[lang]}</p>

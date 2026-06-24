@@ -70,12 +70,6 @@ Não é uma praia, mas uma **lagoa turquesa e rasa** entre ilhotas, no lado nort
 
 Outra lagoa de snorkel abrigada, de águas esmeralda, mais perto do Abraão, com água calma e muitos peixes e ótima visibilidade submarina. Como a Lagoa Azul, é parada padrão dos passeios de dia e um lugar tranquilo e fácil para entrar na água.
 
-### Dentista & Cataguas
-
-![Vista aérea da ilhota de Cataguás, Ilha Grande, com banco de areia branca e mar turquesa](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
-
-Dois cantinhos de cartão-postal alcançados **de barco**: praiazinhas e bancos de areia de água clara, rasa e turquesa, paradas queridas das escunas para nadar e mergulhar de snorkel. Perfeitos para uma parada curta num passeio pela ilha.
-
 ## Mais calmas & remotas
 
 ### Palmas

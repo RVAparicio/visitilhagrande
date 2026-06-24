@@ -70,12 +70,6 @@ No es una playa sino una **laguna turquesa y poco profunda** entre islotes, en e
 
 Otra laguna de snorkel resguardada, de aguas esmeralda, más cerca de Abraão, con agua calma y muchos peces y excelente visibilidad bajo el agua. Como Lagoa Azul, es parada estándar de los paseos de día y un lugar suave y fácil para meterse al agua.
 
-### Dentista & Cataguas
-
-![Vista aérea del islote de Cataguás, Ilha Grande, con banco de arena blanca y mar turquesa](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
-
-Dos rincones de postal a los que se llega **en barco**: playitas y bancos de arena de agua clara, poco profunda y turquesa, paradas queridas de las escunas para nadar y hacer snorkel. Perfectos para una parada corta en una vuelta a la isla.
-
 ## Más calmas & remotas
 
 ### Palmas

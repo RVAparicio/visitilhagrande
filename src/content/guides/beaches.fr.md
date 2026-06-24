@@ -70,12 +70,6 @@ Pas une plage mais un **lagon turquoise et peu profond** entre des îlots, au no
 
 Un autre lagon de snorkeling abrité, aux eaux émeraude, plus proche d'Abraão, à l'eau calme et poissonneuse, avec une excellente visibilité sous l'eau. Comme Lagoa Azul, c'est un arrêt classique des sorties à la journée et un endroit doux et facile pour se mettre à l'eau.
 
-### Dentista & Cataguas
-
-![Vue aérienne de l'îlot de Cataguás, Ilha Grande, avec banc de sable blanc et mer turquoise](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
-
-Deux petits coins de carte postale accessibles **en bateau** : minuscules plages et bancs de sable à l'eau claire, peu profonde et turquoise, arrêts prisés des goélettes pour la baignade et le snorkeling. Parfaits pour une courte pause lors d'un tour de l'île.
-
 ## Plus calmes & isolées
 
 ### Palmas
