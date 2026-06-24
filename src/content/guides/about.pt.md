@@ -4,7 +4,7 @@ description: "Quem está por trás do Visit Ilha Grande: Richard, que mora na il
 lang: "pt"
 slug: "sobre"
 translationKey: "about"
-updatedDate: 2026-06-14
+updatedDate: 2026-06-23
 author: "Richard"
 faq:
   - q: "Quem escreve este guia?"
@@ -25,7 +25,9 @@ Conheci minha esposa em Córdoba, onde eu morava na época; ela é de Buenos Air
 
 Desde o início foi mais fácil do que esperávamos. A ilha nos acolheu — mesmo durante a pandemia — e a cada dia a entendemos um pouco melhor e nos mimetizamos um pouco mais com a sua natureza. Quase sete anos depois, este é o nosso lar.
 
-> A Ilha Grande é um espelho esculpido pela sabedoria da natureza, onde a gente consegue se ver *pela primeira vez* — não mais o simples reflexo material. Talvez não percebamos, mas tanto barulho, tanta pressa, tanta ansiedade, tanto desejo desmedido, tanto superestímulo nos impede de ver a beleza na simplicidade e a perfeição no natural.
+> *"Este lugar esconde inúmeros espelhos entre suas árvores serenas e cachoeiras mansas. A sábia natureza soube poli-los com séculos de paciência. Quem se atrever a debruçar-se sobre ela se vê, talvez, pela primeira vez. Sua virtude não devolve a figura; revela o ser que nela habita.*
+>
+> *Vivemos convencidos de que o bulício é plenitude e a pressa, destino. Com tanto ruído não percebemos, com tanta ânsia não contemplamos, com tanto desejo nos asfixiamos, e com tanto estímulo nos cegamos diante do único que merece ser visto: a beleza no simples e a perfeição no natural."*
 
 ## Por que criei este guia
 

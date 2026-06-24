@@ -4,7 +4,7 @@ description: "Qui se cache derrière Visit Ilha Grande : Richard, qui vit sur l'
 lang: "fr"
 slug: "a-propos"
 translationKey: "about"
-updatedDate: 2026-06-14
+updatedDate: 2026-06-23
 author: "Richard"
 faq:
   - q: "Qui écrit ce guide ?"
@@ -25,7 +25,9 @@ J'ai rencontré ma femme à Córdoba, où je vivais alors ; elle est de Buenos A
 
 Dès le début, ce fut plus facile que prévu. L'île nous a accueillis — même pendant la pandémie — et chaque jour nous la comprenons un peu mieux et nous fondons un peu plus dans sa nature. Près de sept ans plus tard, c'est chez nous.
 
-> Ilha Grande est un miroir sculpté par la sagesse de la nature, où l'on parvient à se voir *soi-même* pour la première fois — non plus le simple reflet matériel. Peut-être ne nous en rendons-nous pas compte, mais tant de bruit, tant de hâte, tant d'anxiété, tant de désir démesuré, tant de sur-stimulation nous empêchent de voir la beauté dans la simplicité et la perfection dans le naturel.
+> *"Ce lieu cache d'innombrables miroirs parmi ses arbres paisibles et ses douces cascades. La sage nature a su les polir avec des siècles de patience. Quiconque ose s'y pencher se voit, peut-être, pour la première fois. Sa vertu ne renvoie pas la figure ; elle révèle l'être qui l'habite.*
+>
+> *Nous vivons persuadés que le tumulte est plénitude et la hâte, destin. Avec tant de bruit nous ne remarquons rien, avec tant d'avidité nous ne contemplons pas, avec tant de désir nous nous asphyxions, et avec tant de stimulation nous devenons aveugles à la seule chose qui mérite d'être vue : la beauté dans le simple et la perfection dans le naturel."*
 
 ## Pourquoi j'ai créé ce guide
 

@@ -4,7 +4,7 @@ description: "Quién está detrás de Visit Ilha Grande: Richard, que vive en la
 lang: "es"
 slug: "acerca-de"
 translationKey: "about"
-updatedDate: 2026-06-14
+updatedDate: 2026-06-23
 author: "Richard"
 faq:
   - q: "¿Quién escribe esta guía?"
@@ -25,7 +25,9 @@ Conocí a mi mujer en Córdoba, donde yo vivía entonces; ella es de Buenos Aire
 
 Desde el principio fue más fácil de lo que esperábamos. La isla nos acogió — incluso durante la pandemia — y cada día la entendemos un poco mejor y nos mimetizamos un poco más con su naturaleza. Casi siete años después, este es nuestro hogar.
 
-> Esta isla es un espejo esculpido por la sabiduría de la naturaleza en donde uno consigue verse por primera vez, ya no al simple reflejo material. Tal vez no nos damos cuenta, pero tanto bullicio, tanta prisa, tanta ansiedad, tanto deseo desmesurado, tanto sobreestímulo nos impide ver belleza en la simpleza y perfección en lo natural.
+> *"Este lugar esconde innumerables espejos entre sus apacibles árboles y mansas cascadas. La sabia naturaleza ha sabido pulirlos con siglos de paciencia. Quien se atreva a asomarse a ella se ve, acaso, por primera vez. Su virtud no devuelve la figura; revela al ser que en ella habita.*
+>
+> *Vivimos convencidos de que el bullicio es plenitud y la prisa destino. Con tanto ruido no advertimos, con tanta ansia no contemplamos, con tanto deseo nos asfixiamos, y con tanto estímulo nos enceguecemos ante lo único que merece ser visto: la belleza en lo simple y la perfección en lo natural."*
 
 ## Por qué creé esta guía
 

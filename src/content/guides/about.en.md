@@ -4,7 +4,7 @@ description: "Who is behind Visit Ilha Grande: Richard, who lives on the island 
 lang: "en"
 slug: "about"
 translationKey: "about"
-updatedDate: 2026-06-14
+updatedDate: 2026-06-23
 author: "Richard"
 faq:
   - q: "Who writes this guide?"
@@ -25,7 +25,9 @@ I met my wife in Córdoba, where I was living at the time; she's from Buenos Air
 
 From the start it was easier than we expected. The island welcomed us — even through the pandemic — and with every day we've understood it a little better and blended a little more into its nature. Almost seven years on, this is home.
 
-> Ilha Grande is a mirror sculpted by the wisdom of nature, where you come to see *yourself* for the first time — no longer the mere material reflection. Maybe we don't realise it, but so much noise, so much rush, so much anxiety, so much excessive desire, so much over-stimulation keeps us from seeing the beauty in simplicity and the perfection in what is natural.
+> *"This place hides countless mirrors among its peaceful trees and gentle waterfalls. Wise nature has polished them with centuries of patience. Whoever dares to lean in and look may see themselves, perhaps, for the first time. Its gift is not to give back your figure; it reveals the being that dwells within it.*
+>
+> *We live convinced that noise is fullness and haste is destiny. With so much noise we do not notice, with so much craving we do not contemplate, with so much desire we suffocate, and with so much stimulation we go blind to the only thing worth seeing: the beauty in what is simple and the perfection in what is natural."*
 
 ## Why I built this guide
 
