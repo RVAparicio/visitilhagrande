@@ -4,7 +4,7 @@ description: "A local's guide to hiking Ilha Grande: the five best marked trails
 lang: "en"
 slug: "ilha-grande-trails"
 translationKey: "trails"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-24
 author: "Richard"
 faq:
   - q: "Do you have to pay to hike on Ilha Grande?"
@@ -46,6 +46,8 @@ The trails are wonderful but it is still real rainforest. A few things that matt
 
 ## Lopes Mendes (T10 + T11)
 
+![Aerial of Lopes Mendes beach with turquoise surf, the reward at the end of the trail, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
+
 We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* It's the island's most iconic beach — famous across Brazil and known worldwide — and a perfect full-day plan for almost anyone.
 
 The classic walk follows **T10** then **T11**, starting in Abraão and passing **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and roughly **3.5 to 4 hours** one way, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
@@ -55,6 +57,8 @@ The classic walk follows **T10** then **T11**, starting in Abraão and passing *
 **Local tip — the deserted end.** Instead of T11, you can combine **T10 + T12** (about 4 km) and come out at the *far end* of Lopes Mendes — a stretch of beach that almost nobody walks to, so you often have it to yourself. To get back, either return towards Pouso along T12, or walk about 2 km along the sand and return on T11.
 
 ## Dois Rios
+
+![Aerial of the abandoned Cândido Mendes prison ruins at Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
 The walk to **Praia de Dois Rios** mixes history, nature and a little adventure. On foot it's trail **T14** (Abraão → Praia de Dois Rios), following the road used by the university (UERJ) vehicles — well signed, about **7 km**, taking around **2.5 hours** through beaches, forest and hills.
 
@@ -66,6 +70,8 @@ Start **before 8am and head back by ~15:30**: boats back to Abraão aren't guara
 
 ## Feiticeira
 
+![The Cachoeira da Feiticeira waterfall in the rainforest, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
+
 One of the most rewarding walks on the island: from Vila do Abraão to **Praia da Feiticeira**, through forest, historic ruins and a string of beaches. About **6.4 km**, **moderate**, with a maximum elevation of ~203 m — a one-way route of roughly **90 minutes to 2 hours**.
 
 Along the way you pass **Praia Preta** (dark-sand beach), the **Lazareto ruins** (a 19th-century quarantine station), an old **aqueduct**, the **Poção** natural pool, and finally the **Feiticeira waterfall** and beach. You can walk back the same way, or check for a boat from Feiticeira beach.
@@ -73,6 +79,8 @@ Along the way you pass **Praia Preta** (dark-sand beach), the **Lazareto ruins**
 📍 [See the full route on Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
 
 ## Pico do Papagaio
+
+![Hikers on the Pico do Papagaio summit at sunrise above the bay, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
 The most sought-after trail on Ilha Grande — and the most demanding. Pico do Papagaio is the island's **second-highest point at 982 m**, just below Pico da Pedra d'Água (1,035 m). From the top, on a clear day, you can see much of the island and the mainland — Restinga da Marambaia, Pedra da Gávea in Rio, even Dedo de Deus in the Serra dos Órgãos.
 
@@ -83,6 +91,8 @@ It's trail **T13** (Abraão → Pico do Papagaio, ~6 km each way): a hard climb,
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
 
 ## Historic Circuit of Vila do Abraão (T1)
+
+![The 19th-century aqueduct ruins on the Historic Circuit (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
 The easiest and most accessible walk, perfect if you want the island's history without a hard hike. **T1 (Circuito Abraão)** starts in the centre of Vila do Abraão, near the main pier, and is mostly flat. The core loop is about **1.8 km / ~1 hour**; allow **2–3 hours** if you stop to explore the ruins and Praia Preta. Easy to moderate, good for families.
 

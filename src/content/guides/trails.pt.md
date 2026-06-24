@@ -4,7 +4,7 @@ description: "O guia de quem mora aqui para fazer trilhas na Ilha Grande: as cin
 lang: "pt"
 slug: "trilhas-ilha-grande"
 translationKey: "trails"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-24
 author: "Richard"
 faq:
   - q: "Precisa pagar para fazer as trilhas na Ilha Grande?"
@@ -46,6 +46,8 @@ As trilhas são maravilhosas, mas é mata atlântica de verdade. Algumas coisas 
 
 ## Lopes Mendes (T10 + T11)
 
+![Vista aérea de Lopes Mendes com ondas turquesa, a recompensa no fim da trilha, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
+
 Temos um ditado na pousada: *"se você não sabe o que fazer hoje, vá para Lopes Mendes."* É a praia mais icônica da ilha — famosa em todo o Brasil e reconhecida no mundo inteiro — e um programa perfeito para um dia inteiro, para quase qualquer pessoa.
 
 A caminhada clássica segue a **T10** e depois a **T11**, saindo do Abraão e passando pela **Praia de Palmas** a caminho de Pouso. São cerca de **7,2 km** e mais ou menos **3,5 a 4 horas** só na ida, nível **moderado a difícil**. O trecho da T10 do Abraão até Palmas é lindo, com a mata protegendo do sol; a própria Palmas é um ótimo lugar para uma parada. Depois de chuva, redobre o cuidado — escorrega.
@@ -55,6 +57,8 @@ A caminhada clássica segue a **T10** e depois a **T11**, saindo do Abraão e pa
 **Dica de local — a ponta deserta.** Em vez da T11, você pode combinar **T10 + T12** (cerca de 4 km) e sair na *ponta* de Lopes Mendes — um trecho de praia onde quase ninguém vai, que muitas vezes você terá só para você. Para voltar, siga em direção a Pouso pela T12, ou caminhe uns 2 km pela areia e volte pela T11.
 
 ## Dois Rios
+
+![Vista aérea das ruínas do antigo presídio Cândido Mendes em Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
 A caminhada até a **Praia de Dois Rios** mistura história, natureza e um pouco de aventura. A pé é a trilha **T14** (Abraão → Praia de Dois Rios), que segue a estrada usada pelos veículos da universidade (UERJ) — bem sinalizada, cerca de **7 km**, levando uns **2,5 horas** por praias, mata e morros.
 
@@ -66,6 +70,8 @@ Saia **antes das 8h e volte por volta das 15h30**: os barcos de volta para o Abr
 
 ## Feiticeira
 
+![A Cachoeira da Feiticeira em meio à mata, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
+
 Uma das caminhadas mais gratificantes da ilha: da Vila do Abraão até a **Praia da Feiticeira**, por mata, ruínas históricas e uma sequência de praias. Cerca de **6,4 km**, **moderada**, com altitude máxima de ~203 m — um trajeto só de ida de aproximadamente **90 minutos a 2 horas**.
 
 No caminho você passa pela **Praia Preta** (areia escura), pelas **ruínas do Lazareto** (uma estação de quarentena do século XIX), por um antigo **aqueduto**, pela piscina natural do **Poção** e, por fim, pela **cachoeira da Feiticeira** e sua praia. Você pode voltar pelo mesmo caminho ou ver se há barco saindo da praia da Feiticeira.
@@ -73,6 +79,8 @@ No caminho você passa pela **Praia Preta** (areia escura), pelas **ruínas do L
 📍 [Veja o trajeto completo no Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
 
 ## Pico do Papagaio
+
+![Trilheiros no cume do Pico do Papagaio ao amanhecer sobre a baía, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
 A trilha mais procurada da Ilha Grande — e a mais exigente. O Pico do Papagaio é o **segundo ponto mais alto da ilha, com 982 m**, logo abaixo do Pico da Pedra d'Água (1.035 m). Do alto, em dia claro, dá para ver grande parte da ilha e do continente — a Restinga da Marambaia, a Pedra da Gávea no Rio e até o Dedo de Deus na Serra dos Órgãos.
 
@@ -83,6 +91,8 @@ A trilha mais procurada da Ilha Grande — e a mais exigente. O Pico do Papagaio
 📍 [Veja o trajeto completo no Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
 
 ## Circuito Histórico de Vila do Abraão (T1)
+
+![As ruínas do aqueduto do século XIX no Circuito Histórico (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
 A caminhada mais fácil e acessível, perfeita se você quer a história da ilha sem uma trilha pesada. A **T1 (Circuito Abraão)** começa no centro da Vila do Abraão, perto do cais principal, e é quase toda plana. O circuito principal tem cerca de **1,8 km / ~1 h**; reserve **2–3 horas** se for explorar as ruínas e a Praia Preta. Fácil a moderada, ótima para famílias.
 

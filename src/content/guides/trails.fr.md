@@ -4,7 +4,7 @@ description: "Le guide d'un local pour randonner à Ilha Grande : les cinq plus 
 lang: "fr"
 slug: "sentiers-ilha-grande"
 translationKey: "trails"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-24
 author: "Richard"
 faq:
   - q: "Faut-il payer pour randonner à Ilha Grande ?"
@@ -46,6 +46,8 @@ Les sentiers sont superbes, mais c'est de la vraie forêt tropicale. Quelques r�
 
 ## Lopes Mendes (T10 + T11)
 
+![Vue aérienne de Lopes Mendes et ses vagues turquoise, la récompense au bout du sentier, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
+
 On a un dicton à la pousada : *« si tu ne sais pas quoi faire aujourd'hui, va à Lopes Mendes. »* C'est la plage la plus emblématique de l'île — célèbre dans tout le Brésil et reconnue dans le monde entier — et un programme parfait pour une journée entière, accessible à presque tout le monde.
 
 La marche classique suit le **T10** puis le **T11**, depuis Abraão et en passant par la **Praia de Palmas** vers Pouso. Environ **7,2 km** et à peu près **3,5 à 4 heures** à l'aller, niveau **modéré à difficile**. La portion T10 d'Abraão à Palmas est magnifique, à l'ombre de la forêt ; Palmas elle-même est un bel endroit pour faire une pause. Après la pluie, redoublez de prudence — ça glisse.
@@ -55,6 +57,8 @@ La marche classique suit le **T10** puis le **T11**, depuis Abraão et en passan
 **Astuce de local — le bout désert.** Au lieu du T11, vous pouvez combiner le **T10 + T12** (environ 4 km) et déboucher à l'*extrémité* de Lopes Mendes — une portion de plage où presque personne ne va, que vous aurez souvent pour vous seul. Pour rentrer, repartez vers Pouso par le T12, ou marchez environ 2 km sur le sable et revenez par le T11.
 
 ## Dois Rios
+
+![Vue aérienne des ruines de l'ancienne prison Cândido Mendes à Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
 La marche vers la **Praia de Dois Rios** mêle histoire, nature et un brin d'aventure. À pied, c'est le sentier **T14** (Abraão → Praia de Dois Rios), qui suit la route empruntée par les véhicules de l'université (UERJ) — bien balisé, environ **7 km**, soit près de **2,5 heures** à travers plages, forêt et collines.
 
@@ -66,6 +70,8 @@ Partez **avant 8h et rentrez vers 15h30** : les bateaux de retour vers Abraão n
 
 ## Feiticeira
 
+![La cascade Cachoeira da Feiticeira dans la forêt, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
+
 L'une des marches les plus gratifiantes de l'île : de Vila do Abraão à la **Praia da Feiticeira**, à travers forêt, ruines historiques et une succession de plages. Environ **6,4 km**, **modérée**, avec un point culminant à ~203 m — un parcours en aller simple d'environ **90 minutes à 2 heures**.
 
 En chemin, vous passez la **Praia Preta** (plage de sable sombre), les **ruines du Lazareto** (une station de quarantaine du XIXe siècle), un vieil **aqueduc**, la piscine naturelle du **Poção**, puis enfin la **cascade de Feiticeira** et sa plage. Vous pouvez revenir par le même chemin, ou guetter un bateau depuis la plage de Feiticeira.
@@ -73,6 +79,8 @@ En chemin, vous passez la **Praia Preta** (plage de sable sombre), les **ruines 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
 
 ## Pico do Papagaio
+
+![Randonneurs au sommet du Pico do Papagaio au lever du soleil au-dessus de la baie, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
 Le sentier le plus convoité d'Ilha Grande — et le plus exigeant. Le Pico do Papagaio est le **deuxième point le plus haut de l'île, à 982 m**, juste sous le Pico da Pedra d'Água (1 035 m). Du sommet, par temps clair, on voit une grande partie de l'île et du continent — la Restinga da Marambaia, la Pedra da Gávea à Rio, et même le Dedo de Deus dans la Serra dos Órgãos.
 
@@ -83,6 +91,8 @@ C'est le sentier **T13** (Abraão → Pico do Papagaio, ~6 km à l'aller) : une 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
 
 ## Circuit Historique de Vila do Abraão (T1)
+
+![Les ruines de l'aqueduc du XIXe siècle sur le Circuit Historique (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
 La marche la plus facile et la plus accessible, idéale si vous voulez l'histoire de l'île sans une randonnée difficile. Le **T1 (Circuito Abraão)** part du centre de Vila do Abraão, près du quai principal, et reste essentiellement plat. La boucle principale fait environ **1,8 km / ~1 h** ; comptez **2–3 heures** si vous explorez les ruines et la Praia Preta. Facile à modéré, parfait en famille.
 
