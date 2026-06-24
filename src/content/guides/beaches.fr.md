@@ -34,6 +34,53 @@ Si vous n'avez que quelques jours, en résumé : **Lopes Mendes** pour la plage 
 | **Lagoa Verde** | Excursion goélette / vedette | Snorkeling, familles |
 | **Palmas** | Sentier (T10) | Une pause tranquille avant Lopes Mendes |
 
+## Les plages accessibles à pied depuis Abraão
+
+Vila do Abraão est votre camp de base sur l'île, et c'est le seul endroit d'où vous pouvez partir à pied. Presque tout le reste d'Ilha Grande se rejoint en bateau, mais il existe une part étonnamment grande de littoral que vous pouvez atteindre avec rien de plus qu'une bonne paire de chaussures et une bouteille d'eau.
+
+Un mot avant de partir : les plages au nord d'Abraão sont sauvages. Il n'y a ni vendeurs, ni kiosques, aucun endroit où acheter une boisson ou un en-cas — alors emportez votre propre nourriture et de l'eau. Les plages à l'est de la ville, le long du sentier côtier, sont plus aménagées, ce que j'ai signalé ci-dessous.
+
+### Vers le nord : Praia Preta et Praia do Galego
+
+La marche vers le nord est plate et facile, et c'est l'escapade la plus proche du village.
+
+- **Praia Preta** — Très proche d'Abraão et plate sur tout le trajet. C'est une plage de sable noir (le sable est sombre, presque d'aspect volcanique), belle et propre. Elle est sauvage, sans aucune infrastructure.
+- **Praia do Galego** — Un peu plus au nord, après l'éperon rocheux de la rivière et les ruines de l'ancien *lazareto* (l'hôpital de quarantaine historique). Elle est paisible, avec une eau magnifiquement claire. Comme Praia Preta, elle est sauvage — emportez tout ce dont vous avez besoin.
+
+### Vers l'est : Júlia, Crena et Abraãozinho
+
+Suivez le sentier côtier vers l'est et vous enchaînez une poignée de plages, pour finir sur l'une de mes préférées pour une journée détendue.
+
+- **Praia da Júlia** — La première étape, et celle qui est aménagée : on y trouve un très joli bar de plage (*parador*) à l'ambiance lounge et décontractée.
+- **Comprida et Bica** — Juste après Júlia. Ces deux-là sont minuscules et, à vrai dire, pas particulièrement jolies — la plupart des gens ne font que passer.
+- **L'embranchement du sentier** — Juste après celles-ci, le sentier se divise :
+  - **Embranchement de gauche → Praia da Crena** — Une baie dont la signature est son eau plate, calme, « comme repassée ». Elle est idéale pour la nage, le stand-up paddle et le kayak.
+  - **Embranchement de droite → Abraãozinho** — Une belle plage, assez longue, avec une large bande de sable, des vagues douces et une eau très transparente. Celle-ci est aménagée : deux restaurants brésiliens à l'extrémité proche et un très bon bar-restaurant argentin à l'extrémité opposée. Il y a aussi ici un arrêt fixe de taxi-bateau avec des départs constants, ce qui est très pratique — vous pouvez faire l'aller à pied et le retour en bateau.
+
+### Le circuit historique et la Cachoeira da Feiticeira
+
+Si vous voulez de l'histoire et une cascade dans la même randonnée, empruntez le circuit historique vers l'est par le sentier **T2**. L'itinéraire passe devant les monuments de l'île — l'ancien aqueduc et les ruines du *lazareto* — et longe Praia Preta.
+
+Là où commence le T2, juste après l'aqueduc, il y a une longue montée qui culmine à environ **160–200 m**. Le terrain y est argileux, je **ne** recommande donc **pas** ce sentier après une journée de pluie — il devient glissant et désagréable.
+
+Après la montée, un embranchement mène à la **Cachoeira da Feiticeira**, une cascade de 13 mètres avec un bassin naturel qui est splendide en été, surtout après la marche dans la jungle chaude et humide pour y parvenir. Le sentier continue ensuite en descendant jusqu'à la **Praia da Feiticeira**, une petite plage très jolie. De là, vous pouvez prendre un bateau pour revenir à Abraão et vous épargner la marche du retour. (L'itinéraire complet est décrit dans le guide des sentiers.)
+
+### Les marches plus longues : Palmas, Lopes Mendes et Dois Rios
+
+Certaines des plages les plus célèbres de l'île sont elles aussi accessibles à pied depuis Abraão, mais ce sont de véritables randonnées plutôt que de simples promenades. Voici les temps de marche aller pour vous aider à planifier :
+
+| Plage | Sentier(s) | Aller à pied |
+| --- | --- | --- |
+| **Palmas** | T10 | environ **1h40** |
+| **Lopes Mendes** | T10 + T11 | environ **3h** (2h30 à bon rythme) |
+| **Dois Rios** | T14 | **7,2 km, environ 2h30** (2h à bon rythme) |
+
+Je décris chacune de ces plages en détail dans leurs propres sections — ceci sert simplement à vous donner une idée des distances avant de vous engager dans la marche.
+
+### Une note sur Aventureiro
+
+Les voyageurs demandent souvent s'ils peuvent rejoindre **Aventureiro** à pied, tout au sud. Depuis Abraão, la réponse est non — on y accède en bateau, ou par voie terrestre via le sentier **T9 depuis Provetá** (environ 4,3 km ; pas difficile et plutôt bien entretenu, mais c'est tout de même de la jungle, et il peut devenir envahi par la végétation). Une chose qu'il vaut la peine de savoir : une visite normale ne nécessite aucun permis, mais rester plus de deux heures requiert une autorisation — c'est pourquoi les excursions en bateau y font généralement une pause d'environ 1h30.
+
 ## Les incontournables
 
 ### Lopes Mendes

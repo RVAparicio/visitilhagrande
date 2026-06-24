@@ -201,10 +201,10 @@ export const beaches28: Beach28[] = [
     name: 'Enseada de Palmas',
     group: 'vilas',
     desc: {
-      en: `One of the oldest caiçara villages, very sparsely populated and rustic (no mains electricity), with palm trees, campsites and bars. Reached on foot via trail T10 from Abraão (~4.7 km, ~2h30) or by boat. The closest access point to Lopes Mendes.`,
-      fr: `L'un des plus anciens villages caiçaras, très peu peuplé et rustique (sans électricité du réseau), avec palmiers, campings et bars. Accès à pied par le sentier T10 depuis Abraão (~4,7 km, ~2h30) ou en bateau. Le point d'accès le plus proche de Lopes Mendes.`,
-      pt: `Uma das vilas caiçaras mais antigas, muito pouco povoada e rústica (sem luz da rede), com palmeiras, campings e bares. Chega-se a pé pela trilha T10 desde Abraão (~4,7 km, ~2h30) ou de barco. É o acesso mais próximo de Lopes Mendes.`,
-      es: `Una de las vilas caiçaras más antiguas, muy poco poblada y rústica (sin luz de red), con palmeras, campings y bares. Se llega a pie por la T10 desde Abraão (~4,7 km, ~2h30) o en barco. Es el acceso más cercano a Lopes Mendes.`,
+      en: `One of the oldest caiçara villages, very sparsely populated and rustic (no mains electricity), with palm trees, campsites and bars. Reached on foot via trail T10 from Abraão (~4.7 km, ~1h40) or by boat. The closest access point to Lopes Mendes.`,
+      fr: `L'un des plus anciens villages caiçaras, très peu peuplé et rustique (sans électricité du réseau), avec palmiers, campings et bars. Accès à pied par le sentier T10 depuis Abraão (~4,7 km, ~1h40) ou en bateau. Le point d'accès le plus proche de Lopes Mendes.`,
+      pt: `Uma das vilas caiçaras mais antigas, muito pouco povoada e rústica (sem luz da rede), com palmeiras, campings e bares. Chega-se a pé pela trilha T10 desde Abraão (~4,7 km, ~1h40) ou de barco. É o acesso mais próximo de Lopes Mendes.`,
+      es: `Una de las vilas caiçaras más antiguas, muy poco poblada y rústica (sin luz de red), con palmeras, campings y bares. Se llega a pie por la T10 desde Abraão (~4,7 km, ~1h40) o en barco. Es el acceso más cercano a Lopes Mendes.`,
     },
   },
   {
