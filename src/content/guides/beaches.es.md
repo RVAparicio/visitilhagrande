@@ -151,3 +151,77 @@ Una playa tranquila en el lado oeste de la isla, cerca de la zona de Provetá/Av
 ![Buceo libre en el agua azul luminosa de la Gruta do Acaiá, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 No es una playa sino una impresionante **cueva marina**, semisumergida y accesible **solo en barco**. Su magia es la luz: cuando el sol pega en la entrada en el ángulo justo, el agua de adentro se ilumina de un azul eléctrico, mientras el mar resuena en paredes de roca esculpidas por las aguas durante miles de años. Suele visitarse en un paseo de día que también para en las lagunas de snorkel (**Lagoa Azul**, **Lagoa Verde**) y en la cala tranquila de Grumixama.
+
+## Paseos en barco: la isla desde el mar
+
+La mayor parte de Ilha Grande no conoce las carreteras. Las playas que te dejan sin palabras a media frase —calas turquesa, bahías de snorkel donde los peces vienen a ti, cuevas marinas que brillan— están en un litoral al que solo se llega por agua. Un día de barco aquí es lo más parecido a ver la isla como siempre la han visto los pescadores caiçaras: despacio, desde el agua, una bahía a la vez. Si haces un solo paseo durante tu estancia, este es el día cuyas fotos estarás enseñando a la gente durante años.
+
+A algunos de estos lugares también puedes llegar a pie (y para uno de ellos te lo recomendaría encarecidamente —más sobre esto abajo—), pero el sur de mar abierto, las tranquilas lagunas del norte y las islas exteriores del archipiélago de Angra son territorio de barco. Todos los paseos salen del muelle de **Abraão**, a un par de minutos del pueblo.
+
+> **Antes de reservar.** Considera cualquier paseo en barco como tu **día entero**: empiezan a media mañana y vuelven a media tarde, así que planifica solo el desayuno y la cena en torno a ellos. Cada paseo encadena unas **cinco paradas** (aproximadamente cuatro playas o lugares de interés más una parada para comer, de alrededor de una hora cada una). Y recuerda: **los barcos no pueden navegar de noche**, así que nadie vuelve más tarde de alrededor de las 17:30. Empieza temprano y reserva con uno o dos días de antelación: los buenos se llenan.
+
+### Sur de mar abierto: las playas atlánticas (Super Sul, Volta à Ilha)
+
+Este es el lado estrella: la costa atlántica salvaje, la más codiciada y las aguas más bonitas de la isla. Si quieres las playas de azul degradado, de fin del mundo, vienes al sur.
+
+**Super Sul** es el resumen de lo mejor del sur en un solo día: un saludo rápido a **Lopes Mendes** (la playa icónica), snorkel en la **Ilha de Jorge Grego** (un islote para hacer snorkel), el mirador en lo alto del acantilado de **Caxadaço** —donde el degradado de color es, sinceramente, mejor que la pequeña playa que tiene debajo— y una parada para comer en el histórico poblado de la **Vila de Dois Rios**.
+*Paradas: Lopes Mendes · Jorge Grego · Caxadaço · Dois Rios (comida).*
+
+> **Unas palabras sobre Dois Rios en barco.** Llegar en barco implica transbordar a una embarcación local del poblado en mar abierto, y la diminuta cocina no se diseñó para un grupo de paseo: las esperas pueden comerse buena parte de tu parada. **Yo iría caminando a Dois Rios en lugar de hacerlo a las prisas en el barco —consulta la guía de senderos—.** El poblado, sus ríos y el antiguo museo de la prisión merecen horas sin prisa, no una comida apresurada.
+
+**Volta à Ilha** es el gran tour: la vuelta completa alrededor de toda la isla, y el día más largo en el agua. Sientes la enorme escala y el carácter salvaje del lugar. Enlaza **Caxadaço** (mirador en lo alto del acantilado) con dos de las mejores playas del sur, **Parnaioca** (aguas turquesa espectaculares) y **Aventureiro** (hogar de la famosa palmera inclinada 90° que los viajeros mayores reconocerán de un antiguo fondo de pantalla de Windows), y luego termina la parte marina en **Meros** (una bahía de snorkel donde los pescadores dejan descansar sus barcas, así que los peces se concentran cerca de la orilla). La vida marina de la costa oeste es la estrella discreta de este paseo.
+*Paradas: Caxadaço · Parnaioca · Aventureiro · Meros · comida.*
+
+> **La comida: tráela tú.** En casi todos los paseos, la comida **no está incluida**, y el sitio donde se come es un público cautivo elegido por el marinero —sin reseñas de Booking ni de Google que lo mantengan honesto—, así que la relación calidad-precio puede ser irregular. Mi consejo: lleva tus propios bocadillos, fruta, snacks y bebidas, y no te dé vergüenza hacerlo. Si comes fuera, ten cuidado con lo básico: esto es Brasil, el agua del grifo no es potable, y yo desconfiaría de los camarones o del hielo. Nadie quiere pasar la segunda mitad de sus vacaciones indispuesto.
+
+### El norte tranquilo: las dos lagunas (Meia Volta, Gruta do Acaiá)
+
+La gloria del norte son sus aguas resguardadas. Las dos lagunas —**Lagoa Azul**, apreciada por su transparencia, y **Lagoa Verde**, donde casi siempre hay tortugas y el color del agua cambia de forma espectacular— ofrecen el snorkel más tranquilo y cristalino de la isla, perfecto para familias y para nadadores poco seguros. *(Una nota de honestidad sobre Lagoa Azul: una construcción reciente en las cercanías ha empezado a alterar el flujo natural del agua.)*
+
+**Meia Volta** es la media vuelta suave: una introducción fácil y bonita al lado tranquilo, que incluye ambas lagunas más la **Praia do Amor** y la **Praia da Feiticeira** (la que también puedes alcanzar a pie). Un primer día encantador en el agua si el mar abierto te resulta demasiado.
+*Paradas: Lagoa Azul · Lagoa Verde · Praia do Amor · Praia da Feiticeira.*
+
+**Gruta do Acaiá** es la versión mejorada, y lo más memorable que puedes hacer en el lado tranquilo, siempre que no seas claustrofóbico. La **Gruta do Acaiá** en sí es una cueva marina de aguas luminiscentes: entras en la roca por una pendiente de unos **50°** (una inclinación, no una temperatura), tienes que gatear, y el punto más estrecho mide apenas **80 cm** de ancho. La recompensa es deslumbrante: agua que brilla en azul o verde, a veces fosforescente, por la luz que se refracta dentro de la fisura. El paseo lo combina con ambas lagunas y la pequeña y pintoresca cala de **Grumixama** (una cala diminuta).
+*Paradas: Gruta do Acaiá · Lagoa Verde · Lagoa Azul · Grumixama.* (Algunos operadores ofrecen una versión más temprana —consulta la tabla.)
+
+> **Consejo: vale la pena buscar la salida temprana.** La versión más temprana del paseo de la Gruta te lleva a los dos puntos más occidentales (la cueva y Lagoa Verde) **antes de las multitudes**, y resulta un plan perfecto para el día de salida: si tu pousada ofrece salida tardía, puedes estar de vuelta a media tarde para una ducha caliente y una toalla limpia antes de tu traslado de la noche.
+
+### Las islas de Angra: el archipiélago de los famosos (Ilhas Paradisíacas)
+
+Frente al norte de la isla, hacia Angra dos Reis, se encuentran las islas de postal de la zona de Gipoia: deslumbrantes, tranquilas y muy dignas del viaje. El paseo **Ilhas Paradisíacas** visita este archipiélago; aunque recorre las aguas de Gipoia cerca de Angra, sigue saliendo del muelle de **Abraão**.
+
+La parada destacada es **Piedade (Ilha da Piedade)**, la famosa *"Ilha de Caras"*, llamada así por *Caras*, la revista de famosos que se lee en toda Latinoamérica. Todo el mundo quiere la foto en su pequeña capilla donde han posado las estrellas. Si eso no te dice nada, no eres el único.
+
+> **Consejo para extranjeros: cambia Piedade.** Si lo de avistar famosos no es lo tuyo, pide una versión que cambie **Piedade** por **Lagoa Azul** o la **Praia de Flechas** (puedo ayudarte a organizarlo). Esa ruta te ofrece **Aventureiro**, el impresionante islote de arena blanca de **Cataguás**, las pozas de roca para hacer snorkel de **Botinas** y, después, o bien la **Praia de Flechas** o una puesta de sol en **Lagoa Azul**.
+
+> ☀️ **Solo días soleados.** Este conviene reservarlo para tiempo despejado: sencillamente no vale la pena hacerlo con nubes o lluvia.
+
+### Paseos alternativos (Jerónimo, Caipirinha, Passeio do Índio, alquiler privado)
+
+No todos los días en el agua tienen que ser el circuito estándar en lancha rápida. Algunos tienen verdadero carácter propio.
+
+**El paseo de Jerónimo** es el relajado, un poco hippie, que se hace en una **traineira** tradicional con un guía trilingüe. Subes caminando para ver la **Freguesia de Santana** (una aldea histórica), navegas por la hermosa playa de Freguesia de Fora, pasas la tarde en **Lagoa Azul** y comes en **Saco do Céu** con kayak, snorkel y SUP incluidos. Y, sobre todo, es **uno de los poquísimos paseos que incluye la comida**: fácil de organizar y muy recomendable.
+
+**El paseo Caipirinha** es el barco de fiesta: un anfitrión "Jack Sparrow", caipirinhas gratis para todos, navegando en una **goleta (escuna) o galeón**. Frecuente en temporada alta, comida a bordo opcional (se paga aparte o se compra por adelantado).
+
+**Passeio do Índio** se hace en una canoa canadiense: de noche para ver el plancton luminiscente, de día en salidas personalizadas. Una alternativa encantadora y tranquila, y vale la pena.
+
+**El alquiler privado de barco** es la opción de la libertad: hasta 10 pasajeros (ocho es el número cómodo para repartir el coste), totalmente personalizado: **de dos a cuatro horas por lugar** en vez de la hora apresurada, una salida más temprana y un regreso algo más tardío. La única norma estricta sigue vigente: nada de volver de noche, en torno a las 17:30.
+
+### De un vistazo: paseos, rutas y precios aproximados
+
+Los precios de abajo son **aproximados, por persona y fluctúan** con la temporada: tómalos como una guía, no como un presupuesto. Algo que sorprende a la gente: **Super Sul es la ruta de mar abierto más demandada, así que es la más cara**; por eso figura más arriba que la más larga Volta à Ilha, no es una errata. Donde una celda dice *preguntar al reservar*, el detalle varía de verdad y conviene confirmarlo en el momento.
+
+| Paseo | Ruta en una frase | Horario | ~Precio/persona | Comida |
+|---|---|---|---|---|
+| **Super Sul** (lancha) | Lo mejor del Atlántico sur | 10:30–17:00 | ~R$300 | No incluida |
+| **Volta à Ilha** (lancha) | Vuelta completa a la isla | 09:30–17:30 (el más largo, ~8 h) | ~R$200 | No incluida |
+| **Meia Volta** (lancha) | Media vuelta suave, las dos lagunas | 10:30–16:30 (~6 h) | ~R$150 | No incluida |
+| **Gruta do Acaiá** (lancha) | Cueva marina + las dos lagunas | 10:30–17:30 (algunos 09:00–16:00, ~7 h) | ~R$200 | No incluida |
+| **Ilhas Paradisíacas** (lancha) | Islas de Angra/Gipoia | 10:30–17:30 | ~R$170–180 | No incluida |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, sin regreso fijo | ~R$250 | **Incluida** |
+| **Caipirinha** (escuna/galeón) | Crucero de fiesta, caipirinha gratis | 11:30–17:30 | Preguntar al reservar | Opcional (de pago/comprada por adelantado) |
+| **Passeio do Índio** (canoa canadiense) | Plancton de noche, personalizado de día | Preguntar al reservar | Preguntar al reservar | Preguntar al reservar |
+| **Alquiler privado** (barco a medida) | Totalmente personalizado, hasta 10 pax | A medida (sin regreso después de ~17:30) | ~R$1.500/salida (~R$1.400–2.000) | Preguntar al reservar |
+
+No he nombrado operadores aquí a propósito: te orientaré hacia el capitán adecuado según el día y las condiciones cuando estés listo para reservar.

@@ -151,3 +151,77 @@ Uma praia tranquila no lado oeste da ilha, perto da área de Provetá/Aventureir
 ![Mergulho livre na água azul luminosa da Gruta do Acaiá, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 Não é uma praia, mas uma impressionante **gruta marinha**, semissubmersa e acessível **somente de barco**. Sua magia é a luz: quando o sol bate na entrada no ângulo certo, a água por dentro brilha num azul elétrico, enquanto o mar ressoa em paredes de rocha esculpidas pelas águas ao longo de milhares de anos. Costuma ser visitada num passeio de dia que também para nas lagoas de snorkel (**Lagoa Azul**, **Lagoa Verde**) e na enseada tranquila de Grumixama.
+
+## Passeios de barco: a ilha pelo mar
+
+A maior parte da Ilha Grande nunca conheceu uma estrada. As praias que fazem você parar no meio de uma frase — enseadas turquesa, baías de mergulho onde os peixes vêm até você, grutas marinhas que brilham — ficam num litoral que só dá para alcançar de barco. Um dia de barco aqui é o mais perto que dá de ver a ilha como os pescadores caiçaras sempre viram: devagar, a partir da água, uma baía de cada vez. Se você fizer só um passeio durante a sua estadia, este é o dia cujas fotos você vai mostrar para as pessoas por anos.
+
+Alguns desses lugares também dá para chegar a pé (e a um deles eu insistiria que você fosse caminhando — mais sobre isso abaixo), mas o sul de mar aberto, as lagoas calmas do norte e as ilhas externas do arquipélago de Angra são território de barco. Todos os passeios partem do píer do **Abraão**, a poucos minutos da vila.
+
+> **Antes de reservar.** Considere qualquer passeio de barco como o seu **dia inteiro** — eles começam no fim da manhã e voltam no fim da tarde, então planeje apenas o café da manhã e o jantar em torno deles. Cada passeio encadeia cerca de **cinco paradas** (mais ou menos quatro praias ou pontos turísticos mais uma parada para o almoço, cada uma com cerca de uma hora). E lembre-se: **os barcos não podem navegar depois do anoitecer**, então ninguém volta mais tarde do que por volta das 17h30. Comece cedo e reserve com um ou dois dias de antecedência — os bons lotam.
+
+### Sul de mar aberto: as praias do Atlântico (Super Sul, Volta à Ilha)
+
+Este é o lado de tirar o fôlego — a costa atlântica selvagem, a água mais procurada e mais bonita da ilha. Se você quer as praias de azul em degradê, de fim de mundo, é para o sul que se vai.
+
+A **Super Sul** é a coletânea dos destaques do sul num único dia: um rápido olá a **Lopes Mendes** (a praia icônica), um mergulho na **Ilha de Jorge Grego** (uma ilhota de mergulho), o mirante no alto do penhasco do **Caxadaço** — onde o degradê de cores é sinceramente melhor do que a praiazinha lá embaixo — e uma parada para o almoço na histórica **Vila de Dois Rios**.
+*Paradas: Lopes Mendes · Jorge Grego · Caxadaço · Dois Rios (almoço).*
+
+> **Uma palavra sobre Dois Rios de barco.** Chegar lá de barco significa fazer uma transferência para um barco local da vila em mar aberto, e a cozinha minúscula não foi feita para um grupo de passeio — as esperas podem comer boa parte da sua parada. **Eu iria a pé até Dois Rios em vez de correr no barco — veja o guia de trilhas.** A vila, seus rios e o antigo museu do presídio merecem horas sem pressa, não um almoço apressado.
+
+A **Volta à Ilha** é o grande passeio — a volta completa em torno de toda a ilha, e o dia mais longo na água. Você sente a escala e a natureza selvagem do lugar. Ela liga o **Caxadaço** (mirante no alto do penhasco) a duas das melhores praias do sul, **Parnaioca** (água turquesa espetacular) e **Aventureiro** (lar da famosa palmeira inclinada a 90°, que os viajantes mais experientes vão reconhecer de um antigo papel de parede do Windows), e depois encerra a parte marítima em **Meros** (uma baía de mergulho onde os pescadores deixam seus barcos descansando, então os peixes se juntam perto da costa). A vida marinha da costa oeste é a estrela discreta deste passeio.
+*Paradas: Caxadaço · Parnaioca · Aventureiro · Meros · almoço.*
+
+> **Almoço — leve o seu.** Em quase todos os passeios, o almoço **não está incluído**, e o ponto de almoço é uma plateia cativa escolhida pelo marinheiro — sem avaliações no Booking ou no Google para manter o lugar honesto — então o custo-benefício e a qualidade podem ser irregulares. Meu conselho: leve seus próprios sanduíches, frutas, lanches e bebidas, e não tenha vergonha disso. Se você comer fora, atenção ao básico — isto é o Brasil, a água da torneira não é potável, e eu desconfiaria de camarão ou gelo. Ninguém quer passar a segunda metade das férias passando mal.
+
+### O norte calmo: as duas lagoas (Meia Volta, Gruta do Acaiá)
+
+A glória do norte é sua água protegida. As duas lagoas — a **Lagoa Azul**, valorizada pela transparência, e a **Lagoa Verde**, onde quase sempre há tartarugas por perto e a cor da água muda drasticamente — oferecem o mergulho mais calmo e mais cristalino da ilha, perfeito para famílias e para quem nada com receio. *(Uma nota de honestidade sobre a Lagoa Azul: obras recentes nas redondezas começaram a perturbar o fluxo natural da água.)*
+
+A **Meia Volta** é a meia-volta tranquila — uma introdução fácil e bonita ao lado calmo, abrangendo as duas lagoas mais a **Praia do Amor** e a **Praia da Feiticeira** (aquela à qual também dá para chegar a pé). Um primeiro dia delicioso na água, caso o mar aberto pareça demais.
+*Paradas: Lagoa Azul · Lagoa Verde · Praia do Amor · Praia da Feiticeira.*
+
+A **Gruta do Acaiá** é a versão turbinada — e a coisa mais memorável que você pode fazer no lado calmo, desde que você não seja claustrofóbico. A própria **Gruta do Acaiá** é uma gruta marinha com água luminescente: você entra na rocha por uma rampa de cerca de **50° de inclinação** (uma ladeira, não uma temperatura), precisa engatinhar, e o ponto mais estreito tem apenas **80 cm** de largura. A recompensa é deslumbrante — água que brilha em azul ou verde, às vezes fosforescente, pela refração da luz dentro da fenda. O passeio combina isso com as duas lagoas e a minúscula e pitoresca enseada de **Grumixama** (uma enseada minúscula).
+*Paradas: Gruta do Acaiá · Lagoa Verde · Lagoa Azul · Grumixama.* (Alguns operadores fazem uma versão mais cedo — veja a tabela.)
+
+> **Dica — vale a pena perseguir a saída cedo.** A versão mais cedo do passeio da Gruta leva você aos dois pontos mais a oeste (a gruta e a Lagoa Verde) **antes da multidão**, e funciona como um plano perfeito para o dia do check-out: se a sua pousada oferecer late check-out, dá para estar de volta no meio da tarde para um banho quente e uma toalha limpa antes do seu transfer da noite.
+
+### As ilhas de Angra: o arquipélago das celebridades (Ilhas Paradisíacas)
+
+Ao norte da ilha, em direção a Angra dos Reis, ficam as ilhas de cartão-postal da região da Gipoia — deslumbrantes, calmas e que valem muito a viagem. O passeio **Ilhas Paradisíacas** visita esse arquipélago; embora percorra as águas da Gipoia perto de Angra, ele ainda parte do píer do **Abraão**.
+
+A parada de destaque é a **Piedade (Ilha da Piedade)** — a famosa *"Ilha de Caras"*, batizada em homenagem à *Caras*, a revista de celebridades lida em toda a América Latina. Todo mundo quer a foto na sua capelinha onde as estrelas posaram. Se isso não significa nada para você, saiba que você não está sozinho.
+
+> **Dica para estrangeiros — troque a Piedade.** Se caçar celebridades não é a sua praia, peça uma versão que troque a **Piedade** pela **Lagoa Azul** ou pela **Praia de Flechas** (eu posso ajudar a organizar). Esse roteiro lhe dá o **Aventureiro**, a impressionante ilhota de areia branca de **Cataguás**, as piscinas naturais de mergulho das **Botinas** e, depois, ou a **Praia de Flechas** ou um pôr do sol na **Lagoa Azul**.
+
+> ☀️ **Apenas em dias de sol.** Este é um passeio para guardar para o tempo limpo — simplesmente não vale a pena fazer sob nuvens ou chuva.
+
+### Passeios alternativos (Jerónimo, Caipirinha, Passeio do Índio, fretamento privado)
+
+Nem todo dia na água precisa ser o circuito padrão de lancha. Alguns têm personalidade própria de verdade.
+
+O **passeio do Jerónimo** é o descontraído, levemente hippie, feito numa **traineira** tradicional com um guia trilíngue. Você sobe a pé para ver a **Freguesia de Santana** (um povoado histórico), passeia ao longo da linda praia da Freguesia de Fora, passa a tarde na **Lagoa Azul** e almoça no **Saco do Céu**, com caiaque, mergulho e SUP de brinde. O mais importante: é **um dos pouquíssimos passeios que inclui o almoço** — fácil de organizar e que vale muito a pena.
+
+O **passeio Caipirinha** é o barco da festa — um anfitrião "Jack Sparrow", caipirinhas grátis para todos, navegando numa **escuna ou galeão**. Frequente na alta temporada, almoço a bordo opcional (pago à parte ou comprado antecipadamente).
+
+O **Passeio do Índio** acontece numa canoa canadense — à noite para ver o plâncton luminescente, de dia em viagens personalizadas. Uma alternativa adorável e discreta, e que vale a pena.
+
+O **fretamento privado de barco** é a opção da liberdade: até 10 passageiros (oito é o número confortável para dividir o custo), totalmente personalizado — **duas a quatro horas por ponto** em vez da hora apressada, uma saída mais cedo e um retorno um pouco mais tarde. A única regra inflexível continua valendo: nada de voltar depois do anoitecer, por volta das 17h30.
+
+### Num relance: passeios, roteiros e preços aproximados
+
+Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporada — encare-os como um guia, não como um orçamento. Uma coisa que surpreende as pessoas: **a Super Sul é o roteiro de mar aberto mais procurado, então é o mais caro** — é por isso que ela aparece com preço mais alto do que a Volta à Ilha, que é mais longa, e não é um erro de digitação. Onde uma célula diz *consultar na reserva*, o detalhe varia de verdade e é melhor confirmar na hora.
+
+| Passeio | Roteiro numa frase | Horário | ~Preço/pessoa | Almoço |
+|---|---|---|---|---|
+| **Super Sul** (lancha) | Destaques do Atlântico sul | 10h30–17h00 | ~R$300 | Não incluído |
+| **Volta à Ilha** (lancha) | Volta completa em torno da ilha | 09h30–17h30 (o mais longo, ~8 h) | ~R$200 | Não incluído |
+| **Meia Volta** (lancha) | Meia-volta tranquila, as duas lagoas | 10h30–16h30 (~6 h) | ~R$150 | Não incluído |
+| **Gruta do Acaiá** (lancha) | Gruta marinha + as duas lagoas | 10h30–17h30 (algumas 09h00–16h00, ~7 h) | ~R$200 | Não incluído |
+| **Ilhas Paradisíacas** (lancha) | Ilhas de Angra/Gipoia | 10h30–17h30 | ~R$170–180 | Não incluído |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, sem retorno fixo | ~R$250 | **Incluído** |
+| **Caipirinha** (escuna/galeão) | Cruzeiro festivo, caipirinha grátis | 11h30–17h30 | Consultar na reserva | Opcional (pago/comprado antes) |
+| **Passeio do Índio** (canoa canadense) | Plâncton à noite, sob medida de dia | Consultar na reserva | Consultar na reserva | Consultar na reserva |
+| **Fretamento privado** (barco sob medida) | Totalmente personalizado, até 10 pessoas | Sob medida (sem retorno depois das ~17h30) | ~R$1.500/passeio (~R$1.400–2.000) | Consultar na reserva |
+
+Não citei nomes de operadores aqui de propósito — quando você estiver pronto para reservar, eu indico o capitão certo para o dia e as condições.

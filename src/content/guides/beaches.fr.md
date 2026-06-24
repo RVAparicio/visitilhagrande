@@ -151,3 +151,77 @@ Une plage tranquille sur la côte ouest de l'île, près de Provetá/Aventureiro
 ![Apnée dans l'eau bleue lumineuse de la Gruta do Acaiá, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 Pas une plage mais une **grotte marine** spectaculaire, à demi immergée et accessible **uniquement en bateau**. Sa magie, c'est la lumière : quand le soleil frappe l'entrée sous le bon angle, l'eau à l'intérieur s'illumine d'un bleu électrique, tandis que la mer résonne contre des parois sculptées par les flots depuis des milliers d'années. On la visite en général lors d'une sortie à la journée qui s'arrête aussi aux lagons de snorkeling (**Lagoa Azul**, **Lagoa Verde**) et à la crique tranquille de Grumixama.
+
+## Excursions en bateau : l'île par la mer
+
+La plus grande partie d'Ilha Grande ne voit jamais de route. Les plages qui vous coupent le souffle en pleine phrase — criques turquoise, baies de snorkeling où les poissons viennent à vous, grottes marines qui scintillent — bordent un littoral que l'on ne peut atteindre qu'en coque. Une journée en bateau ici, c'est ce qui se rapproche le plus de la façon dont les pêcheurs caiçaras ont toujours vu l'île : lentement, depuis l'eau, une baie après l'autre. Si vous ne faites qu'une seule excursion pendant votre séjour, c'est de cette journée-là que vous montrerez les photos pendant des années.
+
+Quelques-uns de ces endroits sont aussi accessibles à pied (et pour l'un d'eux je vous y encouragerais vivement — j'en reparle plus bas), mais le sud en pleine mer, les lagunes paisibles du nord et les îles extérieures de l'archipel d'Angra sont le pays du bateau. Toutes les excursions partent de l'embarcadère d'**Abraão**, à quelques minutes du village.
+
+> **Avant de réserver.** Considérez chaque excursion en bateau comme votre **journée entière** — elles commencent en fin de matinée et reviennent en fin d'après-midi, alors ne prévoyez que le petit-déjeuner et le dîner autour d'elles. Chaque excursion enchaîne environ **cinq escales** (à peu près quatre plages ou sites plus une halte déjeuner, autour d'une heure chacune). Et rappelez-vous : **les bateaux ne peuvent pas naviguer après la tombée de la nuit**, donc personne ne rentre plus tard que vers 17 h 30. Partez tôt, et réservez un jour ou deux à l'avance — les bonnes excursions se remplissent vite.
+
+### Le sud en pleine mer : les plages de l'Atlantique (Super Sul, Volta à Ilha)
+
+C'est le côté grandiose — la côte atlantique sauvage, l'eau la plus recherchée et la plus belle de l'île. Si vous voulez les plages bleu dégradé, au bout du monde, c'est au sud qu'il faut aller.
+
+**Super Sul** réunit le meilleur du sud en une seule journée : un bonjour rapide à **Lopes Mendes** (la plage emblématique), une séance de snorkeling à **Ilha de Jorge Grego** (un îlot de snorkeling), le point de vue en haut de falaise de **Caxadaço** — où le dégradé de couleurs est honnêtement plus beau que la petite plage en contrebas — et une halte déjeuner au village historique de **Vila de Dois Rios**.
+*Escales : Lopes Mendes · Jorge Grego · Caxadaço · Dois Rios (déjeuner).*
+
+> **Un mot sur Dois Rios en bateau.** Y accéder en bateau implique de transborder sur un bateau du village en pleine mer, et la minuscule cuisine n'a pas été conçue pour un groupe d'excursionnistes — l'attente peut grignoter votre escale. **Je préférerais marcher jusqu'à Dois Rios plutôt que de l'expédier en bateau — voir le guide des sentiers.** Le village, ses rivières et l'ancien musée de la prison méritent des heures sans hâte, pas un déjeuner précipité.
+
+**Volta à Ilha** est le grand tour — la boucle complète tout autour de l'île, et la plus longue journée sur l'eau. On ressent toute l'ampleur et la sauvagerie de l'endroit. Elle relie **Caxadaço** (point de vue en haut de falaise) à deux des plus belles plages du sud, **Parnaioca** (eau turquoise spectaculaire) et **Aventureiro** (où se trouve le fameux palmier penché à 90° que les voyageurs plus âgés reconnaîtront d'un ancien fond d'écran Windows), puis termine la partie marine à **Meros** (une baie de snorkeling où les pêcheurs amarrent leurs bateaux, si bien que les poissons se rassemblent près du rivage). La vie marine de la côte ouest est la star discrète de cette excursion.
+*Escales : Caxadaço · Parnaioca · Aventureiro · Meros · déjeuner.*
+
+> **Le déjeuner — apportez le vôtre.** Sur presque toutes les excursions, le déjeuner n'est **pas inclus**, et le lieu de la halte est un public captif choisi par le marin — pas d'avis Booking ou Google pour garantir l'honnêteté — donc le rapport qualité-prix peut être inégal. Mon conseil : préparez vos propres sandwichs, fruits, en-cas et boissons, et n'ayez aucune gêne à le faire. Si vous mangez à l'extérieur, faites attention aux bases — nous sommes au Brésil, l'eau du robinet n'est pas potable, et je me méfierais des crevettes ou des glaçons. Personne n'a envie de passer la seconde moitié de ses vacances mal en point.
+
+### Le nord paisible : les deux lagunes (Meia Volta, Gruta do Acaiá)
+
+La gloire du nord, c'est son eau abritée. Les deux lagunes — **Lagoa Azul**, prisée pour sa transparence, et **Lagoa Verde**, où les tortues sont presque toujours présentes et où la couleur de l'eau change radicalement — offrent le snorkeling le plus calme et le plus limpide de l'île, parfait pour les familles et les nageurs craintifs. *(Une note d'honnêteté sur Lagoa Azul : des travaux récents à proximité ont commencé à perturber l'écoulement naturel de l'eau.)*
+
+**Meia Volta** est la demi-boucle tout en douceur — une introduction facile et jolie au côté paisible, comprenant les deux lagunes ainsi que **Praia do Amor** et **Praia da Feiticeira** (celle que l'on peut aussi rejoindre à pied). Une belle première journée sur l'eau si la pleine mer vous paraît un peu beaucoup.
+*Escales : Lagoa Azul · Lagoa Verde · Praia do Amor · Praia da Feiticeira.*
+
+**Gruta do Acaiá** est la version supérieure — et la chose la plus mémorable que l'on puisse faire sur le côté paisible, à condition de ne pas être claustrophobe. La **Gruta do Acaiá** elle-même est une grotte marine à l'eau luminescente : on pénètre dans la roche par une pente d'environ **50°** (une inclinaison, pas une température), il faut ramper, et le point le plus étroit ne fait que **80 cm** de large. La récompense est éblouissante — une eau qui rayonne bleu ou vert, parfois phosphorescente, sous la lumière qui se réfracte à l'intérieur de la fissure. L'excursion l'associe aux deux lagunes et à la minuscule et pittoresque crique de **Grumixama** (une toute petite crique).
+*Escales : Gruta do Acaiá · Lagoa Verde · Lagoa Azul · Grumixama.* (Certains opérateurs proposent une version plus matinale — voir le tableau.)
+
+> **Astuce — le départ matinal vaut la peine d'être recherché.** La version plus matinale de l'excursion de la Gruta vous amène aux deux sites les plus à l'ouest (la grotte et Lagoa Verde) **avant la foule**, et elle constitue un plan parfait pour le jour du départ : si votre pousada propose un départ tardif, vous pouvez être de retour en milieu d'après-midi pour une douche chaude et une serviette propre avant votre transfert du soir.
+
+### Les îles d'Angra : l'archipel des célébrités (Ilhas Paradisíacas)
+
+Au large du nord de l'île, en direction d'Angra dos Reis, s'étendent les îles de carte postale de la zone de Gipoia — éblouissantes, calmes et qui valent largement le déplacement. L'excursion **Ilhas Paradisíacas** visite cet archipel ; même si elle parcourt les eaux de Gipoia près d'Angra, elle part toujours de l'embarcadère d'**Abraão**.
+
+L'escale phare est **Piedade (Ilha da Piedade)** — la célèbre *« Ilha de Caras »*, nommée d'après *Caras*, le magazine people lu dans toute l'Amérique latine. Tout le monde veut la photo devant sa petite chapelle où les stars ont posé. Si cela ne vous évoque rien, vous n'êtes pas le seul.
+
+> **Astuce pour les étrangers — remplacez Piedade.** Si la chasse aux célébrités n'est pas votre truc, demandez une version qui remplace **Piedade** par **Lagoa Azul** ou **Praia de Flechas** (je peux vous aider à l'organiser). Cet itinéraire vous offre **Aventureiro**, l'impressionnant îlot de sable blanc de **Cataguás**, les piscines naturelles de snorkeling de **Botinas**, puis soit **Praia de Flechas**, soit un coucher de soleil à **Lagoa Azul**.
+
+> ☀️ **Uniquement par beau temps.** Celle-ci est à réserver pour un temps clair — elle ne vaut tout simplement pas la peine sous les nuages ou la pluie.
+
+### Excursions alternatives (Jerónimo, Caipirinha, Passeio do Índio, location privée)
+
+Toutes les journées sur l'eau ne sont pas obligées d'être le circuit classique en vedette rapide. Quelques-unes ont un vrai caractère bien à elles.
+
+**L'excursion de Jerónimo** est la version détendue, un brin baba cool, menée à bord d'un **traineira** traditionnel avec un guide trilingue. On monte voir la **Freguesia de Santana** (un hameau historique), on flâne le long de la belle plage de Freguesia de Fora, on passe l'après-midi à **Lagoa Azul**, et on déjeune à **Saco do Céu** avec kayak, snorkeling et SUP en prime. Point crucial : c'est **l'une des très rares excursions qui inclut le déjeuner** — facile à organiser et qui en vaut vraiment la peine.
+
+**L'excursion Caipirinha** est le bateau festif — un hôte « Jack Sparrow », caipirinhas gratuites à volonté, navigation à bord d'une **goélette (escuna) ou d'un galion**. Fréquente en haute saison, déjeuner à bord en option (payé séparément ou acheté à l'avance).
+
+**Passeio do Índio** se fait en canoë canadien — de nuit pour voir le plancton luminescent, de jour lors de sorties personnalisées. Une alternative ravissante et discrète, qui en vaut la peine.
+
+**La location privée de bateau** est l'option liberté : jusqu'à 10 passagers (huit est le nombre confortable pour partager le coût), entièrement personnalisée — **deux à quatre heures par site** au lieu de l'heure expédiée, un départ plus tôt et une fin légèrement plus tardive. La seule règle stricte s'applique toujours : pas de retour après la tombée de la nuit, vers 17 h 30.
+
+### En un coup d'œil : excursions, itinéraires et prix indicatifs
+
+Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la saison — considérez-les comme un repère, pas comme un devis. Une chose qui surprend les gens : **Super Sul est l'itinéraire en pleine mer le plus demandé, c'est donc le plus cher** — voilà pourquoi il figure plus haut que le Volta à Ilha pourtant plus long, ce n'est pas une coquille. Lorsqu'une case indique *à demander à la réservation*, le détail varie réellement et il vaut mieux le confirmer sur le moment.
+
+| Excursion | Itinéraire en une phrase | Horaires | ~Prix/personne | Déjeuner |
+|---|---|---|---|---|
+| **Super Sul** (lancha) | Les incontournables du sud atlantique | 10h30–17h00 | ~300 R$ | Non inclus |
+| **Volta à Ilha** (lancha) | Boucle complète autour de l'île | 09h30–17h30 (la plus longue, ~8 h) | ~200 R$ | Non inclus |
+| **Meia Volta** (lancha) | Demi-boucle en douceur, les deux lagunes | 10h30–16h30 (~6 h) | ~150 R$ | Non inclus |
+| **Gruta do Acaiá** (lancha) | Grotte marine + les deux lagunes | 10h30–17h30 (parfois 09h00–16h00, ~7 h) | ~200 R$ | Non inclus |
+| **Ilhas Paradisíacas** (lancha) | Îles d'Angra/Gipoia | 10h30–17h30 | ~170–180 R$ | Non inclus |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, sans retour fixe | ~250 R$ | **Inclus** |
+| **Caipirinha** (escuna/galion) | Croisière festive, caipirinha gratuite | 11h30–17h30 | À demander à la réservation | En option (payé/acheté à l'avance) |
+| **Passeio do Índio** (canoë canadien) | Plancton la nuit, sur mesure le jour | À demander à la réservation | À demander à la réservation | À demander à la réservation |
+| **Location privée** (bateau au choix) | Entièrement personnalisée, jusqu'à 10 pers. | Sur mesure (pas de retour après ~17h30) | ~1 500 R$/sortie (~1 400–2 000 R$) | À demander à la réservation |
+
+Je n'ai volontairement pas nommé d'opérateurs ici — je vous orienterai vers le bon capitaine selon la journée et les conditions lorsque vous serez prêt à réserver.

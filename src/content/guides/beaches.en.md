@@ -151,3 +151,77 @@ A quiet beach on the western side of the island, near the Provetá/Aventureiro a
 ![Freediving in the glowing blue water of the Gruta do Acaiá sea cave, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 Not a beach but a striking **sea cave**, half-submerged and reachable **only by boat**. Its magic is the light: when the sun hits the entrance at the right angle, the water inside glows an electric blue, while the sea echoes off rock walls sculpted over thousands of years. It's usually visited on a day-tour that also stops at the snorkelling lagoons (**Lagoa Azul**, **Lagoa Verde**) and the quiet cove of Grumixama.
+
+## Boat tours: the island by sea
+
+Most of Ilha Grande never sees a road. The beaches that stop you mid-sentence — turquoise coves, snorkelling bays where the fish come to you, sea caves that glow — sit on a coastline you can only reach by hull. A boat day here is the closest thing to seeing the island the way the caiçara fishermen always have: slowly, from the water, one bay at a time. If you take just one tour from your stay, this is the day you'll be showing people photos of for years.
+
+A few of these spots you can also walk to (and for one of them I'd urge you to — more below), but the open-sea south, the calm northern lagoons and the outer islands of the Angra archipelago are boat country. Every tour leaves from the **Abraão** pier, a couple of minutes from the village.
+
+> **Before you book.** Treat any boat tour as your **whole day** — they start late morning and are back by late afternoon, so plan only breakfast and dinner around them. Each tour strings together about **five stops** (roughly four beaches or sights plus one lunch stop, around an hour each). And remember: **boats can't navigate after dark**, so nobody returns later than about 5:30 pm. Start early, and book a day or two ahead — the good ones fill up.
+
+### Open-sea south: the Atlantic beaches (Super Sul, Volta à Ilha)
+
+This is the showstopper side — the wild Atlantic coast, the most sought-after and the prettiest water on the island. If you want the gradient-blue, end-of-the-world beaches, you come south.
+
+**Super Sul** is the highlight reel of the south in a single day: a quick hello to **Lopes Mendes** (the iconic beach), a snorkel at **Ilha de Jorge Grego** (a snorkelling islet), the clifftop **Caxadaço** viewpoint — where the colour gradient is honestly better than the little beach below it — and a lunch stop at the historic village of **Vila de Dois Rios**.
+*Stops: Lopes Mendes · Jorge Grego · Caxadaço · Dois Rios (lunch).*
+
+> **A word on Dois Rios by boat.** Reaching it by boat means transferring to a local village boat out in open sea, and the tiny kitchen wasn't built for a tour group — waits can eat into your stop. **I'd walk to Dois Rios rather than rush it on the boat — see the trails guide.** The village, its rivers and the old prison museum deserve unhurried hours, not a hurried lunch.
+
+**Volta à Ilha** is the grand tour — the full loop right around the island, and the longest day on the water. You feel the sheer scale and wildness of the place. It links **Caxadaço** (clifftop viewpoint) with two of the south's finest beaches, **Parnaioca** (spectacular turquoise water) and **Aventureiro** (home of the famously 90°-leaning palm older travellers will recognise from an old Windows wallpaper), then finishes the marine half at **Meros** (a snorkelling bay where fishermen rest their boats, so fish gather close to shore). The west-shore marine life is the quiet star of this one.
+*Stops: Caxadaço · Parnaioca · Aventureiro · Meros · lunch.*
+
+> **Lunch — bring your own.** On nearly every tour, lunch is **not included**, and the lunch spot is a captive audience picked by the sailor — no Booking or Google reviews keeping it honest — so value and quality can be uneven. My advice: pack your own sandwiches, fruit, snacks and drinks, and don't be shy about it. If you do eat out, mind the basics — this is Brazil, the tap water isn't drinkable, and I'd be wary of shrimp or ice. Nobody wants to spend the back half of their holiday unwell.
+
+### The calm north: the two lagoons (Meia Volta, Gruta do Acaiá)
+
+The north's glory is its sheltered water. The two lagoons — **Lagoa Azul**, prized for its transparency, and **Lagoa Verde**, where turtles are almost always about and the water colour shifts dramatically — are the calmest, clearest snorkelling on the island, perfect for families and nervous swimmers. *(A note of honesty on Lagoa Azul: recent construction nearby has begun to disturb the natural water flow.)*
+
+**Meia Volta** is the gentle half-loop — an easy, pretty introduction to the calm side, taking in both lagoons plus **Praia do Amor** and **Praia da Feiticeira** (the one you can also reach on foot). A lovely first day on the water if the open sea feels like a lot.
+*Stops: Lagoa Azul · Lagoa Verde · Praia do Amor · Praia da Feiticeira.*
+
+**Gruta do Acaiá** is the upgrade — and the most memorable thing you can do on the calm side, as long as you're not claustrophobic. The **Gruta do Acaiá** itself is a sea cave with luminescent water: you enter the rock down a roughly **50° incline** (a slope, not a temperature), have to crawl, and the narrowest point is just **80 cm** wide. The reward is dazzling — water that glows blue or green, sometimes phosphorescent, from light refracting inside the fissure. The tour pairs it with both lagoons and the tiny, picturesque cove of **Grumixama** (a tiny cove).
+*Stops: Gruta do Acaiá · Lagoa Verde · Lagoa Azul · Grumixama.* (Some operators run an earlier version — see the table.)
+
+> **Tip — the early start is worth chasing.** The earlier version of the Gruta tour gets you to the two westernmost spots (the cave and Lagoa Verde) **before the crowds**, and it makes a perfect checkout-day plan: if your pousada offers a late checkout, you can be back by mid-afternoon for a hot shower and clean towel before your evening transfer.
+
+### The Angra islands: the celebrity archipelago (Ilhas Paradisíacas)
+
+Off the north of the island, towards Angra dos Reis, lie the postcard islands of the Gipoia area — dazzling, calm and well worth the trip. The **Ilhas Paradisíacas** tour visits this archipelago; though it works the Gipoia waters near Angra, it still departs from the **Abraão** pier.
+
+The headline stop is **Piedade (Ilha da Piedade)** — the famous *"Ilha de Caras,"* named for *Caras*, the celebrity magazine read all over Latin America. Everyone wants the photo at its little chapel where the stars have posed. If that means nothing to you, you're not alone.
+
+> **Tip for foreigners — swap Piedade.** If celebrity-spotting isn't your thing, ask for a version that swaps **Piedade** for **Lagoa Azul** or **Praia de Flechas** (I can help arrange it). That route gives you **Aventureiro**, the impressive white-sand islet of **Cataguás**, the snorkelling rock pools of **Botinas**, and then either **Praia de Flechas** or a sunset at **Lagoa Azul**.
+
+> ☀️ **Sunny days only.** This is one to save for clear weather — it's simply not worth doing under cloud or rain.
+
+### Alternative tours (Jerónimo, Caipirinha, Passeio do Índio, private hire)
+
+Not every day on the water has to be the standard speedboat circuit. A few have real character of their own.
+
+**Jerónimo's tour** is the relaxed, slightly hippie one, run in a traditional **traineira** with a trilingual guide. You walk up to see **Freguesia de Santana** (a historic hamlet), drift along the beautiful beach at Freguesia de Fora, spend the afternoon at **Lagoa Azul**, and lunch at **Saco do Céu** with kayak, snorkel and SUP thrown in. Crucially, it's **one of the very few tours that includes lunch** — easy to arrange and well worth it.
+
+**The Caipirinha tour** is the party boat — a "Jack Sparrow" host, free caipirinhas all round, sailing in a **schooner (escuna) or galleon**. Frequent in high season, lunch on board optional (paid separately or pre-bought).
+
+**Passeio do Índio** runs in a Canadian canoe — by night to see the luminescent plankton, by day on personalised trips. A lovely, low-key alternative, and worth it.
+
+**Private boat hire** is the freedom option: up to 10 passengers (eight is the comfortable number to split the cost), fully personalised — **two to four hours per spot** instead of the rushed hour, an earlier start and a slightly later finish. The one hard rule still applies: no return after dark, around 5:30 pm.
+
+### At a glance: tours, routes and rough prices
+
+Prices below are **rough, per person and fluctuate** with the season — treat them as a guide, not a quote. One thing that surprises people: **Super Sul is the most in-demand open-sea route, so it's the priciest** — that's why it lists higher than the longer Volta à Ilha, not a typo. Where a cell says *ask when booking*, the detail genuinely varies and is best confirmed at the time.
+
+| Tour | Route in a phrase | Hours | ~Price/person | Lunch |
+|---|---|---|---|---|
+| **Super Sul** (lancha) | South Atlantic highlights | 10:30–17:00 | ~R$300 | Not included |
+| **Volta à Ilha** (lancha) | Full loop around the island | 09:30–17:30 (longest, ~8 h) | ~R$200 | Not included |
+| **Meia Volta** (lancha) | Gentle half-loop, both lagoons | 10:30–16:30 (~6 h) | ~R$150 | Not included |
+| **Gruta do Acaiá** (lancha) | Sea cave + the two lagoons | 10:30–17:30 (some 09:00–16:00, ~7 h) | ~R$200 | Not included |
+| **Ilhas Paradisíacas** (lancha) | Angra/Gipoia islands | 10:30–17:30 | ~R$170–180 | Not included |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, no fixed return | ~R$250 | **Included** |
+| **Caipirinha** (escuna/galleon) | Party cruise, free caipirinha | 11:30–17:30 | Ask when booking | Optional (paid/pre-bought) |
+| **Passeio do Índio** (Canadian canoe) | Plankton by night, custom by day | Ask when booking | Ask when booking | Ask when booking |
+| **Private hire** (boat to suit) | Fully personalised, up to 10 pax | Custom (no return after ~5:30 pm) | ~R$1,500/trip (~R$1,400–2,000) | Ask when booking |
+
+I haven't named operators here on purpose — I'll point you to the right captain for the day and conditions when you're ready to book.
