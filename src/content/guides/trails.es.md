@@ -82,13 +82,51 @@ En el camino pasás por la **Praia Preta** (arena oscura), las **ruinas del Laza
 
 ![Senderistas en la cima del Pico do Papagaio al amanecer sobre la bahía, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-El sendero más buscado de Ilha Grande — y el más exigente. El Pico do Papagaio es el **segundo punto más alto de la isla, con 982 m**, justo debajo del Pico da Pedra d'Água (1.035 m). Desde arriba, en día claro, se ve gran parte de la isla y del continente — la Restinga da Marambaia, la Pedra da Gávea en Río y hasta el Dedo de Deus en la Serra dos Órgãos.
+> **Ficha rápida.** Dificultad **DIFÍCIL** · sendero **T13** · **~12 km** ida y vuelta (~6 km cada tramo) · casi **1 km de desnivel** · **5 a 7 h de caminata** más el tiempo en la cima · cima **982 m** · **guía registrado obligatorio para la subida del amanecer** · alrededor de **R$230–R$380 por persona** con guía.
 
-Es el sendero **T13** (Abraão → Pico do Papagaio, ~6 km cada tramo): una subida dura, unos **6 km de ascenso** por selva densa con tramos de piedra y raíces, y una bajada que no es más liviana — unos **12 km y 6 a 8 horas** ida y vuelta.
+Salís de Abraão cerca de las 2 de la madrugada, a oscuras, con unas piernas que no tendrían por qué estar despiertas. Durante tres horas subís casi un kilómetro vertical alumbrado por la linterna frontal, y tu mundo entero se reduce al pedacito de sendero que tenés adelante y a la respiración de la gente que va con vos. Y entonces salís a cielo abierto a **982 m** — el segundo punto más alto de la isla — y el cielo empieza a moverse. Rojo, después un índigo profundo, después blanco, después un azul amarillento pálido, y al final el sol mismo se levanta del mar. Es como ver el amanecer desde la ventanilla de un avión, salvo que acá llegaste caminando. Las nubes suben a visitarte. Casi nadie habla. Después de la noche que pasaste, llegar se siente menos como alcanzar un mirador y más como si te perdonaran algo.
 
-> **Contratá un guía local.** La selva es densa y es realmente fácil perderse — hubo personas que quedaron días perdidas y debieron ser rescatadas por los Bomberos. **No hay agua potable** en el sendero, la cima está descampada, hace falta buen estado físico, y acampar y hacer fuego están prohibidos.
+Esa es la razón por la que la gente se somete a esto. Hacia el **este** se abre toda la bahía — montañas apiladas hasta perderse de vista, la densidad y la inmensidad pura del mar — y, en día claro, el continente del otro lado del agua. ¿Y por qué el amanecer y no el atardecer? Mirá hacia el **oeste** desde la cima y vas a tener la respuesta: apenas unos metros más arriba que vos está la **Pedra d'Água** (~1.035 m), el verdadero punto culminante de la isla, justo donde tiene que estar para tapar un atardecer limpio. Así que acá el espectáculo es el amanecer — y el amanecer bien vale poner un despertador a una hora que ningún humano debería obedecer.
+
+> **A qué te estás anotando.** Es la caminata más exigente de la isla. Subís casi **1 km de desnivel** por una pendiente empinada y sostenida. Calculá **2,5–3,5 h de subida** y **2,5–3,5 h de bajada** — más o menos **5 a 7 horas de caminata**, sin contar tu tiempo en la cima. La altitud es modesta, pero el esfuerzo de verdad pasa factura: hay quien dice sentir el aire enrarecido arriba aunque, en el papel, no debería serlo.
+
+**Dónde empieza.** Desde Abraão tomás la **Estrada de Dois Rios** (también llamada *Estrada da Colônia*) y caminás unos **2 km cuesta arriba** hasta la entrada del sendero del Pico do Papagaio. Ahí empieza la subida de verdad — el sendero T13.
+
+### Dos formas de hacerlo
+
+Hay exactamente dos maneras honestas de subir esta montaña, y son días muy distintos.
+
+| | **De día, sin guía** | **Para el amanecer, con guía** |
+|---|---|---|
+| **A qué hora salís** | Temprano — idealmente **7–9 h** (cuanto antes, mejor) | Cerca de las **2 h** |
+| **Guía** | No es obligatorio | **Obligatorio por ley** — y realmente necesario |
+| **Qué obtenés** | Una subida de día dura y hermosa; volvés cómodo con luz | El espectáculo del amanecer — la razón por la que viene casi todo el mundo |
+| **De vuelta hacia** | Media tarde (unas 6–7 h en total) | Hacia las 8–9 de la mañana en Abraão |
+| **¿Legal?** | Sí — la opción de día, segura y legal | Subir de noche **sin** un guía registrado está **prohibido** |
+
+Si lo hacés **de día**, salí entre las 7 y las 9 h, caminá la Estrada Dois Rios hasta el inicio del sendero y subí. Vas a volver cómodo antes de que oscurezca — incluso te vas a cruzar con gente que baja del amanecer mientras vos subís.
+
+Si querés el **amanecer**, la subida nocturna por cuenta propia y sin guía está **prohibida desde hace dos años**. *Tenés que* contratar un guía legal, registrado (*cadastrado*) — no cualquier guía de cualquier agencia. Los guías registrados están específicamente entrenados para esta subida, y ese entrenamiento es justamente el punto.
+
+> ⚠️ **Todo lo que necesitás antes de ir.**
+>
+> - **Por qué un guía es realmente necesario — esto no es para venderte nada.** Hay **12 bifurcaciones y cruces** en la subida que solo los guías saben leer. De día podés seguir el camino más pisado; de noche se ve muy poco, y hay muchos reportes de gente que se perdió. Y acá está la parte que a nadie le gusta decir en voz alta: en esta montaña **no hay infraestructura de rescate** — ni Bomberos ni guardaparques del INEA entrenados o dispuestos a subir a sacarte. Subir solo en la oscuridad es una irresponsabilidad seria, y no te lo voy a recomendar.
+> - **Cómo encontrar un guía.** Es fácil — buscá en Google Maps o Instagram y quedate con el de mejores reseñas; yo me inclinaría por los guías más veteranos y con experiencia, registrados en **CADASTUR** (el registro nacional de turismo). Casi cualquier agencia de Abraão te va a vender la subida — muchas veces revendiendo a los mismos guías — así que gestionalo vos en vez de depender de tu alojamiento. *Y sí, los locales tenemos un favorito: no lo voy a nombrar acá — no me paga un peso, y prefiero cuidar tu confianza — pero sus reseñas lo van a delatar.*
+> - **Contale a tu guía cualquier condición médica.** Si tenés **hipoglucemia, diabetes, tendencia a ataques de pánico** o algo parecido, decíselo *antes* de salir para que pueda estar atento a vos. Una subida dura a las 2 de la madrugada no es lugar para hacerse el valiente.
+> - **💰 Cuánto cuesta.** Alrededor de **R$230–R$380 por persona** para que te guíen al amanecer y te cuiden en el camino — plata muy bien gastada.
+> - **Llevá bastones de trekking para la bajada.** Todo el mundo se obsesiona con la subida, pero es bajando cuando tu peso se multiplica sobre rodillas y tobillos — y llegás a ese momento o después de una noche sin dormir o después de una subida calurosa bajo el sol. La mayor parte del riesgo del día vive en la bajada, no en la subida.
+
+Arriba, antes de que lleguen los colores, hace frío y hay casi silencio — solo el viento, los primeros pájaros despertando el bosque debajo tuyo, y la gente que subió con vos.
 
 📍 [Mirá el recorrido completo en Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
+
+### Qué evitar
+
+- **No subas de noche sin un guía registrado.** Está prohibido, no hay rescate si sale mal, y las 12 bifurcaciones son realmente difíciles de leer a oscuras. Este es el punto en el que insistiría.
+- **No subestimes la bajada.** Es tan larga como la subida (2,5–3,5 h) y más dura para las articulaciones. Sin bastones, sin cuidado, y un gran día se convierte en uno lesionado.
+- **No esperes atardecer acá arriba.** La Pedra d'Água lo tapa. Si querés el espectáculo, vení por el amanecer.
+
+Una última cosa, más callada. Llevarte a vos mismo del punto A al punto B con tu propia fuerza es casi lo más básico que tiene ser humano, y dejar que tu mente cargue tu cuerpo hacia arriba te deja recoger una recompensa que la naturaleza, si no, mantiene escondida. Si llegás a la cima para el amanecer, **grabá un time-lapse** — sirve cualquier celular, hasta uno viejo — y te vas a llevar a casa los colores del amanecer a mil metros. Es la perfección de la naturaleza, ordenada por un instante en algo dentro de lo cual un humano puede pararse.
 
 ## Circuito Histórico de Vila do Abraão (T1)
 

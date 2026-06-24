@@ -82,13 +82,51 @@ No caminho você passa pela **Praia Preta** (areia escura), pelas **ruínas do L
 
 ![Trilheiros no cume do Pico do Papagaio ao amanhecer sobre a baía, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-A trilha mais procurada da Ilha Grande — e a mais exigente. O Pico do Papagaio é o **segundo ponto mais alto da ilha, com 982 m**, logo abaixo do Pico da Pedra d'Água (1.035 m). Do alto, em dia claro, dá para ver grande parte da ilha e do continente — a Restinga da Marambaia, a Pedra da Gávea no Rio e até o Dedo de Deus na Serra dos Órgãos.
+> **Resumo rápido.** Dificuldade **DIFÍCIL** · trilha **T13** · **~12 km** ida e volta (~6 km cada trecho) · quase **1 km na vertical** · **5 a 7 h de caminhada** mais o tempo no cume · cume **982 m** · **guia cadastrado obrigatório para a subida do amanhecer** · cerca de **R$230–R$380 por pessoa** com guia.
 
-É a trilha **T13** (Abraão → Pico do Papagaio, ~6 km cada trecho): uma subida pesada, cerca de **6 km de aclive** por mata fechada com trechos de pedra e raízes, e uma descida que não é mais leve — cerca de **12 km e 6 a 8 horas** ida e volta.
+Você sai do Abraão por volta das 2 da manhã, no escuro, com as pernas que não tinham a menor obrigação de estar acordadas. Por três horas você sobe quase um quilômetro na vertical à luz da lanterna de cabeça, e o seu mundo inteiro encolhe até o pedaço de trilha à sua frente e a respiração de quem está ao seu lado. Aí você chega lá em cima, a **982 m** — o segundo ponto mais alto da ilha — e o céu começa a se mover. Vermelho, depois um anil profundo, depois branco, depois um azul amarelado e pálido e, por fim, o próprio sol se levanta do mar. É como ver o amanhecer pela janela de um avião, só que você veio andando. As nuvens sobem para te visitar. Ninguém fala muito. Depois da noite que você teve, chegar lá parece menos alcançar um mirante e mais ser perdoado por alguma coisa.
 
-> **Contrate um guia local.** A mata é fechada e é realmente fácil se perder — pessoas já ficaram dias perdidas e precisaram ser resgatadas pelo Corpo de Bombeiros. **Não há água potável** na trilha, o topo é descampado, é preciso bom preparo físico, e acampamento e fogo são proibidos.
+É por isso que as pessoas se submetem a tudo isso. A **leste**, a baía inteira se abre — montanhas empilhadas até o horizonte, a densidade e a imensidão do mar — e, em dia claro, o continente do outro lado da água. Então por que nascer do sol e não pôr do sol? Olhe para **oeste** do cume e você terá a resposta: poucos metros mais alto que você está a **Pedra d'Água** (~1.035 m), o verdadeiro ponto culminante da ilha, exatamente onde precisa para bloquear um pôr do sol limpo. Por isso o espetáculo aqui é o amanhecer — e o amanhecer vale despertador que nenhum ser humano deveria obedecer.
+
+> **No que você está se metendo.** Esta é a caminhada mais exigente da ilha. Você sobe quase **1 km na vertical** num aclive íngreme e contínuo. Conte **2,5–3,5 h de subida** e **2,5–3,5 h de descida** — algo como **5 a 7 horas de caminhada**, mais o tempo lá em cima. A altitude é modesta, mas o esforço cobra seu preço de verdade: tem gente que descreve o ar do cume como rarefeito, mesmo que, no papel, ele não devesse ser.
+
+**Onde começa.** Do Abraão você pega a **Estrada de Dois Rios** (também chamada de *Estrada da Colônia*) e caminha cerca de **2 km de subida** até a entrada da trilha do Pico do Papagaio. É ali que a subida de verdade — a trilha T13 — começa.
+
+### Duas formas de fazer
+
+Existem exatamente duas formas honestas de subir essa montanha, e são dias muito diferentes.
+
+| | **De dia, sem guia** | **Para o amanhecer, com guia** |
+|---|---|---|
+| **Quando você sai** | Cedo — de preferência **7h–9h** (quanto mais cedo, melhor) | Por volta das **2h** |
+| **Guia** | Não obrigatório | **Obrigatório por lei** — e realmente necessário |
+| **O que você ganha** | Uma subida de dia pesada e linda; volta tranquilo com luz | O espetáculo do amanhecer — o motivo pelo qual quase todo mundo vem |
+| **De volta por volta de** | Meio/fim da tarde (~6–7 h no total) | Por volta das 8h–9h da manhã no Abraão |
+| **Legal?** | Sim — a opção de dia, segura e legal | A subida noturna **sem** guia cadastrado é **proibida** |
+
+Se você fizer **de dia**, saia entre 7h e 9h, percorra a Estrada de Dois Rios até o início da trilha e suba. Você está de volta tranquilo antes de escurecer — e ainda cruza com quem está descendo do amanhecer enquanto você sobe.
+
+Se você quer o **amanhecer**, a subida noturna por conta própria, sem guia, está **proibida há dois anos**. Você *precisa* contratar um guia legal, cadastrado — não um guia qualquer de uma agência qualquer. Os guias cadastrados são treinados especificamente para essa subida, e esse treinamento é justamente o ponto.
+
+> ⚠️ **Tudo o que você precisa antes de ir.**
+>
+> - **Por que o guia é realmente necessário — isto não é jogada de venda.** São **12 bifurcações e cruzamentos** no caminho de subida que só os guias sabem ler. De dia dá para seguir o caminho mais pisado; à noite é muito difícil enxergar, e há muitos relatos de gente que se perdeu. E aqui vem a parte que ninguém gosta de dizer em voz alta: **não existe estrutura de resgate** nessa montanha — não há Corpo de Bombeiros nem guarda-parques do INEA treinados ou dispostos a subir e te tirar de lá. Subir sozinho no escuro é uma irresponsabilidade séria, e eu não vou recomendar.
+> - **Como achar um guia.** É fácil — procure no Google Maps ou no Instagram e fique com o mais bem avaliado; eu preferiria os guias mais antigos e experientes, registrados no **CADASTUR** (o cadastro nacional de turismo). Quase toda agência de Abraão vai te vender a subida — muitas vezes revendendo os mesmos guias — então resolva por conta própria em vez de depender da sua pousada. *E sim, nós, os locais, temos um favorito: não vou dizer o nome aqui — ele não me paga nada, e eu prefiro manter a sua confiança — mas as avaliações dele vão entregar quem é.*
+> - **Conte ao seu guia qualquer condição de saúde.** Se você tem **hipoglicemia, diabetes, tendência a crises de pânico** ou algo parecido, conte *antes* de sair para que ele fique de olho em você. Uma subida pesada às 2h da manhã não é hora de bancar o valente.
+> - **💰 Quanto custa.** Algo em torno de **R$230–R$380 por pessoa** para ser guiado ao amanhecer e cuidado no caminho — dinheiro muito bem gasto.
+> - **Leve bastões de trekking para a descida.** Todo mundo fica obcecado com a subida, mas é na descida que o seu peso se multiplica sobre os joelhos e tornozelos — e você chega nela ou depois de uma noite sem dormir ou depois de uma subida quente e ensolarada. A maior parte do risco do dia mora na descida, não na subida.
+
+Lá em cima, antes de as cores chegarem, faz frio e quase silêncio — só o vento, os primeiros pássaros acordando a floresta abaixo de você, e as pessoas que subiram com você.
 
 📍 [Veja o trajeto completo no Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
+
+### O que evitar
+
+- **Não suba à noite sem guia cadastrado.** É proibido, não há resgate se algo der errado, e as 12 bifurcações são realmente difíceis de ler no escuro. Essa é a que eu faria questão de insistir.
+- **Não subestime a descida.** Ela é tão longa quanto a subida (2,5–3,5 h) e mais dura para as articulações. Sem bastões, sem cuidado, e um ótimo dia vira um dia com lesão.
+- **Não espere pôr do sol aqui em cima.** A Pedra d'Água bloqueia. Se você quer o espetáculo, venha para o amanhecer.
+
+Uma última coisa, mais silenciosa. Levar a si mesmo do ponto A ao ponto B com a própria força é uma das coisas mais básicas do que é ser humano, e deixar a sua mente carregar o seu corpo montanha acima permite colher uma recompensa que a natureza, de outro jeito, mantém escondida. Se você chegar ao topo no amanhecer, **grave um time-lapse** — qualquer celular serve, até um antigo — e você leva para casa as cores do nascer do sol a mil metros de altura. É a perfeição da natureza, por um instante organizada em algo dentro do qual um humano pode ficar de pé.
 
 ## Circuito Histórico de Vila do Abraão (T1)
 

@@ -82,13 +82,51 @@ En chemin, vous passez la **Praia Preta** (plage de sable sombre), les **ruines 
 
 ![Randonneurs au sommet du Pico do Papagaio au lever du soleil au-dessus de la baie, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-Le sentier le plus convoité d'Ilha Grande — et le plus exigeant. Le Pico do Papagaio est le **deuxième point le plus haut de l'île, à 982 m**, juste sous le Pico da Pedra d'Água (1 035 m). Du sommet, par temps clair, on voit une grande partie de l'île et du continent — la Restinga da Marambaia, la Pedra da Gávea à Rio, et même le Dedo de Deus dans la Serra dos Órgãos.
+> **L'essentiel en bref.** Difficulté **DIFFICILE** · sentier **T13** · **~12 km** aller-retour (~6 km à l'aller) · près d'**1 km de dénivelé** · **5 à 7 h de marche** plus le temps au sommet · sommet **982 m** · **un guide enregistré est obligatoire pour la montée du lever de soleil** · environ **230–380 R$ par personne** avec guide.
 
-C'est le sentier **T13** (Abraão → Pico do Papagaio, ~6 km à l'aller) : une montée difficile, environ **6 km de grimpe** à travers une forêt dense, avec des passages rocheux et entrelacés de racines, et une descente tout aussi éprouvante — environ **12 km et 6 à 8 heures** aller-retour.
+Vous quittez Abraão vers 2 heures du matin, dans le noir, sur des jambes qui n'ont rien à faire debout à cette heure. Pendant trois heures vous montez près d'un kilomètre vertical à la lampe frontale, et votre monde tout entier se réduit au bout de sentier devant vous et au souffle des gens autour de vous. Puis vous débouchez à **982 m** — le deuxième point le plus haut de l'île — et le ciel se met à bouger. Rouge, puis un indigo profond, puis blanc, puis un bleu jaunâtre pâle, et enfin le soleil lui-même se hisse hors de la mer. C'est comme regarder l'aube par le hublot d'un avion, sauf que vous êtes venu à pied. Les nuages montent vous rendre visite. Personne ne parle beaucoup. Après la nuit que vous venez de passer, arriver ressemble moins à atteindre un point de vue qu'à être pardonné pour quelque chose.
 
-> **Prenez un guide local.** La forêt est dense et on s'y perd vraiment facilement — des personnes y sont restées bloquées plusieurs jours et ont dû être secourues par les pompiers. Il n'y a **pas d'eau potable** sur le sentier, le sommet est exposé, il faut une bonne condition physique, et le camping comme le feu y sont interdits.
+Voilà pourquoi les gens s'infligent ça. À l'**est**, toute la baie s'ouvre — les montagnes empilées jusqu'à l'horizon, la densité et l'immensité brute de la mer — et par temps clair, le continent de l'autre côté de l'eau. Alors pourquoi le lever et pas le coucher du soleil ? Regardez vers l'**ouest** depuis le sommet et vous aurez votre réponse : à peine quelques mètres plus haut que vous se dresse la **Pedra d'Água** (~1 035 m), le véritable point culminant de l'île, exactement là où il faut pour barrer un coucher de soleil net. Le spectacle, ici, c'est donc l'aube — et l'aube vaut bien un réveil qu'aucun humain ne devrait avoir à respecter.
+
+> **Ce à quoi vous vous engagez.** C'est la marche la plus exigeante de l'île. Vous grimpez près d'**1 km de dénivelé** sur une pente raide et soutenue. Comptez **2h30–3h30 à la montée** et **2h30–3h30 à la descente** — soit environ **5 à 7 heures de marche**, plus le temps passé au sommet. L'altitude est modeste, mais l'effort se paie vraiment : les gens décrivent un air qui semble manquer d'oxygène au sommet, alors que sur le papier il ne le devrait pas.
+
+**Où ça commence.** Depuis Abraão, vous prenez l'**Estrada de Dois Rios** (aussi appelée *Estrada da Colônia*) et marchez environ **2 km en montée** jusqu'à l'entrée du sentier du Pico do Papagaio. C'est là que la vraie grimpe — le sentier T13 — commence.
+
+### Deux façons de le faire
+
+Il existe exactement deux façons honnêtes de monter cette montagne, et ce sont deux journées très différentes.
+
+| | **De jour, sans guide** | **Pour le lever du soleil, avec un guide** |
+|---|---|---|
+| **Heure de départ** | Tôt — idéalement **7h–9h** (plus tôt c'est mieux) | Vers **2h du matin** |
+| **Guide** | Pas obligatoire | **Obligatoire par la loi** — et réellement nécessaire |
+| **Ce que vous obtenez** | Une belle journée de grimpe difficile ; retour tranquille de jour | Le spectacle de l'aube — la raison même pour laquelle la plupart des gens viennent |
+| **De retour vers** | Le milieu/la fin d’après-midi (~6–7 h au total) | Vers 8h–9h du matin à Abraão |
+| **Légal ?** | Oui — l'option de jour, sûre et légale | La montée de nuit **sans** guide enregistré est **interdite** |
+
+Si vous le faites **de jour**, partez entre 7h et 9h, suivez l'Estrada Dois Rios jusqu'au départ du sentier, et grimpez. Vous serez redescendu tranquillement avant la tombée de la nuit — vous croiserez même des gens qui redescendent du lever du soleil tandis que vous montez.
+
+Si vous voulez le **lever du soleil**, l'ascension de nuit par des particuliers sans guide est **interdite depuis deux ans**. Vous *devez* engager un guide légal, enregistré (*cadastrado*) — pas n'importe quel guide de n'importe quelle agence. Les guides enregistrés sont spécifiquement formés pour cette ascension, et c'est précisément tout l'enjeu.
+
+> ⚠️ **Tout ce qu'il vous faut avant de partir.**
+>
+> - **Pourquoi un guide est réellement nécessaire — ce n'est pas un argument commercial.** Il y a **12 embranchements et bifurcations** à la montée que seuls les guides savent lire. De jour, vous pouvez suivre le chemin le plus emprunté ; de nuit, c'est très difficile à voir, et de nombreux randonneurs se sont retrouvés perdus. Et voici la part que personne n'aime dire à voix haute : il n'y a **aucune infrastructure de secours** sur cette montagne — ni pompiers, ni gardes du parc de l'INEA formés ou prêts à monter vous chercher. Monter seul dans le noir est une grave irresponsabilité, et je ne le recommanderai pas.
+> - **Comment trouver un guide.** C’est facile — cherchez sur Google Maps ou Instagram et prenez celui qui a les meilleurs avis ; je privilégierais les guides plus âgés et expérimentés, inscrits au **CADASTUR** (le registre national du tourisme brésilien). Presque toutes les agences d’Abraão vous vendront la montée — en revendant souvent les mêmes guides — alors organisez-la vous-même plutôt que de compter sur votre hôtel. *Et oui, nous, les locaux, avons un favori : je ne le nommerai pas ici — il ne me paie pas un centime, et je préfère garder votre confiance — mais ses avis le trahiront.*
+> - **Parlez à votre guide de toute condition médicale.** Si vous souffrez d'**hypoglycémie, de diabète, d'une tendance aux crises de panique** ou de quelque chose de semblable, dites-le *avant* de partir pour qu'il puisse garder un œil sur vous. Une grimpe difficile à 2h du matin n'est pas l'endroit où jouer les braves.
+> - **💰 Combien ça coûte.** Environ **230–380 R$ par personne** pour être guidé au lever du soleil et accompagné en chemin — de l'argent très bien dépensé.
+> - **Prenez des bâtons de randonnée pour la descente.** Tout le monde se focalise sur la montée, mais c'est en descendant que votre poids se multiplie sur vos genoux et vos chevilles — et vous l'abordez soit après une nuit blanche, soit après une grimpe en plein soleil. L'essentiel du risque de la journée se loge dans la descente, pas dans la montée.
+
+Là-haut, avant que les couleurs n'arrivent, il fait froid et presque silencieux — juste le vent, les premiers oiseaux qui réveillent la forêt sous vos pieds, et les gens qui ont grimpé avec vous.
 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
+
+### À éviter
+
+- **Ne montez pas de nuit sans guide enregistré.** C'est interdit, il n'y a aucun secours en cas de problème, et les 12 embranchements sont vraiment difficiles à lire dans le noir. C'est celui sur lequel j'insisterais.
+- **Ne sous-estimez pas la descente.** Elle est aussi longue que la montée (2h30–3h30) et plus dure pour les articulations. Sans bâtons, sans prudence, une belle journée se transforme en journée de blessé.
+- **N'espérez pas de coucher de soleil là-haut.** La Pedra d'Água le bloque. Si vous voulez le spectacle, venez pour l'aube.
+
+Une dernière chose, plus discrète. Se mener soi-même d'un point A à un point B par sa propre force est à peu près ce qu'il y a de plus fondamental dans le fait d'être humain, et laisser son esprit porter son corps jusqu'en haut permet de récolter une récompense que la nature garde autrement cachée. Si vous atteignez le sommet pour le lever du soleil, **filmez un time-lapse** — n'importe quel téléphone fera l'affaire, même un vieux — et vous rapporterez chez vous les couleurs de l'aube à mille mètres d'altitude. C'est la perfection de la nature, brièvement arrangée en quelque chose à l'intérieur duquel un humain peut se tenir.
 
 ## Circuit Historique de Vila do Abraão (T1)
 

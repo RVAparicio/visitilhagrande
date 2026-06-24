@@ -82,13 +82,51 @@ Along the way you pass **Praia Preta** (dark-sand beach), the **Lazareto ruins**
 
 ![Hikers on the Pico do Papagaio summit at sunrise above the bay, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-The most sought-after trail on Ilha Grande — and the most demanding. Pico do Papagaio is the island's **second-highest point at 982 m**, just below Pico da Pedra d'Água (1,035 m). From the top, on a clear day, you can see much of the island and the mainland — Restinga da Marambaia, Pedra da Gávea in Rio, even Dedo de Deus in the Serra dos Órgãos.
+> **Quick facts.** Difficulty **HARD** · trail **T13** · **~12 km** round trip (~6 km each way) · almost **1 km of vertical** · **5–7 h of walking** plus time at the top · summit **982 m** · **a registered guide is required for the sunrise climb** · roughly **R$230–R$380 per person** guided.
 
-It's trail **T13** (Abraão → Pico do Papagaio, ~6 km each way): a hard climb, roughly **6 km uphill** through dense forest with rocky, root-tangled sections, and a descent that's no easier — about **12 km and 6–8 hours** round trip.
+You leave Abraão at around 2 in the morning, in the dark, on legs that have no business being awake. For three hours you climb almost a vertical kilometre by head-torch, and your whole world shrinks to the patch of trail in front of you and the breathing of the people around you. Then you step out at **982 m** — the island's second-highest point — and the sky starts to move. Red, then a deep indigo, then white, then a pale yellowish blue, and finally the sun itself lifts out of the sea. It's like watching dawn from the window of a plane, except you walked here. Clouds drift up to visit you. Nobody talks much. After the night you've had, arriving feels less like reaching a viewpoint and more like being forgiven for something.
 
-> **Hire a local guide.** The forest is dense and it is genuinely easy to get lost here — people have been stranded for days and needed rescue by the fire brigade. There is **no drinking water** on the trail, the summit is exposed, you need good fitness, and camping or fires are not allowed.
+That's the reason people put themselves through this. To the **east** the whole bay opens up — mountains stacked into the distance, the sheer density and enormity of the sea — and on a clear day, the mainland across the water. So why sunrise and not sunset? Look **west** from the summit and you'll see your answer: just a few metres taller than you stands **Pedra d'Água** (~1,035 m), the island's true high point, sitting exactly where it needs to to block a clean sunset. So the show here is the dawn — and the dawn is worth setting an alarm clock no human should obey.
+
+> **What you're signing up for.** This is the most demanding walk on the island. You climb almost **1 km of vertical** on a steep, sustained gradient. Reckon **2.5–3.5 h up** and **2.5–3.5 h down** — roughly **5–7 hours of walking**, plus your time at the top. The altitude is modest, but the effort genuinely takes its toll: people describe the oxygen at the summit feeling thin even though, on paper, it shouldn't.
+
+**Where it starts.** From Abraão you take the **Estrada de Dois Rios** (also called the *Estrada da Colônia*) and walk about **2 km uphill** to the entrance of the Pico do Papagaio trail. That's where the real climb — trail T13 — begins.
+
+### Two ways to do it
+
+There are exactly two honest ways up this mountain, and they're very different days.
+
+| | **By day, no guide** | **For sunrise, with a guide** |
+|---|---|---|
+| **When you leave** | Early — ideally **7–9 AM** (earlier is better) | Around **2 AM** |
+| **Guide** | Not required | **Required by law** — and genuinely needed |
+| **What you get** | A hard, beautiful day climb; back down comfortably in daylight | The dawn show — the whole reason most people come |
+| **Roughly back by** | Mid-to-late afternoon (~6–7 h in total) | Back in Abraão by ~8–9 AM |
+| **Legal?** | Yes — the safe, legal day option | Night climbing **without** a registered guide is **prohibited** |
+
+If you do it **by day**, set off between 7 and 9 AM, walk the Estrada Dois Rios to the trailhead, and climb. You'll be back down comfortably before dark — you'll even pass people coming down from the sunrise as you head up.
+
+If you want the **sunrise**, the night ascent by private individuals without a guide has been **prohibited for the past two years**. You *must* hire a legal, registered (*cadastrado*) guide — not just any guide from any agency. The registered guides are specifically trained for this climb, and that training is the whole point.
+
+> ⚠️ **Everything you need before you go.**
+>
+> - **Why the guide is genuinely needed — this isn't an upsell.** There are **12 forks and junctions** on the way up that only the guides know how to read. By day you can follow the more-trodden path; at night it is very hard to see, and there have been many reports of people getting lost. And here's the part nobody likes to say out loud: there is **no rescue infrastructure** on this mountain — no fire brigade, no INEA park rangers trained or willing to climb up and pull you out. Heading up alone in the dark is a serious irresponsibility, and I won't recommend it.
+> - **How to find a guide.** It's easy — search Google Maps or Instagram and go with the best-reviewed one; I'd favour the older, experienced guides registered with **CADASTUR** (Brazil's national tourism registry). Almost any agency in Abraão will sell you the climb — often reselling the same guides — so sort it out yourself rather than relying on your hotel. *And yes, we locals have a favourite: I won't name him here — he doesn't pay me a cent, and I'd rather keep your trust — but his reviews will give him away.*
+> - **Tell your guide about any medical condition.** If you have **hypoglycemia, diabetes, a tendency to panic attacks** or anything similar, say so *before* you set off so they can keep an eye on you. A 2 AM hard climb is no place to be brave about it.
+> - **💰 What it costs.** Roughly **R$230–R$380 per person** to be guided up for sunrise and looked after on the way — money very well spent.
+> - **Bring trekking poles for the descent.** Everyone fixates on the climb, but going down is where your weight multiplies on your knees and ankles — and you arrive at it either after a sleepless night or after a hot, sunny climb. Most of the day's risk lives on the descent, not the ascent.
+
+Up top, before the colours come, it's cold and almost silent — just wind, the first birds waking the forest below you, and the people who climbed it with you.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779)
+
+### What to avoid
+
+- **Don't climb at night without a registered guide.** It's prohibited, there's no rescue if it goes wrong, and the 12 forks are genuinely hard to read in the dark. This is the one I'd insist on.
+- **Don't underestimate the descent.** It's as long as the climb (2.5–3.5 h) and harder on your joints. No poles, no care, and a great day turns into an injured one.
+- **Don't expect sunset up here.** Pedra d'Água blocks it. If you want the show, come for the dawn.
+
+One last, quieter thing. Getting yourself from point A to point B under your own power is about as basic to being human as it gets, and letting your mind carry your body up lets you collect a reward nature otherwise keeps hidden. If you make the top for sunrise, **shoot a time-lapse** — any phone will do, even an old one — and you'll take home the colours of dawn at a thousand metres. It's nature's perfection, briefly arranged into something a human can stand inside.
 
 ## Historic Circuit of Vila do Abraão (T1)
 
