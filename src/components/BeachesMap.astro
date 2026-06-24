@@ -1,0 +1,39 @@
+---
+// Mapa de las playas y comunidades de Ilha Grande, numeradas 1–23.
+// Va SOLO en la página de playas, al ancho de la columna de texto
+// (a diferencia de IslandMap, que rompe más ancho en senderos).
+// <Picture> de astro:assets: genera AVIF/WebP + tamaños responsivos.
+import { Picture } from 'astro:assets';
+import beachesMap from '../assets/mapa-praias-numeradas-ilha-grande.png';
+import type { Lang } from '../i18n/config';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+
+const alt: Record<Lang, string> = {
+  en: 'Map of Ilha Grande, Brazil, with its beaches and fishing communities numbered 1 to 23 — from Praia Vermelha and Araçatiba in the west to Lopes Mendes, Caxadaço and Castelhanos in the east, with Vila do Abraão in the centre.',
+  fr: "Carte d'Ilha Grande, Brésil, avec ses plages et villages de pêcheurs numérotés de 1 à 23 — de Praia Vermelha et Araçatiba à l'ouest jusqu'à Lopes Mendes, Caxadaço et Castelhanos à l'est, avec Vila do Abraão au centre.",
+  pt: 'Mapa da Ilha Grande, Brasil, com suas praias e comunidades de pescadores numeradas de 1 a 23 — de Praia Vermelha e Araçatiba a oeste até Lopes Mendes, Caxadaço e Castelhanos a leste, com a Vila do Abraão no centro.',
+  es: 'Mapa de Ilha Grande, Brasil, con sus playas y comunidades de pescadores numeradas del 1 al 23 — desde Praia Vermelha y Araçatiba al oeste hasta Lopes Mendes, Caxadaço y Castelhanos al este, con la Vila do Abraão en el centro.',
+};
+
+const caption: Record<Lang, string> = {
+  en: 'The numbered beaches and communities of Ilha Grande (1–23) — illustrated map by visitilhagrande.com. Each one is described in the directory below.',
+  fr: "Les plages et villages numérotés d'Ilha Grande (1–23) — carte illustrée par visitilhagrande.com. Chacun est décrit dans le répertoire ci-dessous.",
+  pt: 'As praias e comunidades numeradas da Ilha Grande (1–23) — mapa ilustrado por visitilhagrande.com. Cada uma é descrita no diretório abaixo.',
+  es: 'Las playas y comunidades numeradas de Ilha Grande (1–23) — mapa ilustrado por visitilhagrande.com. Cada una se describe en el directorio de abajo.',
+};
+---
+<figure class="beaches-map">
+  <Picture
+    src={beachesMap}
+    formats={['avif', 'webp']}
+    alt={alt[lang]}
+    widths={[400, 632, 710]}
+    sizes="(min-width: 42rem) 632px, 92vw"
+    loading="lazy"
+  />
+  <figcaption>{caption[lang]}</figcaption>
+</figure>

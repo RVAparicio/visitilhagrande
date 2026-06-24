@@ -1,0 +1,45 @@
+---
+// Directorio de las 28 playas/comunidades + islas, agrupado y numerado
+// (los números coinciden con los marcadores del mapa de arriba).
+// HTML semántico server-rendered = indexable (gran valor SEO/GEO).
+import type { Lang } from '../i18n/config';
+import {
+  beaches28,
+  groupLabels,
+  directoryHeading,
+  directoryIntro,
+  type BeachGroup,
+} from '../i18n/beaches28';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+
+// Las islas de Angra (grupo 'islas', 24–28) se muestran aparte, en otra
+// sección: aquí el directorio cubre solo las 23 de Ilha Grande (1–23).
+const order: BeachGroup[] = ['vilas', 'praias'];
+---
+<section class="beaches28" aria-labelledby="beaches28-title">
+  <h2 id="beaches28-title">{directoryHeading[lang]}</h2>
+  <p class="beaches28__intro">{directoryIntro[lang]}</p>
+
+  {order.map((g) => (
+    <div class="beaches28__group">
+      <h3>{groupLabels[g][lang]}</h3>
+      <ul class="beaches28__list">
+        {beaches28
+          .filter((b) => b.group === g)
+          .map((b) => (
+            <li class:list={['beach28', { 'beach28--isla': g === 'islas' }]} id={`praia-${b.num}`}>
+              <span class="beach28__num">{b.num}</span>
+              <div class="beach28__body">
+                <h4 class="beach28__name">{b.name}</h4>
+                <p class="beach28__desc">{b.desc[lang]}</p>
+              </div>
+            </li>
+          ))}
+      </ul>
+    </div>
+  ))}
+</section>

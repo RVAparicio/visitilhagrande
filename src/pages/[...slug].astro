@@ -8,6 +8,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AuthorBox from '../components/AuthorBox.astro';
 import RouteMap from '../components/RouteMap.astro';
 import IslandMap from '../components/IslandMap.astro';
+import BeachesMap from '../components/BeachesMap.astro';
+import BeachesDirectory from '../components/BeachesDirectory.astro';
 import ContactForm from '../components/ContactForm.astro';
 import Portrait from '../components/Portrait.astro';
 import { getAlternates } from '../lib/content';
@@ -92,8 +94,10 @@ if (data.translationKey === 'about') {
       <h1>{data.title}</h1>
       {entry.data.translationKey === 'about' && <Portrait lang={data.lang} />}
       {entry.data.translationKey === 'getting-there' && <RouteMap lang={data.lang} />}
-      {(entry.data.translationKey === 'trails' || entry.data.translationKey === 'beaches') && <IslandMap lang={data.lang} />}
+      {entry.data.translationKey === 'trails' && <IslandMap lang={data.lang} />}
+      {entry.data.translationKey === 'beaches' && <BeachesMap lang={data.lang} />}
       <Content />
+      {entry.data.translationKey === 'beaches' && <BeachesDirectory lang={data.lang} />}
       {entry.data.translationKey === 'about' && <ContactForm lang={data.lang} />}
     </article>
 
