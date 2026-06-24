@@ -29,7 +29,6 @@ If you only have a few days, the short answer is: **Lopes Mendes** for the iconi
 |---|---|---|
 | **Lopes Mendes** | Trail (T10+T11) or schooner to Pouso + T11 | The iconic beach, light surf |
 | **Lagoa Azul** | Schooner / speedboat tour | Snorkelling, calm water |
-| **Aventureiro** | Boat, or trail (T9) | Wild, rustic, remote |
 | **Dois Rios** | Trail (T14) or boat tour | History + scenery |
 | **Lagoa Verde** | Schooner / speedboat tour | Snorkelling, families |
 | **Palmas** | Trail (T10) | A quiet stop before Lopes Mendes |
@@ -53,10 +52,10 @@ A flat, easy stroll and the closest escape from the village — wild little beac
 
 Follow the coastal trail east and you thread together a handful of beaches, finishing at one of my favourite spots for a relaxed day out. The path is enjoyable but a little intricate and rugged — it keeps you on your toes, the effort is medium-low, and there's one quirky stretch I'll describe below.
 
-- **Praia da Júlia** — the first stop, and the one with a *parador* (beach bar) and a chilled-out, lounge feel. **This is where to eat on the way out.** *~15 min.*
+- **Praia da Júlia** — the first stop, with a *parador* (beach bar). It's the loud, party-leaning one — crowded, pricey, music turned up — fine for the buzz, but **not where I'd eat**. *~15 min.*
 - **Comprida & Bica** — two tiny beaches just after Júlia, not especially pretty; most people simply pass through.
-- **Praia da Crena** *(left fork)* — a calm bay whose signature is flat, "ironed" water — made for swimming, stand-up paddle and kayak. *~30 min.*
-- **Abraãozinho** *(right fork)* — a long, wide sweep of sand with gentle waves and beautifully clear water, and **restaurants at the far end**: two Brazilian places at one end and a very good Argentine bar-restaurant at the other. There's also a fixed taxi-boat stop. *~30 min.*
+- **Praia da Crena** *(left fork)* — a calm bay of flat, "ironed" water, made for swimming, stand-up paddle and kayak; laid-back, sometimes with someone strumming a guitar — a little *luau* feel. *~30 min.*
+- **Abraãozinho** *(right fork)* — my pick of the three for a relaxed day **and a meal**: a long, wide sweep of sand, gentle waves and beautifully clear water, chilled lounge music that's natural and never invasive, and **restaurants** — two Brazilian places at one end and a very good Argentine bar-restaurant at the other. There's also a fixed taxi-boat stop. *~30 min.*
 
 > **Good to know.** Fairly easy walking, but intricate and rugged — and slippery if it has rained. At one point illegal houses blocked the original path, so a short scramble takes you down to the beach and along a narrow cliff-side passage (a *cornice*), with steps and slippery rocks fitted with fixed ropes. It's good fun, though not for everyone — and worth it.
 
@@ -66,9 +65,9 @@ Follow the coastal trail east and you thread together a handful of beaches, fini
 
 ### The waterfall walk: Cachoeira da Feiticeira
 
-This is the one for legs that want a proper climb. You sweat your way up through hot, humid jungle past two *mirantes* with sea views, and the reward at the top is the **Cachoeira da Feiticeira** — a waterfall and natural pool that is glorious in summer after the heat of the walk. Push on a little further and you drop down to **Praia da Feiticeira**, a small, very pretty beach.
+This one is for a slightly longer walk inland. You climb steadily through hot, humid jungle to the **Cachoeira da Feiticeira** — a waterfall and natural pool that is glorious in summer after the heat of the walk. Push on a little further and you drop down to **Praia da Feiticeira**, a small, very pretty beach.
 
-> **Practical — Feiticeira (trail T2).** The route runs **Abraão → park fork → aqueduct → waterfall fork → waterfall → Praia da Feiticeira**. About **1h30** to the waterfall, then another **20–30 min** down to the beach. Profile: roughly **5 km**, topping out near **220 m**, with **400 m+** of cumulative climb and **two mirantes**. Do **not** attempt it after rain — it turns treacherous. Wear good sandals or trekking shoes (not sneakers or flip-flops) and carry **1–1.5 L of water** (2 L for two). From Praia da Feiticeira you can catch a **boat back to Abraão** and skip the return climb.
+> **Practical — Feiticeira (trail T2).** The route runs **Abraão → park fork → aqueduct → waterfall fork → waterfall → Praia da Feiticeira**. About **1h30** to the waterfall, then another **20–30 min** down to the beach. It tops out at only about **160 m** and climbs steadily — a fairly gentle, honest walk you do in one go. From Praia da Feiticeira you can catch a **boat back to Abraão** and skip the return walk.
 
 ### The longer walks: Palmas, Lopes Mendes & Dois Rios
 
@@ -77,12 +76,8 @@ Some of the island's most famous beaches are also reachable on foot from Abraão
 | Beach | Trail(s) | One-way on foot |
 | --- | --- | --- |
 | **Palmas** | T10 | about **1h40** |
-| **Lopes Mendes** | T10 + T11 | about **3h** (2h30 at a good pace) |
+| **Lopes Mendes** | T10 + T11 | **2h30–3h15** (depending on pace) |
 | **Dois Rios** | T14 | **7.2 km, about 2h30** |
-
-### A note on Aventureiro
-
-Travellers often ask whether they can walk to **Aventureiro** in the far south. From Abraão, the answer is no — you reach it **by boat**, or on land via **trail T9 from Provetá** (about **4.3 km**). One thing worth knowing: a short visit needs no permit, but staying longer than **two hours** requires authorization — which is why boat tours typically pause there for around **1h30**.
 
 ## The big names
 
@@ -93,12 +88,6 @@ Travellers often ask whether they can walk to **Aventureiro** in the far south. 
 The one everyone comes for — and it lives up to it. Nearly **3 km of fine, pale sand** so fine it almost squeaks underfoot, backed by preserved Atlantic forest and lapped by clear, shallow water. It's regularly listed among the best beaches in Brazil (and the world). There's gentle **surf**, which makes it a favourite with beginner surfers, and only a couple of rustic huts selling drinks and snacks — almost no development.
 
 Boats can't land at Lopes Mendes itself. The usual way is a **schooner (escuna) from Abraão to Praia do Pouso** (around R$70 round trip) or a faster **taxi boat** (around R$100 round trip) — see the day-planner below for exact times and one-way fares, then the short **T11 trail (~1 km, 30–40 min)** over the headland. You can also walk the whole way on **T10 + T11**. See the full route in our [trails guide](/ilha-grande-trails/).
-
-### Aventureiro
-
-![Praia do Aventureiro at sunset, Ilha Grande, with its leaning palm and boulders](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
-
-The island's most famous *wild* beach, on the exposed south-western side inside the **Reserva Biológica da Praia do Sul**. Aventureiro is rustic and remote — a former fishing community famous for the iconic wind-bent palm tree leaning over the sand and for its big Atlantic swell. Because it sits inside a strict biological reserve, **surfing is not allowed** here and visitor numbers and camping are regulated. It's reached by **boat** or by trail (T9 from Provetá). Come for the raw, off-grid feel, not for beach bars.
 
 ### Dois Rios
 
@@ -134,6 +123,12 @@ A calm, pretty beach on the **T10 trail** between Abraão and Pouso — a natura
 
 A small, beautiful cove near Dois Rios, reached by trail (**T15**) or boat. It's more than a beach: Caxadaço is also a **viewpoint (mirante)** and a well-known **cliff-jumping** spot into deep, clear water — with good snorkelling among the rocks.
 
+### Aventureiro
+
+![Praia do Aventureiro at sunset, Ilha Grande, with its leaning palm and boulders](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
+
+The island's most famous *wild* beach, on the exposed south-western side inside the **Reserva Biológica da Praia do Sul** — remote and far from the rest, nothing like the coves you can reach in ten minutes. It's a former fishing community famous for the iconic wind-bent palm leaning over the sand and for its big Atlantic swell. Because it sits inside a strict biological reserve, **surfing is not allowed** and visitor numbers and camping are regulated. You reach it **by boat**, or on land via **trail T9 from Provetá (~4.3 km)** — not on foot from Abraão. A short visit needs no permit, but staying more than **two hours** requires authorization, which is why boat tours pause there for about **1h30**. Come for the raw, off-grid feel, not for beach bars.
+
 ### Parnaioca
 
 ![The wide, almost-empty horseshoe beach of Parnaioca with a lone figure, Ilha Grande](../../assets/parnaioca-beach-ilha-grande.jpg)
@@ -158,7 +153,7 @@ Most of Ilha Grande never sees a road. The beaches that stop you mid-sentence �
 
 A few of these spots you can also walk to (and for one of them I'd urge you to — more below), but the open-sea south, the calm northern lagoons and the outer islands of the Angra archipelago are boat country. Every tour leaves from the **Abraão** pier, a couple of minutes from the village.
 
-> **Before you book.** Treat any boat tour as your **whole day** — they start late morning and are back by late afternoon, so plan only breakfast and dinner around them. Each tour strings together about **five stops** (roughly four beaches or sights plus one lunch stop, around an hour each). And remember: **boats can't navigate after dark**, so nobody returns later than about 5:30 pm. Start early, and book a day or two ahead — the good ones fill up.
+> **Before you book.** Treat any boat tour as your **whole day** — they start late morning and are back by late afternoon, so plan only breakfast and dinner around them. Each tour strings together about **five stops** (roughly four beaches or sights plus one lunch stop, around an hour each). And remember: **boats can't navigate after dark**, so nobody returns later than about 5:30 pm. Departure times are fixed (you can't ask a shared tour to leave earlier or come back later — that's what private hire is for), so just book a day or two ahead; the good ones fill up.
 
 ### Open-sea south: the Atlantic beaches (Super Sul, Volta à Ilha)
 
@@ -244,7 +239,7 @@ Short trip? You can still hit the best of the island. Here's the no-fuss version
 
 Whatever else your trip includes, see **Lopes Mendes.** There are two ways in:
 
-- **On foot** — trails **T10 + T11** (the Lopes Mendes trails), about **3 h one way** (2h30 at a good pace). Be honest with yourself: this is a real, fairly demanding forest hike, not a stroll, and the return leg is the slower, harder part.
+- **On foot** — trails **T10 + T11** (the Lopes Mendes trails), **2h30–3h15 one way** depending on your pace. Be honest with yourself: this is a real, fairly demanding forest hike, not a stroll, and the return leg is the slower, harder part.
 - **By boat + a short walk** — take a morning boat across, then walk just **~1 km** to the beach and the same ~1 km back to catch a boat home.
 
 One orientation line: the **escuna** leaves from **Mangues** and the **taxi-boat** from the **Pouso** side — the two jetties are a ~5-minute walk apart and signposted, so you can't really get it wrong.
@@ -281,4 +276,4 @@ You can do the highlights in two or three days, but a few extra days turn a good
 
 - **Weather isn't guaranteed.** Sun comes and goes here, so the more days you have, the more good-weather days you'll catch — and the easier it is to let the sky decide your plan.
 - **There's far more to do than you'd think.** Beaches, trails and boat tours stack up fast; spare days rarely go to waste.
-- **It spreads your travel cost.** Getting here isn't cheap (the trip in and out, plus the Angra tourist tax), and those are fixed costs. Like a long-haul flight, the longer you stay, the more worthwhile each day becomes — three days barely repays the effort; a week or two truly earns it. The day-to-day, food included, is the cheap part.
+- **It spreads your travel cost.** Getting here isn't cheap (the trip in and out, plus the flat **R$50 Taxa Viva Angra** — the same whether you stay 2 days or 30), and those are fixed costs. Like a long-haul flight, the longer you stay, the more worthwhile each day becomes — three days barely repays the effort; a week or two truly earns it. The day-to-day, food included, is the cheap part.

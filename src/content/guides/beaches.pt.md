@@ -29,7 +29,6 @@ Se você tem só alguns dias, em resumo: **Lopes Mendes** pela praia icônica, *
 |---|---|---|
 | **Lopes Mendes** | Trilha (T10+T11) ou escuna até Pouso + T11 | A praia icônica, ondas leves |
 | **Lagoa Azul** | Passeio de escuna / lancha | Snorkel, água calma |
-| **Aventureiro** | Barco, ou trilha (T9) | Selvagem, rústica, remota |
 | **Dois Rios** | Trilha (T14) ou passeio de barco | História + cenário |
 | **Lagoa Verde** | Passeio de escuna / lancha | Snorkel, famílias |
 | **Palmas** | Trilha (T10) | Uma parada tranquila antes de Lopes Mendes |
@@ -53,10 +52,10 @@ Uma caminhada plana e tranquila, e o escape mais próximo da vila — praiazinha
 
 Siga a trilha costeira em direção ao leste e você vai costurando uma série de praias, terminando num dos meus lugares preferidos para um dia relaxado. O caminho é agradável, mas um pouco intrincado e acidentado — exige atenção, o esforço é médio-baixo, e há um trecho peculiar que descrevo abaixo.
 
-- **Praia da Júlia** — a primeira parada, e a que tem um *parador* (bar de praia) e um clima descontraído, de lounge. **É aqui que você come na ida.** *~15 min.*
+- **Praia da Júlia** — a primeira parada, com um *parador* (bar de praia). É a mais barulhenta e festeira — lotada, cara, com a música no volume máximo — boa para o agito, mas **não é onde eu comeria**. *~15 min.*
 - **Comprida e Bica** — duas praiazinhas logo depois da Júlia, não especialmente bonitas; a maioria das pessoas simplesmente passa por elas.
-- **Praia da Crena** *(bifurcação à esquerda)* — uma enseada calma cuja marca registrada é a água plana, "passada a ferro" — feita para nadar, stand-up paddle e caiaque. *~30 min.*
-- **Abraãozinho** *(bifurcação à direita)* — uma faixa longa e larga de areia com ondas suaves e água lindamente cristalina, e **restaurantes na outra ponta**: dois lugares brasileiros em uma extremidade e um ótimo bar-restaurante argentino na outra. Há também um ponto fixo de táxi-boat. *~30 min.*
+- **Praia da Crena** *(bifurcação à esquerda)* — uma enseada calma de água plana, "passada a ferro", feita para nadar, stand-up paddle e caiaque; um clima tranquilo, às vezes com alguém dedilhando um violão — um arzinho de *luau*. *~30 min.*
+- **Abraãozinho** *(bifurcação à direita)* — a minha escolha das três para um dia relaxado **e uma refeição**: uma faixa longa e larga de areia, ondas suaves e água lindamente cristalina, música lounge tranquila e nada invasiva, e **restaurantes** — dois lugares brasileiros em uma extremidade e um ótimo bar-restaurante argentino na outra. Há também um ponto fixo de táxi-boat. *~30 min.*
 
 > **Bom saber.** Caminhada bastante fácil, mas intrincada e acidentada — e escorregadia se tiver chovido. Em certo ponto, casas irregulares bloquearam o caminho original, então uma curta descida te leva até a praia e por uma passagem estreita junto ao costão (uma *cornija*), com degraus e pedras escorregadias equipadas com cordas fixas. É bem divertido, embora não seja para todos — e vale a pena.
 
@@ -66,9 +65,9 @@ Siga a trilha costeira em direção ao leste e você vai costurando uma série d
 
 ### A caminhada da cachoeira: Cachoeira da Feiticeira
 
-Esta é para as pernas que querem uma subida de verdade. Você sobe suando por uma mata quente e úmida, passando por dois *mirantes* com vista para o mar, e a recompensa lá em cima é a **Cachoeira da Feiticeira** — uma queda d'água e piscina natural que é gloriosa no verão, depois do calor da caminhada. Avance um pouco mais e você desce até a **Praia da Feiticeira**, uma praia pequena e muito bonita.
+Esta é para uma caminhada um pouco mais longa mata adentro. Você sobe de forma constante por uma mata quente e úmida até a **Cachoeira da Feiticeira** — uma queda d'água e piscina natural que é gloriosa no verão, depois do calor da caminhada. Avance um pouco mais e você desce até a **Praia da Feiticeira**, uma praia pequena e muito bonita.
 
-> **Prático — Feiticeira (trilha T2).** O percurso vai **Abraão → bifurcação do parque → aqueduto → bifurcação da cachoeira → cachoeira → Praia da Feiticeira**. Cerca de **1h30** até a cachoeira, depois mais **20–30 min** de descida até a praia. Perfil: aproximadamente **5 km**, chegando perto dos **220 m**, com **400 m+** de subida acumulada e **dois mirantes**. **Não** tente fazê-la depois da chuva — ela fica traiçoeira. Use boas sandálias ou tênis de trekking (não tênis comum nem chinelos) e leve **1–1,5 L de água** (2 L para dois). Da Praia da Feiticeira você pode pegar um **barco de volta ao Abraão** e poupar a subida de retorno.
+> **Prático — Feiticeira (trilha T2).** O percurso vai **Abraão → bifurcação do parque → aqueduto → bifurcação da cachoeira → cachoeira → Praia da Feiticeira**. Cerca de **1h30** até a cachoeira, depois mais **20–30 min** de descida até a praia. Chega no máximo a cerca de **160 m** e sobe de forma constante — uma caminhada bastante nobre, que se faz de uma vez. Da Praia da Feiticeira você pode pegar um **barco de volta ao Abraão** e poupar a subida de retorno.
 
 ### As caminhadas mais longas: Palmas, Lopes Mendes e Dois Rios
 
@@ -77,12 +76,8 @@ Algumas das praias mais famosas da ilha também são alcançáveis a pé desde o
 | Praia | Trilha(s) | Só de ida, a pé |
 | --- | --- | --- |
 | **Palmas** | T10 | cerca de **1h40** |
-| **Lopes Mendes** | T10 + T11 | cerca de **3h** (2h30 num bom ritmo) |
+| **Lopes Mendes** | T10 + T11 | **2h30–3h15** (conforme o ritmo) |
 | **Dois Rios** | T14 | **7,2 km, cerca de 2h30** |
-
-### Uma observação sobre o Aventureiro
-
-Os viajantes costumam perguntar se dá para ir a pé até o **Aventureiro**, lá no extremo sul. Desde o Abraão, a resposta é não — você chega lá **de barco**, ou por terra pela **trilha T9 a partir de Provetá** (cerca de **4,3 km**). Uma coisa que vale saber: uma visita curta não exige autorização, mas permanecer por mais de **duas horas** requer autorização — e é por isso que os passeios de barco normalmente fazem uma parada por ali de cerca de **1h30**.
 
 ## As mais famosas
 
@@ -93,12 +88,6 @@ Os viajantes costumam perguntar se dá para ir a pé até o **Aventureiro**, lá
 A praia por que todo mundo vem — e que cumpre o que promete. Quase **3 km de areia fina e clara**, tão fina que quase "canta" sob os pés, com mata atlântica preservada atrás e água clara e rasa. Está sempre nas listas das melhores praias do Brasil (e do mundo). Tem **ondas suaves**, que a tornam queridinha dos surfistas iniciantes, e só algumas barracas rústicas vendendo bebida e petiscos — quase nenhuma estrutura.
 
 Os barcos não atracam na própria Lopes Mendes. O jeito mais comum é uma **escuna do Abraão até a Praia do Pouso** (cerca de R$70 ida e volta) ou um **táxi-boat** mais rápido (cerca de R$100 ida e volta) — veja os horários exatos e as tarifas só de ida no planejador de dias abaixo, e depois a curta **trilha T11 (~1 km, 30–40 min)** por cima do costão. Você também pode fazer todo o caminho pela **T10 + T11**. Veja o trajeto completo no nosso [guia de trilhas](/pt/trilhas-ilha-grande/).
-
-### Aventureiro
-
-![Praia do Aventureiro ao pôr do sol, Ilha Grande, com seu coqueiro inclinado](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
-
-A praia **selvagem** mais famosa da ilha, no lado sudoeste exposto, dentro da **Reserva Biológica da Praia do Sul**. Aventureiro é rústica e remota — uma antiga comunidade de pescadores famosa pela icônica palmeira tombada pelo vento sobre a areia e pelas ondas fortes do Atlântico. Por estar dentro de uma reserva biológica rígida, **não é permitido surfar** ali, e o número de visitantes e o camping são regulados. Chega-se de **barco** ou pela trilha (T9 a partir de Provetá). Vá pelo clima cru, fora do mundo, não por quiosques de praia.
 
 ### Dois Rios
 
@@ -134,6 +123,12 @@ Uma praia calma e bonita na **trilha T10** entre Abraão e Pouso — um lugar na
 
 Uma pequena enseada linda perto de Dois Rios, alcançada pela trilha (**T15**) ou de barco. É mais que uma praia: Caxadaço é também um **mirante** e um conhecido ponto de **salto dos costões** (clavados) em água funda e clara — com bom snorkel entre as pedras.
 
+### Aventureiro
+
+![Praia do Aventureiro ao pôr do sol, Ilha Grande, com seu coqueiro inclinado](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
+
+A praia **selvagem** mais famosa da ilha, no lado sudoeste exposto, dentro da **Reserva Biológica da Praia do Sul** — remota e longe das demais, nada parecida com as enseadas a que se chega em dez minutos. É uma antiga comunidade de pescadores famosa pela icônica palmeira tombada pelo vento sobre a areia e pelas ondas fortes do Atlântico. Por estar dentro de uma reserva biológica rígida, **não é permitido surfar** ali, e o número de visitantes e o camping são regulados. Chega-se de **barco**, ou por terra pela **trilha T9 a partir de Provetá (~4,3 km)** — não a pé desde o Abraão. Uma visita curta não exige autorização, mas permanecer por mais de **duas horas** requer autorização, e é por isso que os passeios de barco param por ali cerca de **1h30**. Vá pelo clima cru, fora do mundo, não por quiosques de praia.
+
 ### Parnaioca
 
 ![A ampla e quase deserta praia em ferradura de Parnaioca, com uma figura solitária, Ilha Grande](../../assets/parnaioca-beach-ilha-grande.jpg)
@@ -158,7 +153,7 @@ A maior parte da Ilha Grande nunca conheceu uma estrada. As praias que fazem voc
 
 Alguns desses lugares também dá para chegar a pé (e a um deles eu insistiria que você fosse caminhando — mais sobre isso abaixo), mas o sul de mar aberto, as lagoas calmas do norte e as ilhas externas do arquipélago de Angra são território de barco. Todos os passeios partem do píer do **Abraão**, a poucos minutos da vila.
 
-> **Antes de reservar.** Considere qualquer passeio de barco como o seu **dia inteiro** — eles começam no fim da manhã e voltam no fim da tarde, então planeje apenas o café da manhã e o jantar em torno deles. Cada passeio encadeia cerca de **cinco paradas** (mais ou menos quatro praias ou pontos turísticos mais uma parada para o almoço, cada uma com cerca de uma hora). E lembre-se: **os barcos não podem navegar depois do anoitecer**, então ninguém volta mais tarde do que por volta das 17h30. Comece cedo e reserve com um ou dois dias de antecedência — os bons lotam.
+> **Antes de reservar.** Considere qualquer passeio de barco como o seu **dia inteiro** — eles começam no fim da manhã e voltam no fim da tarde, então planeje apenas o café da manhã e o jantar em torno deles. Cada passeio encadeia cerca de **cinco paradas** (mais ou menos quatro praias ou pontos turísticos mais uma parada para o almoço, cada uma com cerca de uma hora). E lembre-se: **os barcos não podem navegar depois do anoitecer**, então ninguém volta mais tarde do que por volta das 17h30. Os horários de saída são fixos (você não pode pedir a um passeio compartilhado para sair mais cedo ou voltar mais tarde — para isso existe o aluguel privado), então é só reservar com um ou dois dias de antecedência; os bons lotam.
 
 ### Sul de mar aberto: as praias do Atlântico (Super Sul, Volta à Ilha)
 
@@ -244,7 +239,7 @@ Viagem curta? Mesmo assim dá para conhecer o melhor da ilha. Aqui vai a versão
 
 Aconteça o que acontecer no resto da viagem, conheça **Lopes Mendes.** Há duas formas de chegar:
 
-- **A pé** — trilhas **T10 + T11** (as trilhas de Lopes Mendes), cerca de **3 h só de ida** (2h30 num ritmo bom). Seja honesto consigo mesmo: esta é uma caminhada de verdade pela mata, razoavelmente puxada, e não um passeio tranquilo — e a volta é a parte mais lenta e mais difícil.
+- **A pé** — trilhas **T10 + T11** (as trilhas de Lopes Mendes), **2h30–3h15 só de ida**, conforme o seu ritmo. Seja honesto consigo mesmo: esta é uma caminhada de verdade pela mata, razoavelmente puxada, e não um passeio tranquilo — e a volta é a parte mais lenta e mais difícil.
 - **De barco + uma caminhada curta** — pegue um barco de manhã para a travessia e depois ande apenas **~1 km** até a praia, mais os mesmos ~1 km de volta para pegar um barco de retorno.
 
 Uma linha para se orientar: a **escuna** sai dos **Mangues** e o **táxi-boat** sai do lado do **Pouso** — os dois cais ficam a cerca de 5 minutos de caminhada um do outro e são sinalizados, então é praticamente impossível errar.
@@ -281,4 +276,4 @@ Você consegue ver os destaques em dois ou três dias, mas alguns dias a mais tr
 
 - **O tempo não é garantido.** O sol vai e vem por aqui, então quanto mais dias você tiver, mais dias de bom tempo vai pegar — e mais fácil fica deixar o céu decidir o seu roteiro.
 - **Há muito mais para fazer do que você imagina.** Praias, trilhas e passeios de barco se acumulam rápido; dias extras raramente são desperdiçados.
-- **Isso dilui o seu custo de viagem.** Chegar até aqui não é barato (a ida e a volta, mais a taxa de turismo de Angra), e esses são custos fixos. Como num voo de longa distância, quanto mais tempo você fica, mais cada dia compensa — três dias mal pagam o esforço; uma semana ou duas valem de verdade. O dia a dia, alimentação incluída, é a parte barata.
+- **Isso dilui o seu custo de viagem.** Chegar até aqui não é barato (a ida e a volta, mais a **Taxa Viva Angra de R$50 fixos** — a mesma quer você fique 2 dias ou 30), e esses são custos fixos. Como num voo de longa distância, quanto mais tempo você fica, mais cada dia compensa — três dias mal pagam o esforço; uma semana ou duas valem de verdade. O dia a dia, alimentação incluída, é a parte barata.

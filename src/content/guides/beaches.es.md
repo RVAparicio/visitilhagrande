@@ -29,7 +29,6 @@ Si tenés solo unos días, en resumen: **Lopes Mendes** por la playa icónica, *
 |---|---|---|
 | **Lopes Mendes** | Sendero (T10+T11) o escuna a Pouso + T11 | La playa icónica, oleaje suave |
 | **Lagoa Azul** | Paseo en escuna / lancha | Snorkel, agua calma |
-| **Aventureiro** | Barco, o sendero (T9) | Salvaje, rústica, remota |
 | **Dois Rios** | Sendero (T14) o paseo en barco | Historia + escenario |
 | **Lagoa Verde** | Paseo en escuna / lancha | Snorkel, familias |
 | **Palmas** | Sendero (T10) | Una parada tranquila antes de Lopes Mendes |
@@ -53,22 +52,22 @@ Un paseo llano y sencillo, y la escapada más cercana al pueblo: pequeñas playa
 
 Sigue el sendero costero hacia el este y enlazarás un puñado de playas, terminando en uno de mis lugares favoritos para un día relajado. El camino es agradable, pero un poco intrincado y abrupto; te mantiene alerta, el esfuerzo es medio-bajo, y hay un tramo curioso que describiré más abajo.
 
-- **Praia da Júlia** — la primera parada, y la que tiene un *parador* (bar de playa) y un ambiente relajado, de lounge. **Aquí es donde comer a la ida.** *~15 min.*
+- **Praia da Júlia** — la primera parada, con un *parador* (bar de playa). Es la más ruidosa y fiestera — abarrotada, cara, con la música a todo volumen — está bien para el ambiente, pero **no es donde yo comería**. *~15 min.*
 - **Comprida y Bica** — dos playas diminutas justo después de Júlia, no especialmente bonitas; la mayoría simplemente pasa de largo.
-- **Praia da Crena** *(desvío a la izquierda)* — una bahía tranquila cuyo sello es el agua plana, "planchada", hecha para nadar, hacer stand-up paddle y kayak. *~30 min.*
-- **Abraãozinho** *(desvío a la derecha)* — una extensa y amplia franja de arena con olas suaves y un agua bellamente cristalina, y **restaurantes en el extremo más alejado**: dos locales brasileños en un extremo y un muy buen bar-restaurante argentino en el otro. También hay una parada fija de taxi-barco. *~30 min.*
+- **Praia da Crena** *(desvío a la izquierda)* — una bahía tranquila de agua plana, "planchada", hecha para nadar, hacer stand-up paddle y kayak; un ambiente relajado, a veces con alguien rasgueando una guitarra — un airecito de *luau*. *~30 min.*
+- **Abraãozinho** *(desvío a la derecha)* — mi elegida de las tres para un día relajado **y una comida**: una extensa y amplia franja de arena, olas suaves y un agua bellamente cristalina, música lounge natural y nunca invasiva, y **restaurantes**: dos locales brasileños en un extremo y un muy buen bar-restaurante argentino en el otro. También hay una parada fija de taxi-barco. *~30 min.*
 
 > **Bueno saber.** Caminata bastante fácil, pero intrincada y abrupta, y resbaladiza si ha llovido. En un punto, unas casas ilegales bloquearon el camino original, así que un breve descenso te lleva hasta la playa y a lo largo de un estrecho paso al borde del acantilado (una *cornisa*), con escalones y rocas resbaladizas provistas de cuerdas fijas. Es divertido, aunque no es para todo el mundo, y vale la pena.
 
 > ⚠️ **Mareas: hazlo por la mañana.** A partir de las **15:00** aproximadamente la marea suele subir, y con marea alta algunos tramos te obligan a vadear por la orilla, donde puedes mojarte hasta la cintura. Haz la caminata costera del este por la mañana, o ve preparado para mojarte.
 
-> 🚤 **Taxi-barco (Crena / Abraãozinho).** Unos **R$50 ida y vuelta**. Los barcos oficiales son **negros y amarillos**. Operan a partir de las **9:30** aproximadamente (no antes: necesitan un número mínimo de pasajeros), salen entre las **9:30 y las 13:00**, y regresan hasta cerca de las **17:30–18:00**. No salgas a las 17:30 esperando que te lleven. Una gran opción: **ir caminando y volver en barco.**
+> 🚤 **Taxi-barco (Crena / Abraãozinho).** Unos **R$50 ida y vuelta**. Los barcos oficiales son **negros y amarillos**. Operan a partir de las **9:30** aproximadamente (no antes: necesitan un número mínimo de pasajeros), salen entre las **9:30 y las 13:00**, y regresan hasta cerca de las **17:30–18:00**. No salgas a las 17:30 esperando que te lleven. Los horarios de salida son fijos (no puedes pedirle a un paseo compartido que salga antes o vuelva más tarde — para eso está el alquiler privado), así que solo reserva con uno o dos días de antelación: los buenos se llenan.
 
 ### La caminata a la cascada: Cachoeira da Feiticeira
 
-Esta es la indicada para las piernas que quieren una subida en condiciones. Sudas cuesta arriba a través de una selva calurosa y húmeda, pasando por dos *mirantes* con vistas al mar, y la recompensa en lo alto es la **Cachoeira da Feiticeira**: una cascada y una piscina natural que es una gloria en verano, tras el calor de la caminata. Continúa un poco más y descenderás hasta **Praia da Feiticeira**, una playa pequeña y muy bonita.
+Esta es la indicada para una caminata un poco más larga, hacia el interior. Subís de forma constante a través de una selva calurosa y húmeda hasta la **Cachoeira da Feiticeira**: una cascada y una piscina natural que es una gloria en verano, tras el calor de la caminata. Continúa un poco más y descenderás hasta **Praia da Feiticeira**, una playa pequeña y muy bonita.
 
-> **Práctico — Feiticeira (sendero T2).** La ruta va **Abraão → desvío del parque → acueducto → desvío de la cascada → cascada → Praia da Feiticeira**. Aproximadamente **1h30** hasta la cascada, y luego otros **20–30 min** de bajada hasta la playa. Perfil: unos **5 km**, con un punto máximo cercano a los **220 m**, con **más de 400 m** de desnivel acumulado y **dos mirantes**. **No** lo intentes después de la lluvia: se vuelve traicionero. Lleva buenas sandalias o zapatos de senderismo (no zapatillas ni chanclas) y carga **1–1,5 L de agua** (2 L para dos personas). Desde Praia da Feiticeira puedes tomar un **barco de regreso a Abraão** y ahorrarte la subida de vuelta.
+> **Práctico — Feiticeira (sendero T2).** La ruta va **Abraão → desvío del parque → acueducto → desvío de la cascada → cascada → Praia da Feiticeira**. Aproximadamente **1h30** hasta la cascada, y luego otros **20–30 min** de bajada hasta la playa. Llega como máximo a unos **160 m** y sube de forma constante — una caminata bastante noble, que se hace de una vez. Desde Praia da Feiticeira puedes tomar un **barco de regreso a Abraão** y ahorrarte la subida de vuelta.
 
 ### Las caminatas más largas: Palmas, Lopes Mendes y Dois Rios
 
@@ -77,12 +76,8 @@ Algunas de las playas más famosas de la isla también son accesibles a pie desd
 | Playa | Sendero(s) | A pie (solo ida) |
 | --- | --- | --- |
 | **Palmas** | T10 | unos **1h40** |
-| **Lopes Mendes** | T10 + T11 | unas **3h** (2h30 a buen ritmo) |
+| **Lopes Mendes** | T10 + T11 | **2h30–3h15** (según el ritmo) |
 | **Dois Rios** | T14 | **7,2 km, unas 2h30** |
-
-### Una nota sobre Aventureiro
-
-Los viajeros suelen preguntar si pueden caminar hasta **Aventureiro**, en el extremo sur. Desde Abraão, la respuesta es no: se llega **en barco**, o por tierra mediante el **sendero T9 desde Provetá** (unos **4,3 km**). Algo que conviene saber: una visita corta no requiere permiso, pero permanecer más de **dos horas** exige autorización, razón por la cual las excursiones en barco suelen detenerse allí durante aproximadamente **1h30**.
 
 ## Las más famosas
 
@@ -93,12 +88,6 @@ Los viajeros suelen preguntar si pueden caminar hasta **Aventureiro**, en el ext
 Por la que todos vienen — y está a la altura. Casi **3 km de arena fina y clara**, tan fina que casi "canta" bajo los pies, con selva atlántica preservada detrás y agua clara y poco profunda. Aparece siempre en las listas de las mejores playas de Brasil (y del mundo). Tiene **oleaje suave**, que la vuelve favorita de los surfistas principiantes, y solo un par de quioscos rústicos que venden bebidas y snacks — casi nada de infraestructura.
 
 Los barcos no pueden atracar en la propia Lopes Mendes. Lo habitual es una **escuna desde Abraão hasta la Praia do Pouso** (unos R$70 ida y vuelta) o un **taxi-boat** más rápido (unos R$100 ida y vuelta) — mirá los horarios exactos y las tarifas de solo ida en el planificador de días de abajo, y después el corto **sendero T11 (~1 km, 30–40 min)** por encima de la punta. También podés hacer todo el camino por **T10 + T11**. Mirá el recorrido completo en nuestra [guía de senderos](/es/senderos-ilha-grande/).
-
-### Aventureiro
-
-![Praia do Aventureiro al atardecer, Ilha Grande, con su palmera inclinada](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
-
-La playa **salvaje** más famosa de la isla, en el lado suroeste expuesto, dentro de la **Reserva Biológica da Praia do Sul**. Aventureiro es rústica y remota — una antigua comunidad de pescadores famosa por la icónica palmera inclinada por el viento sobre la arena y por su fuerte oleaje atlántico. Como está dentro de una reserva biológica estricta, **no se permite surfear** allí, y el número de visitantes y el camping están regulados. Se llega en **barco** o por el sendero (T9 desde Provetá). Andá por el ambiente crudo, fuera del mundo, no por los bares de playa.
 
 ### Dois Rios
 
@@ -133,6 +122,12 @@ Una playa calma y linda sobre el **sendero T10** entre Abraão y Pouso — un lu
 ![Vista aérea de la cala de Caxadaço, Ilha Grande, agua turquesa y arena dorada](../../assets/caxadaco-cove-aerial-ilha-grande.jpg)
 
 Una pequeña cala hermosa cerca de Dois Rios, a la que se llega por el sendero (**T15**) o en barco. Es más que una playa: Caxadaço es también un **mirador (mirante)** y un conocido punto de **clavados** desde las rocas al agua profunda y clara — con buen snorkel entre las piedras.
+
+### Aventureiro
+
+![Praia do Aventureiro al atardecer, Ilha Grande, con su palmera inclinada](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
+
+La playa **salvaje** más famosa de la isla, en el lado suroeste expuesto, dentro de la **Reserva Biológica da Praia do Sul** — remota y lejos de las demás, nada que ver con las calas a las que llegás en diez minutos. Es una antigua comunidad de pescadores famosa por la icónica palmera inclinada por el viento sobre la arena y por su fuerte oleaje atlántico. Como está dentro de una reserva biológica estricta, **no se permite surfear** allí, y el número de visitantes y el camping están regulados. Se llega en **barco**, o por tierra mediante el **sendero T9 desde Provetá (~4,3 km)** — no a pie desde Abraão. Una visita corta no requiere permiso, pero permanecer más de **dos horas** exige autorización, razón por la cual las excursiones en barco paran allí cerca de **1h30**. Andá por el ambiente crudo, fuera del mundo, no por los bares de playa.
 
 ### Parnaioca
 
@@ -244,7 +239,7 @@ Lo ideal son entre cinco y siete días, pero sean cuales sean tus fechas, aquí 
 
 Incluya lo que incluya tu viaje, visita **Lopes Mendes.** Hay dos formas de llegar:
 
-- **A pie** — senderos **T10 + T11** (los senderos de Lopes Mendes), unas **3 h solo ida** (2h30 a buen ritmo). Sé honesto contigo mismo: es una caminata de verdad por la selva, bastante exigente, no un paseo, y el tramo de vuelta es la parte más lenta y dura.
+- **A pie** — senderos **T10 + T11** (los senderos de Lopes Mendes), **2h30–3h15 solo ida**, según tu ritmo. Sé honesto contigo mismo: es una caminata de verdad por la selva, bastante exigente, no un paseo, y el tramo de vuelta es la parte más lenta y dura.
 - **En barco + una corta caminata** — toma un barco por la mañana para cruzar y luego camina solo **~1 km** hasta la playa, y otro ~1 km de vuelta para tomar el barco de regreso.
 
 Una indicación para orientarte: la **escuna** sale de **Mangues** y el **taxi-boat** del lado del **Pouso**; los dos embarcaderos están a unos 5 minutos a pie el uno del otro y están señalizados, así que es difícil equivocarse.
@@ -281,4 +276,4 @@ Puedes ver lo más destacado en dos o tres días, pero unos cuantos días más c
 
 - **El clima no está garantizado.** Aquí el sol va y viene, así que cuantos más días tengas, más días de buen tiempo pillarás, y más fácil será dejar que el cielo decida tu plan.
 - **Hay mucho más para hacer de lo que crees.** Playas, senderos y paseos en barco se acumulan rápido; los días libres rara vez se desperdician.
-- **Reparte el coste del viaje.** Llegar hasta aquí no es barato (el trayecto de ida y vuelta, más la tasa turística de Angra), y esos son costes fijos. Como en un vuelo de larga distancia, cuanto más tiempo te quedes, más vale la pena cada día: tres días apenas compensan el esfuerzo; una semana o dos lo justifican de verdad. El día a día, comida incluida, es la parte barata.
+- **Reparte el coste del viaje.** Llegar hasta aquí no es barato (el trayecto de ida y vuelta, más la **Taxa Viva Angra de R$50 fijos** — la misma tanto si te quedas 2 días como 30), y esos son costes fijos. Como en un vuelo de larga distancia, cuanto más tiempo te quedes, más vale la pena cada día: tres días apenas compensan el esfuerzo; una semana o dos lo justifican de verdad. El día a día, comida incluida, es la parte barata.

@@ -27,7 +27,7 @@ Voici les **cinq sentiers que je conseillerais à n'importe quel voyageur**, de 
 
 | Sentier | Distance | Durée | Difficulté | Pourquoi y aller | Carte |
 |---|---|---|---|---|---|
-| **Lopes Mendes** (T10 + T11) | ~7,2 km | 3,5–4 h | Modérée–Difficile | La plage emblématique de l'île | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
+| **Lopes Mendes** (T10 + T11) | ~7,2 km | 2h30–3h15 | Modérée–Difficile | La plage emblématique de l'île | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
 | **Dois Rios** (T14) | ~7 km | ~2,5 h | Modérée | Histoire + une plage sauvage | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
 | **Feiticeira** (T1 + T2) | ~6,4 km | 90 min–2 h | Modérée | Ruines, cascade, plage | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
 | **Pico do Papagaio** (T13) | ~12 km A/R | 6–8 h | Difficile (guide !) | La grande vue du sommet | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
@@ -50,7 +50,7 @@ Les sentiers sont superbes, mais c'est de la vraie forêt tropicale. Quelques r�
 
 On a un dicton à la pousada : *« si tu ne sais pas quoi faire aujourd'hui, va à Lopes Mendes. »* C'est la plage la plus emblématique de l'île — célèbre dans tout le Brésil et reconnue dans le monde entier — et un programme parfait pour une journée entière, accessible à presque tout le monde.
 
-La marche classique suit le **T10** puis le **T11**, depuis Abraão et en passant par la **Praia de Palmas** vers Pouso. Environ **7,2 km** et à peu près **3,5 à 4 heures** à l'aller, niveau **modéré à difficile**. La portion T10 d'Abraão à Palmas est magnifique, à l'ombre de la forêt ; Palmas elle-même est un bel endroit pour faire une pause. Après la pluie, redoublez de prudence — ça glisse.
+La marche classique suit le **T10** puis le **T11**, depuis Abraão et en passant par la **Praia de Palmas** vers Pouso. Environ **7,2 km** et **2h30–3h15** à l'aller selon l'allure, niveau **modéré à difficile**. La portion T10 d'Abraão à Palmas est magnifique, à l'ombre de la forêt ; Palmas elle-même est un bel endroit pour faire une pause. Après la pluie, redoublez de prudence — ça glisse.
 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 

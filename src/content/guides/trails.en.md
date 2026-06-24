@@ -27,7 +27,7 @@ Below are the **five trails I'd send any guest on**, from an easy family stroll 
 
 | Trail | Distance | Time | Difficulty | Why go | Route |
 |---|---|---|---|---|---|
-| **Lopes Mendes** (T10 + T11) | ~7.2 km | 3.5–4 h | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
+| **Lopes Mendes** (T10 + T11) | ~7.2 km | 2h30–3h15 | Moderate–Hard | The island's iconic beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
 | **Dois Rios** (T14) | ~7 km | ~2.5 h | Moderate | History + a wild beach | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
 | **Feiticeira** (T1 + T2) | ~6.4 km | 90 min–2 h | Moderate | Ruins, waterfall, beach | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
 | **Pico do Papagaio** (T13) | ~12 km round | 6–8 h | Hard (guide!) | The big summit view | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
@@ -50,7 +50,7 @@ The trails are wonderful but it is still real rainforest. A few things that matt
 
 We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* It's the island's most iconic beach — famous across Brazil and known worldwide — and a perfect full-day plan for almost anyone.
 
-The classic walk follows **T10** then **T11**, starting in Abraão and passing **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and roughly **3.5 to 4 hours** one way, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
+The classic walk follows **T10** then **T11**, starting in Abraão and passing **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and **2h30–3h15** one way depending on your pace, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 

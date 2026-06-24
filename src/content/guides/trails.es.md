@@ -27,7 +27,7 @@ Estos son los **cinco senderos que le recomendaría a cualquier huésped**, desd
 
 | Sendero | Distancia | Tiempo | Dificultad | Por qué ir | Mapa |
 |---|---|---|---|---|---|
-| **Lopes Mendes** (T10 + T11) | ~7,2 km | 3,5–4 h | Moderada–Difícil | La playa icónica de la isla | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
+| **Lopes Mendes** (T10 + T11) | ~7,2 km | 2h30–3h15 | Moderada–Difícil | La playa icónica de la isla | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271) |
 | **Dois Rios** (T14) | ~7 km | ~2,5 h | Moderada | Historia + una playa salvaje | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143) |
 | **Feiticeira** (T1 + T2) | ~6,4 km | 90 min–2 h | Moderada | Ruinas, cascada, playa | [Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064) |
 | **Pico do Papagaio** (T13) | ~12 km ida/vuelta | 6–8 h | Difícil (¡guía!) | La gran vista de la cima | [Wikiloc](https://pt.wikiloc.com/trilhas-trekking/ilha-grande-rj-abraao-x-pico-do-papagaio-x-abraao-175144779) |
@@ -50,7 +50,7 @@ Los senderos son maravillosos, pero es selva atlántica de verdad. Algunas cosas
 
 Tenemos un dicho en la pousada: *"si no sabés qué hacer hoy, andá a Lopes Mendes."* Es la playa más icónica de la isla — famosa en todo Brasil y reconocida en el mundo entero — y un plan perfecto para un día entero, apto para casi cualquiera.
 
-La caminata clásica sigue el **T10** y después el **T11**, saliendo de Abraão y pasando por la **Praia de Palmas** camino a Pouso. Son unos **7,2 km** y más o menos **3,5 a 4 horas** solo de ida, nivel **moderado a difícil**. El tramo del T10 de Abraão a Palmas es hermoso, con la selva tapando el sol; Palmas misma es un gran lugar para una pausa. Después de la lluvia, redoblá el cuidado — resbala.
+La caminata clásica sigue el **T10** y después el **T11**, saliendo de Abraão y pasando por la **Praia de Palmas** camino a Pouso. Son unos **7,2 km** y **2h30–3h15** solo de ida, según el ritmo, nivel **moderado a difícil**. El tramo del T10 de Abraão a Palmas es hermoso, con la selva tapando el sol; Palmas misma es un gran lugar para una pausa. Después de la lluvia, redoblá el cuidado — resbala.
 
 📍 [Mirá el recorrido completo en Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
