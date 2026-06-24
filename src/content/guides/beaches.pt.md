@@ -4,7 +4,7 @@ description: "O guia de quem mora aqui para as melhores praias da Ilha Grande, B
 lang: "pt"
 slug: "praias-ilha-grande"
 translationKey: "beaches"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-24
 author: "Richard"
 faq:
   - q: "Quantas praias tem a Ilha Grande?"
@@ -38,15 +38,21 @@ Se você tem só alguns dias, em resumo: **Lopes Mendes** pela praia icônica, *
 
 ### Lopes Mendes
 
+![Praia de Lopes Mendes, Ilha Grande, areia branca e água turquesa](../../assets/lopes-mendes-beach-ilha-grande.jpg)
+
 A praia por que todo mundo vem — e que cumpre o que promete. Quase **3 km de areia fina e clara**, tão fina que quase "canta" sob os pés, com mata atlântica preservada atrás e água clara e rasa. Está sempre nas listas das melhores praias do Brasil (e do mundo). Tem **ondas suaves**, que a tornam queridinha dos surfistas iniciantes, e só algumas barracas rústicas vendendo bebida e petiscos — quase nenhuma estrutura.
 
 Os barcos não atracam na própria Lopes Mendes. O jeito mais comum é uma **escuna do Abraão até a Praia do Pouso** (cerca de R$50 ida e volta; saídas no fim da manhã, retornos no meio/fim da tarde) ou um **taxi boat** (cerca de R$70 por pessoa), e depois a curta **trilha T11 (~1 km, 30–40 min)** por cima do costão. Você também pode fazer todo o caminho pela **T10 + T11**. Veja o trajeto completo no nosso [guia de trilhas](/pt/trilhas-ilha-grande/).
 
 ### Aventureiro
 
+![Praia do Aventureiro ao pôr do sol, Ilha Grande, com seu coqueiro inclinado](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
+
 A praia **selvagem** mais famosa da ilha, no lado sudoeste exposto, dentro da **Reserva Biológica da Praia do Sul**. Aventureiro é rústica e remota — uma antiga comunidade de pescadores famosa pela icônica palmeira tombada pelo vento sobre a areia e pelas ondas fortes do Atlântico. Por estar dentro de uma reserva biológica rígida, **não é permitido surfar** ali, e o número de visitantes e o camping são regulados. Chega-se de **barco** ou pela trilha (T9 a partir de Provetá). Vá pelo clima cru, fora do mundo, não por quiosques de praia.
 
 ### Dois Rios
+
+![Vista aérea da baía de Dois Rios, Ilha Grande, praia em ferradura onde um rio encontra o mar](../../assets/dois-rios-aerial-bay-ilha-grande.jpg)
 
 Uma praia dramática numa enseada **entre dois morros íngremes**, emoldurada pelos dois rios de água doce que dão nome a ela — água escura, mas limpa e fresca. Atrás fica o vilarejo quase fantasma da antiga prisão de segurança máxima (1904–1994), hoje um museu e um campus universitário aos poucos tomado pela mata. Chega-se a pé pela **T14 (~7 km)** ou em passeio de barco. Há pouca estrutura, então leve água e comida. Detalhes completos da caminhada no nosso [guia de trilhas](/pt/trilhas-ilha-grande/).
 
@@ -54,13 +60,19 @@ Uma praia dramática numa enseada **entre dois morros íngremes**, emoldurada pe
 
 ### Lagoa Azul
 
+![Vista aérea da Lagoa Azul, Ilha Grande, lagoa turquesa de mergulho com bar flutuante](../../assets/lagoa-azul-floating-bar-ilha-grande.jpg)
+
 Não é uma praia, mas uma **lagoa turquesa e rasa** entre ilhotas, no lado norte da ilha, com água calma e cristalina cheia de peixes — a parada de **snorkel** símbolo da ilha, um verdadeiro aquário natural. É presença certa em quase todo passeio de escuna e lancha. Leve (ou alugue) uma máscara; a água calma é ideal para iniciantes e famílias.
 
 ### Lagoa Verde
 
+![Vista aérea da Lagoa Verde, Ilha Grande, lagoa de mergulho verde-azulada e abrigada](../../assets/lagoa-verde-aerial-ilha-grande.jpg)
+
 Outra lagoa de snorkel abrigada, de águas esmeralda, mais perto do Abraão, com água calma e muitos peixes e ótima visibilidade submarina. Como a Lagoa Azul, é parada padrão dos passeios de dia e um lugar tranquilo e fácil para entrar na água.
 
 ### Dentista & Cataguas
+
+![Vista aérea da ilhota de Cataguás, Ilha Grande, com banco de areia branca e mar turquesa](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
 
 Dois cantinhos de cartão-postal alcançados **de barco**: praiazinhas e bancos de areia de água clara, rasa e turquesa, paradas queridas das escunas para nadar e mergulhar de snorkel. Perfeitos para uma parada curta num passeio pela ilha.
 
@@ -72,6 +84,8 @@ Uma praia calma e bonita na **trilha T10** entre Abraão e Pouso — um lugar na
 
 ### Caxadaço
 
+![Vista aérea da enseada de Caxadaço, Ilha Grande, água turquesa e areia dourada](../../assets/caxadaco-cove-aerial-ilha-grande.jpg)
+
 Uma pequena enseada linda perto de Dois Rios, alcançada pela trilha (**T15**) ou de barco. É mais que uma praia: Caxadaço é também um **mirante** e um conhecido ponto de **salto dos costões** (clavados) em água funda e clara — com bom snorkel entre as pedras.
 
 ### Parnaioca
@@ -80,8 +94,12 @@ Uma das praias mais **remotas**, na costa sul — uma antiga vila de pescadores 
 
 ### Meros
 
+![A enseada turquesa e calma da Praia do Meros, Ilha Grande, com barcos ancorados](../../assets/meros-cove-ilha-grande.jpg)
+
 Uma praia tranquila no lado oeste da ilha, perto da área de Provetá/Aventureiro — pacata, longe das multidões, e com bom **snorkel**.
 
 ### Gruta do Acaiá
+
+![Mergulho livre na água azul luminosa da Gruta do Acaiá, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 Não é uma praia, mas uma impressionante **gruta marinha**, semissubmersa e acessível **somente de barco**. Sua magia é a luz: quando o sol bate na entrada no ângulo certo, a água por dentro brilha num azul elétrico, enquanto o mar ressoa em paredes de rocha esculpidas pelas águas ao longo de milhares de anos. Costuma ser visitada num passeio de dia que também para nas lagoas de snorkel (**Lagoa Azul**, **Lagoa Verde**) e na enseada tranquila de Grumixama.
