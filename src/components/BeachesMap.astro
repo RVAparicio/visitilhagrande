@@ -20,20 +20,29 @@ const alt: Record<Lang, string> = {
 };
 
 const caption: Record<Lang, string> = {
-  en: 'The numbered beaches and communities of Ilha Grande (1–23) — illustrated map by visitilhagrande.com. Each one is described in the directory below.',
-  fr: "Les plages et villages numérotés d'Ilha Grande (1–23) — carte illustrée par visitilhagrande.com. Chacun est décrit dans le répertoire ci-dessous.",
-  pt: 'As praias e comunidades numeradas da Ilha Grande (1–23) — mapa ilustrado por visitilhagrande.com. Cada uma é descrita no diretório abaixo.',
-  es: 'Las playas y comunidades numeradas de Ilha Grande (1–23) — mapa ilustrado por visitilhagrande.com. Cada una se describe en el directorio de abajo.',
+  en: "Ilha Grande's main beaches and communities, numbered 1–23 — illustrated map by visitilhagrande.com. Tap the map to jump to the list below.",
+  fr: "Les principales plages et communautés d'Ilha Grande, numérotées 1–23 — carte illustrée par visitilhagrande.com. Touchez la carte pour accéder à la liste ci-dessous.",
+  pt: 'As principais praias e comunidades da Ilha Grande, numeradas 1–23 — mapa ilustrado por visitilhagrande.com. Toque no mapa para ir à lista abaixo.',
+  es: 'Las principales playas y comunidades de Ilha Grande, numeradas 1–23 — mapa ilustrado por visitilhagrande.com. Toca el mapa para ir al listado de abajo.',
+};
+
+const jumpLabel: Record<Lang, string> = {
+  en: 'Jump to the numbered list of beaches',
+  fr: 'Aller à la liste numérotée des plages',
+  pt: 'Ir para a lista numerada de praias',
+  es: 'Ir al listado numerado de playas',
 };
 ---
 <figure class="beaches-map">
-  <Picture
-    src={beachesMap}
-    formats={['avif', 'webp']}
-    alt={alt[lang]}
-    widths={[400, 632, 710]}
-    sizes="(min-width: 42rem) 632px, 92vw"
-    loading="lazy"
-  />
+  <a href="#beaches28-title" aria-label={jumpLabel[lang]}>
+    <Picture
+      src={beachesMap}
+      formats={['avif', 'webp']}
+      alt={alt[lang]}
+      widths={[400, 632, 710]}
+      sizes="(min-width: 42rem) 632px, 92vw"
+      loading="lazy"
+    />
+  </a>
   <figcaption>{caption[lang]}</figcaption>
 </figure>

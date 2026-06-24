@@ -35,17 +35,32 @@ export const groupLabels: Record<BeachGroup, Record<Lang, string>> = {
 };
 
 export const directoryHeading: Record<Lang, string> = {
-  en: 'The 23 beaches & communities, one by one',
-  fr: 'Les 23 plages et communautés, une par une',
-  pt: 'As 23 praias e comunidades, uma a uma',
-  es: 'Las 23 playas y comunidades, una por una',
+  en: 'The main beaches & communities, one by one',
+  fr: 'Les principales plages et communautés, une par une',
+  pt: 'As principais praias e comunidades, uma a uma',
+  es: 'Las principales playas y comunidades, una por una',
 };
 
 export const directoryIntro: Record<Lang, string> = {
-  en: 'Every numbered point on the map above, described — the 23 beaches and fishing communities of Ilha Grande, from the calm northern and western coves to the wild Atlantic beaches of the east coast.',
-  fr: "Chaque point numéroté de la carte ci-dessus, décrit — les 23 plages et communautés de pêcheurs d'Ilha Grande, des anses calmes du nord et de l'ouest aux plages atlantiques sauvages de la côte est.",
-  pt: 'Cada ponto numerado do mapa acima, descrito — as 23 praias e comunidades de pescadores da Ilha Grande, das enseadas calmas do norte e do oeste às praias atlânticas selvagens da costa leste.',
-  es: 'Cada punto numerado del mapa de arriba, descrito — las 23 playas y comunidades de pescadores de Ilha Grande, desde las ensenadas calmas del norte y el oeste hasta las playas atlánticas y salvajes de la costa este.',
+  en: 'Ilha Grande has around 113 beaches — far more than anyone could list. These are 23 of the main ones (and the fishing communities), matching the numbered points on the map above, from the calm northern and western coves to the wild Atlantic beaches of the east.',
+  fr: "Ilha Grande compte environ 113 plages — bien plus qu'on ne pourrait en lister. En voici 23 parmi les principales (et les villages de pêcheurs), qui correspondent aux points numérotés de la carte ci-dessus, des anses calmes du nord et de l'ouest aux plages atlantiques sauvages de l'est.",
+  pt: 'A Ilha Grande tem cerca de 113 praias — muito mais do que se poderia listar. Estas são 23 das principais (e as comunidades de pescadores), que correspondem aos pontos numerados do mapa acima, das enseadas calmas do norte e do oeste às praias atlânticas selvagens do leste.',
+  es: 'Ilha Grande tiene unas 113 playas — muchas más de las que se podrían listar. Estas son 23 de las principales (y las comunidades de pescadores), que se corresponden con los puntos numerados del mapa de arriba, desde las ensenadas calmas del norte y el oeste hasta las playas atlánticas y salvajes del este.',
+};
+
+// Sección "aparte" al final: las 5 islas de Angra (no son de Ilha Grande).
+export const islandsHeading: Record<Lang, string> = {
+  en: 'The 5 islands of Angra (a boat trip from Abraão)',
+  fr: "Les 5 îles d'Angra (une excursion en bateau depuis Abraão)",
+  pt: 'As 5 ilhas de Angra (um passeio de barco a partir de Abraão)',
+  es: 'Las 5 islas de Angra (un paseo en barco desde Abraão)',
+};
+
+export const islandsIntro: Record<Lang, string> = {
+  en: 'These are not on Ilha Grande itself, but in the Angra dos Reis bay nearby — five paradise islands and sandbars usually strung together on a boat day-trip from Vila do Abraão.',
+  fr: "Elles ne se trouvent pas sur Ilha Grande même, mais dans la baie voisine d'Angra dos Reis — cinq îles et bancs de sable paradisiaques, généralement enchaînés lors d'une excursion en bateau à la journée depuis Vila do Abraão.",
+  pt: 'Estas não ficam na própria Ilha Grande, mas na vizinha baía de Angra dos Reis — cinco ilhas e bancos de areia paradisíacos, geralmente encadeados num passeio de barco de um dia a partir da Vila do Abraão.',
+  es: 'Estas no están en la propia Ilha Grande, sino en la cercana bahía de Angra dos Reis — cinco islas y bancos de arena paradisíacos que suelen encadenarse en un paseo en barco de un día desde Vila do Abraão.',
 };
 
 export const beaches28: Beach28[] = [

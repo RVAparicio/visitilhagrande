@@ -1,5 +1,5 @@
 ---
-// Directorio de las 28 playas/comunidades + islas, agrupado y numerado
+// Directorio de las playas/comunidades + islas, agrupado y numerado
 // (los números coinciden con los marcadores del mapa de arriba).
 // HTML semántico server-rendered = indexable (gran valor SEO/GEO).
 import type { Lang } from '../i18n/config';
@@ -8,6 +8,8 @@ import {
   groupLabels,
   directoryHeading,
   directoryIntro,
+  islandsHeading,
+  islandsIntro,
   type BeachGroup,
 } from '../i18n/beaches28';
 
@@ -16,9 +18,9 @@ interface Props {
 }
 const { lang } = Astro.props;
 
-// Las islas de Angra (grupo 'islas', 24–28) se muestran aparte, en otra
-// sección: aquí el directorio cubre solo las 23 de Ilha Grande (1–23).
+// Las 23 de Ilha Grande (vilas + praias) van en el directorio principal.
 const order: BeachGroup[] = ['vilas', 'praias'];
+const islands = beaches28.filter((b) => b.group === 'islas');
 ---
 <section class="beaches28" aria-labelledby="beaches28-title">
   <h2 id="beaches28-title">{directoryHeading[lang]}</h2>
@@ -31,7 +33,7 @@ const order: BeachGroup[] = ['vilas', 'praias'];
         {beaches28
           .filter((b) => b.group === g)
           .map((b) => (
-            <li class:list={['beach28', { 'beach28--isla': g === 'islas' }]} id={`praia-${b.num}`}>
+            <li class="beach28" id={`praia-${b.num}`}>
               <span class="beach28__num">{b.num}</span>
               <div class="beach28__body">
                 <h4 class="beach28__name">{b.name}</h4>
@@ -42,4 +44,20 @@ const order: BeachGroup[] = ['vilas', 'praias'];
       </ul>
     </div>
   ))}
+</section>
+
+<section class="beaches28 beaches28--islands" aria-labelledby="islas-title">
+  <h2 id="islas-title">{islandsHeading[lang]}</h2>
+  <p class="beaches28__intro">{islandsIntro[lang]}</p>
+  <ul class="beaches28__list">
+    {islands.map((b) => (
+      <li class="beach28 beach28--isla" id={`praia-${b.num}`}>
+        <span class="beach28__num">{b.num}</span>
+        <div class="beach28__body">
+          <h4 class="beach28__name">{b.name}</h4>
+          <p class="beach28__desc">{b.desc[lang]}</p>
+        </div>
+      </li>
+    ))}
+  </ul>
 </section>

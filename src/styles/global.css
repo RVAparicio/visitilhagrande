@@ -348,13 +348,25 @@ img { max-width: 100%; height: auto; }
   width: 100%;
   margin: 2rem 0 2.5rem;
 }
+.beaches-map a {
+  display: block;
+  cursor: pointer;
+  border-radius: var(--radius);
+  text-decoration: none;
+}
+.beaches-map a:focus-visible {
+  outline: 3px solid var(--c-teal);
+  outline-offset: 3px;
+}
 .beaches-map img {
   width: 100%;
   height: auto;
   border-radius: var(--radius);
   border: 1px solid var(--c-line);
   display: block;
+  transition: filter 0.15s ease;
 }
+.beaches-map a:hover img { filter: brightness(1.03) saturate(1.05); }
 .beaches-map figcaption {
   margin-top: 0.6rem;
   font-size: 0.82rem;
@@ -363,8 +375,13 @@ img { max-width: 100%; height: auto; }
   line-height: 1.5;
 }
 
-/* --- Directorio de las 28 playas (solo página de playas) --- */
+/* --- Directorio de las playas (solo página de playas) --- */
 .beaches28 { margin: 2.6rem 0 0.5rem; }
+.beaches28--islands {
+  margin-top: 2.6rem;
+  padding-top: 1.8rem;
+  border-top: 1px solid var(--c-line);
+}
 .beaches28__intro { color: var(--c-muted); }
 .beaches28__group > h3 {
   margin: 1.9rem 0 0.4rem;
