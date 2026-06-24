@@ -210,7 +210,7 @@ Toutes les journées sur l'eau ne sont pas obligées d'être le circuit classiqu
 
 ### En un coup d'œil : excursions, itinéraires et prix indicatifs
 
-Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la saison — considérez-les comme un repère, pas comme un devis. Une chose qui surprend les gens : **Super Sul est l'itinéraire en pleine mer le plus demandé, c'est donc le plus cher** — voilà pourquoi il figure plus haut que le Volta à Ilha pourtant plus long, ce n'est pas une coquille. Lorsqu'une case indique *à demander à la réservation*, le détail varie réellement et il vaut mieux le confirmer sur le moment.
+Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la saison — considérez-les comme un repère, pas comme un devis. Une chose qui surprend les gens : **Super Sul coûte plus cher que le Volta à Ilha pourtant plus long — et ce n'est pas une coquille.** C'est la seule excursion qui traverse la pleine mer jusqu'à l'**Ilha de Jorge Grego**, ce qui exige un bateau plus grand et plus puissant (et plus cher) que celui des autres. Lorsqu'une case indique *à demander à la réservation*, le détail varie réellement et il vaut mieux le confirmer sur le moment.
 
 | Excursion | Itinéraire en une phrase | Horaires | ~Prix/personne | Déjeuner |
 |---|---|---|---|---|
@@ -219,9 +219,9 @@ Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la sais
 | **Meia Volta** (lancha) | Demi-boucle en douceur, les deux lagunes | 10h30–16h30 (~6 h) | ~150 R$ | Non inclus |
 | **Gruta do Acaiá** (lancha) | Grotte marine + les deux lagunes | 10h30–17h30 (parfois 09h00–16h00, ~7 h) | ~200 R$ | Non inclus |
 | **Ilhas Paradisíacas** (lancha) | Îles d'Angra/Gipoia | 10h30–17h30 | ~170–180 R$ | Non inclus |
-| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, sans retour fixe | ~250 R$ | **Inclus** |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, ~7–8 h (flexible) | ~250 R$ | **Inclus** |
 | **Caipirinha** (escuna/galion) | Croisière festive, caipirinha gratuite | 11h30–17h30 | À demander à la réservation | En option (payé/acheté à l'avance) |
-| **Passeio do Índio** (canoë canadien) | Plancton la nuit, sur mesure le jour | À demander à la réservation | À demander à la réservation | À demander à la réservation |
+| **Passeio do Índio** (canoë canadien) | Plancton la nuit, sur mesure le jour | Départ ~5–6 h (flexible) | À demander à la réservation | À demander à la réservation |
 | **Location privée** (bateau au choix) | Entièrement personnalisée, jusqu'à 10 pers. | Sur mesure (pas de retour après ~17h30) | ~1 500 R$/sortie (~1 400–2 000 R$) | À demander à la réservation |
 
 Je n'ai volontairement pas nommé d'opérateurs ici — je vous orienterai vers le bon capitaine selon la journée et les conditions lorsque vous serez prêt à réserver.

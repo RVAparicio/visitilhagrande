@@ -210,7 +210,7 @@ Not every day on the water has to be the standard speedboat circuit. A few have 
 
 ### At a glance: tours, routes and rough prices
 
-Prices below are **rough, per person and fluctuate** with the season — treat them as a guide, not a quote. One thing that surprises people: **Super Sul is the most in-demand open-sea route, so it's the priciest** — that's why it lists higher than the longer Volta à Ilha, not a typo. Where a cell says *ask when booking*, the detail genuinely varies and is best confirmed at the time.
+Prices below are **rough, per person and fluctuate** with the season — treat them as a guide, not a quote. One thing that surprises people: **Super Sul costs more than the longer Volta à Ilha — and it's not a typo.** It's the one tour that crosses open sea to **Ilha de Jorge Grego**, which takes a bigger, more powerful (and pricier) boat than the others use. Where a cell says *ask when booking*, the detail genuinely varies and is best confirmed at the time.
 
 | Tour | Route in a phrase | Hours | ~Price/person | Lunch |
 |---|---|---|---|---|
@@ -219,9 +219,9 @@ Prices below are **rough, per person and fluctuate** with the season — treat t
 | **Meia Volta** (lancha) | Gentle half-loop, both lagoons | 10:30–16:30 (~6 h) | ~R$150 | Not included |
 | **Gruta do Acaiá** (lancha) | Sea cave + the two lagoons | 10:30–17:30 (some 09:00–16:00, ~7 h) | ~R$200 | Not included |
 | **Ilhas Paradisíacas** (lancha) | Angra/Gipoia islands | 10:30–17:30 | ~R$170–180 | Not included |
-| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, no fixed return | ~R$250 | **Included** |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, ~7–8 h (flexible) | ~R$250 | **Included** |
 | **Caipirinha** (escuna/galleon) | Party cruise, free caipirinha | 11:30–17:30 | Ask when booking | Optional (paid/pre-bought) |
-| **Passeio do Índio** (Canadian canoe) | Plankton by night, custom by day | Ask when booking | Ask when booking | Ask when booking |
+| **Passeio do Índio** (Canadian canoe) | Plankton by night, custom by day | ~5–6 am start (flexible) | Ask when booking | Ask when booking |
 | **Private hire** (boat to suit) | Fully personalised, up to 10 pax | Custom (no return after ~5:30 pm) | ~R$1,500/trip (~R$1,400–2,000) | Ask when booking |
 
 I haven't named operators here on purpose — I'll point you to the right captain for the day and conditions when you're ready to book.

@@ -210,7 +210,7 @@ O **fretamento privado de barco** é a opção da liberdade: até 10 passageiros
 
 ### Num relance: passeios, roteiros e preços aproximados
 
-Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporada — encare-os como um guia, não como um orçamento. Uma coisa que surpreende as pessoas: **a Super Sul é o roteiro de mar aberto mais procurado, então é o mais caro** — é por isso que ela aparece com preço mais alto do que a Volta à Ilha, que é mais longa, e não é um erro de digitação. Onde uma célula diz *consultar na reserva*, o detalhe varia de verdade e é melhor confirmar na hora.
+Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporada — encare-os como um guia, não como um orçamento. Uma coisa que surpreende as pessoas: **a Super Sul custa mais do que a Volta à Ilha, que é mais longa — e não é erro de digitação.** É o único passeio que cruza mar aberto até a **Ilha de Jorge Grego**, o que exige um barco maior e mais potente (e mais caro) do que o dos outros. Onde uma célula diz *consultar na reserva*, o detalhe varia de verdade e é melhor confirmar na hora.
 
 | Passeio | Roteiro numa frase | Horário | ~Preço/pessoa | Almoço |
 |---|---|---|---|---|
@@ -219,9 +219,9 @@ Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporad
 | **Meia Volta** (lancha) | Meia-volta tranquila, as duas lagoas | 10h30–16h30 (~6 h) | ~R$150 | Não incluído |
 | **Gruta do Acaiá** (lancha) | Gruta marinha + as duas lagoas | 10h30–17h30 (algumas 09h00–16h00, ~7 h) | ~R$200 | Não incluído |
 | **Ilhas Paradisíacas** (lancha) | Ilhas de Angra/Gipoia | 10h30–17h30 | ~R$170–180 | Não incluído |
-| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, sem retorno fixo | ~R$250 | **Incluído** |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09h30, ~7–8 h (flexível) | ~R$250 | **Incluído** |
 | **Caipirinha** (escuna/galeão) | Cruzeiro festivo, caipirinha grátis | 11h30–17h30 | Consultar na reserva | Opcional (pago/comprado antes) |
-| **Passeio do Índio** (canoa canadense) | Plâncton à noite, sob medida de dia | Consultar na reserva | Consultar na reserva | Consultar na reserva |
+| **Passeio do Índio** (canoa canadense) | Plâncton à noite, sob medida de dia | Saída ~5–6h (flexível) | Consultar na reserva | Consultar na reserva |
 | **Fretamento privado** (barco sob medida) | Totalmente personalizado, até 10 pessoas | Sob medida (sem retorno depois das ~17h30) | ~R$1.500/passeio (~R$1.400–2.000) | Consultar na reserva |
 
 Não citei nomes de operadores aqui de propósito — quando você estiver pronto para reservar, eu indico o capitão certo para o dia e as condições.

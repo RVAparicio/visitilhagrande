@@ -210,7 +210,7 @@ No todos los días en el agua tienen que ser el circuito estándar en lancha rá
 
 ### De un vistazo: paseos, rutas y precios aproximados
 
-Los precios de abajo son **aproximados, por persona y fluctúan** con la temporada: tómalos como una guía, no como un presupuesto. Algo que sorprende a la gente: **Super Sul es la ruta de mar abierto más demandada, así que es la más cara**; por eso figura más arriba que la más larga Volta à Ilha, no es una errata. Donde una celda dice *preguntar al reservar*, el detalle varía de verdad y conviene confirmarlo en el momento.
+Los precios de abajo son **aproximados, por persona y fluctúan** con la temporada: tómalos como una guía, no como un presupuesto. Algo que sorprende a la gente: **Super Sul cuesta más que la más larga Volta à Ilha, y no es una errata.** Es el único paseo que cruza mar abierto hasta la **Ilha de Jorge Grego**, lo que exige una embarcación más grande y potente (y más cara) que la de los demás. Donde una celda dice *preguntar al reservar*, el detalle varía de verdad y conviene confirmarlo en el momento.
 
 | Paseo | Ruta en una frase | Horario | ~Precio/persona | Comida |
 |---|---|---|---|---|
@@ -219,9 +219,9 @@ Los precios de abajo son **aproximados, por persona y fluctúan** con la tempora
 | **Meia Volta** (lancha) | Media vuelta suave, las dos lagunas | 10:30–16:30 (~6 h) | ~R$150 | No incluida |
 | **Gruta do Acaiá** (lancha) | Cueva marina + las dos lagunas | 10:30–17:30 (algunos 09:00–16:00, ~7 h) | ~R$200 | No incluida |
 | **Ilhas Paradisíacas** (lancha) | Islas de Angra/Gipoia | 10:30–17:30 | ~R$170–180 | No incluida |
-| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, sin regreso fijo | ~R$250 | **Incluida** |
+| **Jerónimo** (traineira) | Freguesias, Lagoa Azul, Saco do Céu | 09:30, ~7–8 h (flexible) | ~R$250 | **Incluida** |
 | **Caipirinha** (escuna/galeón) | Crucero de fiesta, caipirinha gratis | 11:30–17:30 | Preguntar al reservar | Opcional (de pago/comprada por adelantado) |
-| **Passeio do Índio** (canoa canadiense) | Plancton de noche, personalizado de día | Preguntar al reservar | Preguntar al reservar | Preguntar al reservar |
+| **Passeio do Índio** (canoa canadiense) | Plancton de noche, personalizado de día | Salida ~5–6 h (flexible) | Preguntar al reservar | Preguntar al reservar |
 | **Alquiler privado** (barco a medida) | Totalmente personalizado, hasta 10 pax | A medida (sin regreso después de ~17:30) | ~R$1.500/salida (~R$1.400–2.000) | Preguntar al reservar |
 
 No he nombrado operadores aquí a propósito: te orientaré hacia el capitán adecuado según el día y las condiciones cuando estés listo para reservar.
