@@ -2,9 +2,18 @@
 // Home "Ficha de campo": un solo componente para los 4 idiomas.
 // Hero dividido (intro + polaroids con parallax | ficha técnica),
 // botonera-pestañas a los 6 pilares, postales rotativas y prosa SEO.
+import { Image } from 'astro:assets';
 import { localizedPath, type Lang } from '../i18n/config';
 import { routes } from '../i18n/routes';
 import { t } from '../i18n/ui';
+
+// Polaroids del hero (2, distintas de las postales de abajo)
+import shotAventureiro from '../assets/praia-do-aventureiro-leaning-palm-ilha-grande.jpg';
+import shotCataguas from '../assets/cataguas-islet-aerial-ilha-grande.jpg';
+// Postales rotativas (3, los lugares citados)
+import cardLopes from '../assets/lopes-mendes-aerial-ilha-grande.jpg';
+import cardPico from '../assets/pico-do-papagaio-summit-sunrise-ilha-grande.jpg';
+import cardLagoa from '../assets/lagoa-azul-fish-ilha-grande.jpg';
 
 interface Props {
   lang: Lang;
@@ -160,6 +169,7 @@ const cardHrefs = [
   localizedPath(lang, routes.trails[lang]),
   localizedPath(lang, routes.beaches[lang]),
 ];
+const cardImgs = [cardLopes, cardPico, cardLagoa];
 ---
 <section class="hero2">
   <div class="hero2__grid">
@@ -169,25 +179,15 @@ const cardHrefs = [
       <p class="hero2__sub">{c.sub}</p>
       <a class="hero2__start" href={localizedPath(lang, routes.gettingThere[lang])}>{c.start}</a>
 
-      <div class="hero2__shots" aria-hidden="true">
+      <div class="hero2__shots">
         <div class="shot-wrap shot-wrap--a" data-parallax="-0.07">
           <div class="shot shot--a">
-            <svg viewBox="0 0 200 110" xmlns="http://www.w3.org/2000/svg">
-              <rect width="200" height="110" fill="#2BB3A3" />
-              <path d="M0,66 Q55,54 100,62 Q150,70 200,58 V110 H0 Z" fill="#EFE6D6" />
-              <circle cx="160" cy="24" r="13" fill="#FBF8F1" />
-              <path d="M48,64 v-26 M48,38 q12,-10 20,2 M48,38 q-12,-10 -20,2 M48,38 q2,-14 14,-16" stroke="#245F46" stroke-width="4" fill="none" stroke-linecap="round" />
-            </svg>
+            <Image src={shotAventureiro} alt="Praia do Aventureiro, Ilha Grande" widths={[200, 400]} sizes="11.5rem" loading="eager" />
           </div>
         </div>
         <div class="shot-wrap shot-wrap--b" data-parallax="-0.04">
           <div class="shot shot--b">
-            <svg viewBox="0 0 200 110" xmlns="http://www.w3.org/2000/svg">
-              <rect width="200" height="110" fill="#A8CFC9" />
-              <path d="M0,110 L72,30 L140,110 Z" fill="#245F46" />
-              <path d="M96,110 L156,48 L200,110 Z" fill="#2E7D5B" />
-              <circle cx="34" cy="26" r="11" fill="#EFE6D6" />
-            </svg>
+            <Image src={shotCataguas} alt="Cataguás, Ilha Grande" widths={[200, 400]} sizes="11.5rem" loading="eager" />
           </div>
         </div>
       </div>
@@ -222,28 +222,7 @@ const cardHrefs = [
 <div class="postcards">
   {c.cards.map((card, i) => (
     <a class={`postcard${i === 0 ? ' is-active' : ''}`} href={cardHrefs[i]}>
-      {i === 0 && (
-        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <rect width="200" height="80" fill="#2BB3A3" />
-          <path d="M0,52 Q55,42 100,50 Q150,56 200,48 V80 H0 Z" fill="#EFE6D6" />
-          <circle cx="162" cy="19" r="10" fill="#FBF8F1" />
-        </svg>
-      )}
-      {i === 1 && (
-        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <rect width="200" height="80" fill="#A8CFC9" />
-          <path d="M0,80 L70,20 L140,80 Z" fill="#245F46" />
-          <path d="M100,80 L160,34 L200,80 Z" fill="#2E7D5B" />
-          <circle cx="34" cy="19" r="9" fill="#EFE6D6" />
-        </svg>
-      )}
-      {i === 2 && (
-        <svg viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <rect width="200" height="80" fill="#145062" />
-          <ellipse cx="100" cy="54" rx="68" ry="18" fill="#2BB3A3" />
-          <path d="M56,54 q22,10 44,4 q24,-7 44,3" stroke="#EFE6D6" stroke-width="2.5" fill="none" />
-        </svg>
-      )}
+      <Image src={cardImgs[i]} alt={`${card.title}, Ilha Grande`} widths={[300, 600]} sizes="(min-width: 1000px) 22rem, 92vw" loading="lazy" />
       <span class="postcard__body">
         <span class="postcard__title">{card.title}</span>
         <span class="postcard__cap">{card.cap}</span>
