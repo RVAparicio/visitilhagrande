@@ -4,7 +4,7 @@ description: "A local's guide to the best beaches of Ilha Grande, Brazil — fro
 lang: "en"
 slug: "ilha-grande-beaches"
 translationKey: "beaches"
-updatedDate: 2026-06-10
+updatedDate: 2026-06-24
 author: "Richard"
 faq:
   - q: "How many beaches does Ilha Grande have?"
@@ -38,15 +38,21 @@ If you only have a few days, the short answer is: **Lopes Mendes** for the iconi
 
 ### Lopes Mendes
 
+![Lopes Mendes beach, Ilha Grande, with white sand and turquoise water](../../assets/lopes-mendes-beach-ilha-grande.jpg)
+
 The one everyone comes for — and it lives up to it. Nearly **3 km of fine, pale sand** so fine it almost squeaks underfoot, backed by preserved Atlantic forest and lapped by clear, shallow water. It's regularly listed among the best beaches in Brazil (and the world). There's gentle **surf**, which makes it a favourite with beginner surfers, and only a couple of rustic huts selling drinks and snacks — almost no development.
 
 Boats can't land at Lopes Mendes itself. The usual way is a **schooner (escuna) from Abraão to Praia do Pouso** (around R$50 round trip; departures mid-morning, returns mid-to-late afternoon) or a **taxi boat** (around R$70 per person), then the short **T11 trail (~1 km, 30–40 min)** over the headland. You can also walk the whole way on **T10 + T11**. See the full route in our [trails guide](/ilha-grande-trails/).
 
 ### Aventureiro
 
+![Praia do Aventureiro at sunset, Ilha Grande, with its leaning palm and boulders](../../assets/praia-do-aventureiro-sunset-ilha-grande.jpg)
+
 The island's most famous *wild* beach, on the exposed south-western side inside the **Reserva Biológica da Praia do Sul**. Aventureiro is rustic and remote — a former fishing community famous for the iconic wind-bent palm tree leaning over the sand and for its big Atlantic swell. Because it sits inside a strict biological reserve, **surfing is not allowed** here and visitor numbers and camping are regulated. It's reached by **boat** or by trail (T9 from Provetá). Come for the raw, off-grid feel, not for beach bars.
 
 ### Dois Rios
+
+![Aerial of Dois Rios bay, Ilha Grande, a horseshoe beach where a river meets the sea](../../assets/dois-rios-aerial-bay-ilha-grande.jpg)
 
 A dramatic beach in a cove **between two steep mountains**, framed by the two freshwater rivers that give it its name — their water dark but clean and cool. Behind it lies the haunting near-ghost-town of the old maximum-security prison (1904–1994), now a museum and university campus slowly being reclaimed by the forest. Reached on foot via **T14 (~7 km)** or by boat tour. There's little infrastructure, so bring water and food. Full walking details are in our [trails guide](/ilha-grande-trails/).
 
@@ -54,13 +60,19 @@ A dramatic beach in a cove **between two steep mountains**, framed by the two fr
 
 ### Lagoa Azul
 
+![Aerial of Lagoa Azul, Ilha Grande, a turquoise snorkelling lagoon with a floating bar](../../assets/lagoa-azul-floating-bar-ilha-grande.jpg)
+
 Not a beach but a **shallow, turquoise lagoon** between islets on the north side of the island, with calm, crystal-clear water and reef fish — the island's signature **snorkelling** stop. It's a fixture on almost every schooner and speedboat tour. Bring (or rent) a mask; the calm water is ideal for first-timers and families.
 
 ### Lagoa Verde
 
+![Aerial of Lagoa Verde, Ilha Grande, a sheltered green-blue snorkelling lagoon](../../assets/lagoa-verde-aerial-ilha-grande.jpg)
+
 Another sheltered, green-blue snorkelling lagoon, closer to Abraão, with calm water and plenty of fish. Like Lagoa Azul, it's a standard stop on day-tours and an easy, gentle place to get in the water.
 
 ### Dentista & Cataguas
+
+![Aerial of the Cataguás islet, Ilha Grande, with its white sandbar and turquoise sea](../../assets/cataguas-islet-aerial-ilha-grande.jpg)
 
 Two small, picture-postcard spots reached **by boat**: tiny beaches and sandbanks with clear, shallow, turquoise water that are popular schooner stops for swimming and snorkelling. Perfect for a short stop on a round-the-island tour.
 
@@ -72,6 +84,8 @@ A calm, pretty beach on the **T10 trail** between Abraão and Pouso — a natura
 
 ### Caxadaço
 
+![Aerial of Caxadaço cove, Ilha Grande, with turquoise water and golden sand](../../assets/caxadaco-cove-aerial-ilha-grande.jpg)
+
 A small, beautiful cove near Dois Rios, reached by trail (**T15**) or boat. It's more than a beach: Caxadaço is also a **viewpoint (mirante)** and a well-known **cliff-jumping** spot into deep, clear water — with good snorkelling among the rocks.
 
 ### Parnaioca
@@ -80,8 +94,12 @@ One of the most **remote** beaches, on the southern coast — a former fishing v
 
 ### Meros
 
+![The calm turquoise cove of Praia do Meros, Ilha Grande, with anchored boats](../../assets/meros-cove-ilha-grande.jpg)
+
 A quiet beach on the western side of the island, near the Provetá/Aventureiro area — peaceful, far from the crowds, and with good **snorkelling**.
 
 ### Gruta do Acaiá
+
+![Freediving in the glowing blue water of the Gruta do Acaiá sea cave, Ilha Grande](../../assets/gruta-do-acaia-freedive-ilha-grande.jpg)
 
 Not a beach but a striking **sea cave**, half-submerged and reachable **only by boat**. Its magic is the light: when the sun hits the entrance at the right angle, the water inside glows an electric blue, while the sea echoes off rock walls sculpted over thousands of years. It's usually visited on a day-tour that also stops at the snorkelling lagoons (**Lagoa Azul**, **Lagoa Verde**) and the quiet cove of Grumixama.

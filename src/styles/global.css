@@ -306,6 +306,16 @@ main { display: block; }
 
 img { max-width: 100%; height: auto; }
 
+/* Fotos intercaladas en el cuerpo (markdown) */
+.prose p img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  margin: 1.3rem 0 0.4rem;
+  box-shadow: 0 2px 10px rgba(14, 58, 74, 0.12);
+}
+
 /* (El estilo del mapa de rutas vive ahora en RouteMap.astro; llena el ancho del texto.) */
 
 /* --- Mapa ilustrado de la isla (rompe más ancho que el texto) --- */
