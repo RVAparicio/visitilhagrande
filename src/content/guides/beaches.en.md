@@ -80,6 +80,8 @@ Two small, picture-postcard spots reached **by boat**: tiny beaches and sandbank
 
 ### Palmas
 
+![Elevated view of the turquoise bay and beach of Praia de Palmas, Ilha Grande](../../assets/palmas-beach-ilha-grande.jpg)
+
 A calm, pretty beach on the **T10 trail** between Abraão and Pouso — a natural place to pause (and cool off) on the walk to Lopes Mendes.
 
 ### Caxadaço
@@ -89,6 +91,8 @@ A calm, pretty beach on the **T10 trail** between Abraão and Pouso — a natura
 A small, beautiful cove near Dois Rios, reached by trail (**T15**) or boat. It's more than a beach: Caxadaço is also a **viewpoint (mirante)** and a well-known **cliff-jumping** spot into deep, clear water — with good snorkelling among the rocks.
 
 ### Parnaioca
+
+![The wide, almost-empty horseshoe beach of Parnaioca with a lone figure, Ilha Grande](../../assets/parnaioca-beach-ilha-grande.jpg)
 
 One of the most **remote** beaches, on the southern coast — a former fishing village reached by a long trail (**T16** from Dois Rios) or by boat. Big, wild and almost empty; for travellers who want true solitude. There's a simple **campsite** here, so you can pitch a tent and stay the night.
 

@@ -80,6 +80,8 @@ Dois cantinhos de cartão-postal alcançados **de barco**: praiazinhas e bancos 
 
 ### Palmas
 
+![Vista do alto da baía turquesa e da praia de Palmas, Ilha Grande](../../assets/palmas-beach-ilha-grande.jpg)
+
 Uma praia calma e bonita na **trilha T10** entre Abraão e Pouso — um lugar natural para uma pausa (e um mergulho) no caminho para Lopes Mendes.
 
 ### Caxadaço
@@ -89,6 +91,8 @@ Uma praia calma e bonita na **trilha T10** entre Abraão e Pouso — um lugar na
 Uma pequena enseada linda perto de Dois Rios, alcançada pela trilha (**T15**) ou de barco. É mais que uma praia: Caxadaço é também um **mirante** e um conhecido ponto de **salto dos costões** (clavados) em água funda e clara — com bom snorkel entre as pedras.
 
 ### Parnaioca
+
+![A ampla e quase deserta praia em ferradura de Parnaioca, com uma figura solitária, Ilha Grande](../../assets/parnaioca-beach-ilha-grande.jpg)
 
 Uma das praias mais **remotas**, na costa sul — uma antiga vila de pescadores alcançada por uma longa trilha (**T16** a partir de Dois Rios) ou de barco. Grande, selvagem e quase deserta; para quem busca a verdadeira solidão. Há um **camping** simples, para armar a barraca e passar a noite.
 

@@ -80,6 +80,8 @@ Dos rincones de postal a los que se llega **en barco**: playitas y bancos de are
 
 ### Palmas
 
+![Vista elevada de la bahía turquesa y la playa de Praia de Palmas, Ilha Grande](../../assets/palmas-beach-ilha-grande.jpg)
+
 Una playa calma y linda sobre el **sendero T10** entre Abraão y Pouso — un lugar natural para una pausa (y un chapuzón) camino a Lopes Mendes.
 
 ### Caxadaço
@@ -89,6 +91,8 @@ Una playa calma y linda sobre el **sendero T10** entre Abraão y Pouso — un lu
 Una pequeña cala hermosa cerca de Dois Rios, a la que se llega por el sendero (**T15**) o en barco. Es más que una playa: Caxadaço es también un **mirador (mirante)** y un conocido punto de **clavados** desde las rocas al agua profunda y clara — con buen snorkel entre las piedras.
 
 ### Parnaioca
+
+![La amplia y casi desierta playa en herradura de Parnaioca, con una figura solitaria, Ilha Grande](../../assets/parnaioca-beach-ilha-grande.jpg)
 
 Una de las playas más **remotas**, en la costa sur — una antigua aldea de pescadores a la que se llega por un largo sendero (**T16** desde Dois Rios) o en barco. Grande, salvaje y casi desierta; para quien busca la verdadera soledad. Hay un **camping** simple, para armar la carpa y pasar la noche.
 
