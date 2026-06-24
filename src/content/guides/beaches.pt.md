@@ -92,7 +92,7 @@ Os viajantes costumam perguntar se dá para ir a pé até o **Aventureiro**, lá
 
 A praia por que todo mundo vem — e que cumpre o que promete. Quase **3 km de areia fina e clara**, tão fina que quase "canta" sob os pés, com mata atlântica preservada atrás e água clara e rasa. Está sempre nas listas das melhores praias do Brasil (e do mundo). Tem **ondas suaves**, que a tornam queridinha dos surfistas iniciantes, e só algumas barracas rústicas vendendo bebida e petiscos — quase nenhuma estrutura.
 
-Os barcos não atracam na própria Lopes Mendes. O jeito mais comum é uma **escuna do Abraão até a Praia do Pouso** (cerca de R$50 ida e volta; saídas no fim da manhã, retornos no meio/fim da tarde) ou um **taxi boat** (cerca de R$70 por pessoa), e depois a curta **trilha T11 (~1 km, 30–40 min)** por cima do costão. Você também pode fazer todo o caminho pela **T10 + T11**. Veja o trajeto completo no nosso [guia de trilhas](/pt/trilhas-ilha-grande/).
+Os barcos não atracam na própria Lopes Mendes. O jeito mais comum é uma **escuna do Abraão até a Praia do Pouso** (cerca de R$70 ida e volta) ou um **táxi-boat** mais rápido (cerca de R$100 ida e volta) — veja os horários exatos e as tarifas só de ida no planejador de dias abaixo, e depois a curta **trilha T11 (~1 km, 30–40 min)** por cima do costão. Você também pode fazer todo o caminho pela **T10 + T11**. Veja o trajeto completo no nosso [guia de trilhas](/pt/trilhas-ilha-grande/).
 
 ### Aventureiro
 
@@ -225,3 +225,60 @@ Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporad
 | **Fretamento privado** (barco sob medida) | Totalmente personalizado, até 10 pessoas | Sob medida (sem retorno depois das ~17h30) | ~R$1.500/passeio (~R$1.400–2.000) | Consultar na reserva |
 
 Não citei nomes de operadores aqui de propósito — quando você estiver pronto para reservar, eu indico o capitão certo para o dia e as condições.
+
+## De quantos dias você precisa?
+
+De cinco a sete dias é o ideal — mas, sejam quais forem as suas datas, veja aqui como aproveitar ao máximo.
+
+### Só 2–3 dias? Seu roteiro rápido
+
+Viagem curta? Mesmo assim dá para conhecer o melhor da ilha. Aqui vai a versão sem complicação:
+
+- **Dia 1 — Lopes Mendes.** A praia que você não pode deixar de ver (veja como mais abaixo).
+- **Dia 2 — Um passeio de barco.** Se o dia estiver cinzento, faça a **Volta à Ilha** (o circuito completo pela ilha). Se estiver ensolarado, deixe a volta para outra hora e escolha um passeio que aproveite melhor o sol.
+- **Dia 3 (se você tiver) — o Circuito Histórico (trilha T1).** Plano, fácil e bom para todo mundo.
+
+**Quatro dias?** Acrescente um segundo passeio de barco — a **Gruta do Acaiá** (o passeio à gruta marinha) ou as **Ilhas Paradisíacas** (as ilhas de Angra). Mais sobre os dois logo abaixo.
+
+### O passeio imperdível: Lopes Mendes
+
+Aconteça o que acontecer no resto da viagem, conheça **Lopes Mendes.** Há duas formas de chegar:
+
+- **A pé** — trilhas **T10 + T11** (as trilhas de Lopes Mendes), cerca de **3 h só de ida** (2h30 num ritmo bom). Seja honesto consigo mesmo: esta é uma caminhada de verdade pela mata, razoavelmente puxada, e não um passeio tranquilo — e a volta é a parte mais lenta e mais difícil.
+- **De barco + uma caminhada curta** — pegue um barco de manhã para a travessia e depois ande apenas **~1 km** até a praia, mais os mesmos ~1 km de volta para pegar um barco de retorno.
+
+Uma linha para se orientar: a **escuna** sai dos **Mangues** e o **táxi-boat** sai do lado do **Pouso** — os dois cais ficam a cerca de 5 minutos de caminhada um do outro e são sinalizados, então é praticamente impossível errar.
+
+**Opções de barco de volta** *(as tarifas abaixo são aproximadas, por pessoa, e variam)*
+
+| Barco | Sai de | Horário | Travessia de volta | Só ida | Ida e volta |
+|---|---|---|---|---|---|
+| **Escuna / galeão** | Mangues | Só uma volta, **15h30** | ~1 h | **R$35** | **R$70** |
+| **Táxi-boat** | Lado do Pouso | **15h, 16h e 17h** em ponto | **~15 min** | **R$60** | **R$100** |
+
+**Clima:** Lopes Mendes é linda mesmo em dia nublado — então não desperdice uma manhã cinzenta esperando o sol aparecer. Só não faça o trajeto **a pé** na chuva ou no dia seguinte a uma chuva forte; nesses casos, vá de barco.
+
+### Deixe o céu decidir o seu roteiro
+
+A maneira mais inteligente de organizar os dias aqui é deixar o tempo escolher a ordem. Olhe o céu e a previsão na véspera — se o amanhã estiver com cara de nublado, faça dele o seu dia de **Volta à Ilha**.
+
+- **Um dia cinzento / nublado → Volta à Ilha** *(o circuito completo pela ilha).* O passeio coringa: um dia inteiro na água, paradas lindas ao longo de toda a volta, e você chega em casa cansado, bronzeado e feliz. **Cerca de 8 horas (09h30–17h30), ~R$200.**
+
+- **Seu segundo dia de barco → escolha pelo que você quer.**
+  - **Quer aventura → Gruta do Acaiá** *(o passeio à gruta marinha).* Duas lagoas onde você vai cansar de contar peixes, mais uma gruta luminescente que você não encontra em nenhum outro lugar. **Cerca de 7 horas, ~R$200.**
+  - **Quer ilhas de cartão-postal, com cara de Caribe → Ilhas Paradisíacas** *(as ilhas de Angra).* Água calma e deslumbrante, uma ótima parada de mergulho com snorkel em **Botinas** e a parada principal, a **Ilha da Piedade** — a famosa "Ilha de Caras." **10h30–17h30, ~R$170–180.**
+
+- **Um dia livre ou extra → pegue leve em terra.**
+  - **O Circuito Histórico (trilha T1)** *(o circuito histórico plano)* é excelente para todos — inclusive para quem está cansado, é mais idoso ou quer um dia mais tranquilo — porque é plano e fácil.
+  - Acrescente a **cachoeira da Feiticeira (trilha T2)** *(a subida da Feiticeira)* se você estiver a fim de um pouco mais de esforço; vale muito a pena.
+  - Ou vá até **Abraãozinho** e/ou **Crena** — dá para chegar a pé ou de barco.
+
+*Todos os detalhes dessas caminhadas e passeios estão nas seções de trilhas e passeios de barco acima.*
+
+### Por que 5–7 dias?
+
+Você consegue ver os destaques em dois ou três dias, mas alguns dias a mais transformam uma boa viagem em uma viagem inesquecível:
+
+- **O tempo não é garantido.** O sol vai e vem por aqui, então quanto mais dias você tiver, mais dias de bom tempo vai pegar — e mais fácil fica deixar o céu decidir o seu roteiro.
+- **Há muito mais para fazer do que você imagina.** Praias, trilhas e passeios de barco se acumulam rápido; dias extras raramente são desperdiçados.
+- **Isso dilui o seu custo de viagem.** Chegar até aqui não é barato (a ida e a volta, mais a taxa de turismo de Angra), e esses são custos fixos. Como num voo de longa distância, quanto mais tempo você fica, mais cada dia compensa — três dias mal pagam o esforço; uma semana ou duas valem de verdade. O dia a dia, alimentação incluída, é a parte barata.

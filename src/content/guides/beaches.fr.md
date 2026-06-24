@@ -92,7 +92,7 @@ Les voyageurs demandent souvent s'ils peuvent rejoindre **Aventureiro** à pied,
 
 Celle pour laquelle tout le monde vient — et elle est à la hauteur. Près de **3 km de sable fin et pâle**, si fin qu'il crisse presque sous les pieds, adossé à une forêt atlantique préservée et baigné d'une eau claire et peu profonde. Elle figure régulièrement parmi les plus belles plages du Brésil (et du monde). Une **houle douce** en fait une favorite des surfeurs débutants, et il n'y a que quelques cabanes rustiques vendant boissons et en-cas — presque aucun aménagement.
 
-Les bateaux ne peuvent pas accoster à Lopes Mendes même. On prend en général une **goélette (escuna) d'Abraão à la Praia do Pouso** (environ 50 R$ aller-retour ; départs en fin de matinée, retours en milieu/fin d'après-midi) ou un **taxi-boat** (environ 70 R$ par personne), puis le court **sentier T11 (~1 km, 30–40 min)** par-dessus la pointe. On peut aussi faire toute la marche par **T10 + T11**. Voir l'itinéraire complet dans notre [guide des sentiers](/fr/sentiers-ilha-grande/).
+Les bateaux ne peuvent pas accoster à Lopes Mendes même. On prend en général une **goélette (escuna) d'Abraão à la Praia do Pouso** (environ 70 R$ aller-retour) ou un **taxi-boat** plus rapide (environ 100 R$ aller-retour) — voir les horaires exacts et les tarifs aller simple dans le planificateur de journées ci-dessous, puis le court **sentier T11 (~1 km, 30–40 min)** par-dessus la pointe. On peut aussi faire toute la marche par **T10 + T11**. Voir l'itinéraire complet dans notre [guide des sentiers](/fr/sentiers-ilha-grande/).
 
 ### Aventureiro
 
@@ -225,3 +225,60 @@ Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la sais
 | **Location privée** (bateau au choix) | Entièrement personnalisée, jusqu'à 10 pers. | Sur mesure (pas de retour après ~17h30) | ~1 500 R$/sortie (~1 400–2 000 R$) | À demander à la réservation |
 
 Je n'ai volontairement pas nommé d'opérateurs ici — je vous orienterai vers le bon capitaine selon la journée et les conditions lorsque vous serez prêt à réserver.
+
+## Combien de jours vous faut-il ?
+
+Cinq à sept jours, c'est l'idéal — mais quelles que soient vos dates, voici comment réussir votre séjour.
+
+### Seulement 2 à 3 jours ? Votre plan express
+
+Court séjour ? Vous pouvez quand même profiter du meilleur de l'île. Voici la version sans prise de tête :
+
+- **Jour 1 — Lopes Mendes.** La seule plage que vous ne pouvez pas manquer (mode d'emploi ci-dessous).
+- **Jour 2 — Une excursion en bateau.** Si la journée est grise, optez pour la **Volta à Ilha** (le tour complet de l'île). Si le ciel est dégagé, gardez le tour pour plus tard et choisissez plutôt une excursion mieux ensoleillée.
+- **Jour 3 (si vous l'avez) — le Circuit Historique (sentier T1).** Plat, facile, et parfait pour tout le monde.
+
+**Quatre jours ?** Ajoutez une deuxième excursion en bateau — la **Gruta do Acaiá** (l'excursion de la grotte marine) ou les **Ilhas Paradisíacas** (les îles d'Angra). Plus de détails sur les deux ci-dessous.
+
+### L'incontournable absolu : Lopes Mendes
+
+Quoi que comprenne votre séjour par ailleurs, voyez **Lopes Mendes.** Il y a deux façons d'y accéder :
+
+- **À pied** — les sentiers **T10 + T11** (les sentiers de Lopes Mendes), environ **3 h à l'aller** (2 h 30 à bon rythme). Soyez honnête avec vous-même : il s'agit d'une vraie randonnée en forêt, assez exigeante, pas d'une simple balade, et le retour est la partie la plus lente et la plus difficile.
+- **En bateau + une courte marche** — prenez un bateau le matin pour traverser, puis marchez seulement **~1 km** jusqu'à la plage et les mêmes ~1 km au retour pour reprendre un bateau.
+
+Une ligne pour vous repérer : l'**escuna** part de **Mangues** et le **taxi-boat** du côté du **Pouso** — les deux embarcadères sont à environ 5 minutes de marche l'un de l'autre et signalés, donc vous ne pouvez pas vraiment vous tromper.
+
+**Options de bateau pour le retour** *(les tarifs ci-dessous sont approximatifs, par personne, et ils fluctuent)*
+
+| Bateau | Départ de | Horaire | Traversée retour | Aller simple | Aller-retour |
+|---|---|---|---|---|---|
+| **Escuna / galion** | Mangues | Un seul retour, **15 h 30** | ~1 h | **35 R$** | **70 R$** |
+| **Taxi-boat** | Côté Pouso | **15 h, 16 h et 17 h** précises | **~15 min** | **60 R$** | **100 R$** |
+
+**Météo :** Lopes Mendes est magnifique même par temps nuageux — alors ne gâchez pas une matinée grise à attendre le soleil. Évitez simplement l'itinéraire **à pied** sous la pluie ou le lendemain de fortes pluies ; prenez le bateau à la place.
+
+### Laissez le ciel décider de votre plan
+
+La meilleure façon d'organiser vos journées ici, c'est de laisser la météo en choisir l'ordre. Regardez le ciel et les prévisions la veille au soir — si demain s'annonce couvert, faites-en votre journée **Volta à Ilha**.
+
+- **Une journée grise / couverte → Volta à Ilha** *(le tour complet de l'île).* L'option polyvalente : une journée entière sur l'eau, de belles haltes tout au long du parcours, et vous rentrez fatigué, bronzé et heureux. **Environ 8 heures (09 h 30–17 h 30), ~200 R$.**
+
+- **Votre deuxième journée en bateau → choisissez selon vos envies.**
+  - **Envie d'aventure → Gruta do Acaiá** *(l'excursion de la grotte marine).* Deux lagunes où vous vous lasserez de compter les poissons, plus une grotte luminescente que vous ne trouverez nulle part ailleurs. **Environ 7 heures, ~200 R$.**
+  - **Envie d'îles dignes d'une carte postale, aux airs de Caraïbes → Ilhas Paradisíacas** *(les îles d'Angra).* Une eau calme et splendide, une superbe halte snorkeling à **Botinas**, et le clou du spectacle, **Ilha da Piedade** — la fameuse « Ilha de Caras ». **10 h 30–17 h 30, ~170–180 R$.**
+
+- **Une journée libre ou supplémentaire → prenez-la tranquille sur terre.**
+  - **Le Circuit Historique (sentier T1)** *(la boucle historique plate)* est excellent pour tout le monde — y compris les voyageurs fatigués, plus âgés ou en quête d'une journée plus douce — car il est plat et facile.
+  - Ajoutez la **cascade de la Feiticeira (sentier T2)** *(la montée de la Feiticeira)* si vous êtes partant pour un peu plus d'effort ; cela en vaut vraiment la peine.
+  - Ou rendez-vous à **Abraãozinho** et/ou **Crena** — accessibles à pied ou en bateau.
+
+*Tous les détails de ces randonnées et excursions se trouvent dans les sections randonnées et excursions en bateau ci-dessus.*
+
+### Pourquoi 5 à 7 jours ?
+
+Vous pouvez faire les incontournables en deux ou trois jours, mais quelques jours de plus transforment un bon séjour en un séjour exceptionnel :
+
+- **La météo n'est jamais garantie.** Le soleil va et vient ici, donc plus vous avez de jours, plus vous attraperez de journées de beau temps — et plus il est facile de laisser le ciel décider de votre plan.
+- **Il y a bien plus à faire que vous ne le pensez.** Plages, sentiers et excursions en bateau s'accumulent vite ; les jours libres sont rarement perdus.
+- **Cela répartit le coût du voyage.** Venir ici n'est pas bon marché (le trajet aller-retour, plus la taxe touristique d'Angra), et ce sont des coûts fixes. Comme pour un vol long-courrier, plus vous restez longtemps, plus chaque jour devient rentable — trois jours suffisent à peine à amortir l'effort ; une semaine ou deux le justifient pleinement. Le quotidien, repas compris, c'est la partie bon marché.

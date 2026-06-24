@@ -92,7 +92,7 @@ Travellers often ask whether they can walk to **Aventureiro** in the far south. 
 
 The one everyone comes for — and it lives up to it. Nearly **3 km of fine, pale sand** so fine it almost squeaks underfoot, backed by preserved Atlantic forest and lapped by clear, shallow water. It's regularly listed among the best beaches in Brazil (and the world). There's gentle **surf**, which makes it a favourite with beginner surfers, and only a couple of rustic huts selling drinks and snacks — almost no development.
 
-Boats can't land at Lopes Mendes itself. The usual way is a **schooner (escuna) from Abraão to Praia do Pouso** (around R$50 round trip; departures mid-morning, returns mid-to-late afternoon) or a **taxi boat** (around R$70 per person), then the short **T11 trail (~1 km, 30–40 min)** over the headland. You can also walk the whole way on **T10 + T11**. See the full route in our [trails guide](/ilha-grande-trails/).
+Boats can't land at Lopes Mendes itself. The usual way is a **schooner (escuna) from Abraão to Praia do Pouso** (around R$70 round trip) or a faster **taxi boat** (around R$100 round trip) — see the day-planner below for exact times and one-way fares, then the short **T11 trail (~1 km, 30–40 min)** over the headland. You can also walk the whole way on **T10 + T11**. See the full route in our [trails guide](/ilha-grande-trails/).
 
 ### Aventureiro
 
@@ -225,3 +225,60 @@ Prices below are **rough, per person and fluctuate** with the season — treat t
 | **Private hire** (boat to suit) | Fully personalised, up to 10 pax | Custom (no return after ~5:30 pm) | ~R$1,500/trip (~R$1,400–2,000) | Ask when booking |
 
 I haven't named operators here on purpose — I'll point you to the right captain for the day and conditions when you're ready to book.
+
+## How many days do you need?
+
+Five to seven days is ideal — but whatever your dates, here's how to nail it.
+
+### Only 2–3 days? Your quick plan
+
+Short trip? You can still hit the best of the island. Here's the no-fuss version:
+
+- **Day 1 — Lopes Mendes.** The one beach you cannot skip (how-to below).
+- **Day 2 — A boat tour.** If the day's grey, make it the **Volta à Ilha** (the full island loop). If it's bright, save the loop and pick a sunnier tour instead.
+- **Day 3 (if you get it) — the Historic Circuit (trail T1).** Flat, easy, and good for everyone.
+
+**Four days?** Add a second boat tour — **Gruta do Acaiá** (the sea-cave tour) or **Ilhas Paradisíacas** (the Angra islands). More on both below.
+
+### The one must-do: Lopes Mendes
+
+Whatever else your trip includes, see **Lopes Mendes.** There are two ways in:
+
+- **On foot** — trails **T10 + T11** (the Lopes Mendes trails), about **3 h one way** (2h30 at a good pace). Be honest with yourself: this is a real, fairly demanding forest hike, not a stroll, and the return leg is the slower, harder part.
+- **By boat + a short walk** — take a morning boat across, then walk just **~1 km** to the beach and the same ~1 km back to catch a boat home.
+
+One orientation line: the **escuna** leaves from **Mangues** and the **taxi-boat** from the **Pouso** side — the two jetties are a ~5-minute walk apart and signposted, so you can't really get it wrong.
+
+**Return-boat options** *(fares below are approximate, per person, and they fluctuate)*
+
+| Boat | Leaves from | Schedule | Return crossing | One-way | Round trip |
+|---|---|---|---|---|---|
+| **Escuna / galleon** | Mangues | One return only, **3:30 pm** | ~1 h | **R$35** | **R$70** |
+| **Taxi-boat** | Pouso side | **3, 4 & 5 pm** sharp | **~15 min** | **R$60** | **R$100** |
+
+**Weather:** Lopes Mendes is lovely even on a cloudy day — so don't waste a grey morning waiting for sun. Just don't take the **walking** route in the rain or the day after heavy rain; take the boat instead.
+
+### Let the sky decide your plan
+
+The smartest way to spend your days here is to let the weather choose the order. Check the sky and the forecast the night before — if tomorrow looks overcast, make it your **Volta à Ilha** day.
+
+- **A grey / overcast day → Volta à Ilha** *(the full island loop).* The all-rounder: a full day on the water, beautiful stops all the way round, and you come home tired, tanned and happy. **About 8 hours (09:30–17:30), ~R$200.**
+
+- **Your second boat day → pick by what you want.**
+  - **Want adventure → Gruta do Acaiá** *(the sea-cave tour).* Two lagoons where you'll tire of counting fish, plus a luminescent cave you won't find anywhere else. **About 7 hours, ~R$200.**
+  - **Want postcard-perfect, Caribbean-like islands → Ilhas Paradisíacas** *(the Angra islands).* Calm, gorgeous water, a great snorkel stop at **Botinas**, and the headline stop, **Ilha da Piedade** — the famous "Ilha de Caras." **10:30–17:30, ~R$170–180.**
+
+- **A spare or extra day → take it easy on land.**
+  - **The Historic Circuit (trail T1)** *(the flat historic loop)* is excellent for everyone — including travellers who are tired, older, or want a gentler day — because it's flat and easy.
+  - Add the **Feiticeira waterfall (trail T2)** *(the Feiticeira climb)* if you're up for a bit more effort; it's well worth it.
+  - Or head to **Abraãozinho** and/or **Crena** — reachable on foot or by boat.
+
+*Full details for these walks and tours are in the walk and boat-tour sections above.*
+
+### Why 5–7 days?
+
+You can do the highlights in two or three days, but a few extra days turn a good trip into a great one:
+
+- **Weather isn't guaranteed.** Sun comes and goes here, so the more days you have, the more good-weather days you'll catch — and the easier it is to let the sky decide your plan.
+- **There's far more to do than you'd think.** Beaches, trails and boat tours stack up fast; spare days rarely go to waste.
+- **It spreads your travel cost.** Getting here isn't cheap (the trip in and out, plus the Angra tourist tax), and those are fixed costs. Like a long-haul flight, the longer you stay, the more worthwhile each day becomes — three days barely repays the effort; a week or two truly earns it. The day-to-day, food included, is the cheap part.
