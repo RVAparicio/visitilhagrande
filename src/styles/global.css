@@ -234,6 +234,19 @@ main { display: block; }
 .prose th, .prose td { text-align: left; padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--c-line); }
 .prose th { background: var(--c-sand); color: var(--c-ocean); font-weight: 500; }
 
+/* --- Callouts ("Good to know" / tides / taxi-boat) = markdown blockquotes --- */
+.prose blockquote {
+  margin: 1.4rem 0;
+  padding: 0.85rem 1.1rem;
+  background: var(--c-sand);
+  border-left: 3px solid var(--c-teal);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  font-size: 0.97rem;
+}
+.prose blockquote p { margin: 0.3rem 0; }
+.prose blockquote :first-child { margin-top: 0; }
+.prose blockquote :last-child { margin-bottom: 0; }
+
 /* --- Footer --- */
 .site-footer {
   margin-top: 4rem;

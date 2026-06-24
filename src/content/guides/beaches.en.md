@@ -36,50 +36,53 @@ If you only have a few days, the short answer is: **Lopes Mendes** for the iconi
 
 ## Beaches you can walk to from Abraão
 
-Vila do Abraão is your base on the island, and it is the one place where you can set off on foot. Almost everything else on Ilha Grande is reached by boat, but there is a surprising amount of coastline you can reach with nothing more than a pair of good shoes and a bottle of water.
+Vila do Abraão is your base on the island, and it's the one place you can set off from on foot. Almost everything else on Ilha Grande arrives by boat — but there's a surprising stretch of coast you can reach with nothing more than good shoes and a bottle of water. Here's where I'd point you, by feel first; the planning numbers are tucked into a *Good to know* line under each walk.
 
-A quick word before you go: the beaches north of Abraão are wild. There are no vendors, no kiosks, nowhere to buy a drink or a snack — so bring your own food and water. The beaches east of town along the coastal trail have more structure, which I have flagged below.
+One thing before you go: the beaches **north** of Abraão are gloriously wild — no vendors, no kiosks, nowhere to buy a drink or a snack — so bring your own food and water. The beaches **east** of town have more structure, and I've flagged exactly where you can eat.
 
 ### Heading north: Praia Preta & Praia do Galego
 
-The walk north is flat and easy, and it is the closest escape from the village.
+A flat, easy stroll and the closest escape from the village — wild little beaches with nobody trying to sell you anything.
 
-- **Praia Preta** — Very close to Abraão and flat the whole way there. It is a black-sand beach (the sand is dark and almost volcanic-looking), beautiful and clean. It is wild, with no infrastructure of any kind.
-- **Praia do Galego** — A bit further north, past the river outcrop and the ruins of the old *lazareto* (the historic quarantine hospital). It is peaceful, with lovely clean water. Like Praia Preta, it is wild — bring everything you need.
+- **Praia Preta** — a wild crescent of dark, almost volcanic-looking sand, clean and quiet, the closest escape from town. *~10 min on foot, flat.*
+- **Praia do Galego** — peaceful and a touch further on, with lovely clean water, reached past the river outcrop and the ruins of the old *lazareto* (the historic quarantine hospital). *A little beyond Praia Preta, flat.*
+
+> **Good to know.** This whole northern stretch is the **Historic Circuit** (trail T1): practically flat, taking in the old aqueduct, Praia Preta, Praia do Galego and the *lazareto* ruins. Reckon on **40 min** at a young couple's pace, up to **1 h** at a gentler one. Wild throughout — carry your own food and water.
 
 ### Heading east: Júlia, Crena & Abraãozinho
 
-Follow the coastal trail east and you string together a handful of beaches, finishing at one of my favourites for a relaxed day out.
+Follow the coastal trail east and you thread together a handful of beaches, finishing at one of my favourite spots for a relaxed day out. The path is enjoyable but a little intricate and rugged — it keeps you on your toes, the effort is medium-low, and there's one quirky stretch I'll describe below.
 
-- **Praia da Júlia** — The first stop, and the one with structure: there is a very nice beach bar (*parador*) here with a chilled-out, lounge atmosphere.
-- **Comprida & Bica** — Right after Júlia. These two are tiny and, to be honest, not especially pretty — most people simply pass through.
-- **The fork in the trail** — Just past these, the trail splits:
-  - **Left fork → Praia da Crena** — A bay whose signature is its flat, calm, "ironed" water. It is ideal for swimming, stand-up paddle and kayak.
-  - **Right fork → Abraãozinho** — A beautiful, fairly long beach with a wide strip of sand, gentle waves and very transparent water. This one has structure: two Brazilian restaurants at the near end and a very good Argentine bar-restaurant at the far end. There is also a fixed taxi-boat stop here with constant departures, so it is very practical — you can walk one way and ride the other.
+- **Praia da Júlia** — the first stop, and the one with a *parador* (beach bar) and a chilled-out, lounge feel. **This is where to eat on the way out.** *~15 min.*
+- **Comprida & Bica** — two tiny beaches just after Júlia, not especially pretty; most people simply pass through.
+- **Praia da Crena** *(left fork)* — a calm bay whose signature is flat, "ironed" water — made for swimming, stand-up paddle and kayak. *~30 min.*
+- **Abraãozinho** *(right fork)* — a long, wide sweep of sand with gentle waves and beautifully clear water, and **restaurants at the far end**: two Brazilian places at one end and a very good Argentine bar-restaurant at the other. There's also a fixed taxi-boat stop. *~30 min.*
 
-### The historic circuit & the Cachoeira da Feiticeira
+> **Good to know.** Fairly easy walking, but intricate and rugged — and slippery if it has rained. At one point illegal houses blocked the original path, so a short scramble takes you down to the beach and along a narrow cliff-side passage (a *cornice*), with steps and slippery rocks fitted with fixed ropes. It's good fun, though not for everyone — and worth it.
 
-If you want history and a waterfall on the same walk, take the historic circuit east via trail **T2**. The route passes the island's landmarks — the old aqueduct and the *lazareto* ruins — and goes by way of Praia Preta.
+> ⚠️ **Tides — walk this in the morning.** From about **3 pm** the tide usually rises, and on a high tide some stretches make you wade at the water's edge — you can get wet to the waist. Do the east coastal walk in the morning, or be ready to get wet.
 
-Where T2 begins, just after the aqueduct, there is a long climb topping out at roughly **160–200 m**. The ground here is clayey, so I do **not** recommend this trail after a day of rain — it gets slippery and unpleasant.
+> 🚤 **Taxi-boat (Crena / Abraãozinho).** About **R$50 round trip**. The official boats are **black-and-yellow**. They run from around **9:30 am** (not before — they need a minimum number of passengers), set out between **9:30 am and 1 pm**, and return until about **5:30–6 pm**. Don't head out at 5:30 pm expecting a ride. A great option: **walk one way and ride back.**
 
-After the climb, a fork leads to the **Cachoeira da Feiticeira**, a 13-metre waterfall with a natural pool that is glorious in summer, especially after the hot, humid jungle walk to reach it. The trail then continues down to **Praia da Feiticeira**, a small and very pretty beach. From there you can catch a boat back to Abraão to save yourself the return walk. (The full route is described in the trails guide.)
+### The waterfall walk: Cachoeira da Feiticeira
+
+This is the one for legs that want a proper climb. You sweat your way up through hot, humid jungle past two *mirantes* with sea views, and the reward at the top is the **Cachoeira da Feiticeira** — a waterfall and natural pool that is glorious in summer after the heat of the walk. Push on a little further and you drop down to **Praia da Feiticeira**, a small, very pretty beach.
+
+> **Practical — Feiticeira (trail T2).** The route runs **Abraão → park fork → aqueduct → waterfall fork → waterfall → Praia da Feiticeira**. About **1h30** to the waterfall, then another **20–30 min** down to the beach. Profile: roughly **5 km**, topping out near **220 m**, with **400 m+** of cumulative climb and **two mirantes**. Do **not** attempt it after rain — it turns treacherous. Wear good sandals or trekking shoes (not sneakers or flip-flops) and carry **1–1.5 L of water** (2 L for two). From Praia da Feiticeira you can catch a **boat back to Abraão** and skip the return climb.
 
 ### The longer walks: Palmas, Lopes Mendes & Dois Rios
 
-Some of the island's most famous beaches are also reachable on foot from Abraão, but they are proper hikes rather than strolls. Here are the one-way walking times to help you plan:
+Some of the island's most famous beaches are also reachable on foot from Abraão — but these are proper hikes, not strolls. Here are the one-way walking times to help you plan; each beach has its own full section elsewhere in this guide.
 
 | Beach | Trail(s) | One-way on foot |
 | --- | --- | --- |
 | **Palmas** | T10 | about **1h40** |
 | **Lopes Mendes** | T10 + T11 | about **3h** (2h30 at a good pace) |
-| **Dois Rios** | T14 | **7.2 km, about 2h30** (2h at a good pace) |
-
-I describe each of these beaches in full in their own sections — this is just to give you a sense of the distances before you commit to the walk.
+| **Dois Rios** | T14 | **7.2 km, about 2h30** |
 
 ### A note on Aventureiro
 
-Travellers often ask whether they can walk to **Aventureiro** in the far south. From Abraão, the answer is no — it is reached by boat, or on land via trail **T9 from Provetá** (about 4.3 km; not difficult and fairly well maintained, but still jungle, and it can get overgrown). One thing worth knowing: a normal visit needs no permit, but staying longer than two hours requires authorization — which is why boat tours typically pause for around 1h30 there.
+Travellers often ask whether they can walk to **Aventureiro** in the far south. From Abraão, the answer is no — you reach it **by boat**, or on land via **trail T9 from Provetá** (about **4.3 km**). One thing worth knowing: a short visit needs no permit, but staying longer than **two hours** requires authorization — which is why boat tours typically pause there for around **1h30**.
 
 ## The big names
 

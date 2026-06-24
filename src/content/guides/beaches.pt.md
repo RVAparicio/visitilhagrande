@@ -34,52 +34,55 @@ Se você tem só alguns dias, em resumo: **Lopes Mendes** pela praia icônica, *
 | **Lagoa Verde** | Passeio de escuna / lancha | Snorkel, famílias |
 | **Palmas** | Trilha (T10) | Uma parada tranquila antes de Lopes Mendes |
 
-## Praias que você pode visitar a pé saindo do Abraão
+## Praias acessíveis a pé desde o Abraão
 
-A Vila do Abraão é a sua base na ilha, e é o único lugar de onde dá para partir a pé. Quase todo o resto da Ilha Grande se alcança de barco, mas há uma quantidade surpreendente de litoral que você pode chegar com nada mais que um bom par de tênis e uma garrafa de água.
+A Vila do Abraão é a sua base na ilha, e é o único lugar de onde dá para partir a pé. Quase todo o resto da Ilha Grande se alcança de barco — mas há um trecho surpreendente de costa que você consegue chegar com nada além de um bom calçado e uma garrafa d'água. Aqui vão minhas sugestões, primeiro pelo sentimento; os números para planejamento estão guardados numa linha *Bom saber* sob cada caminhada.
 
-Um aviso rápido antes de sair: as praias ao norte do Abraão são selvagens. Não há vendedores, nem quiosques, nem onde comprar uma bebida ou um lanche — então leve sua própria comida e água. As praias a leste da vila, ao longo da trilha costeira, têm mais estrutura, o que sinalizei abaixo.
+Uma coisa antes de sair: as praias **ao norte** do Abraão são gloriosamente selvagens — sem vendedores, sem quiosques, nenhum lugar para comprar uma bebida ou um lanche — então leve a sua própria comida e água. As praias **a leste** da vila têm mais estrutura, e marquei exatamente onde dá para comer.
 
 ### Rumo ao norte: Praia Preta e Praia do Galego
 
-A caminhada para o norte é plana e fácil, e é a fuga mais próxima da vila.
+Uma caminhada plana e tranquila, e o escape mais próximo da vila — praiazinhas selvagens onde ninguém tenta te vender nada.
 
-- **Praia Preta** — Bem pertinho do Abraão e plana o caminho inteiro. É uma praia de areia preta (a areia é escura e quase com aparência vulcânica), bonita e limpa. É selvagem, sem nenhum tipo de infraestrutura.
-- **Praia do Galego** — Um pouco mais ao norte, passando o afloramento do rio e as ruínas do antigo *lazareto* (o histórico hospital de quarentena). É tranquila, com uma água limpa e adorável. Assim como a Praia Preta, é selvagem — leve tudo o que você precisar.
+- **Praia Preta** — uma meia-lua selvagem de areia escura, de aparência quase vulcânica, limpa e silenciosa, o escape mais próximo da vila. *~10 min a pé, plano.*
+- **Praia do Galego** — tranquila e um pouco mais adiante, com água deliciosamente limpa, alcançada passando o costão do rio e as ruínas do antigo *lazareto* (o histórico hospital de quarentena). *Um pouco além da Praia Preta, plano.*
+
+> **Bom saber.** Todo esse trecho ao norte é o **Circuito Histórico** (trilha T1): praticamente plano, abrangendo o antigo aqueduto, a Praia Preta, a Praia do Galego e as ruínas do *lazareto*. Conte com **40 min** no ritmo de um casal jovem, até **1 h** num ritmo mais leve. Selvagem do começo ao fim — leve a sua própria comida e água.
 
 ### Rumo a leste: Júlia, Crena e Abraãozinho
 
-Siga a trilha costeira para leste e você emenda um punhado de praias, terminando em uma das minhas favoritas para um dia relaxado.
+Siga a trilha costeira em direção ao leste e você vai costurando uma série de praias, terminando num dos meus lugares preferidos para um dia relaxado. O caminho é agradável, mas um pouco intrincado e acidentado — exige atenção, o esforço é médio-baixo, e há um trecho peculiar que descrevo abaixo.
 
-- **Praia da Júlia** — A primeira parada, e a que tem estrutura: aqui existe um bar de praia (*parador*) muito agradável, com um clima descontraído de lounge.
-- **Comprida e Bica** — Logo depois da Júlia. Essas duas são minúsculas e, para ser sincero, não especialmente bonitas — a maioria das pessoas simplesmente passa por elas.
-- **A bifurcação na trilha** — Pouco depois delas, a trilha se divide:
-  - **Bifurcação à esquerda → Praia da Crena** — Uma enseada cuja marca registrada é a água plana, calma e "passada a ferro". É ideal para nadar, stand-up paddle e caiaque.
-  - **Bifurcação à direita → Abraãozinho** — Uma praia bonita e razoavelmente longa, com uma ampla faixa de areia, ondas suaves e água muito transparente. Esta tem estrutura: dois restaurantes brasileiros na ponta mais próxima e um bar-restaurante argentino muito bom na ponta mais distante. Há também um ponto fixo de táxi-boat aqui, com saídas constantes, então é muito prático — você pode ir a pé por um lado e voltar de barco pelo outro.
+- **Praia da Júlia** — a primeira parada, e a que tem um *parador* (bar de praia) e um clima descontraído, de lounge. **É aqui que você come na ida.** *~15 min.*
+- **Comprida e Bica** — duas praiazinhas logo depois da Júlia, não especialmente bonitas; a maioria das pessoas simplesmente passa por elas.
+- **Praia da Crena** *(bifurcação à esquerda)* — uma enseada calma cuja marca registrada é a água plana, "passada a ferro" — feita para nadar, stand-up paddle e caiaque. *~30 min.*
+- **Abraãozinho** *(bifurcação à direita)* — uma faixa longa e larga de areia com ondas suaves e água lindamente cristalina, e **restaurantes na outra ponta**: dois lugares brasileiros em uma extremidade e um ótimo bar-restaurante argentino na outra. Há também um ponto fixo de táxi-boat. *~30 min.*
 
-### O circuito histórico e a Cachoeira da Feiticeira
+> **Bom saber.** Caminhada bastante fácil, mas intrincada e acidentada — e escorregadia se tiver chovido. Em certo ponto, casas irregulares bloquearam o caminho original, então uma curta descida te leva até a praia e por uma passagem estreita junto ao costão (uma *cornija*), com degraus e pedras escorregadias equipadas com cordas fixas. É bem divertido, embora não seja para todos — e vale a pena.
 
-Se você quer história e uma cachoeira na mesma caminhada, faça o circuito histórico rumo a leste pela trilha **T2**. O percurso passa pelos marcos da ilha — o antigo aqueduto e as ruínas do *lazareto* — e segue pelo caminho da Praia Preta.
+> ⚠️ **Marés — faça esse trecho de manhã.** A partir das **15h**, mais ou menos, a maré costuma subir, e na maré alta alguns trechos te obrigam a vadear pela beira d'água — você pode se molhar até a cintura. Faça a caminhada pela costa leste de manhã, ou esteja preparado para se molhar.
 
-Onde a T2 começa, logo depois do aqueduto, há uma subida longa que chega ao topo em cerca de **160–200 m**. O terreno aqui é argiloso, então eu **não** recomendo essa trilha depois de um dia de chuva — fica escorregadia e desagradável.
+> 🚤 **Táxi-boat (Crena / Abraãozinho).** Cerca de **R$50 ida e volta**. Os barcos oficiais são **pretos e amarelos**. Funcionam a partir das **9h30** mais ou menos (não antes — precisam de um número mínimo de passageiros), saem entre **9h30 e 13h** e voltam até por volta das **17h30–18h**. Não saia às 17h30 esperando conseguir carona. Uma ótima opção: **ir a pé e voltar de barco.**
 
-Após a subida, uma bifurcação leva à **Cachoeira da Feiticeira**, uma queda d'água de 13 metros com uma piscina natural que é gloriosa no verão, especialmente depois da caminhada quente e úmida pela mata para chegar até ela. A trilha então continua descendo até a **Praia da Feiticeira**, uma praia pequena e muito bonita. De lá você pode pegar um barco de volta ao Abraão para se poupar da caminhada de retorno. (O percurso completo está descrito no guia de trilhas.)
+### A caminhada da cachoeira: Cachoeira da Feiticeira
+
+Esta é para as pernas que querem uma subida de verdade. Você sobe suando por uma mata quente e úmida, passando por dois *mirantes* com vista para o mar, e a recompensa lá em cima é a **Cachoeira da Feiticeira** — uma queda d'água e piscina natural que é gloriosa no verão, depois do calor da caminhada. Avance um pouco mais e você desce até a **Praia da Feiticeira**, uma praia pequena e muito bonita.
+
+> **Prático — Feiticeira (trilha T2).** O percurso vai **Abraão → bifurcação do parque → aqueduto → bifurcação da cachoeira → cachoeira → Praia da Feiticeira**. Cerca de **1h30** até a cachoeira, depois mais **20–30 min** de descida até a praia. Perfil: aproximadamente **5 km**, chegando perto dos **220 m**, com **400 m+** de subida acumulada e **dois mirantes**. **Não** tente fazê-la depois da chuva — ela fica traiçoeira. Use boas sandálias ou tênis de trekking (não tênis comum nem chinelos) e leve **1–1,5 L de água** (2 L para dois). Da Praia da Feiticeira você pode pegar um **barco de volta ao Abraão** e poupar a subida de retorno.
 
 ### As caminhadas mais longas: Palmas, Lopes Mendes e Dois Rios
 
-Algumas das praias mais famosas da ilha também são alcançáveis a pé saindo do Abraão, mas são trilhas de verdade, e não passeios tranquilos. Aqui estão os tempos de caminhada (só ida) para ajudar no seu planejamento:
+Algumas das praias mais famosas da ilha também são alcançáveis a pé desde o Abraão — mas estas são caminhadas de verdade, não passeios. Aqui estão os tempos de caminhada só de ida para ajudar no seu planejamento; cada praia tem a sua própria seção completa em outro ponto deste guia.
 
-| Praia | Trilha(s) | Só ida, a pé |
+| Praia | Trilha(s) | Só de ida, a pé |
 | --- | --- | --- |
 | **Palmas** | T10 | cerca de **1h40** |
-| **Lopes Mendes** | T10 + T11 | cerca de **3h** (2h30 em bom ritmo) |
-| **Dois Rios** | T14 | **7,2 km, cerca de 2h30** (2h em bom ritmo) |
-
-Descrevo cada uma dessas praias em detalhe em suas próprias seções — isto é só para lhe dar uma noção das distâncias antes de se comprometer com a caminhada.
+| **Lopes Mendes** | T10 + T11 | cerca de **3h** (2h30 num bom ritmo) |
+| **Dois Rios** | T14 | **7,2 km, cerca de 2h30** |
 
 ### Uma observação sobre o Aventureiro
 
-Os viajantes costumam perguntar se dá para ir a pé até o **Aventureiro**, no extremo sul. Saindo do Abraão, a resposta é não — chega-se de barco, ou por terra pela trilha **T9 a partir do Provetá** (cerca de 4,3 km; não é difícil e é bastante bem conservada, mas ainda é mata, e pode ficar tomada pela vegetação). Uma coisa que vale saber: uma visita normal não exige autorização, mas permanecer por mais de duas horas requer autorização — e é por isso que os passeios de barco normalmente fazem uma pausa de cerca de 1h30 por lá.
+Os viajantes costumam perguntar se dá para ir a pé até o **Aventureiro**, lá no extremo sul. Desde o Abraão, a resposta é não — você chega lá **de barco**, ou por terra pela **trilha T9 a partir de Provetá** (cerca de **4,3 km**). Uma coisa que vale saber: uma visita curta não exige autorização, mas permanecer por mais de **duas horas** requer autorização — e é por isso que os passeios de barco normalmente fazem uma parada por ali de cerca de **1h30**.
 
 ## As mais famosas
 

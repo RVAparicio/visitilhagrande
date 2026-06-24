@@ -36,50 +36,53 @@ Si tenés solo unos días, en resumen: **Lopes Mendes** por la playa icónica, *
 
 ## Playas a las que puedes llegar caminando desde Abraão
 
-Vila do Abraão es tu base en la isla, y es el único lugar desde donde puedes salir a pie. Casi todo lo demás en Ilha Grande se alcanza en barco, pero hay una sorprendente cantidad de costa a la que puedes llegar con nada más que un buen par de zapatos y una botella de agua.
+Vila do Abraão es tu base en la isla, y es el único lugar desde el que puedes partir a pie. A casi todo lo demás en Ilha Grande se llega en barco, pero hay un sorprendente tramo de costa que puedes alcanzar con poco más que un buen calzado y una botella de agua. Aquí te indico hacia dónde te dirigiría, primero por intuición; los datos para planificar quedan recogidos en una línea de *Bueno saber* bajo cada caminata.
 
-Una breve advertencia antes de salir: las playas al norte de Abraão son salvajes. No hay vendedores, ni quioscos, ni ningún sitio donde comprar una bebida o un tentempié, así que lleva tu propia comida y agua. Las playas al este del pueblo, a lo largo del sendero costero, tienen más infraestructura, lo cual señalo más abajo.
+Una cosa antes de salir: las playas al **norte** de Abraão son maravillosamente salvajes (no hay vendedores ni quioscos, ningún sitio donde comprar una bebida o un tentempié), así que lleva tu propia comida y agua. Las playas al **este** del pueblo tienen más infraestructura, y te he señalado exactamente dónde puedes comer.
 
 ### Hacia el norte: Praia Preta y Praia do Galego
 
-La caminata hacia el norte es llana y fácil, y es la escapada más cercana al pueblo.
+Un paseo llano y sencillo, y la escapada más cercana al pueblo: pequeñas playas salvajes donde nadie intenta venderte nada.
 
-- **Praia Preta** — Muy cerca de Abraão y llana en todo el trayecto. Es una playa de arena negra (la arena es oscura y de aspecto casi volcánico), hermosa y limpia. Es salvaje, sin infraestructura de ningún tipo.
-- **Praia do Galego** — Un poco más al norte, pasado el saliente del río y las ruinas del antiguo *lazareto* (el histórico hospital de cuarentena). Es tranquila, con un agua limpia preciosa. Al igual que Praia Preta, es salvaje: lleva todo lo que necesites.
+- **Praia Preta** — una media luna salvaje de arena oscura, de aspecto casi volcánico, limpia y tranquila, la escapada más cercana al pueblo. *~10 min a pie, llano.*
+- **Praia do Galego** — apacible y un poco más adelante, con un agua estupenda y limpia; se llega pasando el saliente del río y las ruinas del antiguo *lazareto* (el histórico hospital de cuarentena). *Un poco más allá de Praia Preta, llano.*
+
+> **Bueno saber.** Todo este tramo norte es el **Circuito Histórico** (sendero T1): prácticamente llano, abarcando el antiguo acueducto, Praia Preta, Praia do Galego y las ruinas del *lazareto*. Calcula unos **40 min** al ritmo de una pareja joven, hasta **1 h** a un paso más tranquilo. Salvaje de principio a fin: lleva tu propia comida y agua.
 
 ### Hacia el este: Júlia, Crena y Abraãozinho
 
-Sigue el sendero costero hacia el este y enlazarás un puñado de playas, terminando en una de mis favoritas para un día relajado.
+Sigue el sendero costero hacia el este y enlazarás un puñado de playas, terminando en uno de mis lugares favoritos para un día relajado. El camino es agradable, pero un poco intrincado y abrupto; te mantiene alerta, el esfuerzo es medio-bajo, y hay un tramo curioso que describiré más abajo.
 
-- **Praia da Júlia** — La primera parada, y la que tiene infraestructura: aquí hay un bar de playa (*parador*) muy agradable, con un ambiente tranquilo y de lounge.
-- **Comprida y Bica** — Justo después de Júlia. Estas dos son diminutas y, para ser sincero, no especialmente bonitas; la mayoría de la gente simplemente pasa de largo.
-- **La bifurcación del sendero** — Justo pasadas estas, el sendero se divide:
-  - **Ramal izquierdo → Praia da Crena** — Una bahía cuya seña de identidad es su agua plana, calma y "planchada". Es ideal para nadar, hacer stand-up paddle y kayak.
-  - **Ramal derecho → Abraãozinho** — Una playa hermosa, bastante larga, con una amplia franja de arena, olas suaves y agua muy transparente. Esta sí tiene infraestructura: dos restaurantes brasileños en el extremo más cercano y un bar-restaurante argentino muy bueno en el extremo más lejano. También hay aquí una parada fija de taxi-boat con salidas constantes, así que es muy práctica: puedes ir caminando y volver en barco.
+- **Praia da Júlia** — la primera parada, y la que tiene un *parador* (bar de playa) y un ambiente relajado, de lounge. **Aquí es donde comer a la ida.** *~15 min.*
+- **Comprida y Bica** — dos playas diminutas justo después de Júlia, no especialmente bonitas; la mayoría simplemente pasa de largo.
+- **Praia da Crena** *(desvío a la izquierda)* — una bahía tranquila cuyo sello es el agua plana, "planchada", hecha para nadar, hacer stand-up paddle y kayak. *~30 min.*
+- **Abraãozinho** *(desvío a la derecha)* — una extensa y amplia franja de arena con olas suaves y un agua bellamente cristalina, y **restaurantes en el extremo más alejado**: dos locales brasileños en un extremo y un muy buen bar-restaurante argentino en el otro. También hay una parada fija de taxi-barco. *~30 min.*
 
-### El circuito histórico y la Cachoeira da Feiticeira
+> **Bueno saber.** Caminata bastante fácil, pero intrincada y abrupta, y resbaladiza si ha llovido. En un punto, unas casas ilegales bloquearon el camino original, así que un breve descenso te lleva hasta la playa y a lo largo de un estrecho paso al borde del acantilado (una *cornisa*), con escalones y rocas resbaladizas provistas de cuerdas fijas. Es divertido, aunque no es para todo el mundo, y vale la pena.
 
-Si quieres historia y una cascada en la misma caminata, haz el circuito histórico hacia el este por el sendero **T2**. La ruta pasa por los hitos de la isla —el antiguo acueducto y las ruinas del *lazareto*— y va por Praia Preta.
+> ⚠️ **Mareas: hazlo por la mañana.** A partir de las **15:00** aproximadamente la marea suele subir, y con marea alta algunos tramos te obligan a vadear por la orilla, donde puedes mojarte hasta la cintura. Haz la caminata costera del este por la mañana, o ve preparado para mojarte.
 
-Donde comienza el T2, justo después del acueducto, hay una larga subida que culmina a unos **160–200 m**. El terreno aquí es arcilloso, así que **no** recomiendo este sendero después de un día de lluvia: se vuelve resbaladizo y desagradable.
+> 🚤 **Taxi-barco (Crena / Abraãozinho).** Unos **R$50 ida y vuelta**. Los barcos oficiales son **negros y amarillos**. Operan a partir de las **9:30** aproximadamente (no antes: necesitan un número mínimo de pasajeros), salen entre las **9:30 y las 13:00**, y regresan hasta cerca de las **17:30–18:00**. No salgas a las 17:30 esperando que te lleven. Una gran opción: **ir caminando y volver en barco.**
 
-Tras la subida, una bifurcación conduce a la **Cachoeira da Feiticeira**, una cascada de 13 metros con una piscina natural que es gloriosa en verano, sobre todo después de la calurosa y húmeda caminata por la selva para llegar hasta ella. El sendero continúa luego bajando hasta la **Praia da Feiticeira**, una playa pequeña y muy bonita. Desde allí puedes tomar un barco de vuelta a Abraão para ahorrarte la caminata de regreso. (La ruta completa se describe en la guía de senderos.)
+### La caminata a la cascada: Cachoeira da Feiticeira
+
+Esta es la indicada para las piernas que quieren una subida en condiciones. Sudas cuesta arriba a través de una selva calurosa y húmeda, pasando por dos *mirantes* con vistas al mar, y la recompensa en lo alto es la **Cachoeira da Feiticeira**: una cascada y una piscina natural que es una gloria en verano, tras el calor de la caminata. Continúa un poco más y descenderás hasta **Praia da Feiticeira**, una playa pequeña y muy bonita.
+
+> **Práctico — Feiticeira (sendero T2).** La ruta va **Abraão → desvío del parque → acueducto → desvío de la cascada → cascada → Praia da Feiticeira**. Aproximadamente **1h30** hasta la cascada, y luego otros **20–30 min** de bajada hasta la playa. Perfil: unos **5 km**, con un punto máximo cercano a los **220 m**, con **más de 400 m** de desnivel acumulado y **dos mirantes**. **No** lo intentes después de la lluvia: se vuelve traicionero. Lleva buenas sandalias o zapatos de senderismo (no zapatillas ni chanclas) y carga **1–1,5 L de agua** (2 L para dos personas). Desde Praia da Feiticeira puedes tomar un **barco de regreso a Abraão** y ahorrarte la subida de vuelta.
 
 ### Las caminatas más largas: Palmas, Lopes Mendes y Dois Rios
 
-Algunas de las playas más famosas de la isla también se pueden alcanzar a pie desde Abraão, pero son auténticas excursiones más que paseos. Aquí tienes los tiempos de caminata de ida para ayudarte a planificar:
+Algunas de las playas más famosas de la isla también son accesibles a pie desde Abraão, pero son auténticas caminatas, no paseos. Aquí tienes los tiempos a pie de ida para ayudarte a planificar; cada playa tiene su propia sección completa en otro punto de esta guía.
 
-| Playa | Sendero(s) | A pie, solo ida |
+| Playa | Sendero(s) | A pie (solo ida) |
 | --- | --- | --- |
-| **Palmas** | T10 | unas **1h40** |
+| **Palmas** | T10 | unos **1h40** |
 | **Lopes Mendes** | T10 + T11 | unas **3h** (2h30 a buen ritmo) |
-| **Dois Rios** | T14 | **7,2 km, unas 2h30** (2h a buen ritmo) |
-
-Describo cada una de estas playas en detalle en sus propias secciones; esto es solo para darte una idea de las distancias antes de comprometerte con la caminata.
+| **Dois Rios** | T14 | **7,2 km, unas 2h30** |
 
 ### Una nota sobre Aventureiro
 
-Los viajeros suelen preguntar si pueden caminar hasta **Aventureiro**, en el extremo sur. Desde Abraão, la respuesta es no: se llega en barco, o por tierra a través del sendero **T9 desde Provetá** (unos 4,3 km; no es difícil y está bastante bien mantenido, pero sigue siendo selva y puede cubrirse de maleza). Algo que vale la pena saber: una visita normal no requiere permiso, pero quedarse más de dos horas requiere autorización, razón por la cual los tours en barco suelen detenerse allí alrededor de 1h30.
+Los viajeros suelen preguntar si pueden caminar hasta **Aventureiro**, en el extremo sur. Desde Abraão, la respuesta es no: se llega **en barco**, o por tierra mediante el **sendero T9 desde Provetá** (unos **4,3 km**). Algo que conviene saber: una visita corta no requiere permiso, pero permanecer más de **dos horas** exige autorización, razón por la cual las excursiones en barco suelen detenerse allí durante aproximadamente **1h30**.
 
 ## Las más famosas
 
