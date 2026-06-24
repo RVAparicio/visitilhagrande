@@ -237,19 +237,27 @@ Court séjour ? Vous pouvez quand même profiter du meilleur de l'île. Voici la
 
 ### L'incontournable absolu : Lopes Mendes
 
-Quoi que comprenne votre séjour par ailleurs, voyez **Lopes Mendes.** Il y a deux façons d'y accéder :
+Quoi que comporte par ailleurs votre voyage, allez voir **Lopes Mendes.** Il y a deux façons d'y accéder : à pied, ou en bateau en ne marchant que la dernière portion.
 
-- **À pied** — les sentiers **T10 + T11** (les sentiers de Lopes Mendes), **2h30–3h15 à l'aller** selon votre allure. Soyez honnête avec vous-même : il s'agit d'une vraie randonnée en forêt, assez exigeante, pas d'une simple balade, et le retour est la partie la plus lente et la plus difficile.
-- **En bateau + une courte marche** — prenez un bateau le matin pour traverser, puis marchez seulement **~1 km** jusqu'à la plage et les mêmes ~1 km au retour pour reprendre un bateau.
+- **À pied** — sentiers **T10 + T11** (les sentiers de Lopes Mendes), **2h30–3h15 à l'aller** selon votre rythme — une vraie randonnée en forêt, plutôt exigeante, pas une simple promenade ; le retour est la partie la plus lente et la plus difficile.
 
-Une ligne pour vous repérer : l'**escuna** part de **Mangues** et le **taxi-boat** du côté du **Pouso** — les deux embarcadères sont à environ 5 minutes de marche l'un de l'autre et signalés, donc vous ne pouvez pas vraiment vous tromper.
+**En bateau.** Deux services traversent depuis **Abraão** jusqu'au côté de Lopes Mendes : l'**escuna** (avec horaires fixes, moins chère) et le **taxi-boat** (plus rapide). Dans les deux cas, depuis le point de débarquement, une courte marche vous mène à **Praia do Pouso**, puis le sentier **T11/T12** (**~1 km**) jusqu'à la plage.
 
-**Options de bateau pour le retour** *(les tarifs ci-dessous sont approximatifs, par personne, et ils fluctuent)*
+| Bateau | Départ depuis | Heure de départ | Traversée | Vous dépose à | Aller simple | Aller-retour |
+|---|---|---|---|---|---|---|
+| **Escuna** | Embarcadère principal d'Abraão (cais principal) | **10h30** toute l'année *(+9h30 et 11h30 en haute saison)* | ~50 min | **Praia dos Mangues**, à ~50 m de Pouso | **35 R$** | **70 R$** |
+| **Taxi-boat** | Abraão | à partir de **~10h30** *(voir note)* | **~15 min** | **Praia do Pouso** | **60 R$** | **100 R$** |
 
-| Bateau | Départ de | Horaire | Traversée retour | Aller simple | Aller-retour |
-|---|---|---|---|---|---|
-| **Escuna / galion** | Mangues | Un seul retour, **15 h 30** | ~1 h | **35 R$** | **70 R$** |
-| **Taxi-boat** | Côté Pouso | **15 h, 16 h et 17 h** précises | **~15 min** | **60 R$** | **100 R$** |
+Le retour de l'escuna **part de Mangues** (la plage juste à côté de Pouso — vous y revenez à pied) à **15h30** toute l'année *(+16h30 et 17h30 en haute saison, pour les longues soirées d'été)*.
+
+> **Bien réserver — et ce qu'il faut éviter**
+>
+> - **Partez le matin.** Cela ne vaut pas la peine de traverser après midi — et à midi, le Brésil s'arrête pour déjeuner, si bien que le front de mer se vide.
+> - **Réservez uniquement par le canal officiel :** l'**escuna** à son guichet, ou le taxi-boat via la **Central de Táxi-Boat** officielle. Les taxi-boats officiels sont **jaune et noir** et vous remettent un **bracelet**, pour qu'ils sachent qu'ils doivent venir vous chercher au retour.
+> - **Ne prenez jamais un taxi-boat au hasard sur le front de mer.** Vous risquez de payer un aller-retour et de tout simplement ne jamais être récupéré — puis de payer à nouveau pour rentrer. Cela arrive vraiment, quoi qu'en disent les habitants.
+> - **L'heure de votre retour en taxi-boat est fixée au moment de l'achat** (15h, 16h ou 17h, récupération à la Praia do Pouso) — tenez-vous-y. Ils organisent leurs bateaux en fonction de cela ; si vous vous présentez pour un horaire plus tardif et qu'il est complet, ils ne vous prendront pas.
+
+**Une note sur les horaires des taxi-boats :** ils annoncent un départ toutes les 30 minutes à partir de 9h, mais chaque bateau a besoin d'un groupe minimum avant de partir — donc, de façon réaliste, comptez sur **~10h30** pour votre première traversée fiable, puis toutes les 30 minutes jusqu'à midi.
 
 **Météo :** Lopes Mendes est magnifique même par temps nuageux — alors ne gâchez pas une matinée grise à attendre le soleil. Évitez simplement l'itinéraire **à pied** sous la pluie ou le lendemain de fortes pluies ; prenez le bateau à la place.
 

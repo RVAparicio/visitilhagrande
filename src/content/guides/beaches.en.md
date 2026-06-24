@@ -237,21 +237,29 @@ Short trip? You can still hit the best of the island. Here's the no-fuss version
 
 ### The one must-do: Lopes Mendes
 
-Whatever else your trip includes, see **Lopes Mendes.** There are two ways in:
+Whatever else your trip includes, see **Lopes Mendes.** There are two ways in: walk it, or take a boat and walk only the last bit.
 
-- **On foot** — trails **T10 + T11** (the Lopes Mendes trails), **2h30–3h15 one way** depending on your pace. Be honest with yourself: this is a real, fairly demanding forest hike, not a stroll, and the return leg is the slower, harder part.
-- **By boat + a short walk** — take a morning boat across, then walk just **~1 km** to the beach and the same ~1 km back to catch a boat home.
+- **On foot** — trails **T10 + T11** (the Lopes Mendes trails), **2h30–3h15 one way** depending on your pace — a real, fairly demanding forest hike, not a stroll; the return leg is the slower, harder part.
 
-One orientation line: the **escuna** leaves from **Mangues** and the **taxi-boat** from the **Pouso** side — the two jetties are a ~5-minute walk apart and signposted, so you can't really get it wrong.
+**By boat.** Two services cross from **Abraão** to the Lopes Mendes side: the **escuna** (a schooner — scheduled and cheaper) and the **taxi-boat** (faster). Either way, from where you land it's a short walk to **Praia do Pouso**, then trail **T11/T12** (**~1 km**) over to the beach.
 
-**Return-boat options** *(fares below are approximate, per person, and they fluctuate)*
+| Boat | Leaves from | Departs | Crossing | Drops you at | One-way | Round trip |
+|---|---|---|---|---|---|---|
+| **Escuna** | Abraão main pier (cais principal) | **10:30** all year *(+9:30 & 11:30 high season)* | ~50 min | **Praia dos Mangues**, ~50 m from Pouso | **R$35** | **R$70** |
+| **Taxi-boat** | Abraão | from **~10:30** *(see note)* | **~15 min** | **Praia do Pouso** | **R$60** | **R$100** |
 
-| Boat | Leaves from | Schedule | Return crossing | One-way | Round trip |
-|---|---|---|---|---|---|
-| **Escuna / galleon** | Mangues | One return only, **3:30 pm** | ~1 h | **R$35** | **R$70** |
-| **Taxi-boat** | Pouso side | **3, 4 & 5 pm** sharp | **~15 min** | **R$60** | **R$100** |
+The escuna **return leaves from Mangues** (the beach right next to Pouso — you walk back over) at **3:30 pm** all year *(+4:30 & 5:30 in high season, for the long summer evenings)*.
 
-**Weather:** Lopes Mendes is lovely even on a cloudy day — so don't waste a grey morning waiting for sun. Just don't take the **walking** route in the rain or the day after heavy rain; take the boat instead.
+> **Book it right — and what to avoid**
+>
+> - **Go in the morning.** It isn't worth heading over after noon — and at midday Brazil stops for lunch, so the waterfront empties out.
+> - **Book through the official channel only:** the **escuna** at its ticket desk, or the taxi-boat through the official **Central de Táxi-Boat**. The official taxi-boats are **yellow-and-black** and give you a **wristband** so they know to collect you for the return.
+> - **Never grab a random taxi-boat off the waterfront.** You risk paying for a round trip and simply never being picked up — then paying again to get back. It really happens, whatever locals tell you.
+> - **Your taxi-boat return time is fixed when you buy** (3, 4 or 5 pm, picked up back at **Praia do Pouso**) — stick to it. They plan their boats around it; turn up for a later one and if it's full, they won't take you.
+
+**A note on taxi-boat timing:** they advertise a departure every 30 minutes from 9 am, but each boat needs a minimum group before it goes — so realistically count on **~10:30** for your first dependable crossing, then every 30 minutes until noon.
+
+**Weather:** Lopes Mendes is lovely even on a cloudy day — don't waste a grey morning waiting for sun. Just don't take the **walking** route in the rain or the day after heavy rain; take the boat instead.
 
 ### Let the sky decide your plan
 

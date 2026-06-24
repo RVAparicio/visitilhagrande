@@ -237,21 +237,29 @@ Lo ideal son entre cinco y siete días, pero sean cuales sean tus fechas, aquí 
 
 ### Lo imprescindible: Lopes Mendes
 
-Incluya lo que incluya tu viaje, visita **Lopes Mendes.** Hay dos formas de llegar:
+Sea cual sea el resto de tu viaje, no dejes de conocer **Lopes Mendes.** Hay dos formas de llegar: caminando, o tomando un barco y caminando solo el último tramo.
 
-- **A pie** — senderos **T10 + T11** (los senderos de Lopes Mendes), **2h30–3h15 solo ida**, según tu ritmo. Sé honesto contigo mismo: es una caminata de verdad por la selva, bastante exigente, no un paseo, y el tramo de vuelta es la parte más lenta y dura.
-- **En barco + una corta caminata** — toma un barco por la mañana para cruzar y luego camina solo **~1 km** hasta la playa, y otro ~1 km de vuelta para tomar el barco de regreso.
+- **A pie** — senderos **T10 + T11** (los senderos de Lopes Mendes), **2h30–3h15 solo de ida** según tu ritmo: una caminata real por la selva, bastante exigente, no un simple paseo; el regreso es la parte más lenta y dura.
 
-Una indicación para orientarte: la **escuna** sale de **Mangues** y el **taxi-boat** del lado del **Pouso**; los dos embarcaderos están a unos 5 minutos a pie el uno del otro y están señalizados, así que es difícil equivocarse.
+**En barco.** Dos servicios cruzan desde **Abraão** hasta el lado de Lopes Mendes: la **escuna** (con horario fijo, más económica) y el **taxi-boat** (más rápido). En cualquiera de los dos casos, desde donde desembarcas hay una corta caminata hasta **Praia do Pouso**, y luego el sendero **T11/T12** (**~1 km**) hasta la playa.
 
-**Opciones de barco de vuelta** *(las tarifas de abajo son aproximadas, por persona, y fluctúan)*
+| Barco | Sale de | Salida | Travesía | Te deja en | Solo ida | Ida y vuelta |
+|---|---|---|---|---|---|---|
+| **Escuna** | Muelle principal de Abraão (cais principal) | **10:30** todo el año *(+9:30 y 11:30 en temporada alta)* | ~50 min | **Praia dos Mangues**, a ~50 m de Pouso | **R$35** | **R$70** |
+| **Taxi-boat** | Abraão | desde las **~10:30** *(ver nota)* | **~15 min** | **Praia do Pouso** | **R$60** | **R$100** |
 
-| Barco | Sale de | Horario | Travesía de vuelta | Solo ida | Ida y vuelta |
-|---|---|---|---|---|---|
-| **Escuna / galeón** | Mangues | Una sola vuelta, **15:30** | ~1 h | **R$35** | **R$70** |
-| **Taxi-boat** | Lado del Pouso | **15:00, 16:00 y 17:00** en punto | **~15 min** | **R$60** | **R$100** |
+La escuna de **regreso sale de Mangues** (la playa justo al lado de Pouso, vuelves caminando hasta ahí) a las **3:30 pm** todo el año *(+4:30 y 5:30 en temporada alta, para aprovechar las largas tardes de verano)*.
 
-**Clima:** Lopes Mendes es preciosa incluso en un día nublado, así que no desperdicies una mañana gris esperando a que salga el sol. Lo único: no tomes la ruta **a pie** bajo la lluvia ni el día después de lluvias fuertes; toma el barco en su lugar.
+> **Resérvalo bien, y qué evitar**
+>
+> - **Ve por la mañana.** No vale la pena cruzar después del mediodía, y a esa hora Brasil para para almorzar, así que el frente marítimo se vacía.
+> - **Reserva solo por el canal oficial:** la **escuna** en su taquilla, o el taxi-boat a través de la **Central de Táxi-Boat** oficial. Los taxi-boats oficiales son **amarillos y negros** y te dan una **pulsera**, para saber que deben recogerte de regreso.
+> - **Nunca tomes un taxi-boat cualquiera en el frente marítimo.** Te arriesgas a pagar la ida y vuelta y, sencillamente, que nunca te recojan, y luego pagar otra vez para volver. Pasa de verdad, digan lo que digan los locales.
+> - **La hora de tu regreso en taxi-boat queda fija al comprar** (3, 4 o 5 pm, te recogen en la propia Praia do Pouso): respétala. Planifican sus barcos en función de ella; si te presentas a uno más tarde y está lleno, no te llevarán.
+
+**Una nota sobre los horarios del taxi-boat:** anuncian una salida cada 30 minutos desde las 9 am, pero cada barco necesita un grupo mínimo antes de partir, así que, de forma realista, cuenta con las **~10:30** para tu primera travesía fiable, y luego cada 30 minutos hasta el mediodía.
+
+**El tiempo:** Lopes Mendes es preciosa incluso en un día nublado, no desperdicies una mañana gris esperando a que salga el sol. Eso sí, no hagas la ruta **a pie** con lluvia ni el día después de lluvias fuertes; toma el barco en su lugar.
 
 ### Deja que el cielo decida tu plan
 

@@ -237,19 +237,27 @@ Viagem curta? Mesmo assim dá para conhecer o melhor da ilha. Aqui vai a versão
 
 ### O passeio imperdível: Lopes Mendes
 
-Aconteça o que acontecer no resto da viagem, conheça **Lopes Mendes.** Há duas formas de chegar:
+Não importa o que mais o seu roteiro inclua, conheça **Lopes Mendes.** Há duas formas de chegar: caminhando, ou de barco, fazendo a pé apenas o último trecho.
 
-- **A pé** — trilhas **T10 + T11** (as trilhas de Lopes Mendes), **2h30–3h15 só de ida**, conforme o seu ritmo. Seja honesto consigo mesmo: esta é uma caminhada de verdade pela mata, razoavelmente puxada, e não um passeio tranquilo — e a volta é a parte mais lenta e mais difícil.
-- **De barco + uma caminhada curta** — pegue um barco de manhã para a travessia e depois ande apenas **~1 km** até a praia, mais os mesmos ~1 km de volta para pegar um barco de retorno.
+- **A pé** — trilhas **T10 + T11** (as trilhas de Lopes Mendes), **2h30–3h15 só de ida** dependendo do seu ritmo — uma trilha de mata de verdade, bem puxada, nada de passeio tranquilo; a volta é a parte mais lenta e mais difícil.
 
-Uma linha para se orientar: a **escuna** sai dos **Mangues** e o **táxi-boat** sai do lado do **Pouso** — os dois cais ficam a cerca de 5 minutos de caminhada um do outro e são sinalizados, então é praticamente impossível errar.
+**De barco.** Dois serviços fazem a travessia do **Abraão** até o lado de Lopes Mendes: a **escuna** (com horário marcado, mais barata) e o **táxi-boat** (mais rápido). De qualquer forma, de onde você desembarca é uma curta caminhada até a **Praia do Pouso**, e depois a trilha **T11/T12** (**~1 km**) até a praia.
 
-**Opções de barco de volta** *(as tarifas abaixo são aproximadas, por pessoa, e variam)*
+| Barco | Sai de | Saída | Travessia | Deixa você em | Só ida | Ida e volta |
+|---|---|---|---|---|---|---|
+| **Escuna** | Cais principal do Abraão | **10h30** o ano todo *(+9h30 e 11h30 na alta temporada)* | ~50 min | **Praia dos Mangues**, a ~50 m do Pouso | **R$35** | **R$70** |
+| **Táxi-boat** | Abraão | a partir das **~10h30** *(veja a nota)* | **~15 min** | **Praia do Pouso** | **R$60** | **R$100** |
 
-| Barco | Sai de | Horário | Travessia de volta | Só ida | Ida e volta |
-|---|---|---|---|---|---|
-| **Escuna / galeão** | Mangues | Só uma volta, **15h30** | ~1 h | **R$35** | **R$70** |
-| **Táxi-boat** | Lado do Pouso | **15h, 16h e 17h** em ponto | **~15 min** | **R$60** | **R$100** |
+A volta da escuna **sai do Mangues** (a praia bem ao lado do Pouso — você atravessa a pé de volta) às **15h30** o ano todo *(+16h30 e 17h30 na alta temporada, para aproveitar os longos entardeceres de verão)*.
+
+> **Reserve do jeito certo — e o que evitar**
+>
+> - **Vá de manhã.** Não vale a pena atravessar depois do meio-dia — e na hora do almoço o Brasil para para almoçar, então a orla fica vazia.
+> - **Reserve apenas pelo canal oficial:** a **escuna** na bilheteria dela, ou o táxi-boat pela **Central de Táxi-Boat** oficial. Os táxi-boats oficiais são **amarelo e preto** e dão a você uma **pulseira**, assim eles sabem que precisam buscá-lo na volta.
+> - **Nunca pegue um táxi-boat qualquer na orla.** Você corre o risco de pagar pela ida e volta e simplesmente nunca ser buscado — e aí pagar de novo para voltar. Isso acontece de verdade, digam o que os locais disserem.
+> - **O horário da sua volta de táxi-boat é definido na hora da compra** (15h, 16h ou 17h, com retirada na própria Praia do Pouso) — respeite-o. Eles organizam os barcos com base nele; se você aparecer para um horário mais tarde e estiver lotado, não vão levá-lo.
+
+**Uma observação sobre os horários do táxi-boat:** eles anunciam uma saída a cada 30 minutos a partir das 9h, mas cada barco precisa de um grupo mínimo antes de partir — então, na prática, conte com **~10h30** para a sua primeira travessia garantida, e depois a cada 30 minutos até o meio-dia.
 
 **Clima:** Lopes Mendes é linda mesmo em dia nublado — então não desperdice uma manhã cinzenta esperando o sol aparecer. Só não faça o trajeto **a pé** na chuva ou no dia seguinte a uma chuva forte; nesses casos, vá de barco.
 
