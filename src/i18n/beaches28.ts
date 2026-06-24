@@ -267,10 +267,10 @@ export const beaches28: Beach28[] = [
     name: 'Dois Rios',
     group: 'vilas',
     desc: {
-      en: `A historic village with an open-sea beach, site of the former Cândido Mendes prison (ruins and a museum) and a UERJ university centre, ~150 inhabitants; two rivers with waterfalls and surf. Reached on foot via trail T14 (~8 km, 2–3 h) or by boat. No overnight stays allowed.`,
-      fr: `Village historique avec plage de pleine mer, site de l'ancien pénitencier Cândido Mendes (ruines et musée) et d'un centre de l'UERJ, ~150 habitants ; deux rivières à cascades et des vagues de surf. Accès à pied par le sentier T14 (~8 km, 2-3 h) ou en bateau. Nuitée non autorisée.`,
-      pt: `Vila histórica com praia de mar aberto, sede do antigo presídio Cândido Mendes (ruínas e museu) e de um centro da UERJ, ~150 habitantes; dois rios com cachoeiras e ondas para surfe. Chega-se a pé pela trilha T14 (~8 km, 2-3 h) ou de barco. Não é permitido pernoitar.`,
-      es: `Vila histórica con playa de mar abierto, sede del antiguo presidio Cândido Mendes (ruinas y museo) y de un centro de la UERJ, ~150 hab.; dos ríos con cascadas y olas para surf. Se llega a pie por la T14 (~8 km, 2-3 h) o en barco. No se permite pernoctar.`,
+      en: `A historic village with an open-sea beach, site of the former Cândido Mendes prison (ruins and a museum) and a UERJ university centre, ~150 inhabitants; two rivers with waterfalls and surf. Reached on foot via trail T14 (~7,2 km, ~2h30) or by boat. No overnight stays allowed.`,
+      fr: `Village historique avec plage de pleine mer, site de l'ancien pénitencier Cândido Mendes (ruines et musée) et d'un centre de l'UERJ, ~150 habitants ; deux rivières à cascades et des vagues de surf. Accès à pied par le sentier T14 (~7,2 km, ~2h30) ou en bateau. Nuitée non autorisée.`,
+      pt: `Vila histórica com praia de mar aberto, sede do antigo presídio Cândido Mendes (ruínas e museu) e de um centro da UERJ, ~150 habitantes; dois rios com cachoeiras e ondas para surfe. Chega-se a pé pela trilha T14 (~7,2 km, ~2h30) ou de barco. Não é permitido pernoitar.`,
+      es: `Vila histórica con playa de mar abierto, sede del antiguo presidio Cândido Mendes (ruinas y museo) y de un centro de la UERJ, ~150 hab.; dos ríos con cascadas y olas para surf. Se llega a pie por la T14 (~7,2 km, ~2h30) o en barco. No se permite pernoctar.`,
     },
   },
   {
@@ -289,10 +289,10 @@ export const beaches28: Beach28[] = [
     name: 'Aventureiro',
     group: 'praias',
     desc: {
-      en: `A semi-isolated, protected beach at the southern tip, inside a sustainable-development reserve: a caiçara village with rustic campsites (no hotels, almost no electricity or signal) and open sea for surfers. Reached only by boat (1–3 h) or via trail T9 from Provetá (~6 km). Access requires a free wristband or permit.`,
-      fr: `Plage semi-isolée et préservée à l'extrémité sud, dans une réserve de développement durable : village caiçara aux campings rustiques (pas d'hôtels, presque pas d'électricité ni de réseau) et mer ouverte pour les surfeurs. Accès uniquement en bateau (1-3 h) ou par le sentier T9 depuis Provetá (~6 km). L'accès nécessite un bracelet ou une autorisation gratuite.`,
-      pt: `Praia semi-isolada e preservada no extremo sul, dentro de uma reserva de desenvolvimento sustentável: vila caiçara com campings rústicos (sem hotéis, quase sem luz nem sinal) e mar aberto para surfistas. Só se chega de barco (1-3 h) ou pela trilha T9 desde Provetá (~6 km). O acesso exige uma pulseira ou autorização gratuita.`,
-      es: `Playa semiaislada y preservada en el extremo sur, dentro de una reserva de desarrollo sostenible: vila caiçara con campings rústicos (sin hoteles, casi sin luz ni señal) y mar abierto para surfistas. Solo se llega en barco (1-3 h) o por la T9 desde Provetá (~6 km). El acceso requiere una pulsera o autorización gratuita.`,
+      en: `A semi-isolated, protected beach at the southern tip, inside a sustainable-development reserve: a caiçara village with rustic campsites (no hotels, almost no electricity or signal) and open sea for surfers. Reached only by boat (1–3 h) or via trail T9 from Provetá (~4,3 km). You need nothing for a short visit, but staying more than 2 hours requires an authorization (which is why boat tours pause about 1h30).`,
+      fr: `Plage semi-isolée et préservée à l'extrémité sud, dans une réserve de développement durable : village caiçara aux campings rustiques (pas d'hôtels, presque pas d'électricité ni de réseau) et mer ouverte pour les surfeurs. Accès uniquement en bateau (1-3 h) ou par le sentier T9 depuis Provetá (~4,3 km). Rien n'est requis pour une visite courte, mais rester plus de 2 heures nécessite une autorisation (c'est pourquoi les excursions en bateau font une pause d'environ 1h30).`,
+      pt: `Praia semi-isolada e preservada no extremo sul, dentro de uma reserva de desenvolvimento sustentável: vila caiçara com campings rústicos (sem hotéis, quase sem luz nem sinal) e mar aberto para surfistas. Só se chega de barco (1-3 h) ou pela trilha T9 desde Provetá (~4,3 km). Não é preciso nada para uma visita curta, mas permanecer mais de 2 horas exige uma autorização (por isso os passeios de barco param cerca de 1h30).`,
+      es: `Playa semiaislada y preservada en el extremo sur, dentro de una reserva de desarrollo sostenible: vila caiçara con campings rústicos (sin hoteles, casi sin luz ni señal) y mar abierto para surfistas. Solo se llega en barco (1-3 h) o por la T9 desde Provetá (~4,3 km). No hace falta nada para una visita corta, pero permanecer más de 2 horas requiere una autorización (por eso los paseos en barco paran alrededor de 1h30).`,
     },
   },
   {
