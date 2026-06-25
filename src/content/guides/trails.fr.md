@@ -231,6 +231,30 @@ Vous suivez le même chemin tout du long : impossible de se perdre — souvenez-
 
 **Ne partez pas les mains vides**, et **ne dépassez pas l'aqueduc** par mégarde — c'est tout ce qu'il faut retenir. Vous refaites ensuite le chemin de retour par cette forêt facile et lumineuse en portant avec vous le poids du Lazareto, et ce contraste tranquille — histoire lourde, heure douce — est exactement ce qui fait du T1 celui par lequel commencer.
 
+## Quel sentier est fait pour vous ?
+
+Vous les connaissez tous les cinq maintenant — voici donc la façon honnête et rapide de choisir le vôtre.
+
+**Pressé ?** Première fois, avec des enfants ou des grands-parents, ou vous voulez juste une réussite facile → faites le **Circuit Historique (T1)**. Vous voulez juste la photo qui en jette → **Lopes Mendes**. Tout le reste est ci-dessous.
+
+Trouvez la ligne qui ressemble à votre journée, puis vérifiez que le temps et l'effort vous conviennent.
+
+| Si vous voulez… | Prenez le… | Temps | Effort |
+|---|---|---|---|
+| Quelque chose de court et facile — avec enfants ou grands-parents, ou une première marche | **Circuit Historique (T1)** — l'histoire de l'île dans les ruines du Lazareto | ~1 h | Facile, plat · enfants OUI |
+| *La* plage célèbre — cette carte postale turquoise, une vraie journée plage | **Lopes Mendes** — à pied dans un sens, en bateau dans l'autre | ~demi-journée | Modéré, marche + bateau |
+| Un vrai défi et un lever de soleil épique depuis le sommet | **Pico do Papagaio** — guide CADASTUR payant, départ vers 2 h, lever de soleil uniquement | ~5–7 h | Difficile · pas pour jeunes enfants |
+| De l'histoire et de la nature sauvage à l'état brut — une journée entière d'aventure | **Dois Rios** — une prison devenue musée et une plage entre deux rivières sombres · *Coup de cœur* | ~5 h aller-retour | Modéré · aucun bateau garanti, repartir avant 15h30 |
+| Une cascade pour plonger et se rafraîchir | **Feiticeira** — forêt tropicale, les bassins (*poção*), retour facile en bateau | ~2 h jusqu'à la plage | Modéré · retour bateau bon marché |
+
+Vous hésitez encore ? Trois départages :
+
+- **Le plus dur, de loin** — le **Pico do Papagaio**. Grand effort, grande récompense.
+- **Le plus de solitude** — **Dois Rios**, où très peu de voyageurs arrivent. (On peut aussi atteindre l'extrémité déserte de Lopes Mendes par le T10 + T12 — mais c'est un long itinéraire terrestre difficile, pas la journée plage facile en bateau ci-dessus.)
+- **Celui que je vous enverrais faire avant tous les autres** — **Dois Rios**. C'est mon numéro un personnel — mais c'est une journée entière (~5 h) ; si c'est votre toute première marche, ou si vous êtes avec des enfants ou des grands-parents, commencez plutôt par le **Circuit Historique (T1)**.
+
+Quel que soit votre choix, partez tôt, emportez de l'eau et laissez la forêt faire le reste — ils sont tous gratuits, et ils sont tous à vous.
+
 ## Le réseau de sentiers (T1–T16)
 
 Ilha Grande compte **16 sentiers balisés** (T1 à T16). Pour référence, les voici tous avec leur distance et leur durée de marche officielles — les cinq randonnées ci-dessus sont construites à partir de ceux-ci :

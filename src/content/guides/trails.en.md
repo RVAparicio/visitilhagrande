@@ -231,6 +231,30 @@ You follow the one path the whole way, so there's no getting lost — just remem
 
 **Don't head out empty-handed**, and **don't blunder past the aqueduct** — those are the whole story. You then walk the easy, bright forest back out carrying the weight of the Lazareto with you, and that quiet contrast — heavy history, gentle hour — is exactly what makes T1 the one to do first.
 
+## Which trail is for you?
+
+You've met all five now — so here's the honest, quick way to pick yours.
+
+**In a hurry?** First time, with kids or grandparents, or you just want one easy win → do the **Historic Circuit (T1)**. Just want the wow photo → **Lopes Mendes**. Everything else is below.
+
+Find the row that sounds like your day, then check the time and effort fit.
+
+| If you want… | Walk the… | Time | Effort |
+|---|---|---|---|
+| Something short and easy — with kids or grandparents, or a first walk | **Historic Circuit (T1)** — the island's history in the Lazareto ruins | ~1 h | Easy, flat · kids YES |
+| *The* famous beach — that turquoise postcard, a big beach day | **Lopes Mendes** — walk one way, boat the other | ~half day | Moderate walk + boat leg |
+| A real challenge and an epic sunrise from the top | **Pico do Papagaio** — paid CADASTUR guide, ~2 AM start, sunrise only | ~5–7 h | Hard · not for young kids |
+| History plus raw wild nature — a full adventurous day | **Dois Rios** — a prison-turned-museum and a beach between two dark rivers · *Editor's pick* | ~5 h round | Moderate · no reliable boat back, leave by 15:30 |
+| A waterfall to plunge into and cool off | **Feiticeira** — rainforest, the poção pools, easy boat back | ~2 h to the beach | Moderate · cheap boat back |
+
+Still torn? Three tie-breakers:
+
+- **Hardest, by a distance** — **Pico do Papagaio**. The big effort, the big reward.
+- **Most solitude** — **Dois Rios**, where very few travellers reach. (You can also reach the deserted far end of Lopes Mendes via T10 + T12 — but that's a long, hard land route, not the easy boat beach day above.)
+- **The one I'd send you on above all** — **Dois Rios**. It's my personal number one — but it's a full ~5-hour day; if it's your very first walk, or you're with kids or grandparents, start with the **Historic Circuit (T1)** instead.
+
+Whichever you pick, go early, carry water, and let the forest do the rest — they're all free, and they're all yours.
+
 ## The trail network (T1–T16)
 
 Ilha Grande has **16 marked trails** (T1 to T16). For reference, here are all of them with their official distance and walking time — the five hikes above are built from these:

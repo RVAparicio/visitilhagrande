@@ -231,6 +231,30 @@ Seguís el mismo sendero todo el tiempo, así que no hay forma de perderse — s
 
 **No salgas con las manos vacías** y **no te pases del acueducto** por error — es lo único que hay que recordar. Después rehacés el camino de vuelta por esa selva fácil y luminosa cargando el peso del Lazareto con vos, y ese contraste callado — historia pesada, hora suave — es justo lo que hace del T1 el primero para hacer.
 
+## ¿Qué sendero es para vos?
+
+Ya conociste los cinco — así que acá va la forma honesta y rápida de elegir el tuyo.
+
+**¿Apurado?** Primera vez, con chicos o abuelos, o solo querés una victoria fácil → hacé el **Circuito Histórico (T1)**. Solo querés la foto que impacta → **Lopes Mendes**. Todo lo demás está abajo.
+
+Encontrá la fila que más se parezca a tu día y fijate si el tiempo y el esfuerzo te cierran.
+
+| Si querés… | Caminá el… | Tiempo | Esfuerzo |
+|---|---|---|---|
+| Algo corto y fácil — con chicos o abuelos, o tu primera caminata | **Circuito Histórico (T1)** — la historia de la isla en las ruinas del Lazareto | ~1 h | Fácil, llano · chicos SÍ |
+| *La* playa famosa — esa postal turquesa, un gran día de playa | **Lopes Mendes** — caminá la ida y volvé en barco | ~medio día | Moderada, caminata + barco |
+| Un desafío de verdad y un amanecer épico desde la cima | **Pico do Papagaio** — guía CADASTUR pago, salida ~2 AM, solo al amanecer | ~5–7 h | Difícil · no para chicos pequeños |
+| Historia más naturaleza salvaje y pura — un día entero de aventura | **Dois Rios** — un presidio vuelto museo y una playa entre dos ríos oscuros · *Elección del editor* | ~5 h ida y vuelta | Moderada · sin barco garantizado a la vuelta, salí antes de 15:30 |
+| Una cascada para tirarte y refrescarte | **Feiticeira** — selva, las piscinas del poção y vuelta fácil en barco | ~2 h hasta la playa | Moderada · barco barato a la vuelta |
+
+¿Todavía dudás? Tres desempates:
+
+- **El más duro, por lejos** — el **Pico do Papagaio**. El gran esfuerzo, la gran recompensa.
+- **El más solitario** — **Dois Rios**, adonde llegan muy pocos viajeros. (También podés llegar a la punta desierta de Lopes Mendes por el T10 + T12 — pero esa es una ruta larga y dura por tierra, no el día de playa fácil en barco de arriba.)
+- **El que te mandaría antes que ningún otro** — **Dois Rios**. Es mi número uno personal — pero es un día entero (~5 h); si es tu primera caminata, o si vas con chicos o abuelos, arrancá por el **Circuito Histórico (T1)**.
+
+Elijas el que elijas, salí temprano, llevá agua y dejá que la selva haga el resto — son todos gratis, y son todos tuyos.
+
 ## La red de senderos (T1–T16)
 
 Ilha Grande tiene **16 senderos señalizados** (T1 a T16). Para referencia, acá están todos con su distancia y tiempo de caminata oficiales — los cinco senderos de arriba se arman a partir de estos:

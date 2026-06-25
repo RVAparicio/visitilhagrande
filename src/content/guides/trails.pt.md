@@ -231,6 +231,30 @@ Você segue o mesmo caminho o tempo todo, então não tem como se perder — só
 
 **Não saia de mãos vazias** e **não passe direto pelo aqueduto** sem querer — é só isso que importa lembrar. Depois você refaz o caminho de volta por essa mata fácil e luminosa carregando o peso do Lazareto com você, e esse contraste silencioso — história pesada, horinha tranquila — é exatamente o que faz da T1 a primeira a se fazer.
 
+## Qual trilha é a sua?
+
+Agora que você já conhece as cinco, aqui vai o jeito honesto e rápido de escolher a sua.
+
+**Com pressa?** Primeira vez, com crianças ou com os avós, ou você só quer uma vitória fácil → faça o **Circuito Histórico (T1)**. Só quer a foto de impacto → **Lopes Mendes**. Todo o resto está abaixo.
+
+Ache a linha que mais soa como o seu dia e confira se o tempo e o esforço cabem para você.
+
+| Se você quer… | Faça a… | Tempo | Esforço |
+|---|---|---|---|
+| Algo curto e fácil — com crianças ou com os avós, ou a primeira trilha | **Circuito Histórico (T1)** — a história da ilha nas ruínas do Lazareto | ~1 h | Fácil, plana · crianças SIM |
+| *A* praia famosa — aquele cartão-postal turquesa, um dia inteiro de praia | **Lopes Mendes** — vá a pé por um lado e volte de barco pelo outro | ~meio dia | Moderada, caminhada + barco |
+| Um desafio de verdade e um amanhecer épico lá do topo | **Pico do Papagaio** — guia CADASTUR pago, saída ~2h, só no amanhecer | ~5–7 h | Difícil · não para crianças pequenas |
+| História somada à natureza bruta e selvagem — um dia inteiro de aventura | **Dois Rios** — uma prisão virada museu e uma praia entre dois rios escuros · *Escolha do editor* | ~5 h ida e volta | Moderada · sem barco garantido na volta, saia até 15h30 |
+| Uma cachoeira para se jogar e refrescar | **Feiticeira** — mata atlântica, o poção e volta fácil de barco | ~2 h até a praia | Moderada · barco barato na volta |
+
+Ainda em dúvida? Três critérios de desempate:
+
+- **A mais difícil, disparada** — o **Pico do Papagaio**. O grande esforço, a grande recompensa.
+- **O maior isolamento** — **Dois Rios**, aonde pouquíssimos viajantes chegam. (Dá para chegar também à ponta deserta de Lopes Mendes pela T10 + T12 — mas essa é uma rota longa e dura por terra, não o dia de praia fácil de barco lá de cima.)
+- **A que eu te mandaria fazer acima de todas** — **Dois Rios**. É a minha número um, pessoal — mas é um dia inteiro (~5 h); se for a sua primeira trilha, ou se você estiver com crianças ou com os avós, comece pelo **Circuito Histórico (T1)**.
+
+Qualquer uma que você escolher, saia cedo, leve água e deixe a floresta cuidar do resto — todas são gratuitas, e todas são suas.
+
 ## A rede de trilhas (T1–T16)
 
 A Ilha Grande tem **16 trilhas sinalizadas** (T1 a T16). Para referência, aqui estão todas com a distância e o tempo de caminhada oficiais — as cinco trilhas acima são montadas a partir delas:
