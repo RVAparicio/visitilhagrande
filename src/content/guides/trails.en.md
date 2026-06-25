@@ -84,11 +84,32 @@ It's also a place with an unusual past. **A coffee plantation, then a vast *faze
 
 ![The Cachoeira da Feiticeira waterfall in the rainforest, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
 
-One of the most rewarding walks on the island: from Vila do Abraão to **Praia da Feiticeira**, through forest, historic ruins and a string of beaches. About **6.4 km**, **moderate**, with a maximum elevation of ~203 m — a one-way route of roughly **90 minutes to 2 hours**.
+> **Quick facts.** Trails **T1 + T2** · **~6.4 km** each way · **moderate** · max altitude only **~160 m** · to the beach **with the waterfall detour: ~1h40–2h one way** · back **without the waterfall: ~1h20–1h40** · boat back is easy here: **~R$35 per person** · be **heading back before 15:30** (the beach fills with boat-tour crowds late in the day) · bring **repellent**, wear **proper shoes**.
 
-Along the way you pass **Praia Preta** (dark-sand beach), the **Lazareto ruins** (a 19th-century quarantine station), an old **aqueduct**, the **Poção** natural pool, and finally the **Feiticeira waterfall** and beach. You can walk back the same way, or check for a boat from Feiticeira beach.
+In an Ilha Grande summer the forest turns into a sauna. The temperature can touch **40°C**, and after rain the humidity hangs so thick that the trail steams around you — you walk inside the heat. Which is exactly why the waterfall is *redentora*, redemptive: by the time you reach the **Cachoeira da Feiticeira** all you want in the world is to throw yourself in, and you come out feeling reborn. This is a historic path — stretches paved with old stone, stretches laid with timber, reddish clay underfoot — running through some of the most exuberant Mata Atlântica on the island: giant pothos vines climbing the trunks, tall palms, and along the way the **poção**, a natural pool so clear and green it stops you mid-step. Most of it you'll walk alone, with sunlight coming down through the canopy in patches. History, jungle, and quiet — that's the whole reason to do this one.
+
+**The route, leg by leg.** It begins on **trail T1**, at the **entrance of the Ilha Grande State Park**, where you'll spot a **yellow ranger booth** (*guarita amarela*) and the first fork.
+
+| Leg | What you do | ~Time |
+|---|---|---|
+| **1. First fork (at the booth)** | **Left** = gentle climb to the old **aqueduct**, passing the 19th-century **Lazareto ruins** (an old quarantine hospital). (**Right** stays at sea level out to **Praia Preta** & **Praia do Galego** — an optional beach add-on, best done on the way out.) | — |
+| **2. The aqueduct** | The natural decision point: carry on, or turn back? A fine place to stop, an honest place to commit. | — |
+| **3. The climb** | One sustained climb to a max of only **~160 m**, then a descent almost back to sea level. | — |
+| **4. Second fork (near the bottom)** | **Left** climbs you back up to the cold roar of the **Cachoeira da Feiticeira** — plunge straight in and swim. Hugely worth it. | — |
+| **5. To the beach** | Rejoin **T2** and head **north** to **Praia de Feiticeira**. | — |
+| **6. Totals** | To the beach with the waterfall: **~1h40–2h** one way. Back without it: **~1h20–1h40**. | **moderate** |
+
+You arrive at **Praia de Feiticeira** sweaty from the climb and salt-hungry: a small, very pretty cove with boats bobbing offshore — and an easy way home.
+
+**Getting back without walking.** Unlike Dois Rios, here a boat home is genuinely easy: around **R$35 per person**. Praia de Feiticeira is the **last stop on the island's most popular boat tours**, so there are almost always informal taxi-boats and boats with a spare seat — a relaxed ride, sometimes a cold beer on board.
 
 📍 [See the full route on Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
+
+### What to avoid
+
+- **Don't linger past 15:30 on the beach.** Because Feiticeira is the *last stop* of the most popular tours, the boats land late in the day and the little beach fills up. Have your beach time and be heading back **before 15:30** to enjoy it before the crowds arrive.
+- **Don't set off without repellent and proper shoes.** The forest is humid and buggy, and the stone, timber and red clay are slippery — hiking shoes save your ankles.
+- **Don't feel you have to repeat the waterfall on the way home.** Skipping the second-fork detour on the return trims a real chunk off the time (~1h20–1h40 instead of ~2h) — do the plunge once, on the way out, when the heat has earned it.
 
 ## Pico do Papagaio
 

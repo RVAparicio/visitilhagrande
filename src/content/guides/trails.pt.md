@@ -84,11 +84,32 @@ A caminhada clássica segue a **T10** e depois a **T11**, saindo do Abraão e pa
 
 ![A Cachoeira da Feiticeira em meio à mata, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
 
-Uma das caminhadas mais gratificantes da ilha: da Vila do Abraão até a **Praia da Feiticeira**, por mata, ruínas históricas e uma sequência de praias. Cerca de **6,4 km**, **moderada**, com altitude máxima de ~203 m — um trajeto só de ida de aproximadamente **90 minutos a 2 horas**.
+> **Resumo rápido.** Trilhas **T1 + T2** · **~6,4 km** cada trecho · **moderada** · altitude máxima de apenas **~160 m** · até a praia, **com o desvio da cachoeira: ~1h40–2h só na ida** · na volta, **sem a cachoeira: ~1h20–1h40** · aqui o barco de volta é tranquilo: **~R$35 por pessoa** · comece a **voltar antes das 15h30** (no fim do dia a praia lota com a turma dos passeios de barco) · leve **repelente** e use **calçado adequado**.
 
-No caminho você passa pela **Praia Preta** (areia escura), pelas **ruínas do Lazareto** (uma estação de quarentena do século XIX), por um antigo **aqueduto**, pela piscina natural do **Poção** e, por fim, pela **cachoeira da Feiticeira** e sua praia. Você pode voltar pelo mesmo caminho ou ver se há barco saindo da praia da Feiticeira.
+No verão da Ilha Grande, a mata vira uma sauna. A temperatura pode chegar aos **40°C**, e depois da chuva a umidade fica tão densa que a trilha solta vapor à sua volta — você caminha dentro do calor. É exatamente por isso que a cachoeira é *redentora*: quando você chega à **Cachoeira da Feiticeira**, a única coisa que você quer no mundo é se jogar nela, e você sai de lá com a sensação de ter renascido. É um caminho histórico — trechos calçados com pedra antiga, trechos assentados com madeira, argila avermelhada sob os pés — atravessando uma das porções mais exuberantes de Mata Atlântica da ilha: jiboias-gigantes subindo pelos troncos, palmeiras altas e, no caminho, o **poção**, uma piscina natural tão clara e verde que faz você parar no meio do passo. Boa parte do percurso você faz sozinho, com o sol descendo pela copa das árvores em manchas de luz. História, mata e silêncio — é esse o motivo inteiro de fazer essa trilha.
+
+**O trajeto, trecho a trecho.** Começa na **trilha T1**, na **entrada do Parque Estadual da Ilha Grande**, onde você vai avistar uma **guarita amarela** e a primeira bifurcação.
+
+| Trecho | O que você faz | ~Tempo |
+|---|---|---|
+| **1. Primeira bifurcação (na guarita)** | **À esquerda** = subida suave até o antigo **aqueduto**, passando pelas **ruínas do Lazareto** (um antigo hospital de quarentena do século XIX). (**À direita** segue no nível do mar até a **Praia Preta** e a **Praia do Galego** — um acréscimo opcional de praia, melhor na ida.) | — |
+| **2. O aqueduto** | O ponto de decisão natural: continuar ou voltar? Um bom lugar para parar e um lugar honesto para se comprometer. | — |
+| **3. A subida** | Uma única subida contínua até no máximo apenas **~160 m**, e depois uma descida de volta para quase o nível do mar. | — |
+| **4. Segunda bifurcação (perto do fim)** | **À esquerda**, sobe de novo até o estrondo frio da **Cachoeira da Feiticeira** — dá para mergulhar direto e nadar. Vale muito a pena. | — |
+| **5. Até a praia** | Volte à **T2** e siga para o **norte** até a **Praia de Feiticeira**. | — |
+| **6. Totais** | Até a praia com a cachoeira: **~1h40–2h** só na ida. Na volta sem ela: **~1h20–1h40**. | **moderada** |
+
+Você chega à **Praia de Feiticeira** suado da subida e com vontade de mar: uma enseada pequena e muito bonita, barcos balançando ao largo — e uma volta fácil.
+
+**A volta sem caminhar.** Diferente de Dois Rios, aqui o barco de volta é genuinamente fácil: cerca de **R$35 por pessoa**. A Praia de Feiticeira é a **última parada dos passeios de barco mais populares da ilha**, então quase sempre há barcos-táxi informais e barcos com um lugar sobrando — uma volta tranquila, às vezes com uma cerveja gelada a bordo.
 
 📍 [Veja o trajeto completo no Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
+
+### O que evitar
+
+- **Não fique na praia depois das 15h30.** Como a Feiticeira é a *última parada* dos passeios mais populares, os barcos chegam no fim do dia e a praiazinha lota. Aproveite o seu tempo de praia e comece a voltar **antes das 15h30**, para curtir antes de a multidão chegar.
+- **Não saia sem repelente e calçado adequado.** A mata é úmida e cheia de insetos, e a pedra, a madeira e a argila vermelha são escorregadias — calçado de trilha salva os seus tornozelos.
+- **Não ache que precisa repetir a cachoeira na volta.** Pular o desvio da segunda bifurcação no retorno corta um bom pedaço do tempo (~1h20–1h40 em vez de ~2h) — faça o mergulho uma vez, na ida, quando o calor já o tiver merecido.
 
 ## Pico do Papagaio
 

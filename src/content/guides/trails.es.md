@@ -84,11 +84,32 @@ Es, además, un sitio con un pasado fuera de lo común. **Una plantación de caf
 
 ![La cascada Cachoeira da Feiticeira en la selva, Ilha Grande](../../assets/cachoeira-da-feiticeira-ilha-grande.jpg)
 
-Una de las caminatas más gratificantes de la isla: de Vila do Abraão a la **Praia da Feiticeira**, por selva, ruinas históricas y una sucesión de playas. Unos **6,4 km**, **moderada**, con altitud máxima de ~203 m — un recorrido de solo ida de aproximadamente **90 minutos a 2 horas**.
+> **Ficha rápida.** Senderos **T1 + T2** · **~6,4 km** cada tramo · **moderada** · altitud máxima de apenas **~160 m** · hasta la playa **con el desvío a la cascada: ~1h40–2h de ida** · la vuelta **sin la cascada: ~1h20–1h40** · acá el barco de vuelta es fácil: **~R$35 por persona** · empezá a **volver antes de las 15:30** (al final del día la playa se llena con la gente de los paseos en barco) · llevá **repelente** y usá **calzado adecuado**.
 
-En el camino pasás por la **Praia Preta** (arena oscura), las **ruinas del Lazareto** (una estación de cuarentena del siglo XIX), un viejo **acueducto**, la piscina natural del **Poção** y, por último, la **cascada de Feiticeira** y su playa. Podés volver por el mismo camino o ver si hay barco saliendo de la playa de Feiticeira.
+En un verano de Ilha Grande la selva se vuelve un sauna. La temperatura puede rozar los **40 °C**, y después de la lluvia la humedad queda tan espesa que el sendero humea a tu alrededor — caminás dentro del calor. Por eso justamente la cascada es *redentora*: cuando llegás a la **Cachoeira da Feiticeira** lo único que querés en el mundo es tirarte adentro, y salís sintiéndote renacer. Es un camino histórico — tramos empedrados con piedra antigua, tramos entablonados con madera, arcilla rojiza bajo los pies — que atraviesa algo de la Mata Atlântica más exuberante de la isla: gigantescas enredaderas de potus trepando los troncos, palmeras altas y, en el trayecto, el **poção**, una piscina natural tan clara y verde que te frena en seco. Buena parte la vas a caminar en soledad, con la luz del sol bajando a manchones a través del dosel. Historia, selva y silencio — esa es toda la razón para hacer esta.
+
+**El recorrido, tramo a tramo.** Arranca en el **sendero T1**, en la **entrada del Parque Estadual de Ilha Grande**, donde vas a ver una **caseta amarilla de guardaparques** (*guarita amarela*) y la primera bifurcación.
+
+| Tramo | Qué hacés | ~Tiempo |
+|---|---|---|
+| **1. Primera bifurcación (en la caseta)** | **A la izquierda** = subida suave hasta el viejo **acueducto**, pasando por las **ruinas del Lazareto** (un viejo hospital de cuarentena del siglo XIX). (**A la derecha** se queda a nivel del mar hacia la **Praia Preta** y la **Praia do Galego** — un agregado de playa opcional, mejor a la ida.) | — |
+| **2. El acueducto** | El punto natural de decisión: ¿seguir o volver? Un buen lugar para parar, y un lugar honesto para comprometerte. | — |
+| **3. La subida** | Una única subida sostenida hasta un máximo de apenas **~160 m**, y después un descenso de vuelta casi al nivel del mar. | — |
+| **4. Segunda bifurcación (cerca del final)** | **A la izquierda**, subís de nuevo hasta el rugido frío de la **Cachoeira da Feiticeira** — tirate directo y nadá. Vale enormemente la pena. | — |
+| **5. Hasta la playa** | Volvé al **T2** y andá hacia el **norte**, a la **Praia de Feiticeira**. | — |
+| **6. Totales** | Hasta la playa con la cascada: **~1h40–2h** de ida. La vuelta sin ella: **~1h20–1h40**. | **moderada** |
+
+Llegás a la **Praia de Feiticeira** transpirado de la subida y con ganas de mar: una caleta chiquita y muy linda, los barcos meciéndose mar adentro — y una vuelta fácil.
+
+**Cómo volver sin caminar.** A diferencia de Dois Rios, acá el barco de vuelta es genuinamente fácil: alrededor de **R$35 por persona**. La Praia de Feiticeira es la **última parada de los paseos en barco más populares de la isla**, así que casi siempre hay taxi-boats informales y barcos con un lugar libre — un viaje relajado, a veces con una cerveza fría a bordo.
 
 📍 [Mirá el recorrido completo en Wikiloc](https://www.wikiloc.com/hiking-trails/vila-do-abraao-x-cachoeira-feiticeira-x-praia-da-feiticeira-96855064)
+
+### Qué evitar
+
+- **No te quedes en la playa pasadas las 15:30.** Como Feiticeira es la *última parada* de los paseos más populares, los barcos desembarcan a última hora del día y la playita se llena. Disfrutá tu rato de playa y andá emprendiendo la vuelta **antes de las 15:30**, para gozarla antes de que llegue la multitud.
+- **No salgas sin repelente y sin calzado adecuado.** La selva es húmeda y con muchos bichos, y la piedra, la madera y la arcilla roja resbalan — las zapatillas de trekking te salvan los tobillos.
+- **No sientas que tenés que repetir la cascada en la vuelta.** Saltarte el desvío de la segunda bifurcación al regreso te ahorra un buen pedazo de tiempo (~1h20–1h40 en vez de ~2h) — date el chapuzón una sola vez, a la ida, cuando el calor ya te lo ganó.
 
 ## Pico do Papagaio
 
