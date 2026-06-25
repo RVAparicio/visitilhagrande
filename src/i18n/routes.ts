@@ -39,6 +39,12 @@ export const routes = {
     pt: 'dicas-praticas-ilha-grande',
     es: 'info-practica-ilha-grande',
   },
+  food: {
+    en: 'where-to-eat-ilha-grande',
+    fr: 'ou-manger-ilha-grande',
+    pt: 'onde-comer-ilha-grande',
+    es: 'donde-comer-ilha-grande',
+  },
   about: {
     en: 'about',
     fr: 'a-propos',

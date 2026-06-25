@@ -11,6 +11,7 @@ type UIKey =
   | 'nav_best_time'
   | 'nav_faq'
   | 'nav_stay'
+  | 'nav_food'
   | 'footer_explore'
   | 'skip'
   | 'contact_name'
@@ -33,6 +34,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_best_time: 'Best time to visit',
     nav_faq: 'Practical FAQ',
     nav_stay: 'Where to stay',
+    nav_food: 'Where to eat',
     footer_explore: 'Explore the guide',
     skip: 'Skip to content',
     contact_name: 'Your name',
@@ -55,6 +57,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_best_time: 'Quand venir',
     nav_faq: 'Infos pratiques',
     nav_stay: 'Où dormir',
+    nav_food: 'Où manger',
     footer_explore: 'Explorer le guide',
     skip: 'Aller au contenu',
     contact_name: 'Votre nom',
@@ -77,6 +80,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_best_time: 'Melhor época',
     nav_faq: 'Dicas práticas',
     nav_stay: 'Onde ficar',
+    nav_food: 'Onde comer',
     footer_explore: 'Explore o guia',
     skip: 'Ir para o conteúdo',
     contact_name: 'Seu nome',
@@ -99,6 +103,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     nav_best_time: 'Cuándo ir',
     nav_faq: 'Info práctica',
     nav_stay: 'Dónde dormir',
+    nav_food: 'Dónde comer',
     footer_explore: 'Explorá la guía',
     skip: 'Ir al contenido',
     contact_name: 'Tu nombre',

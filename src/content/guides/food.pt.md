@@ -1,0 +1,27 @@
+---
+title: "Onde comer na Ilha Grande: as duas escolhas honestas de quem mora aqui"
+description: "Onde comer na Ilha Grande, por um anfitrião local: não é um catálogo de restaurantes, são só os dois lugares para onde eu realmente mandaria você — um que cabe no bolso e outro para se dar um agrado. Ache os dois no Google Maps."
+lang: "pt"
+slug: "onde-comer-ilha-grande"
+translationKey: "food"
+updatedDate: 2026-06-25
+author: "Richard"
+---
+
+Comer fora faz parte da diversão na Ilha Grande — embora seja **bem mais caro do que no continente**, já que tudo chega de barco, comida inclusive. Não vou te entregar um catálogo: só os **dois lugares para onde eu realmente mandaria você**, um que cabe no bolso e outro para se dar um agrado. Você acha os dois no **Google Maps** — nem precisa de endereço.
+
+## Banana da Terra — o que cabe no bolso
+
+**Ideal para:** comer bem sem gastar muito. **Não perca:** a feijoada. **Preço:** moderado e acessível.
+
+Esse é o que eu indico para quem quer uma boa refeição sem pesar no bolso. É tocado pelos próprios donos, e dá para sentir: **comida caseira brasileira de verdade**, daquelas em que o *tempero* feito em casa faz todo o trabalho. É o **único lugar da ilha para uma feijoada realmente boa**.
+
+As porções são generosas e o lugar todo é simples, acolhedor e honesto — daqueles em que você já quer voltar antes mesmo de terminar. Procure por **Banana da Terra** no Google Maps.
+
+## Dom Mário — para se dar um agrado
+
+**Ideal para:** se dar um agrado (ótimo para um casal jovem). **Não perca:** o peixe local com o molho de maracujá. **Preço:** não é tão caro pela qualidade.
+
+Quando bate a vontade de se mimar, é para cá que eu mandaria você. A cozinha é comandada pelo **próprio Dom Mário**, um chef conhecido e respeitado — e isso aparece: cada prato sai tão bom quanto o anterior, sempre com o mesmo sabor e sempre igualmente bem feito, o que é mais raro do que parece.
+
+O cardápio aposta em salmão ao molho de ervas, polvo, um filé mignon muito bom e peixes locais. Algumas coisas que eu te diria de coração para experimentar: o **molho de maracujá**, entradas como o gaspacho, e os acompanhamentos — rösti de batata e legumes grelhados, os dois excelentes. Pela qualidade, não é tão caro, e você come muito bem. Procure por **Dom Mário** no Google Maps.
