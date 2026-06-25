@@ -165,11 +165,27 @@ One last, quieter thing. Getting yourself from point A to point B under your own
 
 ![The 19th-century aqueduct ruins on the Historic Circuit (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
-The easiest and most accessible walk, perfect if you want the island's history without a hard hike. **T1 (Circuito Abraão)** starts in the centre of Vila do Abraão, near the main pier, and is mostly flat. The core loop is about **1.8 km / ~1 hour**; allow **2–3 hours** if you stop to explore the ruins and Praia Preta. Easy to moderate, good for families.
+> **Quick facts.** Trail **T1** · **~3 km**, about **1 hour** · **flat** and **easy** · genuinely **family-friendly** — kids and grandparents welcome · shares its start with the **Feiticeira** hike (same yellow ranger booth) · **the aqueduct is your turn-around** — carry on past it and you're on the longer Feiticeira trail · **bring water** (and your own food if you'll linger at a beach): it's all wild out there — **no kiosks, no shops, nothing** · after rain the clay turns **slippery**.
 
-Highlights: the 19th-century **aqueduct**, the **Lazareto ruins** (a quarantine hospital for immigrants, 1884–1913), traces of the island's darker prison history, and several **viewpoints** over the bay of Abraão and the Atlantic. If you still have energy, T1 connects to **T2** towards the Feiticeira waterfall and beach.
+This is the gentle one. In about an hour, mostly flat, you get the whole story of the island handed to you — its history, its forest, its quiet little beaches — without ever having to earn it with a hard climb. It's the walk I send families on: stop wherever something catches your eye, dawdle as long as the children want, and let nothing ask anything of you except to be out among the trees.
+
+**The Lazareto ruins** are the heart of it, and the reason this easy stroll stays with you. It's a **19th-century** structure, its **19th-century aqueduct** still standing in the trees — built as a **quarantine station** for immigrants arriving by sea, held here before they were allowed onto the mainland, and later a **leprosarium**, a colony for those with leprosy kept apart from the world. And the story goes — local lore, the kind older islanders tell, not something written in a book — that *before* any of that it was a **holding place for the enslaved people** brought in through the island. Stand among the broken walls with the forest growing back through them, light coming down through the leaves, the smell of damp stone, birdsong where there was once so much suffering — and all of it feels very close.
+
+**The loop, made simple.** It begins right by the main pier in **Vila do Abraão**, at the **entrance of the Ilha Grande State Park** — the same **yellow ranger booth** (*guarita amarela*) where the Feiticeira hike starts. From there:
+
+| Leg | What you do |
+|---|---|
+| **1. At the booth, go right** | You're on **T1** — it takes you past **Praia Preta**, the **Lazareto ruins** and **Praia do Galego**. |
+| **2. A second fork** | Leads on to the natural pools — the **poção** — and the old **aqueduct**. |
+| **3. At the aqueduct, turn for home** | This is your only decision point. Turn back here toward **Abraão** and you've walked the tidy **~3 km, ~1 hour** circuit. Carry straight on instead and you've committed to the **Feiticeira** hike — a fine adventure, but a much longer day. |
+
+You follow the one path the whole way, so there's no getting lost — just remember the aqueduct is where you turn. Underfoot it's smooth and level enough for unsteady grandparents on a dry day; after rain the reddish clay gets genuinely slick, so for shaky walkers (or a stroller) save it for dry weather.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
+
+### What to avoid
+
+**Don't head out empty-handed**, and **don't blunder past the aqueduct** — those are the whole story. You then walk the easy, bright forest back out carrying the weight of the Lazareto with you, and that quiet contrast — heavy history, gentle hour — is exactly what makes T1 the one to do first.
 
 ## The trail network (T1–T16)
 

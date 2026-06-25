@@ -165,11 +165,27 @@ Uma última coisa, mais silenciosa. Levar a si mesmo do ponto A ao ponto B com a
 
 ![As ruínas do aqueduto do século XIX no Circuito Histórico (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
-A caminhada mais fácil e acessível, perfeita se você quer a história da ilha sem uma trilha pesada. A **T1 (Circuito Abraão)** começa no centro da Vila do Abraão, perto do cais principal, e é quase toda plana. O circuito principal tem cerca de **1,8 km / ~1 h**; reserve **2–3 horas** se for explorar as ruínas e a Praia Preta. Fácil a moderada, ótima para famílias.
+> **Resumo rápido.** Trilha **T1** · **~3 km**, cerca de **1 hora** · **plana** e **fácil** · realmente **para a família toda** — crianças e avós são bem-vindos · começa no mesmo ponto da trilha da **Feiticeira** (a mesma guarita amarela do guarda-parque) · **o aqueduto é onde você dá meia-volta** — siga em frente além dele e você cai na trilha mais longa da Feiticeira · **leve água** (e a sua própria comida, se a ideia for ficar numa praia): é tudo mata por lá — **nenhum quiosque, nenhuma loja, nada** · depois de chuva, a argila fica **escorregadia**.
 
-Destaques: o **aqueduto** do século XIX, as **ruínas do Lazareto** (um hospital de quarentena para imigrantes, 1884–1913), vestígios do passado prisional da ilha e vários **mirantes** sobre a baía do Abraão e o Atlântico. Se ainda tiver energia, a T1 conecta com a **T2** rumo à cachoeira e à praia da Feiticeira.
+Esta é a trilha tranquila. Em cerca de uma hora, quase toda plana, a ilha inteira é entregue de mão beijada para você — a história, a mata, as praiazinhas silenciosas — sem que você precise conquistar nada com uma subida pesada. É a caminhada que eu indico para famílias: pare onde algo chamar a sua atenção, enrole o tempo que as crianças quiserem, e deixe que nada exija de você além de estar entre as árvores.
+
+**As ruínas do Lazareto** são o coração disso tudo, e o motivo de esse passeio fácil ficar com você. É uma construção do **século XIX**, com o seu **aqueduto do século XIX** ainda de pé no meio da mata — erguida como **estação de quarentena** para os imigrantes que chegavam pelo mar, retidos aqui antes de serem liberados para o continente, e depois **leprosário**, uma colônia para pessoas com hanseníase mantidas longe do mundo. E conta-se — história de boca, dessas que os moradores mais antigos contam, não coisa escrita em livro — que, *antes* de tudo isso, foi um **lugar de aprisionamento das pessoas escravizadas** que passavam pela ilha. Fique de pé entre as paredes quebradas, com a mata voltando a crescer por dentro delas, a luz descendo entre as folhas, o cheiro de pedra úmida, o canto dos pássaros onde houve tanto sofrimento — e tudo isso fica muito perto de você.
+
+**O circuito, do jeito simples.** Ele começa logo ali, ao lado do cais principal da **Vila do Abraão**, na **entrada do Parque Estadual da Ilha Grande** — a mesma **guarita amarela** onde começa a trilha da Feiticeira. Dali:
+
+| Trecho | O que você faz |
+|---|---|
+| **1. Na guarita, vá à direita** | Você está na **T1** — ela te leva à **Praia Preta**, às **ruínas do Lazareto** e à **Praia do Galego**. |
+| **2. Uma segunda bifurcação** | Te conduz às piscinas naturais — o **poção** — e ao antigo **aqueduto**. |
+| **3. No aqueduto, dê meia-volta** | Este é o seu único ponto de decisão. Volte daqui em direção ao **Abraão** e você fez o circuito redondinho de **~3 km, ~1 hora**. Siga em frente e você se comprometeu com a trilha da **Feiticeira** — uma bela aventura, mas um dia bem mais longo. |
+
+Você segue o mesmo caminho o tempo todo, então não tem como se perder — só lembre que o aqueduto é onde se dá a volta. O piso é liso e plano o bastante até para avós com passo inseguro num dia seco; depois de chuva a argila avermelhada fica realmente escorregadia, então para quem anda com dificuldade (ou com carrinho de bebê) deixe para um dia seco.
 
 📍 [Veja o trajeto completo no Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
+
+### O que evitar
+
+**Não saia de mãos vazias** e **não passe direto pelo aqueduto** sem querer — é só isso que importa lembrar. Depois você refaz o caminho de volta por essa mata fácil e luminosa carregando o peso do Lazareto com você, e esse contraste silencioso — história pesada, horinha tranquila — é exatamente o que faz da T1 a primeira a se fazer.
 
 ## A rede de trilhas (T1–T16)
 

@@ -165,11 +165,27 @@ Une dernière chose, plus discrète. Se mener soi-même d'un point A à un point
 
 ![Les ruines de l'aqueduc du XIXe siècle sur le Circuit Historique (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
-La marche la plus facile et la plus accessible, idéale si vous voulez l'histoire de l'île sans une randonnée difficile. Le **T1 (Circuito Abraão)** part du centre de Vila do Abraão, près du quai principal, et reste essentiellement plat. La boucle principale fait environ **1,8 km / ~1 h** ; comptez **2–3 heures** si vous explorez les ruines et la Praia Preta. Facile à modéré, parfait en famille.
+> **L'essentiel en bref.** Sentier **T1** · **~3 km**, environ **1 h** · **plat** et **facile** · vraiment **fait pour la famille** — enfants et grands-parents bienvenus · même départ que la randonnée de la **Feiticeira** (même guérite jaune des gardes) · **l'aqueduc est votre demi-tour** — continuez au-delà et vous voilà sur le sentier plus long de la Feiticeira · **emportez de l'eau** (et votre propre nourriture si vous comptez vous attarder sur une plage) : tout est sauvage là-bas — **ni kiosque, ni boutique, rien** · après la pluie, l'argile devient **glissante**.
 
-Points forts : l'**aqueduc** du XIXe siècle, les **ruines du Lazareto** (un hôpital de quarantaine pour immigrants, 1884–1913), les traces du passé carcéral de l'île, et plusieurs **points de vue** sur la baie d'Abraão et l'Atlantique. S'il vous reste de l'énergie, le T1 rejoint le **T2** vers la cascade et la plage de Feiticeira.
+C'est la marche douce. En une heure environ, presque tout plat, on vous tend toute l'histoire de l'île — son passé, sa forêt, ses petites plages tranquilles — sans jamais avoir à la mériter par une montée difficile. C'est celle que je conseille aux familles : on s'arrête dès que quelque chose attire l'œil, on flâne aussi longtemps que les enfants le veulent, et rien ne vous demande quoi que ce soit, sinon d'être parmi les arbres.
+
+**Les ruines du Lazareto** en sont le cœur, et la raison pour laquelle cette balade facile vous reste. C'est une construction du **XIXe siècle**, avec son **aqueduc du XIXe siècle** toujours debout au milieu des arbres — bâtie comme **station de quarantaine** pour les immigrants arrivant par la mer, retenus ici avant d'être autorisés à gagner le continent, puis **léproserie**, une colonie pour les malades de la lèpre tenus à l'écart du monde. Et l'on raconte — mémoire locale, celle que transmettent les anciens de l'île, rien d'écrit dans un livre — qu'*avant* tout cela ce fut un **lieu de détention pour les personnes réduites en esclavage** que l'on faisait passer par l'île. Tenez-vous parmi les murs effondrés que la forêt reprend peu à peu, la lumière qui descend entre les feuilles, l'odeur de pierre humide, le chant des oiseaux là où il y eut tant de souffrance — et tout cela se sent très proche.
+
+**La boucle, tout simplement.** Elle commence juste à côté du quai principal de **Vila do Abraão**, à l'**entrée du Parc d'État d'Ilha Grande** — la même **guérite jaune** de gardes (*guarita amarela*) où démarre la randonnée de la Feiticeira. De là :
+
+| Tronçon | Ce que vous faites |
+|---|---|
+| **1. À la guérite, prenez à droite** | Vous êtes sur le **T1** — il vous mène le long de la **Praia Preta**, des **ruines du Lazareto** et de la **Praia do Galego**. |
+| **2. Une deuxième bifurcation** | Vous conduit jusqu'aux piscines naturelles — le **poção** — et au vieil **aqueduc**. |
+| **3. À l'aqueduc, faites demi-tour** | C'est votre seul point de décision. Repartez d'ici vers **Abraão** et vous avez bouclé le circuit bien net de **~3 km, ~1 h**. Continuez tout droit et vous vous êtes engagé dans la randonnée de la **Feiticeira** — une belle aventure, mais une journée bien plus longue. |
+
+Vous suivez le même chemin tout du long : impossible de se perdre — souvenez-vous seulement que l'aqueduc est l'endroit du demi-tour. Le sol est lisse et plat, accessible même à des grands-parents peu assurés par temps sec ; après la pluie l'argile rougeâtre devient franchement glissante, alors pour les marcheurs hésitants (ou une poussette) réservez-le aux jours secs.
 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
+
+### À éviter
+
+**Ne partez pas les mains vides**, et **ne dépassez pas l'aqueduc** par mégarde — c'est tout ce qu'il faut retenir. Vous refaites ensuite le chemin de retour par cette forêt facile et lumineuse en portant avec vous le poids du Lazareto, et ce contraste tranquille — histoire lourde, heure douce — est exactement ce qui fait du T1 celui par lequel commencer.
 
 ## Le réseau de sentiers (T1–T16)
 

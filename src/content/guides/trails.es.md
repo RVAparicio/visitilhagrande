@@ -165,11 +165,27 @@ Una última cosa, más callada. Llevarte a vos mismo del punto A al punto B con 
 
 ![Las ruinas del acueducto del siglo XIX en el Circuito Histórico (T1), Ilha Grande](../../assets/aqueduto-ruins-ilha-grande.jpg)
 
-La caminata más fácil y accesible, perfecta si querés la historia de la isla sin un sendero duro. El **T1 (Circuito Abraão)** empieza en el centro de Vila do Abraão, cerca del muelle principal, y es casi todo plano. El circuito principal tiene unos **1,8 km / ~1 h**; reservá **2–3 horas** si vas a explorar las ruinas y la Praia Preta. Fácil a moderada, ideal para familias.
+> **Ficha rápida.** Sendero **T1** · **~3 km**, alrededor de **1 hora** · **plano** y **fácil** · de verdad **apto para toda la familia** — bienvenidos los chicos y los abuelos · comparte el inicio con la caminata de **Feiticeira** (la misma caseta amarilla de guardaparques) · **el acueducto es tu punto de vuelta** — si seguís más allá, te metés en el sendero más largo de Feiticeira · **llevá agua** (y tu propia comida si pensás quedarte en alguna playa): es todo selva allá afuera — **ni quioscos, ni tiendas, nada** · después de la lluvia la arcilla se pone **resbaladiza**.
 
-Lo más destacado: el **acueducto** del siglo XIX, las **ruinas del Lazareto** (un hospital de cuarentena para inmigrantes, 1884–1913), vestigios del pasado carcelario de la isla y varios **miradores** sobre la bahía de Abraão y el Atlántico. Si todavía te queda energía, el T1 conecta con el **T2** rumbo a la cascada y la playa de Feiticeira.
+Esta es la suave. En cerca de una hora, casi toda plana, te entregan la historia entera de la isla — su pasado, su selva, sus playitas tranquilas — sin que tengas nunca que ganártela con una subida dura. Es la caminata que mando a hacer a las familias: parás donde algo te llame la atención, te demorás todo lo que los chicos quieran, y nada te pide nada salvo estar entre los árboles.
+
+**Las ruinas del Lazareto** son el corazón de todo esto, y la razón de que este paseo fácil se te quede grabado. Es una construcción del **siglo XIX**, con su **acueducto del siglo XIX** todavía de pie entre los árboles — levantada como **estación de cuarentena** para los inmigrantes que llegaban por mar, retenidos acá antes de que se les permitiera pisar el continente, y más tarde **leprosario**, una colonia para los que tenían lepra, apartados del mundo. Y cuenta la historia — saber local, de lo que cuentan los isleños más viejos, no algo escrito en un libro — que, *antes* de todo eso, fue un **lugar de encierro de las personas esclavizadas** que entraban por la isla. Parate entre los muros rotos con la selva volviendo a crecer a través de ellos, la luz que baja entre las hojas, el olor a piedra húmeda, el canto de los pájaros donde hubo tanto sufrimiento — y todo eso se siente muy cerca.
+
+**El circuito, en simple.** Empieza justo al lado del muelle principal de **Vila do Abraão**, en la **entrada del Parque Estadual de Ilha Grande** — la misma **caseta amarilla de guardaparques** (*guarita amarela*) donde arranca la caminata de Feiticeira. Desde ahí:
+
+| Tramo | Qué hacés |
+|---|---|
+| **1. En la caseta, a la derecha** | Estás en el **T1** — te lleva hasta la **Praia Preta**, las **ruinas del Lazareto** y la **Praia do Galego**. |
+| **2. Una segunda bifurcación** | Te lleva hasta las piscinas naturales — el **poção** — y el viejo **acueducto**. |
+| **3. En el acueducto, encarás la vuelta** | Este es tu único momento de decisión. Volvé desde acá hacia **Abraão** y completaste el circuito prolijo de **~3 km, ~1 hora**. Seguí derecho y te comprometiste con la caminata de **Feiticeira** — una linda aventura, pero un día mucho más largo. |
+
+Seguís el mismo sendero todo el tiempo, así que no hay forma de perderse — solo acordate de que el acueducto es donde se gira. El piso es liso y plano de sobra incluso para abuelos de paso inseguro en un día seco; después de la lluvia la arcilla rojiza se pone realmente resbalosa, así que para quien camina con dificultad (o con cochecito) dejalo para un día seco.
 
 📍 [Mirá el recorrido completo en Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-praia-preta-x-ruinas-186822608)
+
+### Qué evitar
+
+**No salgas con las manos vacías** y **no te pases del acueducto** por error — es lo único que hay que recordar. Después rehacés el camino de vuelta por esa selva fácil y luminosa cargando el peso del Lazareto con vos, y ese contraste callado — historia pesada, hora suave — es justo lo que hace del T1 el primero para hacer.
 
 ## La red de senderos (T1–T16)
 
