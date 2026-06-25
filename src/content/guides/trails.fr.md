@@ -35,14 +35,49 @@ Voici les **cinq sentiers que je conseillerais à n'importe quel voyageur**, de 
 
 ## Avant de partir : sécurité et équipement
 
-Les sentiers sont superbes, mais c'est de la vraie forêt tropicale. Quelques règles valables pour chaque marche :
+Les sentiers sont superbes, mais cela reste de la vraie forêt tropicale — et l'île a quelques petites particularités qu'il vaut mieux connaître avant de se lancer. Rien de tout cela n'est là pour vous inquiéter : Ilha Grande est l'un des endroits les plus paisibles que je connaisse. Ce sont juste les choses que je dirais à un hôte autour du petit-déjeuner.
+
+**Sur le sentier.**
 
 - **Partez tôt** — avant 8h–10h. Vous évitez la chaleur, la pluie de l'après-midi et le risque de finir de nuit.
 - **Emportez au moins 2 litres d'eau** par personne. La plupart des sentiers n'ont pas d'eau potable.
 - **Portez de vraies chaussures de randonnée.** Après la pluie, le sol est glissant et il faut souvent s'agripper aux racines, branches et rochers — gardez les mains libres.
-- **Crème solaire, anti-moustiques, en-cas énergétiques.** Réappliquez le répulsif.
 - **Vérifiez la météo** avant de partir et prévenez quelqu'un de votre itinéraire.
 - **Respectez le balisage** et ne quittez pas le sentier — c'est ainsi qu'on se perd.
+
+**Santé et bestioles.**
+
+- **Prenez répulsif et crème solaire, et réappliquez les deux.** Les moustiques sont nombreux ici, mais la bonne nouvelle est plus importante : **aucune maladie endémique et aucune épidémie en cours** — les piqûres sont une gêne, pas un danger. La crème solaire compte parce que les plages ouvertes et les sommets ne vous offrent que très peu d'ombre.
+
+**Argent.**
+
+- **Aucun distributeur sur l'île** — et changer des devises ici se fait à mauvais taux, alors réglez vos retraits sur le continent avant la traversée.
+- **Pas besoin de rationner votre monnaie pour le retour.** Le bateau qui ramène de Lopes Mendes, par exemple, **accepte la carte** — et s'il n'y a pas de réseau là-bas (en général il n'y en a pas), on vous embarque quand même et on vous débite à Abraão, où le signal passe très bien.
+- **Fixez un plafond quotidien sur votre carte si vous le souhaitez** — jamais une mauvaise idée, partout au Brésil. À part ça, détendez-vous : l'île est extrêmement tranquille, sans arnaques, sans vols, sans agressions.
+
+**Payez la Taxa Viva (la redevance touristique d'Angra) — ne l'esquivez pas.**
+
+On vous proposera mille façons de contourner cette taxe en embarquant ou en débarquant dans des points clandestins (non officiels), et certains arrivent ainsi. Je serai honnête : je ne suis pas d'accord avec cette taxe — je la trouve abusive et injustifiée. Mais tout doit se faire dans la légalité, et le faire dans les règles ne vous coûte rien de plus. Vous êtes touriste dans un pays étranger ; vous ne voulez **surtout pas** d'ennuis judiciaires pour économiser une redevance d'environ 8 euros. Le prix d'une contravention est bien plus lourd que la taxe elle-même.
+
+**Réserver une excursion en bateau.**
+
+- **Achetez à l'intérieur d'une agence physique et signez sur place** — jamais à partir d'un numéro de téléphone glissé dans la rue. Si un arrangement de rue tourne mal, personne n'en répond : on vous promet un grand bateau et vous vous retrouvez dans un petit.
+- **Demandez toujours quel type de bateau vous emmènera, et faites-le confirmer.** En règle générale : un bateau-taxi (ce sont tous des « CF », à la coque vive) convient pour un court trajet, mais pour une vraie excursion à la journée ou la **Volta à Ilha**, payez un peu plus pour une **lancha** plus grande et plus stable. Toute la différence est expliquée dans la section excursions en bateau du [guide des plages](/fr/plages-ilha-grande/).
+
+**Une fierté locale.**
+
+Le Brésil est l'un des pays les plus magnifiquement divers de la planète — la majorité des Brésiliens sont noirs ou métis — et ici, sur l'île, des gens de toutes origines vivent côte à côte en paix. Venez avec cette même ouverture et vous serez accueilli comme un membre de la famille. Et cette harmonie est protégée par la loi : le racisme est un crime au Brésil — le même genre de rappel que je ferais à propos de n'importe quelle autre loi du pays — autrement dit, c'est un endroit où chacun est libre d'être simplement lui-même.
+
+**Pourboire et quelques courtoisies locales (bon à savoir).**
+
+- **Le pourboire est déjà sur l'addition** — un **service de 10 %** (*serviço*). Si l'on s'est bien occupé de vous, payez-le, tout simplement ; vous pouvez laisser un petit extra au serveur (*garçom*/*garçonete*), mais ce n'est honnêtement pas attendu. Vous êtes en droit de faire retirer ou rembourser les 10 % uniquement si le service a été vraiment mauvais — et les refuser d'emblée est très mal vu ici.
+- **À table, ne vous mouchez pas** dans un mouchoir ou une serviette — au Brésil, c'est perçu comme très impoli. Excusez-vous et allez plutôt au *banheiro*.
+- **Le mot pour les toilettes est *banheiro*** (proche du « baño » espagnol) — pas « toilette », « bathroom » ni « loo ». Des toilettes publiques, c'est un *banheiro público*.
+- **Des toilettes publiques impeccables à Angra.** Si vous passez par Angra dos Reis en allant vers l'île ou au retour, le quai principal de **Santa Luzia** dispose de *banheiros públicos* vraiment propres et entretenus en permanence — pas besoin de consommer dans un café pour aller aux toilettes ; les commerces vous enverront même vers les publics, parce qu'ils sont meilleurs.
+
+**Les règles de la réserve — ce qu'il faut éviter.**
+
+C'est une réserve écologique stricte, et vous verrez des panneaux partout. Sur les plages, il est formellement interdit de **faire du feu, de griller, de vendre ou de proposer des services**, et les mauvais comportements sont punis par la loi, comme ils le seraient n'importe où. Pour presque tous les visiteurs, cela ne pose aucun problème : l'ambiance ici est calme et discrète — ce n'est ni une destination de fête, ni de yachts, ni d'excès. Respectez simplement les règles, et la réserve vous le rendra.
 
 ## Lopes Mendes (T10 + T11)
 

@@ -35,14 +35,49 @@ Below are the **five trails I'd send any guest on**, from an easy family stroll 
 
 ## Before you go: safety & what to bring
 
-The trails are wonderful but it is still real rainforest. A few things that matter on every walk:
+The trails are wonderful but it is still real rainforest — and the island has a few honest quirks worth knowing before you set off. None of this is meant to worry you: Ilha Grande is one of the most peaceful places I know. It's just the stuff I'd tell a guest over breakfast.
+
+**On the trail.**
 
 - **Start early** — before 8–10am. You avoid the heat, the afternoon rain and the risk of finishing in the dark.
 - **Carry at least 2 litres of water** per person. Most trails have no drinking water.
 - **Wear proper hiking shoes.** After rain the ground is slippery and you'll often grab roots, branches and rocks — keep your hands free.
-- **Sunscreen, insect repellent, energy snacks.** Reapply repellent.
 - **Check the forecast** before leaving, and tell someone your plan.
 - **Respect the markings** and don't leave the signed trail — this is how people get lost.
+
+**Health & bugs.**
+
+- **Pack repellent and sunscreen, and reapply both.** There are plenty of mosquitoes here, but the good news is bigger: **no endemic diseases and no current outbreaks** — the bites are a nuisance, not a danger. The sunscreen matters because the open beaches and summits give you very little shade.
+
+**Money.**
+
+- **No ATMs on the island** — and changing foreign currency here is a poor deal, so sort out any cash you want on the mainland before you cross.
+- **You don't need to ration cash for the way back.** The boat back from Lopes Mendes, for example, **takes card** — and if there's no phone signal out there (usually there isn't), they board you anyway and charge you back in Abraão, where the signal is fine.
+- **Set a daily card limit if you like** — never a bad idea anywhere in Brazil. Beyond that, relax: the island is extremely peaceful, with no scams, no theft, no robbery.
+
+**Pay the Taxa Viva (Angra's visitor fee) — don't dodge it.**
+
+You'll be offered plenty of ways to skip the fee by boarding or landing at clandestine (unofficial) spots, and some people do arrive that way. I'll be honest: I don't agree with this fee — I find it abusive and unjustified. But everything should be done within the law, and doing it properly costs you nothing extra. You're a tourist in a foreign country; you do **not** want a legal problem over saving a fee of about 8 euros. The penalty for a contravention is far harsher than the fee itself.
+
+**Booking a boat tour.**
+
+- **Buy inside a physical agency and sign there** — never off a phone number handed to you on the street. If a street deal goes wrong, nobody takes responsibility: they promise a big boat and you end up in a small one.
+- **Always ask what type of boat will take you, and have them confirm it.** As a rule of thumb: a taxi-boat (all of them are the nimble "CF" hull) is fine for a short hop, but for a proper full-day tour or the **Volta à Ilha**, pay a little more for a bigger, steadier **lancha**. The full difference is in the boat-tours section of the [beaches guide](/ilha-grande-beaches/).
+
+**A point of local pride.**
+
+Brazil is one of the most beautifully diverse countries on earth — most Brazilians are Black or mixed-race — and here on the island people of every background live side by side in peace. Come with that same openness and you'll be welcomed like family. The law backs that up, too: racism is a serious crime in Brazil — the same plain heads-up I'd give about any other law of the land — so this is a place where everyone is free to simply be themselves.
+
+**Tipping & a few local courtesies (good to know).**
+
+- **The tip is already on the bill** — a **10% service charge** (*serviço*). If you were well looked after, just pay it; you can add a little extra for the waiter (*garçom*/*garçonete*), but it honestly isn't expected. You're within your rights to have the 10% removed or refunded only if the service was genuinely poor — and flatly refusing it is frowned upon here.
+- **At the table, don't blow your nose** into a handkerchief or napkin — in Brazil it reads as very poor manners. Excuse yourself to the *banheiro* instead.
+- **The word for toilet is *banheiro*** (close to the Spanish *baño*) — not "toilette," "bathroom" or "loo." A public one is a *banheiro público*.
+- **Clean public toilets at Angra.** Passing through Angra dos Reis to or from the island, the main **Santa Luzia pier** has *banheiros públicos* that are genuinely clean and kept spotless — no need to buy something at a café just to use a toilet; shops will even send you to the public ones, because they're better.
+
+**Reserve rules — what to avoid.**
+
+This is a strict ecological reserve, and you'll see signs everywhere. On the beaches it is strictly forbidden to **light fires, barbecue, sell, or offer services**, and bad behaviour is punished by law just as it would be anywhere. For almost every visitor this is a non-issue: the crowd here is calm and low-key — this is not a party, yacht or blowout destination. Just respect the rules and the reserve will look after you back.
 
 ## Lopes Mendes (T10 + T11)
 

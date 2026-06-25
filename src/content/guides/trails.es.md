@@ -35,14 +35,49 @@ Estos son los **cinco senderos que le recomendaría a cualquier huésped**, desd
 
 ## Antes de ir: seguridad y qué llevar
 
-Los senderos son maravillosos, pero es selva atlántica de verdad. Algunas cosas que valen para toda caminata:
+Los senderos son maravillosos, pero sigue siendo selva atlántica de verdad — y la isla tiene un par de mañas honestas que conviene conocer antes de salir. Nada de esto es para preocuparte: Ilha Grande es uno de los lugares más tranquilos que conozco. Es solo lo que te contaría un anfitrión mientras desayunás.
+
+**En el sendero.**
 
 - **Salí temprano** — antes de las 8h–10h. Evitás el calor, la lluvia de la tarde y el riesgo de terminar de noche.
 - **Llevá al menos 2 litros de agua** por persona. La mayoría de los senderos no tiene agua potable.
 - **Usá calzado apropiado para senderismo.** Después de la lluvia el suelo resbala y muchas veces te agarrás de raíces, ramas y piedras — mantené las manos libres.
-- **Protector solar, repelente, snacks energéticos.** Reaplicá el repelente.
 - **Revisá el pronóstico** antes de salir y avisale a alguien tu recorrido.
 - **Respetá la señalización** y no te salgas del sendero marcado — así es como la gente se pierde.
+
+**Salud y bichos.**
+
+- **Llevá repelente y protector solar, y reaplicá los dos.** Acá hay mosquitos de sobra, pero la buena noticia es mayor: **no hay enfermedades endémicas ni brotes activos** — las picaduras son una molestia, no un peligro. El protector importa porque las playas abiertas y las cimas te dan muy poca sombra.
+
+**Plata.**
+
+- **En la isla no hay cajeros automáticos** — y cambiar moneda extranjera acá es un mal negocio, así que resolvé en el continente el efectivo que quieras tener antes de cruzar.
+- **No hace falta que raciones efectivo para la vuelta.** El barco de regreso desde Lopes Mendes, por ejemplo, **acepta tarjeta** — y si allá afuera no hay señal de celular (casi nunca la hay), igual te embarcan y te cobran de vuelta en Abraão, donde la señal anda bien.
+- **Ponele un límite diario a la tarjeta si querés** — nunca está de más en cualquier parte de Brasil. Más allá de eso, quedate tranquilo: la isla es tranquilísima, sin estafas, sin robos, sin asaltos.
+
+**Pagá la Taxa Viva (la tasa de visitante de Angra) — no la esquives.**
+
+Te van a ofrecer un montón de maneras de saltarte la tasa embarcando o desembarcando en puntos clandestinos (no oficiales), y hay quien llega así. Voy a ser honesto: a mí esta tasa no me gusta — me parece abusiva e injustificada. Pero todo debe hacerse dentro de la ley, y hacerlo bien no te cuesta nada extra. Sos un turista en un país extranjero; **no** querés un problema legal por ahorrarte una tasa de unos 8 euros. El precio de una infracción es mucho más duro que la tasa en sí.
+
+**Reservar un paseo en barco.**
+
+- **Comprá dentro de una agencia física y firmá ahí** — nunca por un número de teléfono que te pasan en la calle. Si algo sale mal con un trato callejero, nadie se hace responsable: te prometen un barco grande y terminás en uno chico.
+- **Preguntá siempre qué tipo de barco te va a llevar, y que te lo confirmen.** Como regla general: un taxi-boat (todos son el casco ágil "CF") sirve para un trayecto corto, pero para un paseo de día entero en serio o la **Volta à Ilha**, pagá un poco más por una **lancha** más grande y estable. Toda la diferencia está en la sección de paseos en barco de la [guía de playas](/es/playas-ilha-grande/).
+
+**Un punto de orgullo local.**
+
+Brasil es uno de los países más hermosamente diversos del planeta — la mayoría de los brasileños son negros o mestizos — y acá en la isla conviven en paz personas de todo origen. Vení con esa misma apertura y te van a recibir como de la familia. Y esa armonía está protegida por la ley: el racismo es un delito serio en Brasil — el mismo tipo de aviso que te daría sobre cualquier otra ley del lugar — así que este es un sitio donde cada quien es libre de ser, simplemente, quien es.
+
+**Propina y un par de cortesías locales (para que sepas).**
+
+- **La propina ya viene en la cuenta** — un **10% de servicio** (*serviço*). Si te atendieron bien, pagalo y listo; podés dejar algo extra al mozo (*garçom*/*garçonete*), pero la verdad no se espera. Tenés derecho a pedir que te saquen o reembolsen el 10% solo si te atendieron realmente mal — y rechazarlo de plano está mal visto acá.
+- **En la mesa, no te suenes la nariz** con un pañuelo o servilleta — en Brasil se ve como de muy mala educación. Mejor excusate y andá al *banheiro*.
+- **La palabra para baño es *banheiro*** (parecida al "baño" español) — no "toilette", ni "bathroom", ni "loo". El público es el *banheiro público*.
+- **Baños públicos limpísimos en Angra.** Si pasás por Angra dos Reis yendo o volviendo de la isla, el muelle principal de **Santa Luzia** tiene *banheiros públicos* de verdad limpios y siempre impecables — no hace falta consumir en un café para usar el baño; los comercios hasta te mandan a los públicos, porque son mejores.
+
+**Reglas de la reserva — qué evitar.**
+
+Esta es una reserva ecológica estricta, y vas a ver carteles por todos lados. En las playas está terminantemente prohibido **hacer fuego, asados, vender u ofrecer servicios**, y el mal comportamiento se castiga por ley igual que en cualquier parte. Para casi todos los visitantes esto ni se nota: la gente acá es tranquila y de bajo perfil — este no es un destino de fiesta, ni de yates, ni de descontrol. Respetá las reglas y la reserva te va a cuidar a vos.
 
 ## Lopes Mendes (T10 + T11)
 

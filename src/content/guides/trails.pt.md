@@ -35,14 +35,49 @@ Estas são as **cinco trilhas que eu indicaria a qualquer hóspede**, do passeio
 
 ## Antes de ir: segurança e o que levar
 
-As trilhas são maravilhosas, mas é mata atlântica de verdade. Algumas coisas que valem para toda caminhada:
+As trilhas são maravilhosas, mas continua sendo mata atlântica de verdade — e a ilha tem algumas manias honestas que vale conhecer antes de você botar o pé na estrada. Nada disso é para te assustar: a Ilha Grande é um dos lugares mais tranquilos que eu conheço. É só o tipo de coisa que eu contaria a um hóspede no café da manhã.
+
+**Na trilha.**
 
 - **Saia cedo** — antes das 8h–10h. Você evita o calor, a chuva da tarde e o risco de terminar no escuro.
 - **Leve pelo menos 2 litros de água** por pessoa. A maioria das trilhas não tem água potável.
 - **Use calçado adequado para trilha.** Depois de chuva o chão fica escorregadio e você vai se segurar em raízes, galhos e pedras — mantenha as mãos livres.
-- **Protetor solar, repelente, lanche energético.** Reaplique o repelente.
 - **Veja a previsão do tempo** antes de sair e avise alguém do seu trajeto.
 - **Respeite a sinalização** e não saia da trilha demarcada — é assim que as pessoas se perdem.
+
+**Saúde e insetos.**
+
+- **Leve repelente e protetor solar, e reaplique os dois.** Tem muito mosquito por aqui, mas a notícia boa é maior: **nenhuma doença endêmica e nenhum surto em andamento** — as picadas são um incômodo, não um perigo. O protetor importa porque as praias abertas e os cumes te dão pouquíssima sombra.
+
+**Dinheiro.**
+
+- **Não há caixas eletrônicos na ilha** — e trocar moeda estrangeira aqui é um péssimo negócio, então resolva qualquer dinheiro que você queira ainda no continente, antes de atravessar.
+- **Você não precisa racionar dinheiro para a volta.** O barco de volta de Lopes Mendes, por exemplo, **aceita cartão** — e se não houver sinal de celular lá fora (em geral não há), eles te embarcam mesmo assim e fazem a cobrança no Abraão, onde o sinal pega bem.
+- **Defina um limite diário no cartão, se quiser** — nunca é má ideia em qualquer lugar do Brasil. Fora isso, relaxe: a ilha é extremamente tranquila, sem golpes, sem furtos, sem assaltos.
+
+**Pague a Taxa Viva (a taxa de visitante de Angra) — não tente fugir.**
+
+Vão te oferecer um monte de jeitos de driblar a taxa, embarcando ou desembarcando em pontos clandestinos (não oficiais), e tem gente que de fato chega assim. Vou ser honesto: eu não concordo com essa taxa — acho abusiva e injustificada. Mas tudo deve ser feito dentro da lei, e fazer do jeito certo não te custa nada a mais. Você é turista num país estrangeiro; você **não** quer um problema legal para economizar uma taxa de uns 8 euros. O preço de uma autuação é muito mais pesado do que a própria taxa.
+
+**Reservando um passeio de barco.**
+
+- **Compre dentro de uma agência física e assine ali** — nunca a partir de um número de telefone que te entregam na rua. Se algo der errado num combinado de rua, ninguém assume a responsabilidade: prometem um barco grande e você acaba num pequeno.
+- **Sempre pergunte que tipo de barco vai te levar, e peça que confirmem.** Como regra geral: um barco-táxi (todos eles são o casco ágil "CF") serve para uma travessia curta, mas para um passeio de dia inteiro de verdade ou a **Volta à Ilha**, pague um pouco mais por uma **lancha** maior e mais estável. A diferença toda está na seção de passeios de barco do [guia de praias](/pt/praias-ilha-grande/).
+
+**Um ponto de orgulho local.**
+
+O Brasil é um dos países mais lindamente diversos do planeta — a maioria dos brasileiros é negra ou parda — e aqui na ilha gente de toda origem convive em paz. Venha com essa mesma abertura e você vai ser acolhido como família. E essa harmonia é protegida pela lei: racismo é crime sério no Brasil — o mesmo tipo de aviso que eu daria sobre qualquer outra lei daqui — ou seja, este é um lugar onde cada um é livre para simplesmente ser quem é.
+
+**Gorjeta e algumas cortesias locais (bom saber).**
+
+- **A gorjeta já vem na conta** — os **10% de serviço**. Se você foi bem atendido, é só pagar; pode deixar um extra para o garçom/garçonete, mas, sinceramente, não é esperado. Você tem o direito de pedir que tirem ou devolvam os 10% só se o atendimento foi de fato ruim — e recusá-los de cara é muito malvisto aqui.
+- **À mesa, não assoe o nariz** num lenço ou guardanapo — no Brasil isso soa como falta de educação. Prefira se levantar e ir ao banheiro.
+- **O termo local é *banheiro*** (parecido com o "baño" do espanhol) — e o público é o *banheiro público*.
+- **Banheiros públicos limpíssimos em Angra.** Se você passa por Angra dos Reis indo ou voltando da ilha, o cais principal de **Santa Luzia** tem banheiros públicos de verdade limpos e higienizados o tempo todo — não precisa consumir num café só para usar o banheiro; o comércio até manda você para os públicos, porque são melhores.
+
+**Regras da reserva — o que evitar.**
+
+Esta é uma reserva ecológica rigorosa, e você vai ver placas por toda parte. Nas praias é terminantemente proibido **fazer fogo, churrasco, vender ou oferecer serviços**, e o mau comportamento é punido por lei como seria em qualquer lugar. Para quase todo visitante isso é um não-problema: o público aqui é calmo e discreto — este não é destino de festa, de iate nem de farra. Basta respeitar as regras e a reserva cuida de você de volta.
 
 ## Lopes Mendes (T10 + T11)
 

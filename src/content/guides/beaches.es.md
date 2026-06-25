@@ -221,6 +221,24 @@ Los precios de abajo son **aproximados, por persona y fluctúan** con la tempora
 
 No he nombrado operadores aquí a propósito: te orientaré hacia el capitán adecuado según el día y las condiciones cuando estés listo para reservar.
 
+### ¿CF o lancha? Elegir tu barco
+
+**En corto: un trayecto corto en taxi-boat (un "CF") está perfecto — pero para un paseo de día entero en serio, sobre todo la Volta à Ilha, pagá un poco más y andá en una lancha más grande.** Cuando reservás, **preguntá qué clase de barco es y que te lo confirmen.** Suena puntilloso; no lo es — es la diferencia que sentís en el estómago a media tarde.
+
+| | **CF** (taxi-boats) | **Lancha** (la más grande) |
+|---|---|---|
+| Casco | Largo y fino, *"de anchoa"* | Más superficie, más flotabilidad |
+| Sensación | Ágil, pero se mueve con cada ola | Bastante más **estable y segura** |
+| Motor | **Un solo motor** | Dos motores, o uno mucho mayor |
+| Costo | Más barato | Un poco más |
+| Ideal para | Trayectos cortos | Un paseo en serio / **Volta à Ilha** |
+
+Un **CF** es el nombre local de un tipo de casco. Técnicamente un CF *es* una lancha, pero su casco largo y fino pierde flotabilidad: es ágil, anda con un solo motor — y se mueve con cada ola que pasa. Todos los taxi-boats son CFs. Una **lancha** más grande tiene más superficie y flotabilidad, así que es más estable y segura; su mantenimiento está regulado y al día, y cuesta un poco más.
+
+> **Por qué importa.** En un paseo en el que flotás y te quedás un rato — digamos, meciéndote en **Lagoa Azul** — un CF se balancea con cada ola y, sin que te des cuenta, te puede descomponer, mientras que una lancha más grande se queda quietita mientras hacés snorkel.
+
+**Un balance honesto.** Nada de esto significa evitar los taxi-boats — todos son CFs, y cada tipo de barco tiene su uso y su propósito. Un trayecto corto es exactamente para lo que sirve un CF. Lo que *no* podés hacer con sensatez en un taxi-boat es la **Volta à Ilha** completa; un barquero experimentado podría, pero como turista no deberías. Así que el consejo simple: para un paseo en serio, pagá un poco más y andá en **lancha**, reservada en una agencia física y conocida.
+
 ## ¿Cuántos días necesitas?
 
 Lo ideal son entre cinco y siete días, pero sean cuales sean tus fechas, aquí te explico cómo aprovecharlas al máximo.

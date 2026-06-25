@@ -221,6 +221,24 @@ Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la sais
 
 Je n'ai volontairement pas nommé d'opérateurs ici — je vous orienterai vers le bon capitaine selon la journée et les conditions lorsque vous serez prêt à réserver.
 
+### CF ou lancha ? Bien choisir son bateau
+
+**En bref : un court trajet en bateau-taxi (un « CF ») convient parfaitement — mais pour une vraie excursion à la journée, surtout la Volta à Ilha, payez un peu plus et partez dans une lancha plus grande.** Au moment de réserver, **demandez de quel type de bateau il s'agit et faites-le confirmer.** Ça paraît pointilleux ; ça ne l'est pas — c'est la différence que vous sentez au creux de l'estomac en milieu d'après-midi.
+
+| | **CF** (bateaux-taxis) | **Lancha** (la version plus grande) |
+|---|---|---|
+| Coque | Longue et fine, *« comme un anchois »* | Plus de surface, plus de flottabilité |
+| Ressenti | Vif, mais bouge à chaque vague | Nettement plus **stable et sûr** |
+| Moteur | Un **seul moteur** | Deux moteurs, ou un bien plus gros |
+| Coût | Moins cher | Un peu plus |
+| Idéal pour | Les courts trajets | Une vraie excursion / **Volta à Ilha** |
+
+Un **CF**, c'est le nom local d'un type de coque. Techniquement, un CF *est* une lancha (une vedette), mais sa coque longue et fine perd en flottabilité : c'est vif, ça tourne avec un seul moteur — et ça bouge à chaque vague qui passe. Tous les bateaux-taxis sont des CF. Une **lancha** plus grande a plus de surface et de flottabilité, donc elle est plus stable et plus sûre ; son entretien est réglementé et tenu à jour, et elle coûte un peu plus cher.
+
+> **Pourquoi ça compte.** Sur une sortie où l'on flotte et où l'on s'attarde — disons, à se balancer dans **Lagoa Azul** — un CF tangue à chaque vague et peut sournoisement vous donner mal au cœur, tandis qu'une lancha plus grande reste là, bien stable, pendant que vous faites du snorkeling.
+
+**Un avis honnête et équilibré.** Rien de tout cela ne veut dire qu'il faut éviter les bateaux-taxis — ce sont tous des CF, et chaque type de bateau a son usage et sa raison d'être. Un court trajet, c'est exactement ce pour quoi un CF est fait. Ce que vous ne pouvez *pas* raisonnablement faire en bateau-taxi, c'est la **Volta à Ilha** complète ; un batelier expérimenté le pourrait, mais en tant que touriste, vous ne devriez pas. D'où le conseil tout simple : pour une vraie excursion, payez un peu plus et partez en **lancha**, réservée auprès d'une agence physique et connue.
+
 ## Combien de jours vous faut-il ?
 
 Cinq à sept jours, c'est l'idéal — mais quelles que soient vos dates, voici comment réussir votre séjour.

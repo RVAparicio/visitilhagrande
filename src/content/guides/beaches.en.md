@@ -221,6 +221,24 @@ Prices below are **rough, per person and fluctuate** with the season — treat t
 
 I haven't named operators here on purpose — I'll point you to the right captain for the day and conditions when you're ready to book.
 
+### CF or lancha? Choosing your boat
+
+**Short version: a short hop in a taxi-boat (a "CF") is fine — but for a proper full-day tour, especially the Volta à Ilha, pay a little more and go in a bigger lancha.** When you book, **ask what kind of boat it is and have them confirm it.** It sounds fussy; it isn't — it's the difference you feel in your stomach by mid-afternoon.
+
+| | **CF** (taxi-boats) | **Lancha** (the bigger kind) |
+|---|---|---|
+| Hull | Long and thin, *"like an anchovy"* | More surface, more buoyancy |
+| Feel | Nimble, but moves with every wave | Noticeably more **stable and safer** |
+| Engine | A **single motor** | Two motors, or one much larger |
+| Cost | Cheaper | A bit more |
+| Best for | Short hops | A full tour / **Volta à Ilha** |
+
+A **CF** is the local name for a hull type. Technically a CF *is* a lancha (a launch), but its long, thin hull loses buoyancy, so it's agile and runs on a single motor — and it rocks with every passing wave. All taxi-boats are CFs. A bigger **lancha** has more surface and buoyancy, so it's steadier and safer; its maintenance is regulated and kept up to date, and it costs a little more.
+
+> **Why it matters.** On a tour where you float and linger — say, bobbing at **Lagoa Azul** — a CF rocks with every wave and can quietly make you queasy, while a bigger lancha just sits there steady while you snorkel.
+
+**An honest balance.** None of this means avoid taxi-boats — they're all CFs, and each kind of boat has its own use and purpose. A short hop is exactly what a CF is for. What you *can't* sensibly do in a taxi-boat is the full **Volta à Ilha**; an experienced boatman could, but as a tourist you shouldn't. So the simple tip: for a real tour, pay a little more and go in a **lancha**, booked through a known, physical agency.
+
 ## How many days do you need?
 
 Five to seven days is ideal — but whatever your dates, here's how to nail it.
