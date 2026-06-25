@@ -10,6 +10,8 @@ author: "Richard"
 
 Manger au restaurant fait partie du plaisir à Ilha Grande — même si c'est **nettement plus cher que sur le continent**, puisque tout arrive par bateau, la nourriture comprise. Je ne vais pas vous tendre un annuaire : juste les **deux adresses où je vous enverrais vraiment**, une douce pour le budget et une pour vous faire plaisir. Vous trouverez les deux sur **Google Maps** — pas besoin d'adresse.
 
+Il y a une règle derrière chaque adresse que je recommande, pour manger comme pour dormir, et ces deux-là la respectent : elles sont tenues par leurs propres propriétaires. Un patron présent, qui veille sur la cuisine, l'équipe et le moindre détail, est vraiment rare partout au Brésil — et cela fait une énorme différence dans ce qui arrive dans votre assiette.
+
 ## Banana da Terra — le bon plan
 
 **Idéal pour :** bien manger sans trop dépenser. **À ne pas manquer :** la feijoada. **Prix :** modéré et accessible.

@@ -10,6 +10,8 @@ author: "Richard"
 
 Eating out on Ilha Grande is part of the fun — though it's **noticeably pricier than the mainland**, since everything arrives by boat, food included. I'm not going to hand you a directory: just the **two places I'd actually send you to**, one easy on the budget and one to treat yourselves. You'll find both on **Google Maps** — no need for an address.
 
+There's one rule behind every place I recommend, to eat or to sleep, and both of these pass it: they're run by their own owners. An owner who's on top of the kitchen, the staff and every last detail is genuinely rare anywhere in Brazil — and it makes an enormous difference to what reaches your table.
+
 ## Banana da Terra — the budget pick
 
 **Best for:** eating well without spending a lot. **Don't miss:** the feijoada. **Price:** moderate and accessible.

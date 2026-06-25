@@ -10,6 +10,8 @@ author: "Richard"
 
 Salir a comer en Ilha Grande es parte de la diversión — aunque es **bastante más caro que en el continente**, porque todo llega en barco, la comida incluida. No te voy a dar un directorio: solo los **dos lugares a los que de verdad te mandaría**, uno amable con el presupuesto y otro para darse un gusto. A los dos los encontrás en **Google Maps** — no hace falta dirección.
 
+Hay una regla detrás de cada lugar que recomiendo, para comer o para dormir, y estos dos la cumplen: están atendidos por sus propios dueños. Que un dueño esté encima de la cocina, del personal y de cada detalle es algo raro en cualquier parte de Brasil — y hace una diferencia enorme en lo que llega a tu mesa.
+
 ## Banana da Terra — la opción económica
 
 **Ideal para:** comer bien sin gastar mucho. **No te pierdas:** la feijoada. **Precio:** moderado y accesible.

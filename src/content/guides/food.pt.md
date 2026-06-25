@@ -10,6 +10,8 @@ author: "Richard"
 
 Comer fora faz parte da diversão na Ilha Grande — embora seja **bem mais caro do que no continente**, já que tudo chega de barco, comida inclusive. Não vou te entregar um catálogo: só os **dois lugares para onde eu realmente mandaria você**, um que cabe no bolso e outro para se dar um agrado. Você acha os dois no **Google Maps** — nem precisa de endereço.
 
+Existe uma regra por trás de cada lugar que eu recomendo, para comer ou para dormir, e estes dois passam nela: são tocados pelos próprios donos. Um dono em cima da cozinha, da equipe e de cada detalhe é algo raro em qualquer lugar do Brasil — e faz uma diferença enorme no que chega à sua mesa.
+
 ## Banana da Terra — o que cabe no bolso
 
 **Ideal para:** comer bem sem gastar muito. **Não perca:** a feijoada. **Preço:** moderado e acessível.
