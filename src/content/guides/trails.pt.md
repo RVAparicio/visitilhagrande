@@ -46,15 +46,24 @@ As trilhas são maravilhosas, mas é mata atlântica de verdade. Algumas coisas 
 
 ## Lopes Mendes (T10 + T11)
 
-![Vista aérea de Lopes Mendes com ondas turquesa, a recompensa no fim da trilha, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
+![Vista aérea da praia de Lopes Mendes com ondas turquesa, a recompensa no fim da trilha, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-Temos um ditado na pousada: *"se você não sabe o que fazer hoje, vá para Lopes Mendes."* É a praia mais icônica da ilha — famosa em todo o Brasil e reconhecida no mundo inteiro — e um programa perfeito para um dia inteiro, para quase qualquer pessoa.
+Temos um ditado na pousada: *"se você não sabe o que fazer hoje, vá para Lopes Mendes."* Você caminha horas pela mata sombreada, as árvores se fecham sobre o caminho, você faz uma parada em Palmas sem fazer ideia do que vem a seguir — e aí as árvores se abrem e ela está ali. Uma longa curva de areia fina e clara, a água variando do verde ao turquesa e uma linha de ondas chegando do mar aberto. É a praia mais famosa do Brasil, conhecida no mundo inteiro, e merece cada pedacinho dessa fama. Depois da caminhada de ida, chegar parece menos alcançar um destino e mais a floresta te entregando uma recompensa que ela escondeu o caminho inteiro.
 
-A caminhada clássica segue a **T10** e depois a **T11**, saindo do Abraão e passando pela **Praia de Palmas** a caminho de Pouso. São cerca de **7,2 km** e **2h30–3h15** só na ida, conforme o ritmo, nível **moderado a difícil**. O trecho da T10 do Abraão até Palmas é lindo, com a mata protegendo do sol; a própria Palmas é um ótimo lugar para uma parada. Depois de chuva, redobre o cuidado — escorrega.
+> **Resumo rápido.** Caminhada clássica T10 + T11 saindo do Abraão · **~7,2 km** · **2h30–3h15 só na ida**, conforme o ritmo · **moderada a difícil** · passa pela Praia de Palmas a caminho de Pouso · é uma **praia de preservação**, mantida selvagem e quase sem estrutura — leve a sua própria água e comida · depois de chuva, fica escorregadia.
+
+**A jogada inteligente em que quase ninguém pensa: ir a pé por um lado e voltar de barco pelo outro.** Feita inteiramente a pé, Lopes Mendes é um dia *inteiro* — algo como cinco a seis horas de caminhada na ida e na volta, antes de você ter passado qualquer tempo na praia. Então, para quase todo mundo, a jogada é ir a pé pela mata sombreada da T10 (com a parada em Palmas), aproveitar a praia e voltar de barco — ou o contrário. Dois serviços saem do Abraão — uma escuna e um barco-táxi mais rápido — e te deixam perto de Pouso, a uma curta **caminhada pela T11 (~1 km, 30–40 min)** da areia. Pegue a pulseira oficial de retorno antes de sair, para que um barco te recolha. Não coloco aqui valores nem horários, para que nunca fiquem desatualizados — todo o detalhamento está no [guia de praias](/pt/praias-ilha-grande/).
 
 📍 [Veja o trajeto completo no Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
-**Dica de local — a ponta deserta.** Em vez da T11, você pode combinar **T10 + T12** (cerca de 4 km) e sair na *ponta* de Lopes Mendes — um trecho de praia onde quase ninguém vai, que muitas vezes você terá só para você. Para voltar, siga em direção a Pouso pela T12, ou caminhe uns 2 km pela areia e volte pela T11.
+**Dica de local — a ponta deserta.** Em vez da T11, combine T10 + T12 (cerca de **4 km** até a ponta) e saia onde quase ninguém vai a pé — muitas vezes você tem a praia mais famosa do Brasil só para você: a mesma areia fina, a mesma água turquesa, sem a multidão. Para voltar, siga em direção a Pouso pela T12, ou caminhe cerca de 2 km pela areia e pegue a T11. De qualquer jeito, os barcos recolhem do lado de Pouso: planeje a sua volta por lá.
+
+### O que evitar
+
+- **Não subestime o bate-volta de um dia inteiro a pé.** Nos dois sentidos, são cinco a seis horas de trilha antes de qualquer tempo de praia. A não ser que você queira mesmo a caminhada longa, vá a pé por um lado e volte de barco pelo outro.
+- **Não perca o último barco.** Saia cedo para chegar à praia com folga — se você for a pé e perder o barco da volta, vai voltar a pé, e a mata escurece rápido.
+- **Não encare a trilha com leveza depois de chuva.** Ela fica escorregadia — vá com calma, principalmente nas descidas.
+- **Não chegue de mãos vazias.** Leve pelo menos 2 litros de água por pessoa e a sua própria comida: a praia é mantida selvagem e a areia aberta tem pouca sombra. E cuidado com as ondas do mar aberto — são suaves, mas é swell de verdade.
 
 ## Dois Rios
 

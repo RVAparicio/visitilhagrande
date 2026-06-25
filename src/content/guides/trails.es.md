@@ -48,13 +48,22 @@ Los senderos son maravillosos, pero es selva atlántica de verdad. Algunas cosas
 
 ![Vista aérea de Lopes Mendes con olas turquesa, la recompensa al final del sendero, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-Tenemos un dicho en la pousada: *"si no sabés qué hacer hoy, andá a Lopes Mendes."* Es la playa más icónica de la isla — famosa en todo Brasil y reconocida en el mundo entero — y un plan perfecto para un día entero, apto para casi cualquiera.
+Tenemos un dicho en la pousada: *"si no sabés qué hacer hoy, andá a Lopes Mendes."* Caminás durante horas por una selva sombreada, los árboles se cierran sobre el sendero, hacés una pausa en Palmas sin la menor idea de lo que viene — y de golpe los árboles se abren y ahí está. Una larga curva de arena fina y clara, agua que va del verde al turquesa, y una línea de olas rompiendo desde el mar abierto. Es la playa más famosa de Brasil, conocida en el mundo entero, y se gana cada centímetro de esa fama. Después de la caminata de entrada, llegar se siente menos como alcanzar un destino y más como si la selva te entregara una recompensa que te venía escondiendo todo el camino.
 
-La caminata clásica sigue el **T10** y después el **T11**, saliendo de Abraão y pasando por la **Praia de Palmas** camino a Pouso. Son unos **7,2 km** y **2h30–3h15** solo de ida, según el ritmo, nivel **moderado a difícil**. El tramo del T10 de Abraão a Palmas es hermoso, con la selva tapando el sol; Palmas misma es un gran lugar para una pausa. Después de la lluvia, redoblá el cuidado — resbala.
+> **Ficha rápida.** Caminata clásica T10 + T11 desde Abraão · **~7,2 km** · **2h30–3h15 solo de ida** según el ritmo · **moderada a difícil** · pasa por la Praia de Palmas camino a Pouso · es una **playa de preservación**, salvaje y casi sin infraestructura — llevá tu propia agua y comida · después de la lluvia resbala.
+
+**La jugada inteligente en la que casi nadie piensa: caminar para un lado y volver en barco para el otro.** Hecha entera a pie, Lopes Mendes es un día *completo* — más o menos cinco a seis horas de caminata entre ir y volver, antes de pasar un minuto en la playa. Así que, para casi cualquiera, lo que conviene es entrar caminando por la selva sombreada del T10 (con una pausa en Palmas), disfrutar la playa y volver en barco — o al revés. Dos servicios salen de Abraão — una escuna y un taxi-boat más rápido — y te dejan cerca de Pouso, a una corta **caminata por el T11 (~1 km, 30–40 min)** de la arena. Pedí la pulsera oficial de regreso antes de salir, para que un barco te pase a buscar. No pongo acá las tarifas ni los horarios, así no quedan nunca desactualizados — el detalle completo está en la [guía de playas](/es/playas-ilha-grande/).
 
 📍 [Mirá el recorrido completo en Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
-**Tip de local — la punta desierta.** En vez del T11, podés combinar **T10 + T12** (unos 4 km) y salir en la *punta* de Lopes Mendes — un tramo de playa al que casi nadie llega, que muchas veces vas a tener solo para vos. Para volver, seguí hacia Pouso por el T12, o caminá unos 2 km por la arena y volvé por el T11.
+**Tip de local — la punta desierta.** En vez del T11, combiná T10 + T12 (unos **4 km** hasta la punta) y salí donde casi nadie camina — muchas veces tenés la playa más famosa de Brasil solo para vos: la misma arena fina, la misma agua turquesa, sin la multitud. Para volver, seguí hacia Pouso por el T12, o caminá unos 2 km por la arena y agarrá el T11. En cualquier caso, los barcos recogen del lado de Pouso: planeá tu vuelta por ahí.
+
+### Qué evitar
+
+- **No subestimes la ida y vuelta a pie de día entero.** De los dos lados son cinco a seis horas de sendero antes de cualquier rato de playa. A menos que quieras la caminata larga, caminá para un lado y tomá un barco para el otro.
+- **No te pierdas el último barco.** Salí temprano para llegar a la playa con margen — si entrás a pie y perdés el barco de la vuelta, te volvés caminando, y la selva oscurece rápido.
+- **No te tomes el sendero a la ligera después de la lluvia.** Resbala — bajá el ritmo, sobre todo en las bajadas.
+- **No llegues con las manos vacías.** Llevá al menos 2 litros de agua por persona y tu propia comida: la playa se mantiene salvaje y la arena abierta tiene poca sombra. Y ojo con las olas del mar abierto — suaves, pero es swell de verdad.
 
 ## Dois Rios
 

@@ -46,15 +46,24 @@ Les sentiers sont superbes, mais c'est de la vraie forêt tropicale. Quelques r�
 
 ## Lopes Mendes (T10 + T11)
 
-![Vue aérienne de Lopes Mendes et ses vagues turquoise, la récompense au bout du sentier, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
+![Vue aérienne de la plage de Lopes Mendes et de ses vagues turquoise, la récompense au bout du sentier, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-On a un dicton à la pousada : *« si tu ne sais pas quoi faire aujourd'hui, va à Lopes Mendes. »* C'est la plage la plus emblématique de l'île — célèbre dans tout le Brésil et reconnue dans le monde entier — et un programme parfait pour une journée entière, accessible à presque tout le monde.
+On a un dicton à la pousada : *« si tu ne sais pas quoi faire aujourd'hui, va à Lopes Mendes. »* Vous marchez des heures sous l'ombre de la forêt, les arbres se referment au-dessus du chemin, vous faites une pause à Palmas sans rien deviner de ce qui vient — et puis les arbres s'écartent et la voilà. Un long ruban de sable fin et pâle, une eau qui passe du vert au turquoise, et une ligne de vagues qui déroule depuis le large. C'est la plage la plus célèbre du Brésil, connue dans le monde entier, et elle mérite chaque mot de sa réputation. Après la marche pour y arriver, l'arrivée ressemble moins à atteindre une destination qu'à recevoir de la forêt une récompense qu'elle vous cachait depuis le début.
 
-La marche classique suit le **T10** puis le **T11**, depuis Abraão et en passant par la **Praia de Palmas** vers Pouso. Environ **7,2 km** et **2h30–3h15** à l'aller selon l'allure, niveau **modéré à difficile**. La portion T10 d'Abraão à Palmas est magnifique, à l'ombre de la forêt ; Palmas elle-même est un bel endroit pour faire une pause. Après la pluie, redoublez de prudence — ça glisse.
+> **L'essentiel en bref.** Marche classique T10 + T11 depuis Abraão · **~7,2 km** · **2h30–3h15 à l'aller** selon l'allure · **modérée à difficile** · passe par la Praia de Palmas en chemin vers Pouso · c'est une **plage de préservation**, gardée sauvage et quasiment sans aménagement — emportez votre propre eau et de quoi manger · après la pluie, ça glisse.
+
+**Le bon plan auquel on ne pense pas : marcher dans un sens, le bateau dans l'autre.** Faite entièrement à pied, Lopes Mendes occupe une journée *entière* — environ cinq à six heures de marche aller-retour, avant d'avoir passé la moindre minute sur la plage. Pour presque tout le monde, le mouvement est donc de marcher à l'aller par la forêt ombragée du T10 (avec la pause à Palmas), de profiter de la plage, et de rentrer en bateau — ou l'inverse. Deux services partent d'Abraão — une goélette (escuna) et un bateau-taxi plus rapide — et vous déposent près de Pouso, à une courte **marche T11 (~1 km, 30–40 min)** du sable. Récupérez le bracelet officiel de retour avant de partir pour qu'un bateau vienne vous chercher. Je ne mets pas ici les tarifs ni les horaires, pour qu'ils ne deviennent jamais obsolètes — tout le détail se trouve dans le [guide des plages](/fr/plages-ilha-grande/).
 
 📍 [Voir l'itinéraire complet sur Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
-**Astuce de local — le bout désert.** Au lieu du T11, vous pouvez combiner le **T10 + T12** (environ 4 km) et déboucher à l'*extrémité* de Lopes Mendes — une portion de plage où presque personne ne va, que vous aurez souvent pour vous seul. Pour rentrer, repartez vers Pouso par le T12, ou marchez environ 2 km sur le sable et revenez par le T11.
+**Astuce de local — le bout désert.** Au lieu du T11, combinez T10 + T12 (environ **4 km** jusqu'à l'extrémité) et débouchez là où presque personne ne va à pied — vous avez souvent la plage la plus célèbre du Brésil rien que pour vous : même sable fin, même eau turquoise, sans la foule. Pour rentrer, repartez vers Pouso par le T12, ou marchez environ 2 km sur le sable et reprenez le T11. Dans les deux cas, les bateaux récupèrent côté Pouso : prévoyez votre retour là-bas.
+
+### À éviter
+
+- **Ne sous-estimez pas l'aller-retour à pied sur une journée entière.** Dans les deux sens, c'est cinq à six heures de sentier avant le moindre temps de plage. À moins de vouloir la longue randonnée, marchez dans un sens et prenez un bateau dans l'autre.
+- **Ne ratez pas le dernier bateau.** Partez tôt pour arriver à la plage avec de la marge — si vous entrez à pied et manquez le bateau du retour, c'est la marche du retour, et la forêt s'assombrit vite.
+- **Ne prenez pas le sentier à la légère après la pluie.** Ça glisse — ralentissez, surtout dans les descentes.
+- **N'arrivez pas les mains vides.** Emportez au moins 2 litres d'eau par personne et votre propre nourriture : la plage est gardée sauvage et le sable ouvert offre peu d'ombre. Et méfiez-vous des vagues du large — douces, mais bien réelles.
 
 ## Dois Rios
 

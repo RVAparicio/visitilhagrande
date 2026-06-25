@@ -48,13 +48,22 @@ The trails are wonderful but it is still real rainforest. A few things that matt
 
 ![Aerial of Lopes Mendes beach with turquoise surf, the reward at the end of the trail, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* It's the island's most iconic beach — famous across Brazil and known worldwide — and a perfect full-day plan for almost anyone.
+We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* You walk for hours through shaded forest, the trees close over the path, you pause at Palmas with no idea of what's coming — and then the trees fall away and there it is. A long sweep of fine, pale sand, water that runs from green to turquoise, and a line of surf rolling in off the open sea. It's the most famous beach in Brazil, known the world over, and it earns every bit of it. After the walk in, arriving feels less like reaching a destination and more like the forest handing you a reward it had been hiding the whole way.
 
-The classic walk follows **T10** then **T11**, starting in Abraão and passing **Praia de Palmas** on the way to Pouso. It's about **7.2 km** and **2h30–3h15** one way depending on your pace, rated **moderate to hard**. The T10 stretch from Abraão to Palmas is beautiful, shaded by forest; Palmas itself is a lovely place to pause. After rain, take extra care — it gets slippery.
+> **Quick facts.** Classic walk T10 + T11 from Abraão · **~7.2 km** · **2h30–3h15 one way** depending on pace · **moderate to hard** · passes Praia de Palmas on the way to Pouso · it's a **preservation beach**, kept wild with almost no development — carry your own water and food · after rain it gets slippery.
+
+**The smart play most people don't think of: walk one way, boat the other.** Done entirely on foot, Lopes Mendes is a *full* day — roughly five to six hours of walking there and back, before you've spent any time on the beach. So for almost anyone, the move is to walk in through the shaded T10 forest (pausing at Palmas), enjoy the beach, and come back by boat — or the reverse. Two services run from Abraão — a schooner (escuna) and a faster taxi-boat — dropping you near Pouso, a short **T11 walk (~1 km, 30–40 min)** from the sand. Pick up the official return wristband before you set off so a boat collects you. I'm keeping the fares and times out of here so they never go stale — the full breakdown lives in the [beaches guide](/ilha-grande-beaches/).
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abrao-x-lopes-mendes-192228271)
 
-**Local tip — the deserted end.** Instead of T11, you can combine **T10 + T12** (about 4 km) and come out at the *far end* of Lopes Mendes — a stretch of beach that almost nobody walks to, so you often have it to yourself. To get back, either return towards Pouso along T12, or walk about 2 km along the sand and return on T11.
+**Local tip — the deserted end.** Instead of T11, combine T10 + T12 (about **4 km** to the far end) and come out where almost nobody walks — so you often have the most famous beach in Brazil to yourself: same fine sand, same turquoise water, just without the crowd. To get back, return towards Pouso along T12, or walk about 2 km along the sand and pick up T11. Either way the boats collect from the Pouso side, so plan your pickup there.
+
+### What to avoid
+
+- **Don't underestimate the full-day round trip on foot.** Both ways it's five to six hours of trail before any beach time. Unless you want the long hike, walk one way and take a boat the other.
+- **Don't miss the last boat.** Start early so you reach the beach with plenty of margin — if you walk in and miss the return boat, you're walking back, and the forest gets dark fast.
+- **Don't take the trail lightly after rain.** It gets slippery — slow down, especially on the descents.
+- **Don't arrive empty-handed.** Carry at least 2 litres of water per person and your own food: the beach is kept wild and the open sand has little shade. And mind the open-sea surf — it's gentle but it's real swell.
 
 ## Dois Rios
 
