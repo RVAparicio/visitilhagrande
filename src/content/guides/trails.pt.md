@@ -58,15 +58,27 @@ A caminhada clássica segue a **T10** e depois a **T11**, saindo do Abraão e pa
 
 ## Dois Rios
 
-![Vista aérea das ruínas do antigo presídio Cândido Mendes em Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
+![Vista aérea das ruínas do antigo presídio Cândido Mendes, em Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
-A caminhada até a **Praia de Dois Rios** mistura história, natureza e um pouco de aventura. A pé é a trilha **T14** (Abraão → Praia de Dois Rios), que segue a estrada usada pelos veículos da universidade (UERJ) — bem sinalizada, cerca de **7 km**, levando uns **2,5 horas** por praias, mata e morros.
+> **Resumo rápido.** Trilha **T14** · **~7,2 km** cada trecho · cerca de **2h30 só na ida** (~5 h ida e volta a pé) · altitude máxima de apenas **235 m** · funciona com **qualquer tempo** · **nenhum serviço no caminho** — leve a sua própria água · **saia de Dois Rios até as 15h30** para a volta.
 
-Ao chegar, você encontra um vilarejo quase desabitado, o **museu da antiga prisão** (a fachada de uma das cadeias mais infames do Brasil), prédios da universidade aos poucos sendo tomados pela mata — e uma praia paradisíaca emoldurada pelos **dois rios de água doce** que dão nome ao lugar.
+**O lugar que eu recomendo acima de todos os outros na ilha.** Você vence a última subida e tudo simplesmente se abre lá embaixo: uma praia de mais de um quilômetro, abrigada no fundo de uma baía profunda, quase sempre coroada pela sua própria faixa de nuvem baixa — um capricho do tempo que, em todos os meus anos aqui, eu só vi em Dois Rios. Dois rios escuros, tingidos de tanino na cor de refrigerante (os moradores chamam de "rios de Coca-Cola"), descem da floresta e encontram o mar bem aqui — duas fozes, *dois rios*, e aí está o nome. Espalhado pela areia, um povoado minúsculo e meio abandonado, onde a Mata Atlântica e o Atlântico vão engolindo o concreto em silêncio: casas vazias, paredes rachadas, trepadeiras entrando pelas janelas. Se você já jogou **Uncharted 4**, já conhece a sensação.
 
-Saia **antes das 8h e volte por volta das 15h30**: os barcos de volta para o Abraão não são garantidos e, quando há, podem sair caro. Leve água e comida para o almoço.
+É também um lugar de passado fora do comum. **Uma plantação de café, depois uma vasta *fazenda*, depois uma das prisões mais infames do Brasil** — e é um dos pouquíssimos lugares do planeta resgatado *de* ser uma prisão (e de virar um resort de turismo de massa) e, em vez disso, mantido meticulosamente preservado. **O presídio foi demolido em 1994 e transformado em museu.** Todo o terreno pertence à **UERJ**, a Universidade do Estado do Rio de Janeiro, de modo que ninguém pode se instalar, morar ou comprar um lote aqui — as poucas famílias que restam são herdeiras dos antigos guardas, ainda cuidando da sua herança. **Conta-se que jacarés já foram soltos nos rios** para desencorajar as fugas pela água; no fim, dizem, o povo acabou comendo os jacarés. Quando você chega, a polícia penal que ainda fica por aqui faz uma checagem discreta. Pouquíssimos viajantes chegam até tão longe.
+
+**Como chegar.** Do Abraão, pegue a **Estrada de Dois Rios** e simplesmente siga em frente — é toda a navegação que você precisa. É uma estrada larga de terra cravada na montanha, construída na época do presídio para levar funcionários e presos de caminhão e micro-ônibus. Não se assuste com os avisos abaixo: é larga e mais ou menos plana, chegando no máximo a 235 m — nada de escalada, e qualquer caminhante em forma razoável dá conta. Quando você chega, a comida é **caiçara** — os pescadores cozinham o que pescam; você come com os dois rios cor de refrigerante desaguando no mar dos dois lados e a mata avançando sobre as casas vazias atrás de você.
+
+> **O que ninguém te avisa: a volta.** A pé, Dois Rios é um dia *inteiro* — cerca de **2h30 cada trecho, algo como 5 horas de caminhada** no total. **Não existe barco com horário marcado de volta para o Abraão.** Às vezes aparece um barco informal, mas é caro — uns **R$150–R$200 por pessoa** (com sorte, várias pessoas dividindo, talvez ~R$100). E aquele suposto barco das **16h30** **não é garantido**: se não juntar dinheiro suficiente para o combustível, ele simplesmente não sai, mesmo com duas pessoas implorando. Então planeje voltar a pé e **saia de Dois Rios até as 15h30, no máximo** — uma hora antes da partida hipotética do barco — ou o escuro te pega na trilha.
+>
+> **Um dia simples que funciona:** saia do Abraão por volta das **8h00** → chega ~**10h30** → algumas horas na praia e no museu → comece a voltar até as **15h30** → de volta no Abraão ~**18h00**, com luz do dia. Leve água e comida suficientes para o dia todo — não há onde reabastecer nem comprar no caminho.
 
 📍 [Veja o trajeto completo no Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143)
+
+### O que evitar
+
+- **Não pegue "o atalho".** A antiga trilha indígena corre paralela à estrada de terra — uns 3,2 km mais curta, e tentadora justamente por isso — mas não é mais limpa, então está tomada pelo mato e praticamente intransitável. Fique na estrada larga e siga sempre em frente.
+- **Não conte com barco de volta.** Trate qualquer carona de volta como bônus, nunca como o seu plano (veja o quadro da volta acima).
+- **Não deixe para tarde.** Saia a pé até as 15h30 — mais tarde e você vai estar na trilha depois de escurecer, sem nenhum serviço e sem saída fácil.
 
 ## Feiticeira
 

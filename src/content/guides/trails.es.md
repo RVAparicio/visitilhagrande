@@ -60,13 +60,25 @@ La caminata clásica sigue el **T10** y después el **T11**, saliendo de Abraão
 
 ![Vista aérea de las ruinas del antiguo presidio Cândido Mendes en Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
-La caminata hasta la **Praia de Dois Rios** mezcla historia, naturaleza y algo de aventura. A pie es el sendero **T14** (Abraão → Praia de Dois Rios), que sigue el camino que usan los vehículos de la universidad (UERJ) — bien señalizado, unos **7 km**, que llevan cerca de **2,5 horas** por playas, selva y cerros.
+> **Ficha rápida.** Sendero **T14** · **~7,2 km** cada tramo · cerca de **2h30 de ida** (~5 h ida y vuelta a pie) · altitud máxima de apenas **235 m** · funciona con **cualquier clima** · **sin servicios en el camino** — llevá tu propia agua · **salí de Dois Rios antes de las 15:30** para la vuelta.
 
-Al llegar encontrás un pueblo casi deshabitado, el **museo de la antigua prisión** (la fachada de una de las cárceles más infames de Brasil), edificios de la universidad que la selva va reclamando — y una playa paradisíaca enmarcada por los **dos ríos de agua dulce** que le dan el nombre.
+**El lugar que recomiendo por encima de todos los demás en la isla.** Coronás la última subida y todo se abre debajo tuyo de golpe: una playa de más de un kilómetro, abrazada por una bahía honda y protegida, casi siempre coronada por su propia franja de nubes bajas — un truco del clima que, en todos mis años acá, solo vi en Dois Rios. Dos ríos oscuros, teñidos de tanino del color de la cola (los locales les dicen los ríos "Coca-Cola"), bajan de la selva y se encuentran con el mar justo acá — dos desembocaduras, *dos ríos*, y ahí tenés el nombre. Desperdigado por la arena, un caserío diminuto y medio abandonado donde la Mata Atlântica y el Atlántico se van tragando el cemento en silencio: casas vacías, paredes rajadas, enredaderas que entran por las ventanas. Si jugaste **Uncharted 4**, ya sabés la sensación.
 
-Salí **antes de las 8h y volvé cerca de las 15:30**: los barcos de vuelta a Abraão no están garantizados y, cuando hay, pueden ser caros. Llevá agua y comida para el almuerzo.
+Es, además, un sitio con un pasado fuera de lo común. **Una plantación de café, después una enorme *fazenda*, después una de las prisiones más infames de Brasil** — y es uno de los poquísimos puntos del planeta rescatado *de* ser una cárcel (y de convertirse en un resort de turismo masivo) y que, en cambio, se conservó con esmero. **La cárcel fue demolida en 1994 y transformada en museo.** Todo el predio pertenece a la **UERJ**, la Universidad del Estado de Río de Janeiro, de modo que nadie puede instalarse, vivir ni comprar un terreno acá — las pocas familias que quedan son herederas de los antiguos guardias, todavía custodiando su patrimonio. **Cuenta la historia que alguna vez soltaron caimanes en los ríos** para desalentar las fugas por agua; al final, según dicen, la gente terminó comiéndose a los caimanes. Cuando llegás, la policía penal que todavía está apostada acá te hace un registro tranquilo. Muy pocos viajeros llegan tan lejos.
+
+**Cómo llegar.** Desde Abraão tomás la **Estrada de Dois Rios** y simplemente seguís derecho — esa es toda la navegación. Es un camino ancho de ripio tallado en la montaña, construido en la época de la prisión para mover personal y presos en camión y minibús. No te asustes con las advertencias de abajo: es ancho y bastante plano, con un máximo de apenas 235 m — nada de trepar, y cualquier caminante en forma razonable lo hace. Cuando llegás, la comida es **caiçara** — los pescadores cocinan lo que pescan; comés con los dos ríos color cola desembocando en el mar a cada lado y la selva avanzando sobre las casas vacías a tus espaldas.
+
+> **Lo que nadie te advierte: la vuelta.** A pie, Dois Rios es un día *entero* — unas **2h30 cada tramo, cerca de 5 horas de caminata** en total. **No hay barco con horario de vuelta a Abraão.** A veces sale un barco informal, pero es caro — alrededor de **R$150–R$200 por persona** (con suerte, dividiendo entre varios, quizás ~R$100). Y ese barco nominal de las **~16:30** **no está garantizado**: si no junta plata suficiente para el combustible, simplemente no sale, aunque dos personas le rueguen. Así que planeá volver a pie y **salí de Dois Rios a las 15:30 a más tardar** — una hora antes de la supuesta salida del barco — o la oscuridad te agarra en el sendero.
+>
+> **Un día simple que funciona:** salí de Abraão a las **8:00** → llegás ~**10:30** → unas horas en la playa y en el museo → empezá a volver a las **15:30** → de regreso en Abraão ~**18:00**, con luz de día. Llevá agua y comida suficientes para todo el día — no hay dónde reabastecerse ni comprar en el camino.
 
 📍 [Mirá el recorrido completo en Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143)
+
+### Qué evitar
+
+- **No tomes "el atajo".** El sendero indígena original corre paralelo al camino de ripio — unos 3,2 km más corto, y tentador justamente por eso — pero ya no se limpia, así que está tapado de vegetación y es prácticamente intransitable. Quedate en el camino ancho y seguí derecho.
+- **No cuentes con un barco de vuelta.** Tomá cualquier vuelta en barco como un extra, nunca como tu plan (ver el recuadro de la vuelta arriba).
+- **No te demores.** Salí a pie antes de las 15:30 — más tarde y vas a estar en el sendero después del anochecer, sin servicios y sin una salida fácil.
 
 ## Feiticeira
 

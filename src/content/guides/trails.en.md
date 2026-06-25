@@ -60,13 +60,25 @@ The classic walk follows **T10** then **T11**, starting in Abraão and passing *
 
 ![Aerial of the abandoned Cândido Mendes prison ruins at Dois Rios, Ilha Grande](../../assets/dois-rios-prison-ruins-ilha-grande.jpg)
 
-The walk to **Praia de Dois Rios** mixes history, nature and a little adventure. On foot it's trail **T14** (Abraão → Praia de Dois Rios), following the road used by the university (UERJ) vehicles — well signed, about **7 km**, taking around **2.5 hours** through beaches, forest and hills.
+> **Quick facts.** Trail **T14** · **~7.2 km** each way · about **2h30 one way** (~5 h round trip on foot) · max altitude only **235 m** · works in **any weather** · **no services on the route** — carry your own water · **leave Dois Rios by 15:30** for the walk back.
 
-At the end you reach an almost-abandoned village, the **museum of the old prison** (the façade of one of Brazil's most infamous jails), university buildings slowly being reclaimed by the forest — and a paradisiacal beach framed by the **two freshwater rivers** that give it its name.
+**The single place I recommend above all others on the island.** You come over the last rise and it just opens beneath you: a beach more than a kilometre long, held in a deep, sheltering bay, almost always crowned by its own band of low cloud — a trick of weather that, in all my years here, I've only ever seen at Dois Rios. Two dark rivers, tannin-stained the colour of cola (the locals call them the "Coca-Cola rivers"), run down out of the forest and meet the sea right here — two river mouths, *two rivers*, and there's your name. Scattered along the sand is a tiny, half-abandoned hamlet where the Mata Atlântica and the Atlantic are quietly swallowing the concrete: empty houses, cracked walls, vines through the windows. If you've played **Uncharted 4**, you already know the feeling.
 
-Start **before 8am and head back by ~15:30**: boats back to Abraão aren't guaranteed, and when they exist they can be expensive. Bring water and food for the day.
+It's also a place with an unusual past. **A coffee plantation, then a vast *fazenda*, then one of Brazil's most infamous prisons** — and it's one of the very few spots on earth reclaimed *from* being a prison (and from becoming a mass-tourism resort) and kept, instead, meticulously preserved. **The jail was demolished in 1994 and turned into a museum.** The whole site belongs to **UERJ**, the State University of Rio de Janeiro, so no one can settle, live or buy a plot here — the few families who remain are heirs of the old prison guards, still guarding their heritage. **The story goes that caimans were once released into the rivers** to discourage prisoners from escaping by water; in the end, so they say, the people ended up eating the caimans. When you arrive, the penal police still posted here do a quiet check-in. Very few travellers ever make it out this far.
+
+**Getting there.** From Abraão take the **Estrada de Dois Rios** and simply keep going straight — that's the whole navigation. It's a wide gravel road cut into the mountain, built in the prison era to move staff and prisoners by truck and minibus. Don't let the warnings below scare you off: it's wide and flat-ish, topping out at only 235 m — no scramble, and any reasonably fit walker can do it. When you arrive, the food is **caiçara** — the fishermen cook what they catch; you eat with the two cola-dark rivers spilling into the sea on either side and the jungle pressing in on the empty houses behind you.
+
+> **The thing nobody warns you about: getting back.** On foot, Dois Rios is a *full* day — about **2h30 each way, roughly 5 hours of walking** all told. There is **no scheduled boat back to Abraão.** Sometimes an informal boat runs, but it's expensive — around **R$150–R$200 per person** (with luck, several people splitting it, maybe ~R$100). And that nominal **~4:30 PM** boat is **not guaranteed**: if it can't gather enough money for fuel, it simply won't leave, even with two people begging it to. So plan to walk back, and **leave Dois Rios by 15:30 at the latest** — one hour before the boat's notional departure — or darkness will catch you on the trail.
+>
+> **A simple day that works:** leave Abraão ~**08:00** → arrive ~**10:30** → a few hours on the beach and at the museum → start walking back by **15:30** → back in Abraão ~**18:00**, in daylight. Carry enough water and food for the whole day — there's nowhere to refill or buy along the way.
 
 📍 [See the full route on Wikiloc](https://pt.wikiloc.com/trilhas-trekking/abraao-x-dois-rios-100261143)
+
+### What to avoid
+
+- **Don't take "the shortcut."** The original indigenous footpath runs alongside the gravel road — about 3.2 km shorter, and tempting for it — but it's no longer cleared, so it's overgrown and effectively impassable. Stick to the wide road and keep straight.
+- **Don't count on a boat home.** Treat any lift back as a bonus, never your plan (see the return box above).
+- **Don't leave it late.** Walk out by 15:30 — later and you'll be on the trail after dark, with no services and no easy way out.
 
 ## Feiticeira
 
