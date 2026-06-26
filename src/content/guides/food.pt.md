@@ -5,7 +5,7 @@ lang: "pt"
 slug: "onde-comer-ilha-grande"
 translationKey: "food"
 updatedDate: 2026-06-25
-author: "Richard"
+author: "Ricardo Aparicio"
 ---
 
 Comer fora faz parte da diversão na Ilha Grande — embora seja **bem mais caro do que no continente**, já que tudo chega de barco, comida inclusive. Não vou te entregar um catálogo: só os **dois lugares para onde eu realmente mandaria você**, um que cabe no bolso e outro para se dar um agrado. Você acha os dois no **Google Maps** — nem precisa de endereço.

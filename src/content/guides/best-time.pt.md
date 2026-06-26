@@ -5,7 +5,7 @@ lang: "pt"
 slug: "melhor-epoca-ilha-grande"
 translationKey: "best-time"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Qual é o melhor mês para visitar a Ilha Grande?"
     a: "Para o melhor equilíbrio entre calor, tranquilidade e preços menores, mire nos meses de baixa — de abril a junho e de setembro a novembro. Um favorito local é março: ainda quente e com clima de verão, mas depois do Carnaval, quando as chuvas diminuem e os preços caem. Dia de semana é sempre mais tranquilo que fim de semana."

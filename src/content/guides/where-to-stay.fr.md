@@ -5,7 +5,7 @@ lang: "fr"
 slug: "ou-dormir-ilha-grande"
 translationKey: "where-to-stay"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Où faut-il dormir à Ilha Grande ?"
     a: "Presque tout le monde loge à Vila do Abraão, le village principal de l'île, où arrivent les bateaux. À l'intérieur, le côté ouest pavé est le plus pratique avec des bagages ; le côté centre-est est moins cher mais non pavé et s'inonde quand il pleut."

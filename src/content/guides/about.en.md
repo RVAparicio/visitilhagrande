@@ -1,21 +1,21 @@
 ---
 title: "About This Guide — Who Writes It"
-description: "Who is behind Visit Ilha Grande: Richard, who lives on the island and runs Pousada CostaVerde in Vila do Abraão — written openly, with full disclosure."
+description: "Who is behind Visit Ilha Grande: Ricardo Aparicio, who lives on the island and runs Pousada CostaVerde in Vila do Abraão — written openly, with full disclosure."
 lang: "en"
 slug: "about"
 translationKey: "about"
 updatedDate: 2026-06-23
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Who writes this guide?"
-    a: "Richard — I live on Ilha Grande and run a small pousada, Pousada CostaVerde, in Vila do Abraão. Everything here is based on living here year-round, not on second-hand research."
+    a: "Ricardo — I live on Ilha Grande and run a small pousada, Pousada CostaVerde, in Vila do Abraão. Everything here is based on living here year-round, not on second-hand research."
   - q: "Is this guide independent from your pousada?"
     a: "The guide is its own thing: it's here to help you plan a great trip to Ilha Grande, whether or not you ever stay with me. When I mention CostaVerde — mainly on the 'where to stay' page — I say so clearly. Recommendations come from local experience, not commissions."
   - q: "How can I get in touch?"
     a: "Use the contact form below. I'm happy to answer questions about getting to the island, the trails, the boats or the best time to come."
 ---
 
-Hi — I'm **Richard**. I live on **Ilha Grande**, and I run a small pousada, **Pousada CostaVerde**, in Vila do Abraão. This guide is my attempt to share the island the way a local actually knows it: how to get here, where the good beaches and trails are, when to come, and the small things that make a trip easier.
+Hi — I'm **Ricardo**. I live on **Ilha Grande**, and I run a small pousada, **Pousada CostaVerde**, in Vila do Abraão. This guide is my attempt to share the island the way a local actually knows it: how to get here, where the good beaches and trails are, when to come, and the small things that make a trip easier.
 
 ## My story
 

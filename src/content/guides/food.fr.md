@@ -5,7 +5,7 @@ lang: "fr"
 slug: "ou-manger-ilha-grande"
 translationKey: "food"
 updatedDate: 2026-06-25
-author: "Richard"
+author: "Ricardo Aparicio"
 ---
 
 Manger au restaurant fait partie du plaisir à Ilha Grande — même si c'est **nettement plus cher que sur le continent**, puisque tout arrive par bateau, la nourriture comprise. Je ne vais pas vous tendre un annuaire : juste les **deux adresses où je vous enverrais vraiment**, une douce pour le budget et une pour vous faire plaisir. Vous trouverez les deux sur **Google Maps** — pas besoin d'adresse.

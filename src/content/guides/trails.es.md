@@ -5,7 +5,7 @@ lang: "es"
 slug: "senderos-ilha-grande"
 translationKey: "trails"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "¿Hay que pagar para hacer los senderos en Ilha Grande?"
     a: "No. Los senderos son gratuitos. Cruzan el Parque Estadual da Ilha Grande (un área protegida): solo seguís los caminos señalizados, respetás la señalización y te llevás tu basura."

@@ -5,7 +5,7 @@ lang: "en"
 slug: "where-to-eat-ilha-grande"
 translationKey: "food"
 updatedDate: 2026-06-25
-author: "Richard"
+author: "Ricardo Aparicio"
 ---
 
 Eating out on Ilha Grande is part of the fun — though it's **noticeably pricier than the mainland**, since everything arrives by boat, food included. I'm not going to hand you a directory: just the **two places I'd actually send you to**, one easy on the budget and one to treat yourselves. You'll find both on **Google Maps** — no need for an address.

@@ -5,7 +5,7 @@ lang: "fr"
 slug: "infos-pratiques-ilha-grande"
 translationKey: "faq"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Y a-t-il des distributeurs (ATM) à Ilha Grande ?"
     a: "Non. Il n'y a ni distributeurs ni banques à Vila do Abraão. Les cartes sont largement acceptées dans les restaurants, les boutiques et les sorties en bateau, et le PIX est très répandu : vous pouvez vous passer de beaucoup d'espèces — mais prévoyez un peu de liquide en secours et retirez sur le continent avant d'arriver."

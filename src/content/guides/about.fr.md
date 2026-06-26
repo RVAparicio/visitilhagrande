@@ -1,21 +1,21 @@
 ---
 title: "À propos de ce guide — qui l'écrit"
-description: "Qui se cache derrière Visit Ilha Grande : Richard, qui vit sur l'île et gère la Pousada CostaVerde à Vila do Abraão — écrit en toute transparence."
+description: "Qui se cache derrière Visit Ilha Grande : Ricardo Aparicio, qui vit sur l'île et gère la Pousada CostaVerde à Vila do Abraão — écrit en toute transparence."
 lang: "fr"
 slug: "a-propos"
 translationKey: "about"
 updatedDate: 2026-06-23
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Qui écrit ce guide ?"
-    a: "Richard — je vis à Ilha Grande et je gère une petite pousada, la Pousada CostaVerde, à Vila do Abraão. Tout ici repose sur le fait d'y vivre toute l'année, pas sur des recherches de seconde main."
+    a: "Ricardo — je vis à Ilha Grande et je gère une petite pousada, la Pousada CostaVerde, à Vila do Abraão. Tout ici repose sur le fait d'y vivre toute l'année, pas sur des recherches de seconde main."
   - q: "Ce guide est-il indépendant de votre pousada ?"
     a: "Le guide est une chose à part : il est là pour vous aider à préparer un beau voyage à Ilha Grande, que vous séjourniez chez moi ou non. Quand je mentionne CostaVerde — surtout sur la page « où dormir » — je le dis clairement. Les recommandations viennent de l'expérience locale, pas de commissions."
   - q: "Comment vous contacter ?"
     a: "Utilisez le formulaire de contact ci-dessous. Je serai ravi de répondre à vos questions sur l'accès à l'île, les sentiers, les bateaux ou la meilleure période pour venir."
 ---
 
-Bonjour — je suis **Richard**. Je vis à **Ilha Grande** et je gère une petite pousada, la **Pousada CostaVerde**, à Vila do Abraão. Ce guide est ma façon de partager l'île telle qu'un local la connaît vraiment : comment venir, où sont les belles plages et les sentiers, quand venir, et les petits détails qui facilitent le voyage.
+Bonjour — je suis **Ricardo**. Je vis à **Ilha Grande** et je gère une petite pousada, la **Pousada CostaVerde**, à Vila do Abraão. Ce guide est ma façon de partager l'île telle qu'un local la connaît vraiment : comment venir, où sont les belles plages et les sentiers, quand venir, et les petits détails qui facilitent le voyage.
 
 ## Mon histoire
 

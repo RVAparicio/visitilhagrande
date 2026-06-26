@@ -5,7 +5,7 @@ lang: "pt"
 slug: "dicas-praticas-ilha-grande"
 translationKey: "faq"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Tem caixa eletrônico na Ilha Grande?"
     a: "Não. Não há caixas eletrônicos nem bancos na Vila do Abraão. Cartões são amplamente aceitos em restaurantes, lojas e passeios de barco, e o PIX é muito popular: dá para se virar com pouco dinheiro vivo — mas leve um pouco de reserva e resolva o dinheiro no continente antes de chegar."

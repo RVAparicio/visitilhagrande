@@ -5,7 +5,7 @@ lang: "es"
 slug: "info-practica-ilha-grande"
 translationKey: "faq"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "¿Hay cajeros automáticos en Ilha Grande?"
     a: "No. No hay cajeros ni bancos en Vila do Abraão. Las tarjetas se aceptan en restaurantes, tiendas y paseos en barco, y el PIX es muy popular: podés arreglártelas sin mucho efectivo — pero llevá algo de reserva y resolvé el dinero en el continente antes de llegar."

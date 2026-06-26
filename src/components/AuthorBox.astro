@@ -12,14 +12,14 @@ interface Props {
   author?: string;
 }
 
-const { lang, author = 'Richard' } = Astro.props;
+const { lang, author = 'Ricardo Aparicio' } = Astro.props;
 const aboutPath = localizedPath(lang, routes.about[lang]);
 
 const avatarAlt: Record<Lang, string> = {
-  en: 'Richard, author of the Visit Ilha Grande guide and a resident of the island.',
-  fr: "Richard, auteur du guide Visit Ilha Grande et résident de l'île.",
-  pt: 'Richard, autor do guia Visit Ilha Grande e morador da ilha.',
-  es: 'Richard, autor de la guía Visit Ilha Grande y residente de la isla.',
+  en: 'Ricardo Aparicio, author of the Visit Ilha Grande guide and a resident of the island.',
+  fr: "Ricardo Aparicio, auteur du guide Visit Ilha Grande et résident de l'île.",
+  pt: 'Ricardo Aparicio, autor do guia Visit Ilha Grande e morador da ilha.',
+  es: 'Ricardo Aparicio, autor de la guía Visit Ilha Grande y residente de la isla.',
 };
 ---
 <aside class="author-box">

@@ -5,7 +5,7 @@ lang: "pt"
 slug: "onde-ficar-ilha-grande"
 translationKey: "where-to-stay"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Onde ficar na Ilha Grande?"
     a: "Quase todo mundo se hospeda na Vila do Abraão, o vilarejo principal da ilha, onde os barcos chegam. Dentro dela, o lado oeste calçado é o mais fácil com bagagem; o lado centro-leste é mais barato, mas sem calçamento e alaga quando chove."

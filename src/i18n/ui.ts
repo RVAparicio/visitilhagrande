@@ -46,7 +46,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     author_prefix: 'Written by',
     author_bio: 'Lives on Ilha Grande · runs Pousada CostaVerde · listed in Lonely Planet',
     footer_disclosure:
-      'This guide is written and kept up to date by Richard, who lives on Ilha Grande and runs Pousada CostaVerde. Recommendations come from local, first-hand experience.',
+      'This guide is written and kept up to date by Ricardo Aparicio, who lives on Ilha Grande and runs Pousada CostaVerde. Recommendations come from local, first-hand experience.',
   },
   fr: {
     nav_home: 'Accueil',
@@ -69,7 +69,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     author_prefix: 'Écrit par',
     author_bio: 'Vit à Ilha Grande · gère la Pousada CostaVerde · cité dans le Lonely Planet',
     footer_disclosure:
-      "Ce guide est rédigé et tenu à jour par Richard, qui vit à Ilha Grande et gère la Pousada CostaVerde. Les recommandations reposent sur une expérience locale et de première main.",
+      "Ce guide est rédigé et tenu à jour par Ricardo Aparicio, qui vit à Ilha Grande et gère la Pousada CostaVerde. Les recommandations reposent sur une expérience locale et de première main.",
   },
   pt: {
     nav_home: 'Início',
@@ -92,7 +92,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     author_prefix: 'Escrito por',
     author_bio: 'Mora na Ilha Grande · administra a Pousada CostaVerde · citado no Lonely Planet',
     footer_disclosure:
-      'Este guia é escrito e mantido por Richard, que mora na Ilha Grande e administra a Pousada CostaVerde. As recomendações vêm da experiência local, em primeira mão.',
+      'Este guia é escrito e mantido por Ricardo Aparicio, que mora na Ilha Grande e administra a Pousada CostaVerde. As recomendações vêm da experiência local, em primeira mão.',
   },
   es: {
     nav_home: 'Inicio',
@@ -115,7 +115,7 @@ export const ui: Record<Lang, Record<UIKey, string>> = {
     author_prefix: 'Escrito por',
     author_bio: 'Vive en Ilha Grande · gestiona la Pousada CostaVerde · citado en Lonely Planet',
     footer_disclosure:
-      'Esta guía la escribe y mantiene Richard, que vive en Ilha Grande y gestiona la Pousada CostaVerde. Las recomendaciones surgen de la experiencia local, de primera mano.',
+      'Esta guía la escribe y mantiene Ricardo Aparicio, que vive en Ilha Grande y gestiona la Pousada CostaVerde. Las recomendaciones surgen de la experiencia local, de primera mano.',
   },
 };
 

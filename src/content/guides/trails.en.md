@@ -5,7 +5,7 @@ lang: "en"
 slug: "ilha-grande-trails"
 translationKey: "trails"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Do you have to pay to hike on Ilha Grande?"
     a: "No. The trails are free. They cross the Ilha Grande State Park (a protected area), so you simply follow the marked paths — just respect the signage and carry out your rubbish."

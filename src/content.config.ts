@@ -23,7 +23,7 @@ const baseFields = {
   // Las 4 traducciones comparten el MISMO translationKey.
   translationKey: z.string(),
   updatedDate: z.coerce.date(),
-  author: z.string().default('Richard'),
+  author: z.string().default('Ricardo Aparicio'),
   faq: z.array(faqItem).optional(),
   // Si está en true, no se publica (sirve para borradores).
   draft: z.boolean().default(false),

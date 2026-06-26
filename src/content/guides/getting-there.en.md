@@ -5,7 +5,7 @@ lang: "en"
 slug: "how-to-get-to-ilha-grande"
 translationKey: "getting-there"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Is there a bridge or an airport on Ilha Grande?"
     a: "No. The island has no cars, no bridges and no airport. You can only reach it by boat, arriving at the pier in Vila do Abraão, the main village."
@@ -122,4 +122,4 @@ Mangaratiba is the **closest port to Rio by road**, served by the **CCR Barcas**
 
 ## Booking the shared transfer
 
-The shared van + speedboat transfer is usually arranged through a pousada in Abraão. In the interest of full transparency: this guide is written by Richard, who lives on the island and runs **[Pousada CostaVerde](https://pousadacostaverde.com)** — so if you're staying with us we can book the transfer for you, and if you're not, any reputable pousada can do the same. Either way, the route information above is the same.
+The shared van + speedboat transfer is usually arranged through a pousada in Abraão. In the interest of full transparency: this guide is written by Ricardo Aparicio, who lives on the island and runs **[Pousada CostaVerde](https://pousadacostaverde.com)** — so if you're staying with us we can book the transfer for you, and if you're not, any reputable pousada can do the same. Either way, the route information above is the same.

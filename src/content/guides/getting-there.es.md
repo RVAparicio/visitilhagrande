@@ -5,7 +5,7 @@ lang: "es"
 slug: "como-llegar-a-ilha-grande"
 translationKey: "getting-there"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "¿Hay un puente o un aeropuerto en Ilha Grande?"
     a: "No. La isla no tiene autos, ni puentes, ni aeropuerto. Solo se llega en barco, arribando al muelle de Vila do Abraão, el pueblo principal."
@@ -122,4 +122,4 @@ Mangaratiba es el **puerto más cercano a Río por ruta**, con servicio de la ba
 
 ## Reservar el transfer compartido
 
-El transfer compartido van + lancha se suele organizar a través de una pousada de Abraão. Con total transparencia: esta guía la escribe Richard, que vive en la isla y maneja la **[Pousada CostaVerde](https://pousadacostaverde.com)** — así que si te quedás con nosotros, te reservamos el transfer, y si no, cualquier pousada seria hace lo mismo. En cualquier caso, la información de rutas de arriba es la misma.
+El transfer compartido van + lancha se suele organizar a través de una pousada de Abraão. Con total transparencia: esta guía la escribe Ricardo Aparicio, que vive en la isla y maneja la **[Pousada CostaVerde](https://pousadacostaverde.com)** — así que si te quedás con nosotros, te reservamos el transfer, y si no, cualquier pousada seria hace lo mismo. En cualquier caso, la información de rutas de arriba es la misma.

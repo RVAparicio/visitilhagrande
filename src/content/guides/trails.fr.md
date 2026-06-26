@@ -5,7 +5,7 @@ lang: "fr"
 slug: "sentiers-ilha-grande"
 translationKey: "trails"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Faut-il payer pour randonner à Ilha Grande ?"
     a: "Non. Les sentiers sont gratuits. Ils traversent le Parc d'État d'Ilha Grande (une zone protégée) : il suffit de suivre les chemins balisés, de respecter la signalétique et de remporter ses déchets."

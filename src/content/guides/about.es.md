@@ -1,21 +1,21 @@
 ---
 title: "Acerca de esta guía — quién la escribe"
-description: "Quién está detrás de Visit Ilha Grande: Richard, que vive en la isla y gestiona la Pousada CostaVerde en Vila do Abraão — escrito con total transparencia."
+description: "Quién está detrás de Visit Ilha Grande: Ricardo Aparicio, que vive en la isla y gestiona la Pousada CostaVerde en Vila do Abraão — escrito con total transparencia."
 lang: "es"
 slug: "acerca-de"
 translationKey: "about"
 updatedDate: 2026-06-23
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "¿Quién escribe esta guía?"
-    a: "Richard — vivo en Ilha Grande y manejo una pequeña posada, la Pousada CostaVerde, en Vila do Abraão. Todo acá se basa en vivir aquí todo el año, no en investigación de segunda mano."
+    a: "Ricardo — vivo en Ilha Grande y manejo una pequeña posada, la Pousada CostaVerde, en Vila do Abraão. Todo acá se basa en vivir aquí todo el año, no en investigación de segunda mano."
   - q: "¿Esta guía es independiente de tu posada?"
     a: "La guía es algo aparte: está para ayudarte a planear un gran viaje a Ilha Grande, te quedes conmigo o no. Cuando menciono CostaVerde — sobre todo en la página de 'dónde dormir' — lo digo claramente. Las recomendaciones vienen de la experiencia local, no de comisiones."
   - q: "¿Cómo te contacto?"
     a: "Usá el formulario de contacto de abajo. Con gusto respondo dudas sobre cómo llegar a la isla, los senderos, los barcos o la mejor época para venir."
 ---
 
-Hola — soy **Richard**. Vivo en **Ilha Grande** y manejo una pequeña posada, la **Pousada CostaVerde**, en Vila do Abraão. Esta guía es mi forma de compartir la isla como la conoce de verdad un local: cómo llegar, dónde están las buenas playas y senderos, cuándo venir, y los pequeños detalles que hacen el viaje más fácil.
+Hola — soy **Ricardo**. Vivo en **Ilha Grande** y manejo una pequeña posada, la **Pousada CostaVerde**, en Vila do Abraão. Esta guía es mi forma de compartir la isla como la conoce de verdad un local: cómo llegar, dónde están las buenas playas y senderos, cuándo venir, y los pequeños detalles que hacen el viaje más fácil.
 
 ## Mi historia
 

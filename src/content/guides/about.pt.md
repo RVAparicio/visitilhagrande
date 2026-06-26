@@ -1,21 +1,21 @@
 ---
 title: "Sobre este guia — quem o escreve"
-description: "Quem está por trás do Visit Ilha Grande: Richard, que mora na ilha e administra a Pousada CostaVerde na Vila do Abraão — escrito com total transparência."
+description: "Quem está por trás do Visit Ilha Grande: Ricardo Aparicio, que mora na ilha e administra a Pousada CostaVerde na Vila do Abraão — escrito com total transparência."
 lang: "pt"
 slug: "sobre"
 translationKey: "about"
 updatedDate: 2026-06-23
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Quem escreve este guia?"
-    a: "Richard — moro na Ilha Grande e administro uma pequena pousada, a Pousada CostaVerde, na Vila do Abraão. Tudo aqui é baseado em morar aqui o ano todo, não em pesquisa de segunda mão."
+    a: "Ricardo — moro na Ilha Grande e administro uma pequena pousada, a Pousada CostaVerde, na Vila do Abraão. Tudo aqui é baseado em morar aqui o ano todo, não em pesquisa de segunda mão."
   - q: "Este guia é independente da sua pousada?"
     a: "O guia é uma coisa à parte: ele existe para ajudar você a planejar uma ótima viagem à Ilha Grande, hospedando-se comigo ou não. Quando menciono a CostaVerde — principalmente na página 'onde ficar' — eu digo claramente. As recomendações vêm da experiência local, não de comissões."
   - q: "Como entrar em contato?"
     a: "Use o formulário de contato abaixo. Terei prazer em responder dúvidas sobre como chegar à ilha, as trilhas, os barcos ou a melhor época para vir."
 ---
 
-Olá — eu sou o **Richard**. Moro na **Ilha Grande** e administro uma pequena pousada, a **Pousada CostaVerde**, na Vila do Abraão. Este guia é a minha forma de compartilhar a ilha como um morador realmente a conhece: como chegar, onde estão as boas praias e trilhas, quando vir, e os pequenos detalhes que deixam a viagem mais fácil.
+Olá — eu sou o **Ricardo**. Moro na **Ilha Grande** e administro uma pequena pousada, a **Pousada CostaVerde**, na Vila do Abraão. Este guia é a minha forma de compartilhar a ilha como um morador realmente a conhece: como chegar, onde estão as boas praias e trilhas, quando vir, e os pequenos detalhes que deixam a viagem mais fácil.
 
 ## Minha história
 

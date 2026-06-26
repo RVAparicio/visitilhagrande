@@ -5,7 +5,7 @@ lang: "fr"
 slug: "quand-visiter-ilha-grande"
 translationKey: "best-time"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Quel est le meilleur mois pour visiter Ilha Grande ?"
     a: "Pour le meilleur équilibre entre chaleur, calme et petits prix, visez les mois creux — d'avril à juin et de septembre à novembre. Un favori local est mars : encore chaud et estival, mais après le Carnaval, quand les pluies se calment et les prix baissent. En semaine, c'est toujours plus tranquille que le week-end."

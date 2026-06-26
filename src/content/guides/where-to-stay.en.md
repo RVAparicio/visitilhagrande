@@ -5,7 +5,7 @@ lang: "en"
 slug: "where-to-stay-ilha-grande"
 translationKey: "where-to-stay"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Where should I stay on Ilha Grande?"
     a: "Almost everyone stays in Vila do Abraão, the island's main village, where the boats arrive. Within it, the cobbled west side is the easiest with luggage; the central-east side is cheaper but unpaved and floods when it rains."

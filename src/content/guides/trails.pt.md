@@ -5,7 +5,7 @@ lang: "pt"
 slug: "trilhas-ilha-grande"
 translationKey: "trails"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Precisa pagar para fazer as trilhas na Ilha Grande?"
     a: "Não. As trilhas são gratuitas. Elas cruzam o Parque Estadual da Ilha Grande (área protegida): basta seguir os caminhos sinalizados, respeitar a sinalização e levar seu lixo de volta."

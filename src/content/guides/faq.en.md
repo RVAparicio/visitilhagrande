@@ -5,7 +5,7 @@ lang: "en"
 slug: "ilha-grande-travel-tips"
 translationKey: "faq"
 updatedDate: 2026-06-10
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Are there ATMs on Ilha Grande?"
     a: "No. There are no ATMs or banks in Vila do Abraão. Cards are widely accepted in restaurants, shops and boat tours, and PIX is very popular, so you can get by without much cash — but bring a little as backup, and sort out money on the mainland before you arrive."

@@ -5,7 +5,7 @@ lang: "fr"
 slug: "plages-ilha-grande"
 translationKey: "beaches"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "Combien de plages compte Ilha Grande ?"
     a: "Environ 113. L'île se trouve dans la baie d'Angra dos Reis, un archipel célèbre pour ses 365 îles : le choix de plages et de criques est donc immense — beaucoup ne sont accessibles qu'à pied ou en bateau."

@@ -5,7 +5,7 @@ lang: "en"
 slug: "ilha-grande-beaches"
 translationKey: "beaches"
 updatedDate: 2026-06-24
-author: "Richard"
+author: "Ricardo Aparicio"
 faq:
   - q: "How many beaches does Ilha Grande have?"
     a: "Around 113. The island sits in the bay of Angra dos Reis, an archipelago famous for its 365 islands, so the choice of beaches and coves is enormous — many are reachable only on foot or by boat."
