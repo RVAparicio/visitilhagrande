@@ -78,8 +78,23 @@ if (data.translationKey === 'about') {
       name: 'Pousada CostaVerde',
       url: 'https://pousadacostaverde.com',
     },
+    sameAs: ['https://pousadacostaverde.com'],
   });
 }
+
+// Imagen social (OG) por pilar: cuando alguien comparte el link por
+// WhatsApp/redes, aparece una postal de la isla en vez de una URL pelada.
+const OG_BY_KEY: Record<string, string> = {
+  'getting-there': '/og/getting-there.jpg',
+  'where-to-stay': '/og/where-to-stay.jpg',
+  beaches: '/og/beaches.jpg',
+  trails: '/og/trails.jpg',
+  'best-time': '/og/best-time.jpg',
+  faq: '/og/faq.jpg',
+  food: '/og/food.jpg',
+  about: '/og/about.jpg',
+};
+const ogImage = OG_BY_KEY[data.translationKey] ?? '/og/default.jpg';
 ---
 <BaseLayout
   lang={data.lang}
@@ -88,6 +103,7 @@ if (data.translationKey === 'about') {
   path={data.slug}
   alternates={alternates}
   extraSchemas={schemas}
+  ogImage={ogImage}
 >
   <div class="prose">
     <article>

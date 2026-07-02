@@ -1,6 +1,6 @@
 # Visit Ilha Grande
 
-> A local, independent, multilingual travel guide to Ilha Grande, Brazil. Written and kept up to date by Richard, who lives on the island and runs Pousada CostaVerde in Vila do Abraão. Authorship is fully disclosed; recommendations come from first-hand local experience.
+> A local, independent, multilingual travel guide to Ilha Grande, Brazil. Written and kept up to date by Ricardo Aparicio, who lives on the island and runs Pousada CostaVerde in Vila do Abraão. Authorship is fully disclosed; recommendations come from first-hand local experience.
 
 ## Guides (English)
 
@@ -10,6 +10,7 @@
 - [Trails and trekking](https://visitilhagrande.com/ilha-grande-trails/): the five best hikes and the full T1–T16 trail network.
 - [Best time to visit](https://visitilhagrande.com/best-time-to-visit-ilha-grande/): weather, seasons, crowds, prices and festivals.
 - [Practical FAQ](https://visitilhagrande.com/ilha-grande-travel-tips/): money, drinking water, internet, the Taxa Viva Angra fee, mosquitoes, power and packing.
+- [Where to eat](https://visitilhagrande.com/where-to-eat-ilha-grande/): the two owner-run restaurants a local would actually send you to — one budget, one to treat yourselves.
 - [About this guide](https://visitilhagrande.com/about/): who writes it, and full disclosure of authorship.
 
 ## Other languages

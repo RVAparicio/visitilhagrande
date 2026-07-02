@@ -22,10 +22,24 @@ interface Props {
   alternates?: { lang: Lang; path: string }[];
   // Datos estructurados adicionales de la página (Article, FAQPage, etc.).
   extraSchemas?: object[];
+  // Imagen social (Open Graph / Twitter card), ruta bajo /public.
+  // Al compartir el link por WhatsApp/redes se ve una postal, no una URL pelada.
+  ogImage?: string;
 }
 
-const { lang, title, description, path = '', alternates, extraSchemas = [] } = Astro.props;
+const {
+  lang,
+  title,
+  description,
+  path = '',
+  alternates,
+  extraSchemas = [],
+  ogImage = '/og/default.jpg',
+} = Astro.props;
 const site = Astro.site!;
+
+const ogImageUrl = new URL(ogImage, site).href;
+const OG_LOCALE: Record<Lang, string> = { en: 'en_US', fr: 'fr_FR', pt: 'pt_BR', es: 'es_ES' };
 
 const alts =
   alternates ?? locales.map((l) => ({ lang: l, path }));
@@ -69,6 +83,21 @@ const jsonLd = {
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+
+    <!-- Open Graph / Twitter: la "postal" que se ve al compartir el link -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Visit Ilha Grande" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content={OG_LOCALE[lang]} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
 
     <Hreflang alternates={alts} />
 
