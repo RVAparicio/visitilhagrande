@@ -323,14 +323,19 @@ main { display: block; }
 
 img { max-width: 100%; height: auto; }
 
-/* Fotos intercaladas en el cuerpo (markdown) */
+/* Fotos intercaladas en el cuerpo (markdown).
+   Rompen más anchas que la columna de texto (mismo patrón que .island-map):
+   la lectura queda angosta y cómoda, pero la isla se ve GRANDE. */
 .prose p img {
   display: block;
-  width: 100%;
+  width: min(92vw, 58rem);
+  max-height: 34rem;
+  object-fit: cover;
   height: auto;
   border-radius: var(--radius);
-  margin: 1.3rem 0 0.4rem;
-  box-shadow: 0 2px 10px rgba(14, 58, 74, 0.12);
+  margin: 1.8rem 50% 0.6rem;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 18px rgba(14, 58, 74, 0.16);
 }
 
 /* (El estilo del mapa de rutas vive ahora en RouteMap.astro; llena el ancho del texto.) */

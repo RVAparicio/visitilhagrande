@@ -1,0 +1,59 @@
+<!doctype html>
+<!-- Lámina A4 para imprimir: mapa de playas + QR a la guía.
+     Uso: abrir en Chrome → Ctrl+P → A4, márgenes predeterminados, "Gráficos de fondo" ON.
+     Va en el check-in de Pousada CostaVerde. (El QR de Ilha Grande Tickets es
+     qr-tickets-whatsapp.png, para adjuntar en las confirmaciones de WhatsApp.) -->
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Ilha Grande — Beach Map · Visit Ilha Grande</title>
+<style>
+  @page { size: A4 portrait; margin: 12mm; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: Georgia, 'Times New Roman', serif;
+    color: #0E3A4A;
+    background: #fff;
+    width: 186mm;            /* A4 útil con márgenes de 12mm */
+    margin: 0 auto;
+  }
+  header { display: flex; align-items: baseline; justify-content: space-between; border-bottom: 2.5px solid #0E3A4A; padding-bottom: 4mm; margin-bottom: 5mm; }
+  h1 { font-size: 26pt; letter-spacing: 0.5px; }
+  .stamp { font-family: Verdana, Arial, sans-serif; font-size: 8pt; letter-spacing: 2px; color: #4F6168; }
+  .map { width: 100%; border: 1px solid #d8d2c4; border-radius: 3mm; display: block; }
+  .caption { font-family: Verdana, Arial, sans-serif; font-size: 7.5pt; color: #4F6168; margin-top: 2mm; text-align: center; }
+  .cta { display: flex; gap: 8mm; align-items: center; margin-top: 6mm; border: 2.5px solid #0E3A4A; border-radius: 3mm; padding: 5mm 6mm; }
+  .cta img { width: 34mm; height: 34mm; }
+  .cta-title { font-size: 14.5pt; font-weight: bold; margin-bottom: 2mm; }
+  .cta ul { list-style: none; font-family: Verdana, Arial, sans-serif; font-size: 9pt; line-height: 1.65; color: #24343b; }
+  .cta li::before { content: '→ '; color: #1B9C8F; font-weight: bold; }
+  .url { font-family: Verdana, Arial, sans-serif; font-weight: bold; font-size: 10.5pt; color: #0E3A4A; margin-top: 2mm; letter-spacing: 0.5px; }
+  footer { margin-top: 4mm; font-family: Verdana, Arial, sans-serif; font-size: 7.5pt; color: #4F6168; text-align: center; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Ilha Grande &mdash; Beach Map</h1>
+    <div class="stamp">VISIT ILHA GRANDE &middot; 23&deg;09&prime;S &middot; 44&deg;14&prime;W</div>
+  </header>
+
+  <img class="map" src="mapa-praias-numeradas-ilha-grande.png" alt="Numbered map of Ilha Grande's beaches (1–23)" />
+  <p class="caption">Praias numeradas 1&ndash;23 &middot; Numbered beaches &middot; Plages num&eacute;rot&eacute;es &middot; Playas numeradas</p>
+
+  <div class="cta">
+    <img src="qr-pousada-checkin.png" alt="QR code to visitilhagrande.com" />
+    <div>
+      <div class="cta-title">Scan for the free local guide &mdash; in your language</div>
+      <ul>
+        <li><b>EN</b> &nbsp;Every beach, trail and boat tour &mdash; written by a local, no ads.</li>
+        <li><b>PT</b> &nbsp;Todas as praias, trilhas e passeios &mdash; escrito por um morador.</li>
+        <li><b>ES</b> &nbsp;Todas las playas, senderos y paseos &mdash; escrito por un local.</li>
+        <li><b>FR</b> &nbsp;Plages, sentiers et bateaux &mdash; &eacute;crit par un habitant de l&rsquo;&icirc;le.</li>
+      </ul>
+      <div class="url">visitilhagrande.com</div>
+    </div>
+  </div>
+
+  <footer>Written and kept up to date by Ricardo Aparicio &middot; Pousada CostaVerde &middot; Vila do Abra&atilde;o</footer>
+</body>
+</html>
