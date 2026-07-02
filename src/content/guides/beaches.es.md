@@ -231,7 +231,7 @@ Los precios de abajo son **aproximados, por persona y fluctúan** con la tempora
 | **Passeio do Índio** (canoa canadiense) | Plancton de noche, personalizado de día | Salida ~5–6 h (flexible) | Preguntar al reservar | Preguntar al reservar |
 | **Alquiler privado** (barco a medida) | Totalmente personalizado, hasta 10 pax | A medida (sin regreso después de ~17:30) | ~R$1.500/salida (~R$1.400–2.000) | Preguntar al reservar |
 
-No he nombrado operadores aquí a propósito: te orientaré hacia el capitán adecuado según el día y las condiciones cuando estés listo para reservar.
+No he nombrado operadores a propósito: aquí los barcos y los precios cambian de manos a menudo. Cualquiera de las agencias del frente marítimo de Abraão vende estos mismos paseos; la tabla de arriba te dice qué esperar y, para los paseos de día entero, insiste en una lancha.
 
 ### ¿CF o lancha? Elegir tu barco
 

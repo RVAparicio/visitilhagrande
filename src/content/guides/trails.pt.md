@@ -57,7 +57,7 @@ As trilhas são maravilhosas, mas continua sendo mata atlântica de verdade — 
 
 **Pague a Taxa Viva (a taxa de visitante de Angra) — não tente fugir.**
 
-Vão te oferecer um monte de jeitos de driblar a taxa, embarcando ou desembarcando em pontos clandestinos (não oficiais), e tem gente que de fato chega assim. Vou ser honesto: eu não concordo com essa taxa — acho abusiva e injustificada. Mas tudo deve ser feito dentro da lei, e fazer do jeito certo não te custa nada a mais. Você é turista num país estrangeiro; você **não** quer um problema legal para economizar uma taxa de uns 8 euros. O preço de uma autuação é muito mais pesado do que a própria taxa.
+Não caia na tentação de driblar a taxa embarcando ou desembarcando em pontos clandestinos (não oficiais) — um problema legal custa muito mais caro do que uma taxa de uns 8 euros. Todos os detalhes (preço, QR code, quem é isento) estão nas nossas [dicas práticas](/pt/dicas-praticas-ilha-grande/).
 
 **Reservando um passeio de barco.**
 
@@ -68,13 +68,6 @@ Vão te oferecer um monte de jeitos de driblar a taxa, embarcando ou desembarcan
 
 O Brasil é um dos países mais lindamente diversos do planeta — a maioria dos brasileiros é negra ou parda — e aqui na ilha gente de toda origem convive em paz. Venha com essa mesma abertura e você vai ser acolhido como família. E essa harmonia é protegida pela lei: racismo é crime sério no Brasil — o mesmo tipo de aviso que eu daria sobre qualquer outra lei daqui — ou seja, este é um lugar onde cada um é livre para simplesmente ser quem é.
 
-**Gorjeta e algumas cortesias locais (bom saber).**
-
-- **A gorjeta já vem na conta** — os **10% de serviço**. Se você foi bem atendido, é só pagar; pode deixar um extra para o garçom/garçonete, mas, sinceramente, não é esperado. Você tem o direito de pedir que tirem ou devolvam os 10% só se o atendimento foi de fato ruim — e recusá-los de cara é muito malvisto aqui.
-- **À mesa, não assoe o nariz** num lenço ou guardanapo — no Brasil isso soa como falta de educação. Prefira se levantar e ir ao banheiro.
-- **O termo local é *banheiro*** (parecido com o "baño" do espanhol) — e o público é o *banheiro público*.
-- **Banheiros públicos limpíssimos em Angra.** Se você passa por Angra dos Reis indo ou voltando da ilha, o cais principal de **Santa Luzia** tem banheiros públicos de verdade limpos e higienizados o tempo todo — não precisa consumir num café só para usar o banheiro; o comércio até manda você para os públicos, porque são melhores.
-
 **Regras da reserva — o que evitar.**
 
 Esta é uma reserva ecológica rigorosa, e você vai ver placas por toda parte. Nas praias é terminantemente proibido **fazer fogo, churrasco, vender ou oferecer serviços**, e o mau comportamento é punido por lei como seria em qualquer lugar. Para quase todo visitante isso é um não-problema: o público aqui é calmo e discreto — este não é destino de festa, de iate nem de farra. Basta respeitar as regras e a reserva cuida de você de volta.
@@ -83,7 +76,7 @@ Esta é uma reserva ecológica rigorosa, e você vai ver placas por toda parte. 
 
 ![Vista aérea da praia de Lopes Mendes com ondas turquesa, a recompensa no fim da trilha, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-Temos um ditado na pousada: *"se você não sabe o que fazer hoje, vá para Lopes Mendes."* Você caminha horas pela mata sombreada, as árvores se fecham sobre o caminho, você faz uma parada em Palmas sem fazer ideia do que vem a seguir — e aí as árvores se abrem e ela está ali. Uma longa curva de areia fina e clara, a água variando do verde ao turquesa e uma linha de ondas chegando do mar aberto. É a praia mais famosa do Brasil, conhecida no mundo inteiro, e merece cada pedacinho dessa fama. Depois da caminhada de ida, chegar parece menos alcançar um destino e mais a floresta te entregando uma recompensa que ela escondeu o caminho inteiro.
+Temos um ditado na pousada: *"se você não sabe o que fazer hoje, vá para Lopes Mendes."* Você caminha horas pela mata sombreada, as árvores se fecham sobre o caminho, você faz uma parada em Palmas sem fazer ideia do que vem a seguir — e aí as árvores se abrem e ela está ali. Uma longa curva de areia fina e clara, a água variando do verde ao turquesa e uma linha de ondas chegando do mar aberto. É a praia mais famosa do Brasil, conhecida no mundo inteiro, e merece cada pedacinho dessa fama. Depois da caminhada de ida, a chegada cai como uma recompensa que a floresta escondeu de você o caminho inteiro.
 
 > **Resumo rápido.** Caminhada clássica T10 + T11 saindo do Abraão · **~7,2 km** · **2h30–3h15 só na ida**, conforme o ritmo · **moderada a difícil** · passa pela Praia de Palmas a caminho de Pouso · é uma **praia de preservação**, mantida selvagem e quase sem estrutura — leve a sua própria água e comida · depois de chuva, fica escorregadia.
 

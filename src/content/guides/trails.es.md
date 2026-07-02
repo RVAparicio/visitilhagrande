@@ -57,7 +57,7 @@ Los senderos son maravillosos, pero sigue siendo selva atlántica de verdad — 
 
 **Pagá la Taxa Viva (la tasa de visitante de Angra) — no la esquives.**
 
-Te van a ofrecer un montón de maneras de saltarte la tasa embarcando o desembarcando en puntos clandestinos (no oficiales), y hay quien llega así. Voy a ser honesto: a mí esta tasa no me gusta — me parece abusiva e injustificada. Pero todo debe hacerse dentro de la ley, y hacerlo bien no te cuesta nada extra. Sos un turista en un país extranjero; **no** querés un problema legal por ahorrarte una tasa de unos 8 euros. El precio de una infracción es mucho más duro que la tasa en sí.
+No caigas en la tentación de saltarte la tasa embarcando o desembarcando en puntos clandestinos: un problema legal te cuesta muchísimo más que una tasa de unos 8 euros. Todos los detalles (precio, código QR, quién está exento) están en la [FAQ práctica](/es/info-practica-ilha-grande/).
 
 **Reservar un paseo en barco.**
 
@@ -68,13 +68,6 @@ Te van a ofrecer un montón de maneras de saltarte la tasa embarcando o desembar
 
 Brasil es uno de los países más hermosamente diversos del planeta — la mayoría de los brasileños son negros o mestizos — y acá en la isla conviven en paz personas de todo origen. Vení con esa misma apertura y te van a recibir como de la familia. Y esa armonía está protegida por la ley: el racismo es un delito serio en Brasil — el mismo tipo de aviso que te daría sobre cualquier otra ley del lugar — así que este es un sitio donde cada quien es libre de ser, simplemente, quien es.
 
-**Propina y un par de cortesías locales (para que sepas).**
-
-- **La propina ya viene en la cuenta** — un **10% de servicio** (*serviço*). Si te atendieron bien, pagalo y listo; podés dejar algo extra al mozo (*garçom*/*garçonete*), pero la verdad no se espera. Tenés derecho a pedir que te saquen o reembolsen el 10% solo si te atendieron realmente mal — y rechazarlo de plano está mal visto acá.
-- **En la mesa, no te suenes la nariz** con un pañuelo o servilleta — en Brasil se ve como de muy mala educación. Mejor excusate y andá al *banheiro*.
-- **La palabra para baño es *banheiro*** (parecida al "baño" español) — no "toilette", ni "bathroom", ni "loo". El público es el *banheiro público*.
-- **Baños públicos limpísimos en Angra.** Si pasás por Angra dos Reis yendo o volviendo de la isla, el muelle principal de **Santa Luzia** tiene *banheiros públicos* de verdad limpios y siempre impecables — no hace falta consumir en un café para usar el baño; los comercios hasta te mandan a los públicos, porque son mejores.
-
 **Reglas de la reserva — qué evitar.**
 
 Esta es una reserva ecológica estricta, y vas a ver carteles por todos lados. En las playas está terminantemente prohibido **hacer fuego, asados, vender u ofrecer servicios**, y el mal comportamiento se castiga por ley igual que en cualquier parte. Para casi todos los visitantes esto ni se nota: la gente acá es tranquila y de bajo perfil — este no es un destino de fiesta, ni de yates, ni de descontrol. Respetá las reglas y la reserva te va a cuidar a vos.
@@ -83,7 +76,7 @@ Esta es una reserva ecológica estricta, y vas a ver carteles por todos lados. E
 
 ![Vista aérea de Lopes Mendes con olas turquesa, la recompensa al final del sendero, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-Tenemos un dicho en la pousada: *"si no sabés qué hacer hoy, andá a Lopes Mendes."* Caminás durante horas por una selva sombreada, los árboles se cierran sobre el sendero, hacés una pausa en Palmas sin la menor idea de lo que viene — y de golpe los árboles se abren y ahí está. Una larga curva de arena fina y clara, agua que va del verde al turquesa, y una línea de olas rompiendo desde el mar abierto. Es la playa más famosa de Brasil, conocida en el mundo entero, y se gana cada centímetro de esa fama. Después de la caminata de entrada, llegar se siente menos como alcanzar un destino y más como si la selva te entregara una recompensa que te venía escondiendo todo el camino.
+Tenemos un dicho en la pousada: *"si no sabés qué hacer hoy, andá a Lopes Mendes."* Caminás durante horas por una selva sombreada, los árboles se cierran sobre el sendero, hacés una pausa en Palmas sin la menor idea de lo que viene — y de golpe los árboles se abren y ahí está. Una larga curva de arena fina y clara, agua que va del verde al turquesa, y una línea de olas rompiendo desde el mar abierto. Es la playa más famosa de Brasil, conocida en el mundo entero, y se gana cada centímetro de esa fama. Después de la caminata de entrada, cae como una recompensa que la selva te venía escondiendo todo el camino.
 
 > **Ficha rápida.** Caminata clásica T10 + T11 desde Abraão · **~7,2 km** · **2h30–3h15 solo de ida** según el ritmo · **moderada a difícil** · pasa por la Praia de Palmas camino a Pouso · es una **playa de preservación**, salvaje y casi sin infraestructura — llevá tu propia agua y comida · después de la lluvia resbala.
 

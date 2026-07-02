@@ -231,7 +231,7 @@ Prices below are **rough, per person and fluctuate** with the season — treat t
 | **Passeio do Índio** (Canadian canoe) | Plankton by night, custom by day | ~5–6 am start (flexible) | Ask when booking | Ask when booking |
 | **Private hire** (boat to suit) | Fully personalised, up to 10 pax | Custom (no return after ~5:30 pm) | ~R$1,500/trip (~R$1,400–2,000) | Ask when booking |
 
-I haven't named operators here on purpose — I'll point you to the right captain for the day and conditions when you're ready to book.
+I haven't named operators here on purpose — boats and prices change hands often here. Any of the agencies along the Abraão waterfront sells these same tours; the table above tells you what to expect, and for the full-day tours, insist on a lancha.
 
 ### CF or lancha? Choosing your boat
 

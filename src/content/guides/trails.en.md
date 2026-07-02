@@ -57,7 +57,7 @@ The trails are wonderful but it is still real rainforest — and the island has 
 
 **Pay the Taxa Viva (Angra's visitor fee) — don't dodge it.**
 
-You'll be offered plenty of ways to skip the fee by boarding or landing at clandestine (unofficial) spots, and some people do arrive that way. I'll be honest: I don't agree with this fee — I find it abusive and unjustified. But everything should be done within the law, and doing it properly costs you nothing extra. You're a tourist in a foreign country; you do **not** want a legal problem over saving a fee of about 8 euros. The penalty for a contravention is far harsher than the fee itself.
+Don't be tempted by offers to skip the fee by boarding at clandestine (unofficial) spots — a legal problem in a foreign country costs far more than a fee of about 8 euros. Full details (price, QR code, who's exempt) are in the [practical FAQ](/ilha-grande-travel-tips/).
 
 **Booking a boat tour.**
 
@@ -68,13 +68,6 @@ You'll be offered plenty of ways to skip the fee by boarding or landing at cland
 
 Brazil is one of the most beautifully diverse countries on earth — most Brazilians are Black or mixed-race — and here on the island people of every background live side by side in peace. Come with that same openness and you'll be welcomed like family. The law backs that up, too: racism is a serious crime in Brazil — the same plain heads-up I'd give about any other law of the land — so this is a place where everyone is free to simply be themselves.
 
-**Tipping & a few local courtesies (good to know).**
-
-- **The tip is already on the bill** — a **10% service charge** (*serviço*). If you were well looked after, just pay it; you can add a little extra for the waiter (*garçom*/*garçonete*), but it honestly isn't expected. You're within your rights to have the 10% removed or refunded only if the service was genuinely poor — and flatly refusing it is frowned upon here.
-- **At the table, don't blow your nose** into a handkerchief or napkin — in Brazil it reads as very poor manners. Excuse yourself to the *banheiro* instead.
-- **The word for toilet is *banheiro*** (close to the Spanish *baño*) — not "toilette," "bathroom" or "loo." A public one is a *banheiro público*.
-- **Clean public toilets at Angra.** Passing through Angra dos Reis to or from the island, the main **Santa Luzia pier** has *banheiros públicos* that are genuinely clean and kept spotless — no need to buy something at a café just to use a toilet; shops will even send you to the public ones, because they're better.
-
 **Reserve rules — what to avoid.**
 
 This is a strict ecological reserve, and you'll see signs everywhere. On the beaches it is strictly forbidden to **light fires, barbecue, sell, or offer services**, and bad behaviour is punished by law just as it would be anywhere. For almost every visitor this is a non-issue: the crowd here is calm and low-key — this is not a party, yacht or blowout destination. Just respect the rules and the reserve will look after you back.
@@ -83,7 +76,7 @@ This is a strict ecological reserve, and you'll see signs everywhere. On the bea
 
 ![Aerial of Lopes Mendes beach with turquoise surf, the reward at the end of the trail, Ilha Grande](../../assets/lopes-mendes-aerial-surf-ilha-grande.jpg)
 
-We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* You walk for hours through shaded forest, the trees close over the path, you pause at Palmas with no idea of what's coming — and then the trees fall away and there it is. A long sweep of fine, pale sand, water that runs from green to turquoise, and a line of surf rolling in off the open sea. It's the most famous beach in Brazil, known the world over, and it earns every bit of it. After the walk in, arriving feels less like reaching a destination and more like the forest handing you a reward it had been hiding the whole way.
+We have a saying at the pousada: *"if you don't know what to do today, go to Lopes Mendes."* You walk for hours through shaded forest, the trees close over the path, you pause at Palmas with no idea of what's coming — and then the trees fall away and there it is. A long sweep of fine, pale sand, water that runs from green to turquoise, and a line of surf rolling in off the open sea. It's the most famous beach in Brazil, known the world over, and it earns every bit of it. After the walk in, it lands like a reward the forest had been hiding from you the whole way.
 
 > **Quick facts.** Classic walk T10 + T11 from Abraão · **~7.2 km** · **2h30–3h15 one way** depending on pace · **moderate to hard** · passes Praia de Palmas on the way to Pouso · it's a **preservation beach**, kept wild with almost no development — carry your own water and food · after rain it gets slippery.
 

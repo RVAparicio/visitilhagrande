@@ -231,7 +231,7 @@ Les prix ci-dessous sont **indicatifs, par personne et fluctuent** selon la sais
 | **Passeio do Índio** (canoë canadien) | Plancton la nuit, sur mesure le jour | Départ ~5–6 h (flexible) | À demander à la réservation | À demander à la réservation |
 | **Location privée** (bateau au choix) | Entièrement personnalisée, jusqu'à 10 pers. | Sur mesure (pas de retour après ~17h30) | ~1 500 R$/sortie (~1 400–2 000 R$) | À demander à la réservation |
 
-Je n'ai volontairement pas nommé d'opérateurs ici — je vous orienterai vers le bon capitaine selon la journée et les conditions lorsque vous serez prêt à réserver.
+Je n'ai volontairement pas nommé d'opérateurs ici — les bateaux et les prix changent souvent de mains dans le coin. N'importe quelle agence du front de mer d'Abraão vend ces mêmes excursions ; le tableau ci-dessus vous dit à quoi vous attendre, et pour les excursions à la journée, insistez pour une lancha.
 
 ### CF ou lancha ? Bien choisir son bateau
 

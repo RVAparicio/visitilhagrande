@@ -231,7 +231,7 @@ Os preços abaixo são **aproximados, por pessoa e oscilam** conforme a temporad
 | **Passeio do Índio** (canoa canadense) | Plâncton à noite, sob medida de dia | Saída ~5–6h (flexível) | Consultar na reserva | Consultar na reserva |
 | **Fretamento privado** (barco sob medida) | Totalmente personalizado, até 10 pessoas | Sob medida (sem retorno depois das ~17h30) | ~R$1.500/passeio (~R$1.400–2.000) | Consultar na reserva |
 
-Não citei nomes de operadores aqui de propósito — quando você estiver pronto para reservar, eu indico o capitão certo para o dia e as condições.
+Não citei nomes de operadores de propósito — barcos e preços mudam de mãos com frequência por aqui. Qualquer agência da orla do Abraão vende esses mesmos passeios; a tabela acima diz o que esperar e, para os passeios de dia inteiro, insista numa lancha.
 
 ### CF ou lancha? Escolhendo o seu barco
 
