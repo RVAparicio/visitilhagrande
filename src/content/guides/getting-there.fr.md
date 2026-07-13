@@ -23,6 +23,8 @@ On ne rejoint Ilha Grande qu'**en bateau**, et presque tout le monde débarque a
 
 Depuis le continent, les bateaux partent de **trois ports** : **Conceição de Jacareí** (traversée la plus courte, la plus simple depuis Rio), **Angra dos Reis** (eaux les plus calmes, le plus de bateaux) et **Mangaratiba** (la plus proche de Rio par la route, mais la mer la plus agitée). Si vous venez de **Rio de Janeiro**, le plus confortable est un **transfert partagé van + vedette** jusqu'à Abraão (environ 3h30–4h30, ~200 R$ par personne). Le plus économique est le **bus Costa Verde + vedette**. Voici toutes les options, selon votre point de départ.
 
+> 🧭 **Vous venez de l'étranger via Rio ?** Nous avons un guide à part avec le verdict du voyageur : le piège du transfert au retour, le paiement par Pix (et pourquoi il n'y a pas de distributeur sur l'île), et combien de nuits rester → **[De Rio de Janeiro à Ilha Grande](/fr/de-rio-de-janeiro-a-ilha-grande/)**.
+
 ## Aperçu rapide
 
 Pressé ? Voici l'essentiel selon d'où vous partez :

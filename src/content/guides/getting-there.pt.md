@@ -23,6 +23,8 @@ A Ilha Grande só é alcançada **de barco**, e quase todo mundo desembarca no m
 
 Do continente, os barcos saem de **três portos**: **Conceição de Jacareí** (travessia mais curta, mais fácil saindo do Rio), **Angra dos Reis** (águas mais calmas, mais barcos) e **Mangaratiba** (mais perto do Rio por estrada, mas o mar mais agitado). Se você vem do **Rio de Janeiro**, o mais confortável é um **transfer compartilhado van + lancha** até o Abraão (cerca de 3h30–4h30, ~R$200 por pessoa). O mais barato é o **ônibus Costa Verde + lancha**. Abaixo, todas as opções, conforme o seu ponto de partida.
 
+> 🧭 **Saindo do Rio ou de São Paulo?** Temos um guia à parte com o veredito de quem mora aqui: o transfer na volta (onde o Uber te ferra), o lance do dinheiro na ilha e quantas noites ficar → **[Ilha Grande saindo do Rio](/pt/ilha-grande-saindo-do-rio/)**.
+
 ## Resumo rápido
 
 Sem tempo? Aqui vai o essencial por ponto de partida:

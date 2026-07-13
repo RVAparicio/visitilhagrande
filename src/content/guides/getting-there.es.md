@@ -23,6 +23,8 @@ A Ilha Grande solo se llega **en barco**, y casi todos desembarcan en el mismo l
 
 Desde el continente, los barcos salen de **tres puertos**: **Conceição de Jacareí** (la travesía más corta, la más fácil desde Río), **Angra dos Reis** (aguas más calmas, más barcos) y **Mangaratiba** (la más cercana a Río por ruta, pero el mar más agitado). Si venís de **Río de Janeiro**, lo más cómodo es un **transfer compartido van + lancha** hasta Abraão (unas 3,5–4,5 horas, ~R$200 por persona). Lo más económico es el **bus Costa Verde + lancha**. Abajo tenés todas las opciones, según desde dónde salgas.
 
+> 🇦🇷 **¿Venís desde Argentina o Chile?** Tenemos una guía aparte con lo que te toca de cerca: el tema del pago con tarjeta (y cómo resolverlo con Pix), el transfer en la vuelta y cuántas noches quedarte → **[Ilha Grande desde Argentina](/es/ilha-grande-desde-argentina/)**.
+
 ## Resumen rápido
 
 ¿Con prisa? Lo esencial según tu punto de partida:
