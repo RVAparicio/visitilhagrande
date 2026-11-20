@@ -4,7 +4,7 @@ description: "O guia de quem mora aqui para as melhores praias da Ilha Grande, B
 lang: "pt"
 slug: "praias-ilha-grande"
 translationKey: "beaches"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "Quantas praias tem a Ilha Grande?"
@@ -59,7 +59,7 @@ Siga a trilha costeira em direção ao leste e você vai costurando uma série d
 
 > **Bom saber.** Caminhada bastante fácil, mas intrincada e acidentada — e escorregadia se tiver chovido. Em certo ponto, casas irregulares bloquearam o caminho original, então uma curta descida te leva até a praia e por uma passagem estreita junto ao costão (uma *cornija*), com degraus e pedras escorregadias equipadas com cordas fixas. É bem divertido, embora não seja para todos — e vale a pena.
 
-> ⚠️ **Marés — faça esse trecho de manhã.** A partir das **15h**, mais ou menos, a maré costuma subir, e na maré alta alguns trechos te obrigam a vadear pela beira d'água — você pode se molhar até a cintura. Faça a caminhada pela costa leste de manhã, ou esteja preparado para se molhar.
+> ⚠️ **Marés — confirme a passagem no próprio dia.** A maré não sobe em hora fixa: muda todos os dias, e na maré alta a água cobre alguns trechos do caminho costeiro. Antes de sair, consulte a tábua de marés daquele dia ou pergunte na sua hospedagem, e confirme que a passagem vai estar livre tanto na ida quanto na volta. Se encontrar o trecho coberto, ou se tiver dúvida, não atravesse a pé: o táxi-boat é a alternativa.
 
 > 🚤 **Táxi-boat (Crena / Abraãozinho).** Cerca de **R$50 ida e volta**. Os barcos oficiais são **pretos e amarelos**. Funcionam a partir das **9h30** mais ou menos (não antes — precisam de um número mínimo de passageiros), saem entre **9h30 e 13h** e voltam até por volta das **17h30–18h**. Não saia às 17h30 esperando conseguir carona. Uma ótima opção: **ir a pé e voltar de barco.**
 
@@ -187,7 +187,7 @@ São essas as ilhas que inundam o seu feed — aqueles cliques de turquesa em de
 
 > ☀️ **Só em dia de sol — sem meio-termo aqui.** Mais do que qualquer outro passeio, este vive ou morre pela luz. Dê a ele um dia inteiro, sem uma nuvem, e você ganha as fotos inesquecíveis e uma água que não parece real. Sob nuvem ou chuva, as cores desmoronam e simplesmente não vale a pena.
 
-**Cataguás — atravesse a pé entre quatro ilhotas.** É por onde eu começaria a sua imaginação. Não é uma ilha só, são **quatro ilhotinhas**, e a mágica é esta: chegue **cedo, antes de a maré subir**, e dá para **atravessar a pé entre elas** com a água só até o tronco — sem nadar de uma à outra, apenas caminhando por um turquesa ultracristalino sobre areia branca e fininha. É espetacular e, sinceramente, uma das minhas praias preferidas em toda essa região.
+**Cataguás — quatro ilhotas em água turquesa.** É por onde eu começaria a sua imaginação. Não é uma ilha só, são **quatro ilhotinhas** cercadas por um turquesa ultracristalino sobre areia branca e fininha. É espetacular e, sinceramente, uma das minhas praias preferidas em toda essa região.
 
 **Praia do Dentista (Ilha da Gipóia) — a joia esmeralda.** É a que a maioria dos visitantes coroa como a mais bonita de todas as ilhas paradisíacas — e eu não vou discordar. A água é de um verde quase esmeralda, muito característica, diferente de tudo no restante do roteiro — morna, transparente, do tipo em que você entra e não quer mais sair. É uma praia comprida e vale a pena percorrê-la de ponta a ponta: a areia é média a grossa e meio amarelada no miolo, mas nas pontas secas fica esbranquiçada, o que já é motivo suficiente para caminhar até os extremos.
 

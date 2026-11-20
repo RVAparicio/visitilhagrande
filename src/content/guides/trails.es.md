@@ -4,7 +4,7 @@ description: "La guía de un local para hacer senderismo en Ilha Grande: los cin
 lang: "es"
 slug: "senderos-ilha-grande"
 translationKey: "trails"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "¿Hay que pagar para hacer los senderos en Ilha Grande?"
@@ -152,7 +152,7 @@ Llegás a la **Praia de Feiticeira** transpirado de la subida y con ganas de mar
 
 ![Senderistas en la cima del Pico do Papagaio al amanecer sobre la bahía, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-> **Ficha rápida.** Dificultad **DIFÍCIL** · sendero **T13** · **~12 km** ida y vuelta (~6 km cada tramo) · casi **1 km de desnivel** · **5 a 7 h de caminata** más el tiempo en la cima · cima **982 m** · **guía registrado obligatorio para la subida del amanecer** · alrededor de **R$230–R$380 por persona** con guía.
+> **Ficha rápida.** Dificultad **DIFÍCIL** · sendero **T13** · **~12 km** ida y vuelta (~6 km cada tramo) · casi **1 km de desnivel** · **5 a 7 h de caminata** más el tiempo en la cima · cima **982 m** · **guía acreditado por el INEA obligatorio para la subida del amanecer** · alrededor de **R$230–R$380 por persona** con guía.
 
 Salís de Abraão cerca de las 2 de la madrugada, a oscuras, con unas piernas que no tendrían por qué estar despiertas. Durante tres horas subís casi un kilómetro vertical alumbrado por la linterna frontal, y tu mundo entero se reduce al pedacito de sendero que tenés adelante y a la respiración de la gente que va con vos. Y entonces salís a cielo abierto a **982 m** — el segundo punto más alto de la isla — y el cielo empieza a moverse. Rojo, después un índigo profundo, después blanco, después un azul amarillento pálido, y al final el sol mismo se levanta del mar. Es como ver el amanecer desde la ventanilla de un avión, salvo que acá llegaste caminando. Las nubes suben a visitarte. Casi nadie habla. Después de la noche que pasaste, llegar se siente menos como alcanzar un mirador y más como si te perdonaran algo.
 
@@ -172,16 +172,16 @@ Hay exactamente dos maneras honestas de subir esta montaña, y son días muy dis
 | **Guía** | No es obligatorio | **Obligatorio por ley** — y realmente necesario |
 | **Qué obtenés** | Una subida de día dura y hermosa; volvés cómodo con luz | El espectáculo del amanecer — la razón por la que viene casi todo el mundo |
 | **De vuelta hacia** | Media tarde (unas 6–7 h en total) | Hacia las 8–9 de la mañana en Abraão |
-| **¿Legal?** | Sí — la opción de día, segura y legal | Subir de noche **sin** un guía registrado está **prohibido** |
+| **¿Legal?** | Sí — la opción de día, segura y legal | Subir de noche **sin** un guía acreditado por el INEA está **prohibido** |
 
 Si lo hacés **de día**, salí entre las 7 y las 9 h, caminá la Estrada Dois Rios hasta el inicio del sendero y subí. Vas a volver cómodo antes de que oscurezca — incluso te vas a cruzar con gente que baja del amanecer mientras vos subís.
 
-Si querés el **amanecer**, la subida nocturna por cuenta propia y sin guía está **prohibida desde hace dos años**. *Tenés que* contratar un guía legal, registrado (*cadastrado*) — no cualquier guía de cualquier agencia. Los guías registrados están específicamente entrenados para esta subida, y ese entrenamiento es justamente el punto.
+Si querés el **amanecer**, la regla es esta: desde marzo de 2023 (Resolución INEA n.º 273), nadie puede entrar al sendero **entre las 17:00 y las 07:00** sin un guía de turismo o conductor de visitantes **acreditado por el INEA para el Parque Estadual da Ilha Grande**. No sirve cualquier guía de cualquier agencia, y tampoco alcanza con que figure en CADASTUR: tiene que estar en la lista de acreditados del parque, que se consulta en la sede del parque y en el sitio del INEA. Cada guía puede llevar como máximo 6 personas, y vas a firmar un término de responsabilidad. Los guías acreditados están específicamente entrenados para esta subida, y ese entrenamiento es justamente el punto.
 
 > ⚠️ **Todo lo que necesitás antes de ir.**
 >
-> - **Por qué un guía es realmente necesario — esto no es para venderte nada.** Hay **12 bifurcaciones y cruces** en la subida que solo los guías saben leer. De día podés seguir el camino más pisado; de noche se ve muy poco, y hay muchos reportes de gente que se perdió. Y acá está la parte que a nadie le gusta decir en voz alta: en esta montaña **no hay infraestructura de rescate** — ni Bomberos ni guardaparques del INEA entrenados o dispuestos a subir a sacarte. Subir solo en la oscuridad es una irresponsabilidad seria, y no te lo voy a recomendar.
-> - **Cómo encontrar un guía.** Es fácil — buscá en Google Maps o Instagram y quedate con el de mejores reseñas; yo me inclinaría por los guías más veteranos y con experiencia, registrados en **CADASTUR** (el registro nacional de turismo). Casi cualquier agencia de Abraão te va a vender la subida — muchas veces revendiendo a los mismos guías — así que gestionalo vos en vez de depender de tu alojamiento. *Y sí, los locales tenemos un favorito: no lo voy a nombrar acá — no me paga un peso, y prefiero cuidar tu confianza — pero sus reseñas lo van a delatar.*
+> - **Por qué un guía es realmente necesario — esto no es para venderte nada.** Hay **12 bifurcaciones y cruces** en la subida que solo los guías saben leer. De día podés seguir el camino más pisado; de noche se ve muy poco, y hay muchos reportes de gente que se perdió. Y si algo sale mal, el número de emergencias es el **193 (Bomberos)** — pero no cuentes con que la ayuda llegue rápido: estás en selva cerrada, a horas de caminata del pueblo. Subir solo en la oscuridad es una irresponsabilidad seria, y no te lo voy a recomendar.
+> - **Cómo encontrar un guía.** Es fácil — buscá en Google Maps o Instagram y quedate con el de mejores reseñas; yo me inclinaría por los guías más veteranos y con experiencia. Antes de pagar, confirmá que esté **acreditado por el INEA** para el parque: figurar en **CADASTUR** (el registro nacional de turismo) no alcanza para la subida nocturna. Casi cualquier agencia de Abraão te va a vender la subida — muchas veces revendiendo a los mismos guías — así que gestionalo vos en vez de depender de tu alojamiento. *Y sí, los locales tenemos un favorito: no lo voy a nombrar acá — no me paga un peso, y prefiero cuidar tu confianza — pero sus reseñas lo van a delatar.*
 > - **Contale a tu guía cualquier condición médica.** Si tenés **hipoglucemia, diabetes, tendencia a ataques de pánico** o algo parecido, decíselo *antes* de salir para que pueda estar atento a vos. Una subida dura a las 2 de la madrugada no es lugar para hacerse el valiente.
 > - **💰 Cuánto cuesta.** Alrededor de **R$230–R$380 por persona** para que te guíen al amanecer y te cuiden en el camino — plata muy bien gastada.
 > - **Llevá bastones de trekking para la bajada.** Todo el mundo se obsesiona con la subida, pero es bajando cuando tu peso se multiplica sobre rodillas y tobillos — y llegás a ese momento o después de una noche sin dormir o después de una subida calurosa bajo el sol. La mayor parte del riesgo del día vive en la bajada, no en la subida.
@@ -192,7 +192,7 @@ Arriba, antes de que lleguen los colores, hace frío y hay casi silencio — sol
 
 ### Qué evitar
 
-- **No subas de noche sin un guía registrado.** Está prohibido, no hay rescate si sale mal, y las 12 bifurcaciones son realmente difíciles de leer a oscuras. Este es el punto en el que insistiría.
+- **No subas de noche sin un guía acreditado por el INEA.** Está prohibido, la ayuda puede tardar horas si algo sale mal, y las 12 bifurcaciones son realmente difíciles de leer a oscuras. Este es el punto en el que insistiría.
 - **No subestimes la bajada.** Es tan larga como la subida (2,5–3,5 h) y más dura para las articulaciones. Sin bastones, sin cuidado, y un gran día se convierte en uno lesionado.
 - **No esperes atardecer acá arriba.** La Pedra d'Água lo tapa. Si querés el espectáculo, vení por el amanecer.
 
@@ -236,7 +236,7 @@ Encontrá la fila que más se parezca a tu día y fijate si el tiempo y el esfue
 |---|---|---|---|
 | Algo corto y fácil — con chicos o abuelos, o tu primera caminata | **Circuito Histórico (T1)** — la historia de la isla en las ruinas del Lazareto | ~1 h | Fácil, llano · chicos SÍ |
 | *La* playa famosa — esa postal turquesa, un gran día de playa | **Lopes Mendes** — caminá la ida y volvé en barco | ~medio día | Moderada, caminata + barco |
-| Un desafío de verdad y un amanecer épico desde la cima | **Pico do Papagaio** — guía CADASTUR pago, salida ~2 AM, solo al amanecer | ~5–7 h | Difícil · no para chicos pequeños |
+| Un desafío de verdad y un amanecer épico desde la cima | **Pico do Papagaio** — guía acreditado por el INEA, pago, salida ~2 AM, solo al amanecer | ~5–7 h | Difícil · no para chicos pequeños |
 | Historia más naturaleza salvaje y pura — un día entero de aventura | **Dois Rios** — un presidio vuelto museo y una playa entre dos ríos oscuros · *Elección del editor* | ~5 h ida y vuelta | Moderada · sin barco garantizado a la vuelta, salí antes de 15:30 |
 | Una cascada para tirarte y refrescarte | **Feiticeira** — selva, las piscinas del poção y vuelta fácil en barco | ~2 h hasta la playa | Moderada · barco barato a la vuelta |
 

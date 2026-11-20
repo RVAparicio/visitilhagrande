@@ -4,7 +4,7 @@ description: "Le guide d'un local pour les plus belles plages d'Ilha Grande, Br�
 lang: "fr"
 slug: "plages-ilha-grande"
 translationKey: "beaches"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "Combien de plages compte Ilha Grande ?"
@@ -59,7 +59,7 @@ Suivez le sentier côtier vers l'est et vous enchaînez une poignée de plages, 
 
 > **Bon à savoir.** Marche assez facile, mais sinueuse et accidentée — et glissante s'il a plu. À un endroit, des maisons illégales ont bloqué le chemin d'origine, si bien qu'une courte descente vous mène jusqu'à la plage puis le long d'un étroit passage à flanc de falaise (une *corniche*), avec des marches et des rochers glissants équipés de cordes fixes. C'est bien amusant, même si ce n'est pas pour tout le monde — et ça en vaut la peine.
 
-> ⚠️ **Marées — faites cette balade le matin.** À partir de **15 h** environ, la marée monte généralement, et à marée haute certains tronçons obligent à patauger au bord de l'eau — on peut se mouiller jusqu'à la taille. Faites la balade côtière de l'est le matin, ou préparez-vous à être mouillé.
+> ⚠️ **Marées — vérifiez le passage le jour même.** La marée ne monte pas à heure fixe : elle change chaque jour, et à marée haute l'eau recouvre certains tronçons du sentier côtier. Avant de partir, consultez l'horaire des marées du jour ou demandez à votre hébergement, et assurez-vous que le passage sera dégagé à l'aller comme au retour. Si vous le trouvez recouvert, ou au moindre doute, ne traversez pas à pied : le taxi-boat est l'alternative.
 
 > 🚤 **Taxi-bateau (Crena / Abraãozinho).** Environ **50 R$ l'aller-retour**. Les bateaux officiels sont **noir et jaune**. Ils circulent à partir de **9 h 30** environ (pas avant — il leur faut un nombre minimum de passagers), partent entre **9 h 30 et 13 h**, et reviennent jusque vers **17 h 30–18 h**. Ne partez pas à 17 h 30 en comptant sur un retour. Les horaires de départ sont fixes (vous ne pouvez pas demander à une excursion partagée de partir plus tôt ou de rentrer plus tard — c'est à ça que sert la location privée) ; réservez donc un jour ou deux à l'avance, les bonnes se remplissent vite.
 
@@ -187,7 +187,7 @@ Ce sont les îles qui inondent votre fil — ces clichés au turquoise dégradé
 
 > ☀️ **Uniquement par grand beau temps — aucun compromis ici.** Plus que toute autre, cette excursion vit et meurt avec la lumière. Offrez-lui une journée entière, sans un nuage, et vous récoltez les photos inoubliables et une eau qui ne semble pas réelle. Sous les nuages ou la pluie, les couleurs s'effondrent et cela ne vaut tout simplement pas la peine.
 
-**Cataguás — passez d'un îlot à l'autre à pied.** C'est par là que je laisserais courir votre imagination. Ce n'est pas une île mais **quatre petits îlots**, et voici la magie : arrivez **tôt, avant que la marée ne monte**, et vous pouvez **passer de l'un à l'autre à pied**, avec de l'eau qui vous monte seulement jusqu'au torse — pas besoin de nager d'un îlot au suivant, juste marcher dans un turquoise ultra-cristallin, sur un sable blanc et fin. C'est spectaculaire, et honnêtement l'une de mes plages préférées dans tout le coin.
+**Cataguás — quatre îlots dans une eau turquoise.** C'est par là que je laisserais courir votre imagination. Ce n'est pas une île mais **quatre petits îlots**, posés dans un turquoise ultra-cristallin, sur un sable blanc et fin. C'est spectaculaire, et honnêtement l'une de mes plages préférées dans tout le coin.
 
 **Praia do Dentista (Ilha da Gipóia) — le joyau émeraude.** C'est celle que la plupart des visiteurs sacrent la plus belle de toutes les îles paradisiaques, et je ne vais pas les contredire. L'eau y est d'un vert presque émeraude, très particulier, qui ne ressemble à rien d'autre sur le reste du parcours — tiède, limpide, le genre où l'on entre et d'où l'on ne veut plus sortir. C'est une longue plage, et elle mérite d'être arpentée d'un bout à l'autre : au centre, le sable est moyen à grossier et légèrement jaunâtre, mais aux pointes sèches il devient blanchâtre — raison suffisante pour marcher jusqu'aux extrémités.
 

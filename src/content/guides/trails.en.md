@@ -4,7 +4,7 @@ description: "A local's guide to hiking Ilha Grande: the five best marked trails
 lang: "en"
 slug: "ilha-grande-trails"
 translationKey: "trails"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "Do you have to pay to hike on Ilha Grande?"
@@ -152,7 +152,7 @@ You arrive at **Praia de Feiticeira** sweaty from the climb and salt-hungry: a s
 
 ![Hikers on the Pico do Papagaio summit at sunrise above the bay, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-> **Quick facts.** Difficulty **HARD** · trail **T13** · **~12 km** round trip (~6 km each way) · almost **1 km of vertical** · **5–7 h of walking** plus time at the top · summit **982 m** · **a registered guide is required for the sunrise climb** · roughly **R$230–R$380 per person** guided.
+> **Quick facts.** Difficulty **HARD** · trail **T13** · **~12 km** round trip (~6 km each way) · almost **1 km of vertical** · **5–7 h of walking** plus time at the top · summit **982 m** · **an INEA-accredited guide is required for the sunrise climb** · roughly **R$230–R$380 per person** guided.
 
 You leave Abraão at around 2 in the morning, in the dark, on legs that have no business being awake. For three hours you climb almost a vertical kilometre by head-torch, and your whole world shrinks to the patch of trail in front of you and the breathing of the people around you. Then you step out at **982 m** — the island's second-highest point — and the sky starts to move. Red, then a deep indigo, then white, then a pale yellowish blue, and finally the sun itself lifts out of the sea. It's like watching dawn from the window of a plane, except you walked here. Clouds drift up to visit you. Nobody talks much. After the night you've had, arriving feels less like reaching a viewpoint and more like being forgiven for something.
 
@@ -172,16 +172,16 @@ There are exactly two honest ways up this mountain, and they're very different d
 | **Guide** | Not required | **Required by law** — and genuinely needed |
 | **What you get** | A hard, beautiful day climb; back down comfortably in daylight | The dawn show — the whole reason most people come |
 | **Roughly back by** | Mid-to-late afternoon (~6–7 h in total) | Back in Abraão by ~8–9 AM |
-| **Legal?** | Yes — the safe, legal day option | Night climbing **without** a registered guide is **prohibited** |
+| **Legal?** | Yes — the safe, legal day option | Night climbing **without** an INEA-accredited guide is **prohibited** |
 
 If you do it **by day**, set off between 7 and 9 AM, walk the Estrada Dois Rios to the trailhead, and climb. You'll be back down comfortably before dark — you'll even pass people coming down from the sunrise as you head up.
 
-If you want the **sunrise**, the night ascent by private individuals without a guide has been **prohibited for the past two years**. You *must* hire a legal, registered (*cadastrado*) guide — not just any guide from any agency. The registered guides are specifically trained for this climb, and that training is the whole point.
+If you want the **sunrise**, this is the rule: since March 2023 (INEA Resolution No. 273), nobody may enter the trail **between 5 PM and 7 AM** without a tourism guide or visitor conductor **accredited by INEA for Ilha Grande State Park**. Not just any guide from any agency will do, and being listed on CADASTUR is not enough either: the guide has to be on the park's accredited list, which you can check at the park headquarters and on INEA's website. Each guide may take at most 6 people, and you'll sign a liability waiver. The accredited guides are specifically trained for this climb, and that training is the whole point.
 
 > ⚠️ **Everything you need before you go.**
 >
-> - **Why the guide is genuinely needed — this isn't an upsell.** There are **12 forks and junctions** on the way up that only the guides know how to read. By day you can follow the more-trodden path; at night it is very hard to see, and there have been many reports of people getting lost. And here's the part nobody likes to say out loud: there is **no rescue infrastructure** on this mountain — no fire brigade, no INEA park rangers trained or willing to climb up and pull you out. Heading up alone in the dark is a serious irresponsibility, and I won't recommend it.
-> - **How to find a guide.** It's easy — search Google Maps or Instagram and go with the best-reviewed one; I'd favour the older, experienced guides registered with **CADASTUR** (Brazil's national tourism registry). Almost any agency in Abraão will sell you the climb — often reselling the same guides — so sort it out yourself rather than relying on your hotel. *And yes, we locals have a favourite: I won't name him here — he doesn't pay me a cent, and I'd rather keep your trust — but his reviews will give him away.*
+> - **Why the guide is genuinely needed — this isn't an upsell.** There are **12 forks and junctions** on the way up that only the guides know how to read. By day you can follow the more-trodden path; at night it is very hard to see, and there have been many reports of people getting lost. And if something goes wrong, the emergency number is **193 (fire brigade)** — but don't count on help arriving quickly: you're in dense forest, hours on foot from the village. Heading up alone in the dark is a serious irresponsibility, and I won't recommend it.
+> - **How to find a guide.** It's easy — search Google Maps or Instagram and go with the best-reviewed one; I'd favour the older, experienced guides. Before you pay, check that the guide is **accredited by INEA** for the park: being listed on **CADASTUR** (Brazil's national tourism registry) is not enough for the night climb. Almost any agency in Abraão will sell you the climb — often reselling the same guides — so sort it out yourself rather than relying on your hotel. *And yes, we locals have a favourite: I won't name him here — he doesn't pay me a cent, and I'd rather keep your trust — but his reviews will give him away.*
 > - **Tell your guide about any medical condition.** If you have **hypoglycemia, diabetes, a tendency to panic attacks** or anything similar, say so *before* you set off so they can keep an eye on you. A 2 AM hard climb is no place to be brave about it.
 > - **💰 What it costs.** Roughly **R$230–R$380 per person** to be guided up for sunrise and looked after on the way — money very well spent.
 > - **Bring trekking poles for the descent.** Everyone fixates on the climb, but going down is where your weight multiplies on your knees and ankles — and you arrive at it either after a sleepless night or after a hot, sunny climb. Most of the day's risk lives on the descent, not the ascent.
@@ -192,7 +192,7 @@ Up top, before the colours come, it's cold and almost silent — just wind, the 
 
 ### What to avoid
 
-- **Don't climb at night without a registered guide.** It's prohibited, there's no rescue if it goes wrong, and the 12 forks are genuinely hard to read in the dark. This is the one I'd insist on.
+- **Don't climb at night without an INEA-accredited guide.** It's prohibited, help can take hours to reach you if something goes wrong, and the 12 forks are genuinely hard to read in the dark. This is the one I'd insist on.
 - **Don't underestimate the descent.** It's as long as the climb (2.5–3.5 h) and harder on your joints. No poles, no care, and a great day turns into an injured one.
 - **Don't expect sunset up here.** Pedra d'Água blocks it. If you want the show, come for the dawn.
 
@@ -236,7 +236,7 @@ Find the row that sounds like your day, then check the time and effort fit.
 |---|---|---|---|
 | Something short and easy — with kids or grandparents, or a first walk | **Historic Circuit (T1)** — the island's history in the Lazareto ruins | ~1 h | Easy, flat · kids YES |
 | *The* famous beach — that turquoise postcard, a big beach day | **Lopes Mendes** — walk one way, boat the other | ~half day | Moderate walk + boat leg |
-| A real challenge and an epic sunrise from the top | **Pico do Papagaio** — paid CADASTUR guide, ~2 AM start, sunrise only | ~5–7 h | Hard · not for young kids |
+| A real challenge and an epic sunrise from the top | **Pico do Papagaio** — paid INEA-accredited guide, ~2 AM start, sunrise only | ~5–7 h | Hard · not for young kids |
 | History plus raw wild nature — a full adventurous day | **Dois Rios** — a prison-turned-museum and a beach between two dark rivers · *Editor's pick* | ~5 h round | Moderate · no reliable boat back, leave by 15:30 |
 | A waterfall to plunge into and cool off | **Feiticeira** — rainforest, the poção pools, easy boat back | ~2 h to the beach | Moderate · cheap boat back |
 

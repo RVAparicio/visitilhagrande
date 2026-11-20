@@ -4,7 +4,7 @@ description: "Le guide d'un local pour randonner à Ilha Grande : les cinq plus 
 lang: "fr"
 slug: "sentiers-ilha-grande"
 translationKey: "trails"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "Faut-il payer pour randonner à Ilha Grande ?"
@@ -152,7 +152,7 @@ Vous arrivez à la **Praia de Feiticeira** en sueur après la montée, l'eau sal
 
 ![Randonneurs au sommet du Pico do Papagaio au lever du soleil au-dessus de la baie, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-> **L'essentiel en bref.** Difficulté **DIFFICILE** · sentier **T13** · **~12 km** aller-retour (~6 km à l'aller) · près d'**1 km de dénivelé** · **5 à 7 h de marche** plus le temps au sommet · sommet **982 m** · **un guide enregistré est obligatoire pour la montée du lever de soleil** · environ **230–380 R$ par personne** avec guide.
+> **L'essentiel en bref.** Difficulté **DIFFICILE** · sentier **T13** · **~12 km** aller-retour (~6 km à l'aller) · près d'**1 km de dénivelé** · **5 à 7 h de marche** plus le temps au sommet · sommet **982 m** · **un guide accrédité par l'INEA est obligatoire pour la montée du lever de soleil** · environ **230–380 R$ par personne** avec guide.
 
 Vous quittez Abraão vers 2 heures du matin, dans le noir, sur des jambes qui n'ont rien à faire debout à cette heure. Pendant trois heures vous montez près d'un kilomètre vertical à la lampe frontale, et votre monde tout entier se réduit au bout de sentier devant vous et au souffle des gens autour de vous. Puis vous débouchez à **982 m** — le deuxième point le plus haut de l'île — et le ciel se met à bouger. Rouge, puis un indigo profond, puis blanc, puis un bleu jaunâtre pâle, et enfin le soleil lui-même se hisse hors de la mer. C'est comme regarder l'aube par le hublot d'un avion, sauf que vous êtes venu à pied. Les nuages montent vous rendre visite. Personne ne parle beaucoup. Après la nuit que vous venez de passer, arriver ressemble moins à atteindre un point de vue qu'à être pardonné pour quelque chose.
 
@@ -172,16 +172,16 @@ Il existe exactement deux façons honnêtes de monter cette montagne, et ce sont
 | **Guide** | Pas obligatoire | **Obligatoire par la loi** — et réellement nécessaire |
 | **Ce que vous obtenez** | Une belle journée de grimpe difficile ; retour tranquille de jour | Le spectacle de l'aube — la raison même pour laquelle la plupart des gens viennent |
 | **De retour vers** | Le milieu/la fin d’après-midi (~6–7 h au total) | Vers 8h–9h du matin à Abraão |
-| **Légal ?** | Oui — l'option de jour, sûre et légale | La montée de nuit **sans** guide enregistré est **interdite** |
+| **Légal ?** | Oui — l'option de jour, sûre et légale | La montée de nuit **sans** guide accrédité par l'INEA est **interdite** |
 
 Si vous le faites **de jour**, partez entre 7h et 9h, suivez l'Estrada Dois Rios jusqu'au départ du sentier, et grimpez. Vous serez redescendu tranquillement avant la tombée de la nuit — vous croiserez même des gens qui redescendent du lever du soleil tandis que vous montez.
 
-Si vous voulez le **lever du soleil**, l'ascension de nuit par des particuliers sans guide est **interdite depuis deux ans**. Vous *devez* engager un guide légal, enregistré (*cadastrado*) — pas n'importe quel guide de n'importe quelle agence. Les guides enregistrés sont spécifiquement formés pour cette ascension, et c'est précisément tout l'enjeu.
+Si vous voulez le **lever du soleil**, voici la règle : depuis mars 2023 (Résolution INEA n° 273), personne ne peut entrer sur le sentier **entre 17 h et 7 h** sans un guide de tourisme ou un accompagnateur **accrédité par l'INEA pour le Parc d'État d'Ilha Grande**. N'importe quel guide de n'importe quelle agence ne fait pas l'affaire, et figurer au CADASTUR ne suffit pas non plus : il doit être sur la liste des guides accrédités du parc, consultable au siège du parc et sur le site de l'INEA. Chaque guide peut emmener 6 personnes au maximum, et vous signerez une décharge de responsabilité. Les guides accrédités sont spécifiquement formés pour cette ascension, et c'est précisément tout l'enjeu.
 
 > ⚠️ **Tout ce qu'il vous faut avant de partir.**
 >
-> - **Pourquoi un guide est réellement nécessaire — ce n'est pas un argument commercial.** Il y a **12 embranchements et bifurcations** à la montée que seuls les guides savent lire. De jour, vous pouvez suivre le chemin le plus emprunté ; de nuit, c'est très difficile à voir, et de nombreux randonneurs se sont retrouvés perdus. Et voici la part que personne n'aime dire à voix haute : il n'y a **aucune infrastructure de secours** sur cette montagne — ni pompiers, ni gardes du parc de l'INEA formés ou prêts à monter vous chercher. Monter seul dans le noir est une grave irresponsabilité, et je ne le recommanderai pas.
-> - **Comment trouver un guide.** C’est facile — cherchez sur Google Maps ou Instagram et prenez celui qui a les meilleurs avis ; je privilégierais les guides plus âgés et expérimentés, inscrits au **CADASTUR** (le registre national du tourisme brésilien). Presque toutes les agences d’Abraão vous vendront la montée — en revendant souvent les mêmes guides — alors organisez-la vous-même plutôt que de compter sur votre hôtel. *Et oui, nous, les locaux, avons un favori : je ne le nommerai pas ici — il ne me paie pas un centime, et je préfère garder votre confiance — mais ses avis le trahiront.*
+> - **Pourquoi un guide est réellement nécessaire — ce n'est pas un argument commercial.** Il y a **12 embranchements et bifurcations** à la montée que seuls les guides savent lire. De jour, vous pouvez suivre le chemin le plus emprunté ; de nuit, c'est très difficile à voir, et de nombreux randonneurs se sont retrouvés perdus. Et en cas de problème, le numéro d'urgence est le **193 (pompiers)** — mais ne comptez pas sur une arrivée rapide des secours : vous êtes en forêt dense, à des heures de marche du village. Monter seul dans le noir est une grave irresponsabilité, et je ne le recommanderai pas.
+> - **Comment trouver un guide.** C’est facile — cherchez sur Google Maps ou Instagram et prenez celui qui a les meilleurs avis ; je privilégierais les guides plus âgés et expérimentés. Avant de payer, vérifiez qu’il est **accrédité par l’INEA** pour le parc : figurer au **CADASTUR** (le registre national du tourisme brésilien) ne suffit pas pour la montée de nuit. Presque toutes les agences d’Abraão vous vendront la montée — en revendant souvent les mêmes guides — alors organisez-la vous-même plutôt que de compter sur votre hôtel. *Et oui, nous, les locaux, avons un favori : je ne le nommerai pas ici — il ne me paie pas un centime, et je préfère garder votre confiance — mais ses avis le trahiront.*
 > - **Parlez à votre guide de toute condition médicale.** Si vous souffrez d'**hypoglycémie, de diabète, d'une tendance aux crises de panique** ou de quelque chose de semblable, dites-le *avant* de partir pour qu'il puisse garder un œil sur vous. Une grimpe difficile à 2h du matin n'est pas l'endroit où jouer les braves.
 > - **💰 Combien ça coûte.** Environ **230–380 R$ par personne** pour être guidé au lever du soleil et accompagné en chemin — de l'argent très bien dépensé.
 > - **Prenez des bâtons de randonnée pour la descente.** Tout le monde se focalise sur la montée, mais c'est en descendant que votre poids se multiplie sur vos genoux et vos chevilles — et vous l'abordez soit après une nuit blanche, soit après une grimpe en plein soleil. L'essentiel du risque de la journée se loge dans la descente, pas dans la montée.
@@ -192,7 +192,7 @@ Là-haut, avant que les couleurs n'arrivent, il fait froid et presque silencieux
 
 ### À éviter
 
-- **Ne montez pas de nuit sans guide enregistré.** C'est interdit, il n'y a aucun secours en cas de problème, et les 12 embranchements sont vraiment difficiles à lire dans le noir. C'est celui sur lequel j'insisterais.
+- **Ne montez pas de nuit sans guide accrédité par l'INEA.** C'est interdit, les secours peuvent mettre des heures à arriver en cas de problème, et les 12 embranchements sont vraiment difficiles à lire dans le noir. C'est celui sur lequel j'insisterais.
 - **Ne sous-estimez pas la descente.** Elle est aussi longue que la montée (2h30–3h30) et plus dure pour les articulations. Sans bâtons, sans prudence, une belle journée se transforme en journée de blessé.
 - **N'espérez pas de coucher de soleil là-haut.** La Pedra d'Água le bloque. Si vous voulez le spectacle, venez pour l'aube.
 
@@ -236,7 +236,7 @@ Trouvez la ligne qui ressemble à votre journée, puis vérifiez que le temps et
 |---|---|---|---|
 | Quelque chose de court et facile — avec enfants ou grands-parents, ou une première marche | **Circuit Historique (T1)** — l'histoire de l'île dans les ruines du Lazareto | ~1 h | Facile, plat · enfants OUI |
 | *La* plage célèbre — cette carte postale turquoise, une vraie journée plage | **Lopes Mendes** — à pied dans un sens, en bateau dans l'autre | ~demi-journée | Modéré, marche + bateau |
-| Un vrai défi et un lever de soleil épique depuis le sommet | **Pico do Papagaio** — guide CADASTUR payant, départ vers 2 h, lever de soleil uniquement | ~5–7 h | Difficile · pas pour jeunes enfants |
+| Un vrai défi et un lever de soleil épique depuis le sommet | **Pico do Papagaio** — guide accrédité par l'INEA, payant, départ vers 2 h, lever de soleil uniquement | ~5–7 h | Difficile · pas pour jeunes enfants |
 | De l'histoire et de la nature sauvage à l'état brut — une journée entière d'aventure | **Dois Rios** — une prison devenue musée et une plage entre deux rivières sombres · *Coup de cœur* | ~5 h aller-retour | Modéré · aucun bateau garanti, repartir avant 15h30 |
 | Une cascade pour plonger et se rafraîchir | **Feiticeira** — forêt tropicale, les bassins (*poção*), retour facile en bateau | ~2 h jusqu'à la plage | Modéré · retour bateau bon marché |
 

@@ -4,7 +4,7 @@ description: "A local's guide to the best beaches of Ilha Grande, Brazil — fro
 lang: "en"
 slug: "ilha-grande-beaches"
 translationKey: "beaches"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "How many beaches does Ilha Grande have?"
@@ -59,7 +59,7 @@ Follow the coastal trail east and you thread together a handful of beaches, fini
 
 > **Good to know.** Fairly easy walking, but intricate and rugged — and slippery if it has rained. At one point illegal houses blocked the original path, so a short scramble takes you down to the beach and along a narrow cliff-side passage (a *cornice*), with steps and slippery rocks fitted with fixed ropes. It's good fun, though not for everyone — and worth it.
 
-> ⚠️ **Tides — walk this in the morning.** From about **3 pm** the tide usually rises, and on a high tide some stretches make you wade at the water's edge — you can get wet to the waist. Do the east coastal walk in the morning, or be ready to get wet.
+> ⚠️ **Tides — check the crossing on the day.** The tide doesn't rise at a fixed hour: it changes every day, and at high tide the water covers some stretches of the coastal path. Before you set off, look at that day's tide table or ask at your accommodation, and make sure the path will be clear both on the way out and on the way back. If you find it covered, or you're in any doubt, don't cross on foot: the taxi-boat is the alternative.
 
 > 🚤 **Taxi-boat (Crena / Abraãozinho).** About **R$50 round trip**. The official boats are **black-and-yellow**. They run from around **9:30 am** (not before — they need a minimum number of passengers), set out between **9:30 am and 1 pm**, and return until about **5:30–6 pm**. Don't head out at 5:30 pm expecting a ride. A great option: **walk one way and ride back.**
 
@@ -187,7 +187,7 @@ These are the islands that flood your feed — the gradient-turquoise, white-san
 
 > ☀️ **Sunny days only — no compromise here.** More than any other tour, this one lives and dies by the light. Give it a full, cloudless day and you get the unforgettable photos and water that doesn't look real. Under cloud or rain the colours collapse and it simply isn't worth doing.
 
-**Cataguás — wade between four islets.** This is where I'd start your imagination. It's not one island but **four little islets**, and the magic is this: arrive **early, before the tide rises**, and you can **walk between them** with the water only up to your torso — no swimming from one to the next, just wading through ultra-crystalline turquoise over fine white sand. It's spectacular, and honestly one of my favourite beaches anywhere around here.
+**Cataguás — four islets in turquoise water.** This is where I'd start your imagination. It's not one island but **four little islets**, set in ultra-crystalline turquoise over fine white sand. It's spectacular, and honestly one of my favourite beaches anywhere around here.
 
 **Praia do Dentista (Ilha da Gipóia) — the emerald showpiece.** This is the one most visitors crown the most beautiful of all the paradise islands, and I won't argue. The water is an almost-emerald green, very distinctive, unlike anything on the rest of the route — warm, clear, the kind you wade into and don't want to leave. It's a long beach and worth walking end to end: the sand is medium-to-coarse and a touch yellowish in the middle, but out at the dry tips it turns whitish, reason enough to walk all the way to the ends.
 

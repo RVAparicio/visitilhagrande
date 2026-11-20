@@ -4,7 +4,7 @@ description: "La guía de un local para las mejores playas de Ilha Grande, Brasi
 lang: "es"
 slug: "playas-ilha-grande"
 translationKey: "beaches"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "¿Cuántas playas tiene Ilha Grande?"
@@ -59,7 +59,7 @@ Sigue el sendero costero hacia el este y enlazarás un puñado de playas, termin
 
 > **Bueno saber.** Caminata bastante fácil, pero intrincada y abrupta, y resbaladiza si ha llovido. En un punto, unas casas ilegales bloquearon el camino original, así que un breve descenso te lleva hasta la playa y a lo largo de un estrecho paso al borde del acantilado (una *cornisa*), con escalones y rocas resbaladizas provistas de cuerdas fijas. Es divertido, aunque no es para todo el mundo, y vale la pena.
 
-> ⚠️ **Mareas: hazlo por la mañana.** A partir de las **15:00** aproximadamente la marea suele subir, y con marea alta algunos tramos te obligan a vadear por la orilla, donde puedes mojarte hasta la cintura. Haz la caminata costera del este por la mañana, o ve preparado para mojarte.
+> ⚠️ **Mareas: confirma el paso el mismo día.** La marea no sube a una hora fija: cambia todos los días, y con marea alta el agua cubre algunos tramos del camino costero. Antes de salir, mira la tabla de mareas de ese día o pregunta en tu alojamiento, y asegúrate de que el paso vaya a estar libre tanto a la ida como a la vuelta. Si lo encuentras cubierto, o si tienes dudas, no cruces a pie: el taxi-barco es la alternativa.
 
 > 🚤 **Taxi-barco (Crena / Abraãozinho).** Unos **R$50 ida y vuelta**. Los barcos oficiales son **negros y amarillos**. Operan a partir de las **9:30** aproximadamente (no antes: necesitan un número mínimo de pasajeros), salen entre las **9:30 y las 13:00**, y regresan hasta cerca de las **17:30–18:00**. No salgas a las 17:30 esperando que te lleven. Los horarios de salida son fijos (no puedes pedirle a un paseo compartido que salga antes o vuelva más tarde — para eso está el alquiler privado), así que solo reserva con uno o dos días de antelación: los buenos se llenan.
 
@@ -187,7 +187,7 @@ Son las islas que inundan tu feed: esas fotos de turquesa en degradado, arena bl
 
 > ☀️ **Solo días soleados, sin medias tintas.** Más que ningún otro paseo, este vive o muere según la luz. Dale un día entero y sin una nube y te llevas las fotos inolvidables y un agua que no parece real. Con nubes o lluvia, los colores se apagan y sencillamente no vale la pena.
 
-**Cataguás — camina entre cuatro islotes.** Es por donde echaría a volar tu imaginación. No es una isla, sino **cuatro islotitos**, y la magia está en esto: llega **temprano, antes de que suba la marea**, y puedes **caminar entre ellos** con el agua apenas por encima de la cintura — sin nadar de uno a otro, solo cruzando a pie por un turquesa ultracristalino sobre arena blanca y fina. Es espectacular, y con sinceridad una de mis playas favoritas de toda la zona.
+**Cataguás — cuatro islotes en agua turquesa.** Es por donde echaría a volar tu imaginación. No es una isla, sino **cuatro islotitos** rodeados de un turquesa ultracristalino sobre arena blanca y fina. Es espectacular, y con sinceridad una de mis playas favoritas de toda la zona.
 
 **Praia do Dentista (Ilha da Gipóia) — la joya esmeralda.** Es la que la mayoría de los visitantes coronan como la más bonita de todas las islas paradisíacas, y no se lo voy a discutir. El agua es de un verde casi esmeralda, muy característico, que no se parece a nada del resto de la ruta — cálida, transparente, de esas en las que entras y no te quieres salir. Es una playa larga y vale la pena recorrerla de punta a punta: la arena es de grano medio a grueso y tira a amarillenta en el centro, pero en los extremos secos se vuelve blanquecina, razón más que suficiente para llegar caminando hasta los dos finales.
 

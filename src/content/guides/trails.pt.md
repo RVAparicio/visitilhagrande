@@ -4,7 +4,7 @@ description: "O guia de quem mora aqui para fazer trilhas na Ilha Grande: as cin
 lang: "pt"
 slug: "trilhas-ilha-grande"
 translationKey: "trails"
-updatedDate: 2026-06-24
+updatedDate: 2026-11-20
 author: "Ricardo Aparicio"
 faq:
   - q: "Precisa pagar para fazer as trilhas na Ilha Grande?"
@@ -152,7 +152,7 @@ Você chega à **Praia de Feiticeira** suado da subida e com vontade de mar: uma
 
 ![Trilheiros no cume do Pico do Papagaio ao amanhecer sobre a baía, Ilha Grande](../../assets/pico-do-papagaio-summit-sunrise-hikers-ilha-grande.jpg)
 
-> **Resumo rápido.** Dificuldade **DIFÍCIL** · trilha **T13** · **~12 km** ida e volta (~6 km cada trecho) · quase **1 km na vertical** · **5 a 7 h de caminhada** mais o tempo no cume · cume **982 m** · **guia cadastrado obrigatório para a subida do amanhecer** · cerca de **R$230–R$380 por pessoa** com guia.
+> **Resumo rápido.** Dificuldade **DIFÍCIL** · trilha **T13** · **~12 km** ida e volta (~6 km cada trecho) · quase **1 km na vertical** · **5 a 7 h de caminhada** mais o tempo no cume · cume **982 m** · **guia credenciado pelo Inea obrigatório para a subida do amanhecer** · cerca de **R$230–R$380 por pessoa** com guia.
 
 Você sai do Abraão por volta das 2 da manhã, no escuro, com as pernas que não tinham a menor obrigação de estar acordadas. Por três horas você sobe quase um quilômetro na vertical à luz da lanterna de cabeça, e o seu mundo inteiro encolhe até o pedaço de trilha à sua frente e a respiração de quem está ao seu lado. Aí você chega lá em cima, a **982 m** — o segundo ponto mais alto da ilha — e o céu começa a se mover. Vermelho, depois um anil profundo, depois branco, depois um azul amarelado e pálido e, por fim, o próprio sol se levanta do mar. É como ver o amanhecer pela janela de um avião, só que você veio andando. As nuvens sobem para te visitar. Ninguém fala muito. Depois da noite que você teve, chegar lá parece menos alcançar um mirante e mais ser perdoado por alguma coisa.
 
@@ -172,16 +172,16 @@ Existem exatamente duas formas honestas de subir essa montanha, e são dias muit
 | **Guia** | Não obrigatório | **Obrigatório por lei** — e realmente necessário |
 | **O que você ganha** | Uma subida de dia pesada e linda; volta tranquilo com luz | O espetáculo do amanhecer — o motivo pelo qual quase todo mundo vem |
 | **De volta por volta de** | Meio/fim da tarde (~6–7 h no total) | Por volta das 8h–9h da manhã no Abraão |
-| **Legal?** | Sim — a opção de dia, segura e legal | A subida noturna **sem** guia cadastrado é **proibida** |
+| **Legal?** | Sim — a opção de dia, segura e legal | A subida noturna **sem** guia credenciado pelo Inea é **proibida** |
 
 Se você fizer **de dia**, saia entre 7h e 9h, percorra a Estrada de Dois Rios até o início da trilha e suba. Você está de volta tranquilo antes de escurecer — e ainda cruza com quem está descendo do amanhecer enquanto você sobe.
 
-Se você quer o **amanhecer**, a subida noturna por conta própria, sem guia, está **proibida há dois anos**. Você *precisa* contratar um guia legal, cadastrado — não um guia qualquer de uma agência qualquer. Os guias cadastrados são treinados especificamente para essa subida, e esse treinamento é justamente o ponto.
+Se você quer o **amanhecer**, a regra é esta: desde março de 2023 (Resolução Inea nº 273), ninguém pode entrar na trilha **das 17h às 7h** sem um guia de turismo ou condutor de visitantes **credenciado pelo Inea para atuar no Parque Estadual da Ilha Grande**. Não serve um guia qualquer de uma agência qualquer, e também não basta estar no CADASTUR: ele precisa constar da lista de credenciados do parque, disponível na sede do parque e no site do Inea. Cada guia pode levar no máximo 6 pessoas, e você vai assinar um termo de responsabilidade. Os guias credenciados são treinados especificamente para essa subida, e esse treinamento é justamente o ponto.
 
 > ⚠️ **Tudo o que você precisa antes de ir.**
 >
-> - **Por que o guia é realmente necessário — isto não é jogada de venda.** São **12 bifurcações e cruzamentos** no caminho de subida que só os guias sabem ler. De dia dá para seguir o caminho mais pisado; à noite é muito difícil enxergar, e há muitos relatos de gente que se perdeu. E aqui vem a parte que ninguém gosta de dizer em voz alta: **não existe estrutura de resgate** nessa montanha — não há Corpo de Bombeiros nem guarda-parques do INEA treinados ou dispostos a subir e te tirar de lá. Subir sozinho no escuro é uma irresponsabilidade séria, e eu não vou recomendar.
-> - **Como achar um guia.** É fácil — procure no Google Maps ou no Instagram e fique com o mais bem avaliado; eu preferiria os guias mais antigos e experientes, registrados no **CADASTUR** (o cadastro nacional de turismo). Quase toda agência de Abraão vai te vender a subida — muitas vezes revendendo os mesmos guias — então resolva por conta própria em vez de depender da sua pousada. *E sim, nós, os locais, temos um favorito: não vou dizer o nome aqui — ele não me paga nada, e eu prefiro manter a sua confiança — mas as avaliações dele vão entregar quem é.*
+> - **Por que o guia é realmente necessário — isto não é jogada de venda.** São **12 bifurcações e cruzamentos** no caminho de subida que só os guias sabem ler. De dia dá para seguir o caminho mais pisado; à noite é muito difícil enxergar, e há muitos relatos de gente que se perdeu. E, se algo der errado, o número de emergência é o **193 (Corpo de Bombeiros)** — mas não conte com socorro rápido: você está em mata fechada, a horas de caminhada da vila. Subir sozinho no escuro é uma irresponsabilidade séria, e eu não vou recomendar.
+> - **Como achar um guia.** É fácil — procure no Google Maps ou no Instagram e fique com o mais bem avaliado; eu preferiria os guias mais antigos e experientes. Antes de pagar, confirme que ele é **credenciado pelo Inea** para o parque: estar no **CADASTUR** (o cadastro nacional de turismo) não basta para a subida noturna. Quase toda agência de Abraão vai te vender a subida — muitas vezes revendendo os mesmos guias — então resolva por conta própria em vez de depender da sua pousada. *E sim, nós, os locais, temos um favorito: não vou dizer o nome aqui — ele não me paga nada, e eu prefiro manter a sua confiança — mas as avaliações dele vão entregar quem é.*
 > - **Conte ao seu guia qualquer condição de saúde.** Se você tem **hipoglicemia, diabetes, tendência a crises de pânico** ou algo parecido, conte *antes* de sair para que ele fique de olho em você. Uma subida pesada às 2h da manhã não é hora de bancar o valente.
 > - **💰 Quanto custa.** Algo em torno de **R$230–R$380 por pessoa** para ser guiado ao amanhecer e cuidado no caminho — dinheiro muito bem gasto.
 > - **Leve bastões de trekking para a descida.** Todo mundo fica obcecado com a subida, mas é na descida que o seu peso se multiplica sobre os joelhos e tornozelos — e você chega nela ou depois de uma noite sem dormir ou depois de uma subida quente e ensolarada. A maior parte do risco do dia mora na descida, não na subida.
@@ -192,7 +192,7 @@ Lá em cima, antes de as cores chegarem, faz frio e quase silêncio — só o ve
 
 ### O que evitar
 
-- **Não suba à noite sem guia cadastrado.** É proibido, não há resgate se algo der errado, e as 12 bifurcações são realmente difíceis de ler no escuro. Essa é a que eu faria questão de insistir.
+- **Não suba à noite sem guia credenciado pelo Inea.** É proibido, o socorro pode levar horas se algo der errado, e as 12 bifurcações são realmente difíceis de ler no escuro. Essa é a que eu faria questão de insistir.
 - **Não subestime a descida.** Ela é tão longa quanto a subida (2,5–3,5 h) e mais dura para as articulações. Sem bastões, sem cuidado, e um ótimo dia vira um dia com lesão.
 - **Não espere pôr do sol aqui em cima.** A Pedra d'Água bloqueia. Se você quer o espetáculo, venha para o amanhecer.
 
@@ -236,7 +236,7 @@ Ache a linha que mais soa como o seu dia e confira se o tempo e o esforço cabem
 |---|---|---|---|
 | Algo curto e fácil — com crianças ou com os avós, ou a primeira trilha | **Circuito Histórico (T1)** — a história da ilha nas ruínas do Lazareto | ~1 h | Fácil, plana · crianças SIM |
 | *A* praia famosa — aquele cartão-postal turquesa, um dia inteiro de praia | **Lopes Mendes** — vá a pé por um lado e volte de barco pelo outro | ~meio dia | Moderada, caminhada + barco |
-| Um desafio de verdade e um amanhecer épico lá do topo | **Pico do Papagaio** — guia CADASTUR pago, saída ~2h, só no amanhecer | ~5–7 h | Difícil · não para crianças pequenas |
+| Um desafio de verdade e um amanhecer épico lá do topo | **Pico do Papagaio** — guia credenciado pelo Inea, pago, saída ~2h, só no amanhecer | ~5–7 h | Difícil · não para crianças pequenas |
 | História somada à natureza bruta e selvagem — um dia inteiro de aventura | **Dois Rios** — uma prisão virada museu e uma praia entre dois rios escuros · *Escolha do editor* | ~5 h ida e volta | Moderada · sem barco garantido na volta, saia até 15h30 |
 | Uma cachoeira para se jogar e refrescar | **Feiticeira** — mata atlântica, o poção e volta fácil de barco | ~2 h até a praia | Moderada · barco barato na volta |
 
